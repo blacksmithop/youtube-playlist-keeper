@@ -14,12 +14,10 @@ request = youtube.playlistItems().list(
     maxResults=50
 )
 response = request.execute()
-print("Fethced playlist data")
+print("Fetched playlist data")
 
 
 if 'items' in response:
-    print(response[0].keys())
-    
     with open("./static/playlist_data.json", "w") as f:
         dump(response , f, indent=4)
         
