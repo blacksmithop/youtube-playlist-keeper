@@ -25,6 +25,9 @@ jobs:
 
       - name: Fetch and update playlist
         run: python scripts/update_playlist.py
+        env:
+          API_KEY: ${{ secrets.API_KEY }}
+          PLAYLIST_ID: ${{ secrets.PLAYLIST_ID }}
 
       - name: Commit and push changes
         run: |
