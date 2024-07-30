@@ -1,0 +1,35 @@
+name: Update Playlist
+
+on:
+  schedule:
+    - cron: '0 */6 * * *' # Runs every 6 hours
+  push:
+    branches:
+      - main
+
+jobs:
+  update-playlist:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Set up Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: '3.x'
+
+      - name: Install dependencies
+        run: pip install google-api-python-client
+
+      - name: Fetch and update playlist
+        run: python script/fetch_playlist.py
+
+      - name: Commit and push changes
+        run: |
+          git config --global user.name 'github-actions'
+          git config --global user.email 'github-actions@github.com'
+          git add playlist.json
+          git commit -m 'Update playlist data'
+          git push
