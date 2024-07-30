@@ -24,7 +24,7 @@ jobs:
         run: pip install google-api-python-client
 
       - name: Fetch and update playlist
-        run: python script/fetch_playlist.py
+        run: python scripts/update_playlist.py
 
       - name: Commit and push changes
         run: |
