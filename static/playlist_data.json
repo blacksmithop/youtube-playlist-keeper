@@ -1,11 +1,11 @@
 {
     "kind": "youtube#playlistItemListResponse",
-    "etag": "ITZHls6XpP6SJvio5Z3MNpN081w",
-    "nextPageToken": "EAAajgFQVDpDRElpRURRM01UWXhOalZCTXpkRlFqZENSVGNvQVVqeWxaSzVfOVdIQTFBQldrVWlRMmxLVVZSRVVrNVNWbXd3VFVkMGNGTkdjRmRVZW1oNlZFVmtlV1F3U2s5WmJtOHpVVmh3VVZSc1pGbFBWVGxRUldkM1NWOXpNbmwwVVZsUk1FdHhOVFJSU1NJ",
+    "etag": "GVqNw-k7B7UqvJN9GLPmwBNnVD0",
+    "nextPageToken": "EAAajgFQVDpDRElpRURRM01UWXhOalZCTXpkRlFqZENSVGNvQVVqUjladUh4LWVIQTFBQldrVWlRMmxLVVZSRVVrNVNWbXd3VFVkMGNGTkdjRmRVZW1oNlZFVmtlV1F3U2s5WmJtOHpVVmh3VVZSc1pGbFBWVGxRUldkM1NYbE1abGgwVVZsUk5rOURabmhCVFNJ",
     "items": [
         {
             "kind": "youtube#playlistItem",
-            "etag": "a63VfDfjuK2eZzOB6oLPLla95zE",
+            "etag": "-Kz8C3B6FsRbOu3DoMp9uKOOqLI",
             "id": "UEw0TUVZdDBraUhaVk84c0xHcndCTmJ6N0F6UE5XWDlPTy5CMUM0NzY5NzdEQzlGRjAx",
             "snippet": {
                 "publishedAt": "2023-12-07T09:34:19Z",
@@ -52,7 +52,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "85P_Nsn2LVlgfQV70p2gNKLYsnw",
+            "etag": "1CxsQqN_RZ11Pma_7bdkB68UaQM",
             "id": "UEw0TUVZdDBraUhaVk84c0xHcndCTmJ6N0F6UE5XWDlPTy5ENjg2QjQ3OTVDOUE2QzYw",
             "snippet": {
                 "publishedAt": "2024-07-04T11:56:37Z",
@@ -99,7 +99,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "79ta-d-F9H6-V0eGxyI3SZPEaSA",
+            "etag": "CmJgDjbM8YlJ0YkubVOaiD91zig",
             "id": "UEw0TUVZdDBraUhaVk84c0xHcndCTmJ6N0F6UE5XWDlPTy45NDIzMEVBNjk5NTFGRDZC",
             "snippet": {
                 "publishedAt": "2024-05-23T09:54:13Z",
@@ -428,7 +428,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "8HD0rAQVnRtoMNH9OJPRbes81Co",
+            "etag": "fJ9McQFZsJPoBR4I5rRfRzBhie8",
             "id": "UEw0TUVZdDBraUhaVk84c0xHcndCTmJ6N0F6UE5XWDlPTy41RjU0OTVCQThDNUUwQzBD",
             "snippet": {
                 "publishedAt": "2024-05-27T09:45:46Z",
@@ -804,7 +804,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "NTyWfMxZpU67JQ2_wCzMCnCug2M",
+            "etag": "klOo061ch6uFlPHO8vFkGEKvBjs",
             "id": "UEw0TUVZdDBraUhaVk84c0xHcndCTmJ6N0F6UE5XWDlPTy4yMkNBN0M4QUJEQzYxMjA3",
             "snippet": {
                 "publishedAt": "2024-06-21T11:21:47Z",
@@ -851,7 +851,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "cb-Jk9cSBmHpJZG8V9nFuWxoTL0",
+            "etag": "OXzIzj5mpbddpM9m4sIHk4jKDkA",
             "id": "UEw0TUVZdDBraUhaVk84c0xHcndCTmJ6N0F6UE5XWDlPTy5EQTkxMkVFODRENEJBMERF",
             "snippet": {
                 "publishedAt": "2024-07-18T17:11:44Z",
@@ -898,7 +898,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "3VG24ad42iVblFHSqe3igbGmn8c",
+            "etag": "CuyAiM0dC2M_TgQ8k4SAwfYxq_o",
             "id": "UEw0TUVZdDBraUhaVk84c0xHcndCTmJ6N0F6UE5XWDlPTy5GOUJEOERGNDg1N0QyNDA3",
             "snippet": {
                 "publishedAt": "2024-07-24T08:45:36Z",
@@ -945,54 +945,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "jgjXji8xfpe-FR_jcB0gUXJw1c8",
-            "id": "UEw0TUVZdDBraUhaVk84c0xHcndCTmJ6N0F6UE5XWDlPTy42RDgxQ0M2OUIwREZCNjZF",
-            "snippet": {
-                "publishedAt": "2024-03-01T03:21:04Z",
-                "channelId": "UCNHE3OcC8G345-7rNgu-g9w",
-                "title": "No Mercy- #Overwatch Original Song by The Living Tombstone (Feat. BlackGryphon & LittleJayneyCakes)",
-                "description": "Overwatch Original Song, No Mercy, because I'm not gonna be any kind of support.\n\nMashed Music Video: https://youtu.be/S9uTScSgzrM\n\n\u27a2 iTunes: https://itunes.apple.com/us/album/no-mercy-single/id1195689351\n\u27a2 Spotify: https://open.spotify.com/album/0P1dNlCkXD4GO3TruGzj0p\n\u27a2Google Play: https://play.google.com/store/music/album/The_Living_Tombstone_No_Mercy?id=B6iwn4veeuhnxtegyphfwbb5cvm\n\u27a2Amazon: https://www.amazon.com/dp/B01NBVHQRG/\n\n\u27a2 Music Production - Yoav Landau \n\u27a2Songwriting, Lyrics - Yoav Landau, Cien Miller (Crusher-P)\n\u27a2Guitar Recordings - Or \"Orko\" Cohen\n\u27a2Vocals by \n-Gabriel C. Brown (BlackGryph0n)\nhttps://www.youtube.com/user/christkids\n-LittleJayneyCakes \nhttps://www.youtube.com/user/LittleJayneyCakes\n\u27a2Vocal Editing - Fruutella\n\u27a2Mastering by Recursion Mastering (https://iamrecursion.com/)\n\nFollow The Living Tombstone:\n\u27a2 YouTube: http://bit.ly/TLTSubscribe\n\u27a2 SoundCloud: http://bit.ly/TLTSoundcloud\n\u27a2 Facebook: http://bit.ly/TLTFaceBook\n\u27a2 Twitter: http://bit.ly/TLTTwitter\n\u27a2 Newgrounds: http://bit.ly/TLTNewgrounds\n\n\nLyrics:\nThis is the worst team I have ever played with in my life\nwhen we finally get on the point, everyone dies\nI understand that every now and then a team won't click,\nWhen it comes to you, I don't think I can sympathize\nYou should've picked mercy,\nYou should've picked any kind of support\nWe ended up losing, and it's all your fault,\nYou should learn how this game works\nYou should\u2019ve been helping\n\nVA: SHUT UP! IF YOU LOVE MERCY SO MUCH, WHY DON\u2019T YOU JUST MARRY HER?\n\nSo you're the type that gets on mic and tries to lecture me\nWhen you\u2019re the most useless person we have on our team\nI've never seen anybody rage quite as hard as you\nMaybe you should go back to playing Team Fortress 2\n\nI'm not gonna be mercy\nI'm not gonna be any kind of support\nWe ended up losing, and you got all mad\nYour tears are what I live for\n1: You should\u2019ve been Mercy\n2: I'm not gonna be any kind of support\n1: We ended up losing, and it's all your fault,\n2: Your tears are what I live for\n\n\n1: Maybe I\u2019ll be Tracer\n2: I\u2019m already Tracer\n1: What about Widowmaker?\n2: I\u2019m already Widowmaker\n1: I\u2019ll be Bastion\n2: Nobody likes Bastion (or NERF BASTION)\n1: You\u2019re right. So, Winston\n2: I wanna be winston\n1: Well then I\u2019ll pick Genji\n2: I\u2019m Already Genji\n1: Then I\u2019ll pick McCree\n2: I already chose McCree\n1: I have an idea\n2: what\u2019s your idea?\n1: You should be-\n2: I\u2019m not going to be Mercy (Spoken)\n1: You should\u2019ve been Mercy\n2: I'm not gonna be any kind of support\n1: We ended up losing, and it's all your fault,\n2: Your tears are what I live for\n2: I\u2019m not gonna be Mercy\n1: You should've picked any kind of support\n2: We ended up losing, and you got all mad\n1: You should learn how this game works\n\n#overwatch #nomercy",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/d0RmRJsgP28/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/d0RmRJsgP28/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/d0RmRJsgP28/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    },
-                    "standard": {
-                        "url": "https://i.ytimg.com/vi/d0RmRJsgP28/sddefault.jpg",
-                        "width": 640,
-                        "height": 480
-                    },
-                    "maxres": {
-                        "url": "https://i.ytimg.com/vi/d0RmRJsgP28/maxresdefault.jpg",
-                        "width": 1280,
-                        "height": 720
-                    }
-                },
-                "channelTitle": "JSON Bourne",
-                "playlistId": "PL4MEYt0kiHZVO8sLGrwBNbz7AzPNWX9OO",
-                "position": 20,
-                "resourceId": {
-                    "kind": "youtube#video",
-                    "videoId": "d0RmRJsgP28"
-                },
-                "videoOwnerChannelTitle": "The Living Tombstone",
-                "videoOwnerChannelId": "UCFYMDSW-BzeYZKFSxROw3Rg"
-            }
-        },
-        {
-            "kind": "youtube#playlistItem",
-            "etag": "l4RkFgFOnM0ThJ1vYq9XByigLg8",
+            "etag": "excqXCbeECc8LFsFCVkMrQbJYrA",
             "id": "UEw0TUVZdDBraUhaVk84c0xHcndCTmJ6N0F6UE5XWDlPTy4wNjIzRDA1OTQ2M0UyODEw",
             "snippet": {
                 "publishedAt": "2024-04-10T06:18:01Z",
@@ -1028,13 +981,60 @@
                 },
                 "channelTitle": "JSON Bourne",
                 "playlistId": "PL4MEYt0kiHZVO8sLGrwBNbz7AzPNWX9OO",
-                "position": 21,
+                "position": 20,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "aezstCBHOPQ"
                 },
                 "videoOwnerChannelTitle": "Hozier",
                 "videoOwnerChannelId": "UCwAam3W_VLfb6mEKPW2nDFg"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "rPol9pPjSTVjISUfM7VvGD3lsDE",
+            "id": "UEw0TUVZdDBraUhaVk84c0xHcndCTmJ6N0F6UE5XWDlPTy42RDgxQ0M2OUIwREZCNjZF",
+            "snippet": {
+                "publishedAt": "2024-03-01T03:21:04Z",
+                "channelId": "UCNHE3OcC8G345-7rNgu-g9w",
+                "title": "No Mercy- #Overwatch Original Song by The Living Tombstone (Feat. BlackGryphon & LittleJayneyCakes)",
+                "description": "Overwatch Original Song, No Mercy, because I'm not gonna be any kind of support.\n\nMashed Music Video: https://youtu.be/S9uTScSgzrM\n\n\u27a2 iTunes: https://itunes.apple.com/us/album/no-mercy-single/id1195689351\n\u27a2 Spotify: https://open.spotify.com/album/0P1dNlCkXD4GO3TruGzj0p\n\u27a2Google Play: https://play.google.com/store/music/album/The_Living_Tombstone_No_Mercy?id=B6iwn4veeuhnxtegyphfwbb5cvm\n\u27a2Amazon: https://www.amazon.com/dp/B01NBVHQRG/\n\n\u27a2 Music Production - Yoav Landau \n\u27a2Songwriting, Lyrics - Yoav Landau, Cien Miller (Crusher-P)\n\u27a2Guitar Recordings - Or \"Orko\" Cohen\n\u27a2Vocals by \n-Gabriel C. Brown (BlackGryph0n)\nhttps://www.youtube.com/user/christkids\n-LittleJayneyCakes \nhttps://www.youtube.com/user/LittleJayneyCakes\n\u27a2Vocal Editing - Fruutella\n\u27a2Mastering by Recursion Mastering (https://iamrecursion.com/)\n\nFollow The Living Tombstone:\n\u27a2 YouTube: http://bit.ly/TLTSubscribe\n\u27a2 SoundCloud: http://bit.ly/TLTSoundcloud\n\u27a2 Facebook: http://bit.ly/TLTFaceBook\n\u27a2 Twitter: http://bit.ly/TLTTwitter\n\u27a2 Newgrounds: http://bit.ly/TLTNewgrounds\n\n\nLyrics:\nThis is the worst team I have ever played with in my life\nwhen we finally get on the point, everyone dies\nI understand that every now and then a team won't click,\nWhen it comes to you, I don't think I can sympathize\nYou should've picked mercy,\nYou should've picked any kind of support\nWe ended up losing, and it's all your fault,\nYou should learn how this game works\nYou should\u2019ve been helping\n\nVA: SHUT UP! IF YOU LOVE MERCY SO MUCH, WHY DON\u2019T YOU JUST MARRY HER?\n\nSo you're the type that gets on mic and tries to lecture me\nWhen you\u2019re the most useless person we have on our team\nI've never seen anybody rage quite as hard as you\nMaybe you should go back to playing Team Fortress 2\n\nI'm not gonna be mercy\nI'm not gonna be any kind of support\nWe ended up losing, and you got all mad\nYour tears are what I live for\n1: You should\u2019ve been Mercy\n2: I'm not gonna be any kind of support\n1: We ended up losing, and it's all your fault,\n2: Your tears are what I live for\n\n\n1: Maybe I\u2019ll be Tracer\n2: I\u2019m already Tracer\n1: What about Widowmaker?\n2: I\u2019m already Widowmaker\n1: I\u2019ll be Bastion\n2: Nobody likes Bastion (or NERF BASTION)\n1: You\u2019re right. So, Winston\n2: I wanna be winston\n1: Well then I\u2019ll pick Genji\n2: I\u2019m Already Genji\n1: Then I\u2019ll pick McCree\n2: I already chose McCree\n1: I have an idea\n2: what\u2019s your idea?\n1: You should be-\n2: I\u2019m not going to be Mercy (Spoken)\n1: You should\u2019ve been Mercy\n2: I'm not gonna be any kind of support\n1: We ended up losing, and it's all your fault,\n2: Your tears are what I live for\n2: I\u2019m not gonna be Mercy\n1: You should've picked any kind of support\n2: We ended up losing, and you got all mad\n1: You should learn how this game works\n\n#overwatch #nomercy",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/d0RmRJsgP28/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/d0RmRJsgP28/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/d0RmRJsgP28/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/d0RmRJsgP28/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/d0RmRJsgP28/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "JSON Bourne",
+                "playlistId": "PL4MEYt0kiHZVO8sLGrwBNbz7AzPNWX9OO",
+                "position": 21,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "d0RmRJsgP28"
+                },
+                "videoOwnerChannelTitle": "The Living Tombstone",
+                "videoOwnerChannelId": "UCFYMDSW-BzeYZKFSxROw3Rg"
             }
         },
         {
@@ -1227,7 +1227,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "bZD9ayWWvCrrUyEqwniKPkKz4Ec",
+            "etag": "5O6zDZ1xUr2VtqV-1WpEQ9Y3k9w",
             "id": "UEw0TUVZdDBraUhaVk84c0xHcndCTmJ6N0F6UE5XWDlPTy42NEZDNTU0RTRENDUzRjMz",
             "snippet": {
                 "publishedAt": "2024-01-15T06:56:30Z",
@@ -1321,54 +1321,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "YcCaTRK5wdHjYDFsJThD4-nYmJM",
-            "id": "UEw0TUVZdDBraUhaVk84c0xHcndCTmJ6N0F6UE5XWDlPTy5EMzJDRTUwQjBEOUVFQzAw",
-            "snippet": {
-                "publishedAt": "2023-12-06T11:29:51Z",
-                "channelId": "UCNHE3OcC8G345-7rNgu-g9w",
-                "title": "The One That Got Away - Katy Perry (Cover by Tiffany Alvord & Chester See)",
-                "description": "The One That Got Away - (Cover by Tiffany Alvord & Chester See)\nWhile you're here, go here: https://bio.site/tiffanyalvord\n\nI absolutely LOVE this song. We changed it up & put our own take on this song, so it IS different. Me & Chester had a lot of fun making this for you guys. Also if your wondering... the tattoos are FAKE (: Come-on... I wouldn't really do that :p If you want cool matching tattoos we got them at Toys R Us. Thanks for watching! Love, Tiffany\n\nFollow Tiffany Alvord:\nFacebook: http://www.facebook.com/Tiffanyalvord\nTwitter: http://www.twitter.com/Tiffanyalvord\nInstagram: http://bit.ly/TiffanyInstagram\nSnapchat: https://www.snapchat.com/add/TiffanyAlvord\nWebsite: http://www.tiffanyalvord.com/\n\nFollow Chester See:\nhttp://www.youtube.com/user/ChesterSee\n\nListen to Tiffany Alvord On:\niTunes: http://apple.co/1XWXf0G\nGoogle Play: http://bit.ly/1XWXfOj\nSpotify: http://bit.ly/1Ps77OB\nAmazon: http://amzn.to/1O7SXBV\n\nMy album \"My Dream\" is on iTunes: https://bit.ly/tiffanymydream\n\nWatch More Tiffany Alvord:\nOriginals: http://bit.ly/1t73cNv\nCovers: http://bit.ly/1U09hnr\nPopular Videos: http://bit.ly/1UBjKpr\nLatest Uploads: http://bit.ly/1UdCZsb\nLive Acoustic Sets: http://bit.ly/1ZRLOqf\nOriginal Music Videos: http://bit.ly/1rquE71\nLyric Videos: http://bit.ly/1VChO2k\nVlogs: http://bit.ly/1Ps8SeL\n\nCover Credits:\nRecorded & Produced by: Andy Lange | http://www.youtube.com/andylangemusic\nShot & Edited by: Nick Riedell | https://twitter.com/NickRiedell",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/K0-ucWKiTps/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/K0-ucWKiTps/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/K0-ucWKiTps/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    },
-                    "standard": {
-                        "url": "https://i.ytimg.com/vi/K0-ucWKiTps/sddefault.jpg",
-                        "width": 640,
-                        "height": 480
-                    },
-                    "maxres": {
-                        "url": "https://i.ytimg.com/vi/K0-ucWKiTps/maxresdefault.jpg",
-                        "width": 1280,
-                        "height": 720
-                    }
-                },
-                "channelTitle": "JSON Bourne",
-                "playlistId": "PL4MEYt0kiHZVO8sLGrwBNbz7AzPNWX9OO",
-                "position": 28,
-                "resourceId": {
-                    "kind": "youtube#video",
-                    "videoId": "K0-ucWKiTps"
-                },
-                "videoOwnerChannelTitle": "Tiffany Alvord",
-                "videoOwnerChannelId": "UCR-ENZ64WL1vB8KU4YzdmTQ"
-            }
-        },
-        {
-            "kind": "youtube#playlistItem",
-            "etag": "VAxRJ75DLfCbZXLeL2nw33pWjbI",
+            "etag": "sh3UIWA_U4EZAqtkfujsAodjGio",
             "id": "UEw0TUVZdDBraUhaVk84c0xHcndCTmJ6N0F6UE5XWDlPTy5DQzY2RDZFRUQyRDlDQkMw",
             "snippet": {
                 "publishedAt": "2024-06-18T06:37:11Z",
@@ -1404,13 +1357,60 @@
                 },
                 "channelTitle": "JSON Bourne",
                 "playlistId": "PL4MEYt0kiHZVO8sLGrwBNbz7AzPNWX9OO",
-                "position": 29,
+                "position": 28,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "T_lC2O1oIew"
                 },
                 "videoOwnerChannelTitle": "\u7af9\u5185\u307e\u308a\u3084",
                 "videoOwnerChannelId": "UCFCHKsT1ZY2aLUAbWW1lJGA"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "bv_JWnhk_tH-RwqHfMaR6h0r0_U",
+            "id": "UEw0TUVZdDBraUhaVk84c0xHcndCTmJ6N0F6UE5XWDlPTy5EMzJDRTUwQjBEOUVFQzAw",
+            "snippet": {
+                "publishedAt": "2023-12-06T11:29:51Z",
+                "channelId": "UCNHE3OcC8G345-7rNgu-g9w",
+                "title": "The One That Got Away - Katy Perry (Cover by Tiffany Alvord & Chester See)",
+                "description": "The One That Got Away - (Cover by Tiffany Alvord & Chester See)\nWhile you're here, go here: https://bio.site/tiffanyalvord\n\nI absolutely LOVE this song. We changed it up & put our own take on this song, so it IS different. Me & Chester had a lot of fun making this for you guys. Also if your wondering... the tattoos are FAKE (: Come-on... I wouldn't really do that :p If you want cool matching tattoos we got them at Toys R Us. Thanks for watching! Love, Tiffany\n\nFollow Tiffany Alvord:\nFacebook: http://www.facebook.com/Tiffanyalvord\nTwitter: http://www.twitter.com/Tiffanyalvord\nInstagram: http://bit.ly/TiffanyInstagram\nSnapchat: https://www.snapchat.com/add/TiffanyAlvord\nWebsite: http://www.tiffanyalvord.com/\n\nFollow Chester See:\nhttp://www.youtube.com/user/ChesterSee\n\nListen to Tiffany Alvord On:\niTunes: http://apple.co/1XWXf0G\nGoogle Play: http://bit.ly/1XWXfOj\nSpotify: http://bit.ly/1Ps77OB\nAmazon: http://amzn.to/1O7SXBV\n\nMy album \"My Dream\" is on iTunes: https://bit.ly/tiffanymydream\n\nWatch More Tiffany Alvord:\nOriginals: http://bit.ly/1t73cNv\nCovers: http://bit.ly/1U09hnr\nPopular Videos: http://bit.ly/1UBjKpr\nLatest Uploads: http://bit.ly/1UdCZsb\nLive Acoustic Sets: http://bit.ly/1ZRLOqf\nOriginal Music Videos: http://bit.ly/1rquE71\nLyric Videos: http://bit.ly/1VChO2k\nVlogs: http://bit.ly/1Ps8SeL\n\nCover Credits:\nRecorded & Produced by: Andy Lange | http://www.youtube.com/andylangemusic\nShot & Edited by: Nick Riedell | https://twitter.com/NickRiedell",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/K0-ucWKiTps/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/K0-ucWKiTps/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/K0-ucWKiTps/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/K0-ucWKiTps/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/K0-ucWKiTps/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "JSON Bourne",
+                "playlistId": "PL4MEYt0kiHZVO8sLGrwBNbz7AzPNWX9OO",
+                "position": 29,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "K0-ucWKiTps"
+                },
+                "videoOwnerChannelTitle": "Tiffany Alvord",
+                "videoOwnerChannelId": "UCR-ENZ64WL1vB8KU4YzdmTQ"
             }
         },
         {
@@ -1457,7 +1457,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "l8hWJpw3pKsGiRcSuh5ZkwkUnME",
+            "etag": "eZdqBmSvvW1-BymqY9R5KtM9DHs",
             "id": "UEw0TUVZdDBraUhaVk84c0xHcndCTmJ6N0F6UE5XWDlPTy5FMUU5ODU1MDE0RTk1Q0Ew",
             "snippet": {
                 "publishedAt": "2024-06-25T08:31:39Z",
@@ -1499,54 +1499,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "ZpGb9XCjeSeC79s2oJeQIIBZsgQ",
-            "id": "UEw0TUVZdDBraUhaVk84c0xHcndCTmJ6N0F6UE5XWDlPTy4yMzk0RjU2NDJBMzI5RDE2",
-            "snippet": {
-                "publishedAt": "2024-07-03T10:23:47Z",
-                "channelId": "UCNHE3OcC8G345-7rNgu-g9w",
-                "title": "Ansel Elgort - Supernova (Official Video)",
-                "description": "Thanks to Colin Tilley for bringing this to life.\n\nListen to \"Supernova\" --\nSpotify: https://IslandRecs.lnk.to/AnselSupernovaDL/spotify \niTunes: https://IslandRecs.lnk.to/AnselSupernovaDL/itunes\nApple Music: https://IslandRecs.lnk.to/AnselSupernovaDL/applemusic\nGoogle Play: https://IslandRecs.lnk.to/AnselSupernovaDL/google-play\nAmazon: https://IslandRecs.lnk.to/AnselSupernovaDL/amazonmp3 \nSoundCloud: https://IslandRecs.lnk.to/AnselSupernovaDL/soundcloud \n\nFollow Ansel Elgort --\nInstagram: https://www.instagram.com/ansel/ \nFacebook: https://www.facebook.com/AnselElgort/ \nTwitter: https://twitter.com/AnselElgort\n\nMusic video by Ansel Elgort performing Supernova. (C) 2018 Island Records, a division of UMG Recordings, Inc.\n\nhttp://vevo.ly/ZHNzwW\n\n#AnselElgort #Supernova #Vevo",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/Q-oM2BQ8Jow/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/Q-oM2BQ8Jow/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/Q-oM2BQ8Jow/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    },
-                    "standard": {
-                        "url": "https://i.ytimg.com/vi/Q-oM2BQ8Jow/sddefault.jpg",
-                        "width": 640,
-                        "height": 480
-                    },
-                    "maxres": {
-                        "url": "https://i.ytimg.com/vi/Q-oM2BQ8Jow/maxresdefault.jpg",
-                        "width": 1280,
-                        "height": 720
-                    }
-                },
-                "channelTitle": "JSON Bourne",
-                "playlistId": "PL4MEYt0kiHZVO8sLGrwBNbz7AzPNWX9OO",
-                "position": 32,
-                "resourceId": {
-                    "kind": "youtube#video",
-                    "videoId": "Q-oM2BQ8Jow"
-                },
-                "videoOwnerChannelTitle": "AnselElgortVEVO",
-                "videoOwnerChannelId": "UCjKZHPDOj1BAm7Wi4VEEX9g"
-            }
-        },
-        {
-            "kind": "youtube#playlistItem",
-            "etag": "zNdc-zwrMa24Jc_e3G-jQ50OmpA",
+            "etag": "I6YegZ77oJKKf6nG1Tu0kKx5sPY",
             "id": "UEw0TUVZdDBraUhaVk84c0xHcndCTmJ6N0F6UE5XWDlPTy45NDk1REZENzhEMzU5MDQz",
             "snippet": {
                 "publishedAt": "2022-11-09T05:46:21Z",
@@ -1582,7 +1535,7 @@
                 },
                 "channelTitle": "JSON Bourne",
                 "playlistId": "PL4MEYt0kiHZVO8sLGrwBNbz7AzPNWX9OO",
-                "position": 33,
+                "position": 32,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "NNGd3uANaes"
@@ -1593,7 +1546,54 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "KM5IL6puEK3QZvKWsRpV5y1MTwk",
+            "etag": "zukb2YtmNmDohCQAl5IO81BmKmo",
+            "id": "UEw0TUVZdDBraUhaVk84c0xHcndCTmJ6N0F6UE5XWDlPTy4yMzk0RjU2NDJBMzI5RDE2",
+            "snippet": {
+                "publishedAt": "2024-07-03T10:23:47Z",
+                "channelId": "UCNHE3OcC8G345-7rNgu-g9w",
+                "title": "Ansel Elgort - Supernova (Official Video)",
+                "description": "Thanks to Colin Tilley for bringing this to life.\n\nListen to \"Supernova\" --\nSpotify: https://IslandRecs.lnk.to/AnselSupernovaDL/spotify \niTunes: https://IslandRecs.lnk.to/AnselSupernovaDL/itunes\nApple Music: https://IslandRecs.lnk.to/AnselSupernovaDL/applemusic\nGoogle Play: https://IslandRecs.lnk.to/AnselSupernovaDL/google-play\nAmazon: https://IslandRecs.lnk.to/AnselSupernovaDL/amazonmp3 \nSoundCloud: https://IslandRecs.lnk.to/AnselSupernovaDL/soundcloud \n\nFollow Ansel Elgort --\nInstagram: https://www.instagram.com/ansel/ \nFacebook: https://www.facebook.com/AnselElgort/ \nTwitter: https://twitter.com/AnselElgort\n\nMusic video by Ansel Elgort performing Supernova. (C) 2018 Island Records, a division of UMG Recordings, Inc.\n\nhttp://vevo.ly/ZHNzwW\n\n#AnselElgort #Supernova #Vevo",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Q-oM2BQ8Jow/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Q-oM2BQ8Jow/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Q-oM2BQ8Jow/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/Q-oM2BQ8Jow/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/Q-oM2BQ8Jow/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "JSON Bourne",
+                "playlistId": "PL4MEYt0kiHZVO8sLGrwBNbz7AzPNWX9OO",
+                "position": 33,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "Q-oM2BQ8Jow"
+                },
+                "videoOwnerChannelTitle": "AnselElgortVEVO",
+                "videoOwnerChannelId": "UCjKZHPDOj1BAm7Wi4VEEX9g"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "6_r1WmtoWhV6HqkQTz7k7ZAG0ZU",
             "id": "UEw0TUVZdDBraUhaVk84c0xHcndCTmJ6N0F6UE5XWDlPTy43OTQxRDdENkQwNEZGMkQy",
             "snippet": {
                 "publishedAt": "2024-07-12T10:39:19Z",
@@ -1687,7 +1687,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "vJM32j6TuotJ2Lyeqix0JCqt7Pc",
+            "etag": "Idq0ycAzehSZw6XtzKpryy1urKk",
             "id": "UEw0TUVZdDBraUhaVk84c0xHcndCTmJ6N0F6UE5XWDlPTy5FOTM0MjQ2Q0ZDQURDRUFE",
             "snippet": {
                 "publishedAt": "2024-07-12T10:25:27Z",
@@ -1823,7 +1823,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "4PSa2EhEdPPMD4unsDs0YX9mlTk",
+            "etag": "xvu8iY4_ArHW36f-9t-igUdBI4g",
             "id": "UEw0TUVZdDBraUhaVk84c0xHcndCTmJ6N0F6UE5XWDlPTy5ENDU4Q0M4RDExNzM1Mjcy",
             "snippet": {
                 "publishedAt": "2022-12-19T04:40:27Z",
@@ -1870,7 +1870,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "quxv9Y7ATAzQBb5xVUU36XMrrLg",
+            "etag": "y1Pd4pE0Eba6TC3_IyPqAmskWpQ",
             "id": "UEw0TUVZdDBraUhaVk84c0xHcndCTmJ6N0F6UE5XWDlPTy40MkJFNUMzMTJDNkVFQjEy",
             "snippet": {
                 "publishedAt": "2024-06-25T06:58:21Z",
@@ -2058,7 +2058,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "xryes_KkVvkuyerv5uAU3_IXsA4",
+            "etag": "9_swkOtOf43JdDuBE5IHe69dCCQ",
             "id": "UEw0TUVZdDBraUhaVk84c0xHcndCTmJ6N0F6UE5XWDlPTy5EMzdGRjBBQzVCNEY2NDhG",
             "snippet": {
                 "publishedAt": "2024-07-18T05:18:29Z",
@@ -2293,7 +2293,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "lg3O1_naAeiHKr_M4Du2xrtMXvc",
+            "etag": "NPZ0QwULKjoJcmC3vFh6tq3HejA",
             "id": "UEw0TUVZdDBraUhaVk84c0xHcndCTmJ6N0F6UE5XWDlPTy5EQUE1NTFDRjcwMDg0NEMz",
             "snippet": {
                 "publishedAt": "2022-12-01T03:51:17Z",
@@ -2330,7 +2330,7 @@
         }
     ],
     "pageInfo": {
-        "totalResults": 222,
+        "totalResults": 227,
         "resultsPerPage": 50
     }
 }
