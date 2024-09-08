@@ -1,7 +1,7 @@
 {
     "kind": "youtube#playlistItemListResponse",
-    "etag": "g9AgtYNmk03-QTbAAcKp4dnXNQk",
-    "nextPageToken": "EAAajgFQVDpDRElpRURBNU1EYzVOa0UzTlVReE5UTTVNeklvQVVqN3JQT0R6NXlJQTFBQldrVWlRMmxLVVZSRVVrNVNWbXd3VFVkMGNGTkdjRmRVZW1oNlZFVmtlV1F3U2s5WmJtOHpVVmh3VVZSc1pGbFBWVGxRUldkM1NYSTVka2QwWjFsUkxWQlVUMjluU1NJ",
+    "etag": "sExKWCDsCwCXC6Ud3s6gotr_rQQ",
+    "nextPageToken": "EAAajQFQVDpDRElpRURGRU1rWTVOemhHUlRFek5UQXhRVVlvQVVqRmhjYVd3S3VJQTFBQldrUWlRMmxLVVZSRVVrNVNWbXd3VFVkMGNGTkdjRmRVZW1oNlZFVmtlV1F3U2s5WmJtOHpVVmh3VVZSc1pGbFBWVGxRUldkelNUUlFZbXgwWjFsUmFVdFBNR1ZuSWc",
     "items": [
         {
             "kind": "youtube#playlistItem",
@@ -287,7 +287,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "MssDBaJv1ucNc7Xpzmv98zoSy7U",
+            "etag": "hyaEYvrMhqt5-wpdnuTX2NpClHQ",
             "id": "UEw0TUVZdDBraUhaVk84c0xHcndCTmJ6N0F6UE5XWDlPTy5DNzE1RjZEMUZCMjA0RDBB",
             "snippet": {
                 "publishedAt": "2023-04-12T11:47:05Z",
@@ -381,13 +381,13 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "7TprDoH-TKSYk82Ddjd1XImsUZ0",
+            "etag": "sRZx6SXpl_mkvZKlTcmRqy2DjD8",
             "id": "UEw0TUVZdDBraUhaVk84c0xHcndCTmJ6N0F6UE5XWDlPTy41NkI0NEY2RDEwNTU3Q0M2",
             "snippet": {
                 "publishedAt": "2022-10-05T09:16:22Z",
                 "channelId": "UCNHE3OcC8G345-7rNgu-g9w",
                 "title": "James Bay - Hold Back The River",
-                "description": "James Bay\u2019s fourth studio album \u2018Changes All The Time\u2019 is out September 20th. Pre-Order here:\u00a0https://jamesbay.lnk.to/shopID\n\nOfficial Music Video by James Bay performing \u201cHold Back The River\u201d\n\nWatch the Official Music Video for my new single \u201cChew On My Heart\u201d now: https://JamesBay.lnk.to/COMHVideo\n\nSong available on James' debut album 'Chaos And The Calm'. Download Today!\niTunes : http://po.st/CATCi\nAmazon : http://po.st/CATCa\nGoogle Play : http://po.st/CATCg\nStream/Share on Spotify: http://po.st/JamesBaySpotify\n \nSubscribe for more official content from James Bay: https://JamesBay.lnk.to/SubscribeYD/\n\nFollow James Bay Online: \nInstagram: https://www.instagram.com/jamesbaymusic/\nFacebook: https://www.facebook.com/jamesbaymusic/\nTwitter: https://twitter.com/JamesBayMusic\nWebsite: http://www.jamesbay.com/\n \n#JamesBay #HoldBackTheRiver",
+                "description": "James Bay\u2019s fourth studio album \u2018Changes All The Time\u2019 is out October 4th, 2024. Pre-Order here: https://jamesbay.lnk.to/shopWE\n\nOfficial Music Video by James Bay performing \u201cHold Back The River\u201d \n \nSubscribe for more official content from James Bay: https://JamesBay.lnk.to/SubscribeYD\n \nConnect with James Bay: \nhttps://www.jamesbay.com \nhttps://JamesBay.lnk.to/SpotifyFollow \nhttps://JamesBay.lnk.to/AppleMusic \nhttps://www.instagram.com/jamesbaymusic \nhttps://www.tiktok.com/@jamesbaymusic \nhttps://x.com/JamesBayMusic\nhttps://www.facebook.com/jamesbaymusic \n\n#JamesBay #HoldBackTheRiver",
                 "thumbnails": {
                     "default": {
                         "url": "https://i.ytimg.com/vi/mqiH0ZSkM9I/default.jpg",
@@ -569,7 +569,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "7jgGzQ7Ca5j91f1GTUDvX5ehOyo",
+            "etag": "dYTI0xvFAu-IKl0XhPMS7SwPI8s",
             "id": "UEw0TUVZdDBraUhaVk84c0xHcndCTmJ6N0F6UE5XWDlPTy4yODlGNEE0NkRGMEEzMEQy",
             "snippet": {
                 "publishedAt": "2022-10-05T09:39:23Z",
@@ -945,54 +945,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "N62XoTpOxorzOz7xHG8SUhjioWg",
-            "id": "UEw0TUVZdDBraUhaVk84c0xHcndCTmJ6N0F6UE5XWDlPTy5EQTkxMkVFODRENEJBMERF",
-            "snippet": {
-                "publishedAt": "2024-07-18T17:11:44Z",
-                "channelId": "UCNHE3OcC8G345-7rNgu-g9w",
-                "title": "SiM \u2013 The Rumbling (OFFICIAL VIDEO)",
-                "description": "Watch the official video for \u201cThe Rumbling\u201d\n\nTV Animation \u201cAttack on Titan\u201d The Final Season Part 2 Opening Theme\n\nStreaming & Download Out Now!!\n\nFull Size\nhttps://lnk.to/therumbling_full\n\nTV Size\nhttps://lnk.to/therumbling_tvsize\n\nTV\u30a2\u30cb\u30e1\u300c\u9032\u6483\u306e\u5de8\u4eba\u300dThe Final Season Part 2 \u30ce\u30f3\u30af\u30ec\u30b8\u30c3\u30c8OP\nhttps://youtu.be/2S4qGKmzBJE\n\nSiM Official site\nhttps://sxixm.com/\n\n\u300cThe Rumbling\u300dSpecial site\nhttps://sim2022.ponycanyon.net/\n\n#SiM #attackontitan #aot #shingeki\n\nTwitter\uff1ahttps://twitter.com/SiM_Official\nFacebook\uff1ahttps://www.facebook.com/SiMfromJapan\nInstagram\uff1ahttps://instagram.com/sim_japan?utm_m...\nTikTok\uff1ahttps://vt.tiktok.com/ZSdeshWFv/\n\nOfficial Music Video for \"The Rumbling\" by SiM\nSiM are :MAH (Vo) / SHOW-HATE (Gt) / SIN (Ba) / GODRi (Dr)\nManagement : gil soundworks\nDirector : Taiyo Yamamoto (flapper3 Inc.)\nCreative Producer : Ryoji Sekimoto (CRYPTON FUTURE MEDIA, INC) / Naohiro Yako (flapper3 Inc.)\nProducer : Shinji Yamamoto(PIA)\u00a0/ Shunsuke Osaka(PIA)\nAssistant Producer : Kosuke Suzuki(PIA) / Atsuki Yamada(PIA)\nVFX Desiner : Yoshiyuki Odajima (flapper3 Inc.) / Rei Kurashima (flapper3 Inc.)\nProduction Manager : Nana Kinoshita (flapper3 Inc.) / Lisa Yoshimura (CRYPTON FUTURE MEDIA, INC)\nCG Director : Kohta Morie (MORIE Inc.\uff09\nCG Desiner : Masato Tajima\u00a0(MORIE Inc.) / Shuya Sugawara (MORIE Inc.) / Ryo Nihara (MORIE Inc.) / Daiki Miyama\nEditor : Taichi Okada (sync.dev) / Sotaro Abe (sync.dev)\nHOLOSYS Volumetric Capture technology by 4DviewsHajime Kotani(Crescent Inc.) / Tadayuki Suzuki(Crescent Inc.) / Tatsuhiko Kobayashi(Crescent Inc.) / Yuichi ikeda(Crescent Inc.)\n\nArranged by HANEDA xR STUDIO,CRESCENT 4D Views STUDIO\n\n\u00a9\u8aeb\u5c71\u5275\u30fb\u8b1b\u8ac7\u793e\uff0f\u300c\u9032\u6483\u306e\u5de8\u4eba\u300dThe Final Season\u88fd\u4f5c\u59d4\u54e1\u4f1a\n\u00a92022 PONY CANYON INC.",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/OBqw818mQ1E/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/OBqw818mQ1E/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/OBqw818mQ1E/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    },
-                    "standard": {
-                        "url": "https://i.ytimg.com/vi/OBqw818mQ1E/sddefault.jpg",
-                        "width": 640,
-                        "height": 480
-                    },
-                    "maxres": {
-                        "url": "https://i.ytimg.com/vi/OBqw818mQ1E/maxresdefault.jpg",
-                        "width": 1280,
-                        "height": 720
-                    }
-                },
-                "channelTitle": "JSON Bourne",
-                "playlistId": "PL4MEYt0kiHZVO8sLGrwBNbz7AzPNWX9OO",
-                "position": 20,
-                "resourceId": {
-                    "kind": "youtube#video",
-                    "videoId": "OBqw818mQ1E"
-                },
-                "videoOwnerChannelTitle": "SiM Official YouTube Channel",
-                "videoOwnerChannelId": "UCcrvP_Z93Zts_Xd7UGKH2CQ"
-            }
-        },
-        {
-            "kind": "youtube#playlistItem",
-            "etag": "4ZUCUQWjaNffL04mtYAyp1R0B9U",
+            "etag": "excqXCbeECc8LFsFCVkMrQbJYrA",
             "id": "UEw0TUVZdDBraUhaVk84c0xHcndCTmJ6N0F6UE5XWDlPTy4wNjIzRDA1OTQ2M0UyODEw",
             "snippet": {
                 "publishedAt": "2024-04-10T06:18:01Z",
@@ -1028,13 +981,60 @@
                 },
                 "channelTitle": "JSON Bourne",
                 "playlistId": "PL4MEYt0kiHZVO8sLGrwBNbz7AzPNWX9OO",
-                "position": 21,
+                "position": 20,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "aezstCBHOPQ"
                 },
                 "videoOwnerChannelTitle": "Hozier",
                 "videoOwnerChannelId": "UCwAam3W_VLfb6mEKPW2nDFg"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "HJn2lHumgKPw5zr0ple6aWwredM",
+            "id": "UEw0TUVZdDBraUhaVk84c0xHcndCTmJ6N0F6UE5XWDlPTy5EQTkxMkVFODRENEJBMERF",
+            "snippet": {
+                "publishedAt": "2024-07-18T17:11:44Z",
+                "channelId": "UCNHE3OcC8G345-7rNgu-g9w",
+                "title": "SiM \u2013 The Rumbling (OFFICIAL VIDEO)",
+                "description": "Watch the official video for \u201cThe Rumbling\u201d\n\nTV Animation \u201cAttack on Titan\u201d The Final Season Part 2 Opening Theme\n\nStreaming & Download Out Now!!\n\nFull Size\nhttps://lnk.to/therumbling_full\n\nTV Size\nhttps://lnk.to/therumbling_tvsize\n\nTV\u30a2\u30cb\u30e1\u300c\u9032\u6483\u306e\u5de8\u4eba\u300dThe Final Season Part 2 \u30ce\u30f3\u30af\u30ec\u30b8\u30c3\u30c8OP\nhttps://youtu.be/2S4qGKmzBJE\n\nSiM Official site\nhttps://sxixm.com/\n\n\u300cThe Rumbling\u300dSpecial site\nhttps://sim2022.ponycanyon.net/\n\n#SiM #attackontitan #aot #shingeki\n\nTwitter\uff1ahttps://twitter.com/SiM_Official\nFacebook\uff1ahttps://www.facebook.com/SiMfromJapan\nInstagram\uff1ahttps://instagram.com/sim_japan?utm_m...\nTikTok\uff1ahttps://vt.tiktok.com/ZSdeshWFv/\n\nOfficial Music Video for \"The Rumbling\" by SiM\nSiM are :MAH (Vo) / SHOW-HATE (Gt) / SIN (Ba) / GODRi (Dr)\nManagement : gil soundworks\nDirector : Taiyo Yamamoto (flapper3 Inc.)\nCreative Producer : Ryoji Sekimoto (CRYPTON FUTURE MEDIA, INC) / Naohiro Yako (flapper3 Inc.)\nProducer : Shinji Yamamoto(PIA)\u00a0/ Shunsuke Osaka(PIA)\nAssistant Producer : Kosuke Suzuki(PIA) / Atsuki Yamada(PIA)\nVFX Desiner : Yoshiyuki Odajima (flapper3 Inc.) / Rei Kurashima (flapper3 Inc.)\nProduction Manager : Nana Kinoshita (flapper3 Inc.) / Lisa Yoshimura (CRYPTON FUTURE MEDIA, INC)\nCG Director : Kohta Morie (MORIE Inc.\uff09\nCG Desiner : Masato Tajima\u00a0(MORIE Inc.) / Shuya Sugawara (MORIE Inc.) / Ryo Nihara (MORIE Inc.) / Daiki Miyama\nEditor : Taichi Okada (sync.dev) / Sotaro Abe (sync.dev)\nHOLOSYS Volumetric Capture technology by 4DviewsHajime Kotani(Crescent Inc.) / Tadayuki Suzuki(Crescent Inc.) / Tatsuhiko Kobayashi(Crescent Inc.) / Yuichi ikeda(Crescent Inc.)\n\nArranged by HANEDA xR STUDIO,CRESCENT 4D Views STUDIO\n\n\u00a9\u8aeb\u5c71\u5275\u30fb\u8b1b\u8ac7\u793e\uff0f\u300c\u9032\u6483\u306e\u5de8\u4eba\u300dThe Final Season\u88fd\u4f5c\u59d4\u54e1\u4f1a\n\u00a92022 PONY CANYON INC.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/OBqw818mQ1E/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/OBqw818mQ1E/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/OBqw818mQ1E/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/OBqw818mQ1E/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/OBqw818mQ1E/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "JSON Bourne",
+                "playlistId": "PL4MEYt0kiHZVO8sLGrwBNbz7AzPNWX9OO",
+                "position": 21,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "OBqw818mQ1E"
+                },
+                "videoOwnerChannelTitle": "SiM Official YouTube Channel",
+                "videoOwnerChannelId": "UCcrvP_Z93Zts_Xd7UGKH2CQ"
             }
         },
         {
@@ -1415,13 +1415,13 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "1BzeYSyZLID0vPmhhBlmsA6wD6I",
+            "etag": "wbAueY5hUE6KEnP6DS1MVkDNoCY",
             "id": "UEw0TUVZdDBraUhaVk84c0xHcndCTmJ6N0F6UE5XWDlPTy5DQzY2RDZFRUQyRDlDQkMw",
             "snippet": {
                 "publishedAt": "2024-06-18T06:37:11Z",
                 "channelId": "UCNHE3OcC8G345-7rNgu-g9w",
                 "title": "\u7af9\u5185\u307e\u308a\u3084 -  Plastic Love (Official Music Video)",
-                "description": "VARIETY\uff1ahttps://mariyatakeuchi.lnk.to/variety\nPLASTIC LOVE\uff1ahttps://mariyatakeuchi.lnk.to/plasticlove\nexpressions\uff1ahttps://mariyatakeuchi.lnk.to/expressions\n\n\u7af9\u5185\u307e\u308a\u3084\u300c\u30d7\u30e9\u30b9\u30c6\u30a3\u30c3\u30af\u30fb\u30e9\u30d6\u300d\n\u30df\u30e5\u30fc\u30b8\u30c3\u30af\u30fb\u30d3\u30c7\u30aa\u306e\u30d5\u30eb\u30fb\u30b5\u30a4\u30ba\u30fb\u30d0\u30fc\u30b8\u30e7\u30f3\u304c\u9042\u306b\u516c\u958b\uff01\n\n\u3053\u306e\u30df\u30e5\u30fc\u30b8\u30c3\u30af\u30fb\u30d3\u30c7\u30aa\u306f\u3001\u540c\u697d\u66f2\u306e\u65b0\u305f\u306a\u89e3\u91c8\u3068\u3057\u3066\u3001\n\u6797\u97ff\u592a\u6717\u76e3\u7763\u306e\u624b\u306b\u3088\u308a\u30012019\u5e74\u306b\u5236\u4f5c\u3055\u308c\u305f\u4f5c\u54c1\u3002\n\u3053\u308c\u307e\u3067\u306b\u30a4\u30f3\u30bf\u30fc\u30cd\u30c3\u30c8\u4e0a\u3067\u306f\u30b7\u30e7\u30fc\u30c8\u30fb\u30b5\u30a4\u30ba\u306e\u307f\u304c\n\u516c\u958b\u3055\u308c\u3066\u3044\u307e\u3057\u305f\u304c\u3001\u6e80\u3092\u6301\u3057\u3066\u306e\u30d5\u30eb\u30fb\u30b5\u30a4\u30ba\u516c\u958b\u3067\u3059\u3002\n \n\u6797\u97ff\u592a\u6717\u76e3\u7763 \u30b3\u30e1\u30f3\u30c8\n\u6642\u4ee3\u306e\u6ce2\u306b\u57cb\u3082\u308c\u306a\u3044\u3053\u306e\u540d\u66f2\u3092\u3001\u4ee4\u548c\u306b\u306a\u3063\u305f\u3053\u306e\u5e74\u306b\u6539\u3081\u3066\u4e16\u306b\u653e\u305f\u308c\u305f\u3068\u3002\u305d\u308c\u306b\u76e3\u7763\u3068\u3057\u3066\u95a2\u308f\u308c\u305f\u3053\u3068\u3002\u5927\u5909\u5149\u6804\u3067\u3057\u305f\u3002\n\u3053\u306e\u66f2\u304c\u751f\u307e\u308c\u305f\u6642\u4ee3\u3078\u306e\u5c0a\u656c\u3068\u3001\u50d5\u3089\u540c\u4e16\u4ee3\u306e\u89e3\u91c8\u3092\u7e54\u308a\u4ea4\u305c\u4e00\u4e38\u3068\u306a\u3063\u3066\u4f5c\u308a\u307e\u3057\u305f\u3002\u305c\u3072\u3054\u89a7\u304f\u3060\u3055\u3044\u3002\n\n\u3010\u30a2\u30eb\u30d0\u30e0\u60c5\u5831\u3011\n\u7af9\u5185\u307e\u308a\u3084\u300110\u5e74\u3076\u308a\u306e\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30a2\u30eb\u30d0\u30e0\u300cPrecious Days\u300d\u304c10/16(\u6c34)\u306b\u767a\u58f2\u6c7a\u5b9a\uff01\n10\u5e74\u3092\u8a70\u3081\u8fbc\u3093\u3067\u3001\u4eba\u751f\u3092\u7167\u3089\u3057\u51fa\u3059\u3002\u3042\u306a\u305f\u306e\u5fc3\u306b\u5c4a\u304f18\u66f2\uff01\n\u3054\u4e88\u7d04\u306f\u30b3\u30c1\u30e9\uff1ahttps://mariyatakeuchi.lnk.to/PreciousDaysAY\n\n\u7af9\u5185\u307e\u308a\u3084\u300cPrecious Days\u300d\n\u767a\u58f2\u65e5\uff1a2024\u5e7410\u670816\u65e5(\u6c34)\n\u2460 \u30c7\u30e9\u30c3\u30af\u30b9\u76e4\uff08CD\uff0bBlu-ray\uff09 8,800\u5186\uff08\u7a0e\u8fbc\uff09 WPZL-32154/5\n\u2461 \u30c7\u30e9\u30c3\u30af\u30b9\u76e4\uff08CD\uff0bDVD\uff09 8,800\u5186\uff08\u7a0e\u8fbc\uff09 WPZL-32156/7\n\u2462 \u901a\u5e38\u76e4\uff08CD\uff09 3,410\u5186\uff08\u7a0e\u8fbc\uff09 WPCL-13607\n\u2463 \u30a2\u30ca\u30ed\u30b0\u30ec\u30b3\u30fc\u30c9\uff082\u679a\u7d44LP\uff0f180g\u91cd\u91cf\u76e4\uff09\uff08\u5b8c\u5168\u751f\u7523\u9650\u5b9a\uff09 5,500\u5186\uff08\u7a0e\u8fbc\uff09 WPJL-10222/3\n\u2464 \u30ab\u30bb\u30c3\u30c8\u30c6\u30fc\u30d7\uff08\u5b8c\u5168\u751f\u7523\u9650\u5b9a\uff09 3,410\u5186\uff08\u7a0e\u8fbc\uff09 WPTL-10005\n\u203b5\u5f62\u614b\u305d\u308c\u305e\u308c\u306e\u521d\u56de\u30d7\u30ec\u30b9\u5206\u306e\u307f\u30de\u30b8\u30c3\u30af\u30ab\u30fc\u30c9\u5c01\u5165(\u8a73\u7d30\u306f\u5f8c\u65e5\u767a\u8868\uff01)\n\n\uff1c\u53ce\u9332\u697d\u66f2\uff1e\n01.Brighten up your day ! \u30c6\u30ec\u30d3\u671d\u65e5\u300c\u5927\u4e0b\u5bb9\u5b50 \u30ef\u30a4\u30c9\uff01\u30b9\u30af\u30e9\u30f3\u30d6\u30eb\u300d\u30c6\u30fc\u30de\u30bd\u30f3\u30b0\n02.\u5c0f\u3055\u306a\u9858\u3044 (2024 New Remix) \u6620\u753b\u300c\u3042\u3044\u3042\u3044\u5098\u300d\u4e3b\u984c\u6b4c\n03.\u30d9\u30a4\u30d3\u30fc\u30fb\u30de\u30a4\u30f3\uff08\u65e5\u672c\u8a9eVer\uff09 \u30c7\u30a3\u30ba\u30cb\u30fc\u6620\u753b\u300c\u30c0\u30f3\u30dc\u300d\u65e5\u672c\u7248\u30a8\u30f3\u30c9\u30bd\u30f3\u30b0\n04.\u541b\u306e\u5c45\u5834\u6240\uff08Have a Good Time Here\uff09 Netflix\u30b7\u30ea\u30fc\u30ba\u300c\u30dd\u30b1\u30e2\u30f3\u30b3\u30f3\u30b7\u30a7\u30eb\u30b8\u30e5\u300d\u4e3b\u984c\u6b4c\n05.Smiling Days (2024 New Remix) \u30d9\u30eb\u30e1\u30be\u30f3CM\u697d\u66f2\n06.Watching Over You\uff08Duet with \u674f\u91cc\uff09 \u30c6\u30ec\u30d3\u671d\u65e5\u91d1\u66dc\u30ca\u30a4\u30c8\u30c9\u30e9\u30de\u300c\u548c\u7530\u5bb6\u306e\u7537\u305f\u3061\u300d\u4e3b\u984c\u6b4c\n07.\u9060\u3044\u307e\u307c\u308d\u3057\n08.Subject:\u3055\u3088\u3046\u306a\u3089 \u30bb\u30eb\u30d5\u30ab\u30f4\u30a1\u30fc(\u677e\u6d66\u4e9c\u5f25\u3055\u3093\u3078\u306e\u63d0\u4f9b\u697d\u66f2)\n09.\u5922\u306e\u679c\u3066\u307e\u3067 \u30bb\u30eb\u30d5\u30ab\u30f4\u30a1\u30fc(\u65e9\u898b\u6c99\u7e54\u3055\u3093\u3078\u306e\u63d0\u4f9b\u697d\u66f2)\n10.TOKYO WOMAN \u30d5\u30b8\u30c6\u30ec\u30d3\u6df1\u591c\u30c9\u30e9\u30de\u300cTOKYO WOMAN\u300d\u4e3b\u984c\u6b4c\n11.\u65c5\u306e\u3064\u3065\u304d (2024 New Remix) \u6620\u753b\u300c\u6700\u9ad8\u306e\u4eba\u751f\u306e\u898b\u3064\u3051\u65b9\u300d\u4e3b\u984c\u6b4c\n12.Coffee & Chocolate \u671d\u65e5\u751f\u547dCM\u30bd\u30f3\u30b0\n13.Days of Love \u30a8\u30a2\u30a6\u30a3\u30fc\u30f4CM\u30bd\u30f3\u30b0\n14.\u6b4c\u3092\u8d08\u308d\u3046 ABC\u30c6\u30ec\u30d3\u30fb\u30c6\u30ec\u30d3\u671d\u65e5\u7cfb\u30c9\u30e9\u30de\u300c\u7d20\u6674\u3089\u3057\u304d\u54c9\u3001\u5148\u751f\uff01\u300d\u4e3b\u984c\u6b4c\u3000\n15.\u4eca\u3092\u751f\u304d\u3088\u3046\uff08Seize the Day\uff09(2024 New Remix) NHK\u7dcf\u5408 \u571f\u66dc\u6642\u4ee3\u30c9\u30e9\u30de\u300c\u306c\u3051\u307e\u3044\u308b\uff5e\u5973\u4e09\u4eba\u4f0a\u52e2\u53c2\u308a\u300d\u4e3b\u984c\u6b4c\n16.All I Have To Do Is Dream\uff08Duet with \u5c71\u4e0b\u9054\u90ce\uff09\n17.\u4eca\u65e5\u306e\u60f3\u3044(2024 New Remix) \u30c6\u30ec\u30d3\u6771\u4eac\u7cfb\u5217\u300c\u30ef\u30fc\u30eb\u30c9\u30d3\u30b8\u30cd\u30b9\u30b5\u30c6\u30e9\u30a4\u30c8\uff08WBS\uff09\u300d\u30a8\u30f3\u30c7\u30a3\u30f3\u30b0\u30c6\u30fc\u30de\u66f2\n18.May Each Day\n\n\uff1c\u30c7\u30e9\u30c3\u30af\u30b9\u76e4\u306e\u307f\u53ce\u9332\uff1e\n\u300cPrecious Live Collection\u300d\n01.\u77b3\u306e\u3055\u3055\u3084\u304d\u3000\u203b\u300cLIVE Turntable\u300d\u3088\u308a\n02.\u5f85\u3063\u3066\u3044\u308b\u308f\u3000\u203b\u300cLIVE Turntable\u300d\u3088\u308a\n03.September\u3000\u203b\u300cLIVE Turntable\u300d\u3088\u308a\n04.\u4e94\u7dda\u7d19\u3000\u203b\u300cLIVE Turntable\u300d\u3088\u308a\n05.\u60b2\u60e8\u306a\u6226\u4e89\u3000\u203b\u300cLIVE Turntable\u300d\u3088\u308a\n06.Oh No, Oh Yes\u3000\u203b\u300cLIVE Turntable\u300d\u3088\u308a\n07.\u9759\u304b\u306a\u4f1d\u8aac\u3000\u203b\u300cLIVE Turntable\u300d\u3088\u308a\n08.\u5e78\u305b\u306e\u3082\u306e\u3055\u3057\u3000\u203b\u300cLIVE Turntable\u300d\u3088\u308a\n09.All I Have To Do Is Dream\u3000\u203b\u300cLIVE Turntable\u300d\u3088\u308a\n10.\u3059\u3066\u304d\u306a\u30d2\u30c3\u30c8\u30bd\u30f3\u30b0\u3000\u203b\u300cLIVE Turntable\u300d\u3088\u308a\n11.\u5bb6\u306b\u5e30\u308d\u3046 \u203b\u300cLIVE Turntable Plus\u300d\u3088\u308a SPACE SHOWER SWEET LOVE SHOWER 2012\n12.\u5143\u6c17\u3092\u51fa\u3057\u3066 \u203bSPACE SHOWER SWEET LOVE SHOWER 2012(\u521d\u6620\u50cf\u5316)\n13.\u307f\u3093\u306a\u4e00\u4eba\u3000\u203b\u300cLIVE Turntable Plus\u300d\u3088\u308a souvenir again mariya takeuchi live 2010\n14.\u30d7\u30e9\u30b9\u30c6\u30a3\u30c3\u30af\u30fb\u30e9\u30d6\u3000\u203b\u300cLIVE Turntable Plus\u300d\u3088\u308a souvenir 2014\n15.\u99c5\u3000\u203b\u300cLIVE Turntable Plus\u300d\u3088\u308a souvenir 2014\n16.\u4eba\u751f\u306e\u6249\u3000\u203b\u300cLIVE Turntable Plus\u300d\u3088\u308a souvenir again mariya takeuchi live 2010\n17.\u3044\u306e\u3061\u306e\u6b4c\u3000\u203b\u300cLIVE Turntable Plus\u300d\u3088\u308a souvenir 2014\n\n\u3054\u4e88\u7d04\u306f\u30b3\u30c1\u30e9\uff1ahttps://mariyatakeuchi.lnk.to/PreciousDaysAY\n\n\uff1c\u8cfc\u5165\u8005\u7279\u5178\uff1e\n\u30fbAmazon\uff1a\u30e1\u30ac\u30b8\u30e3\u30b1\n\u203bAmazon\u30aa\u30ea\u30b8\u30ca\u30eb\u68b1\u5305\u300c\u30c7\u30b3\u30c0\u30f3\u300d\u306b\u3066\u914d\u9001\uff1aCD\u3084\u30ab\u30bb\u30c3\u30c8\u30c6\u30fc\u30d7\u3092\u68b1\u5305\u3059\u308b\u305f\u3081\u306e\u5c02\u7528BOX\u3067\u30aa\u30ea\u30b8\u30ca\u30eb\u306e\u30c7\u30b6\u30a4\u30f3\u4ed5\u69d8\u3068\u306a\u3063\u3066\u304a\u308a\u3001\u958b\u5c01\u5f8c\u306f\u5199\u771f\u7acb\u3066\u306e\u3088\u3046\u306b\u7bb1\u81ea\u4f53\u3092\u98fe\u308b\u3053\u3068\u304c\u3067\u304d\u307e\u3059\u3002\uff08\u30a2\u30ca\u30ed\u30b0\u30ec\u30b3\u30fc\u30c9\u306f\u30c7\u30b3\u30c0\u30f3\u5bfe\u8c61\u5916\u306e\u305f\u3081\u901a\u5e38\u68b1\u5305\u3067\u914d\u9001\uff09\n\u30fb\u697d\u5929\u30d6\u30c3\u30af\u30b9\uff1a\u30af\u30ea\u30a2\u30dd\u30fc\u30c1\n\u203b\u697d\u5929\u30d6\u30c3\u30af\u30b9\u30aa\u30ea\u30b8\u30ca\u30eb\u68b1\u5305\u300c\u914d\u9001\u30d1\u30c3\u30af\u300d\u306b\u3066\u914d\u9001\uff1a\u7279\u5225\u306a\u30c7\u30b6\u30a4\u30f3\u306e\u914d\u9001\u30d1\u30c3\u30b1\u30fc\u30b8\u3067\u304a\u5c4a\u3051\u81f4\u3057\u307e\u3059\u3002\u3053\u3053\u3067\u3057\u304b\u624b\u306b\u5165\u3089\u306a\u3044\u30c7\u30b6\u30a4\u30f3\u4ed5\u69d8\u3068\u306a\u308a\u307e\u3059\u3002\uff08\u30a2\u30ca\u30ed\u30b0\u30ec\u30b3\u30fc\u30c9\u306f\u914d\u9001\u30d1\u30c3\u30af\u5bfe\u8c61\u5916\u306e\u305f\u3081\u901a\u5e38\u68b1\u5305\u3067\u914d\u9001\uff09\n\u30fb\u30bb\u30d6\u30f3\u30cd\u30c3\u30c8\u30b7\u30e7\u30c3\u30d4\u30f3\u30b0\uff1a\u30c8\u30fc\u30c8\u578b\u30a8\u30b3\u30d0\u30c3\u30b0\n\u30fb\u30bf\u30ef\u30fc\u30ec\u30b3\u30fc\u30c9\uff1a\u30df\u30cb\u30cf\u30f3\u30ab\u30c1\u30bf\u30aa\u30eb\n\u30fbHMV\uff1a57mm\u7f36\u30de\u30b0\u30cd\u30c3\u30c8\n\u30fbTSUTAYA\uff1a\u30dd\u30b9\u30c8\u30ab\u30fc\u30c9\uff08TSUTAYA ver.\uff09\n\u30fb\u5c71\u91ce\u697d\u5668\uff1a\u30dd\u30b9\u30c8\u30ab\u30fc\u30c9\uff08\u5c71\u91ce\u697d\u5668 ver.\uff09\n\u30fb\u65b0\u661f\u5802WonderGOO\uff1a\u30dd\u30b9\u30c8\u30ab\u30fc\u30c9\uff08\u65b0\u661f\u5802WonderGOO ver.\uff09\n\u30fb\u30ef\u30fc\u30ca\u30fc\u30df\u30e5\u30fc\u30b8\u30c3\u30af\u30fb\u30b9\u30c8\u30a2\uff1a\u30dd\u30b9\u30c8\u30ab\u30fc\u30c9\uff08WMS ver.\uff09\n\u30fb\u62e0\u70b9\u5e97\uff1a\u30dd\u30b9\u30c8\u30ab\u30fc\u30c9\uff08\u62e0\u70b9\u5e97 ver.\uff09\u203b\u5bfe\u8c61\u5e97\u306f\u5f8c\u65e5\u767a\u8868\u3057\u307e\u3059\u3002\n\n\u203b\u4e00\u90e8\u306eCD\u30b7\u30e7\u30c3\u30d7\uff08\u304a\u3088\u3073\u30cd\u30c3\u30c8\u30b7\u30e7\u30c3\u30d4\u30f3\u30b0\u30b5\u30a4\u30c8\uff09\u3067\u306f\u7279\u5178\u30d7\u30ec\u30bc\u30f3\u30c8\u3092\u5b9f\u65bd\u3057\u3066\u3044\u306a\u3044\u5834\u5408\u304c\u3054\u3056\u3044\u307e\u3059\u3002\n\u203b\u4e00\u90e8\u306e\u30cd\u30c3\u30c8\u30b7\u30e7\u30c3\u30d4\u30f3\u30b0\u30b5\u30a4\u30c8\u3067\u306f\u3001\u300c\u7279\u5178\u4ed8\u304d\u300d\u3068\u300c\u7279\u5178\u306a\u3057\u300d\u306e\u30ab\u30fc\u30c8\u304c\u3054\u3056\u3044\u307e\u3059\u306e\u3067\u3054\u6ce8\u610f\u304f\u3060\u3055\u3044\u3002\n\u203b\u7279\u5178\u306f\u6570\u306b\u9650\u308a\u304c\u3054\u3056\u3044\u307e\u3059\u3002\u7121\u304f\u306a\u308a\u6b21\u7b2c\u7d42\u4e86\u3068\u306a\u308a\u307e\u3059\u306e\u3067\u3001\u304a\u65e9\u3081\u306e\u3054\u4e88\u7d04\u3092\u304a\u52e7\u3081\u3057\u307e\u3059\u3002\n\u203b\u7279\u5178\u306e\u6709\u7121\u306b\u95a2\u3059\u308b\u304a\u554f\u3044\u5408\u308f\u305b\u306f\u3001\u76f4\u63a5\u5404CD\u30b7\u30e7\u30c3\u30d7\uff08\u304a\u3088\u3073\u30cd\u30c3\u30c8\u30b7\u30e7\u30c3\u30d4\u30f3\u30b0\u30b5\u30a4\u30c8\uff09\u306b\u3066\u3054\u78ba\u8a8d\u304f\u3060\u3055\u3044\u3002\n\n\u3010Infomation\u3011\n\u7af9\u5185\u307e\u308a\u308445\u5468\u5e74 \u7279\u8a2d\u30b5\u30a4\u30c8\nhttps://mariya45th.jp/\n\u7af9\u5185\u307e\u308a\u308445\u5468\u5e74 \u30aa\u30d5\u30a3\u30b7\u30e3\u30ebFacebook\nhttps://www.facebook.com/mariya45th\n\u7af9\u5185\u307e\u308a\u308445\u5468\u5e74 \u30aa\u30d5\u30a3\u30b7\u30e3\u30ebX(\u65e7Twitter)\nhttps://twitter.com/mariya45th\n\n#\u7af9\u5185\u307e\u308a\u3084 #\u30d7\u30e9\u30b9\u30c6\u30a3\u30c3\u30af\u30e9\u30d6 #Plasticlove",
+                "description": "VARIETY\uff1ahttps://mariyatakeuchi.lnk.to/variety\nPLASTIC LOVE\uff1ahttps://mariyatakeuchi.lnk.to/plasticlove\nexpressions\uff1ahttps://mariyatakeuchi.lnk.to/expressions\n\n\u7af9\u5185\u307e\u308a\u3084\u300c\u30d7\u30e9\u30b9\u30c6\u30a3\u30c3\u30af\u30fb\u30e9\u30d6\u300d\n\u30df\u30e5\u30fc\u30b8\u30c3\u30af\u30fb\u30d3\u30c7\u30aa\u306e\u30d5\u30eb\u30fb\u30b5\u30a4\u30ba\u30fb\u30d0\u30fc\u30b8\u30e7\u30f3\u304c\u9042\u306b\u516c\u958b\uff01\n\n\u3053\u306e\u30df\u30e5\u30fc\u30b8\u30c3\u30af\u30fb\u30d3\u30c7\u30aa\u306f\u3001\u540c\u697d\u66f2\u306e\u65b0\u305f\u306a\u89e3\u91c8\u3068\u3057\u3066\u3001\n\u6797\u97ff\u592a\u6717\u76e3\u7763\u306e\u624b\u306b\u3088\u308a\u30012019\u5e74\u306b\u5236\u4f5c\u3055\u308c\u305f\u4f5c\u54c1\u3002\n\u3053\u308c\u307e\u3067\u306b\u30a4\u30f3\u30bf\u30fc\u30cd\u30c3\u30c8\u4e0a\u3067\u306f\u30b7\u30e7\u30fc\u30c8\u30fb\u30b5\u30a4\u30ba\u306e\u307f\u304c\n\u516c\u958b\u3055\u308c\u3066\u3044\u307e\u3057\u305f\u304c\u3001\u6e80\u3092\u6301\u3057\u3066\u306e\u30d5\u30eb\u30fb\u30b5\u30a4\u30ba\u516c\u958b\u3067\u3059\u3002\n \n\u6797\u97ff\u592a\u6717\u76e3\u7763 \u30b3\u30e1\u30f3\u30c8\n\u6642\u4ee3\u306e\u6ce2\u306b\u57cb\u3082\u308c\u306a\u3044\u3053\u306e\u540d\u66f2\u3092\u3001\u4ee4\u548c\u306b\u306a\u3063\u305f\u3053\u306e\u5e74\u306b\u6539\u3081\u3066\u4e16\u306b\u653e\u305f\u308c\u305f\u3068\u3002\u305d\u308c\u306b\u76e3\u7763\u3068\u3057\u3066\u95a2\u308f\u308c\u305f\u3053\u3068\u3002\u5927\u5909\u5149\u6804\u3067\u3057\u305f\u3002\n\u3053\u306e\u66f2\u304c\u751f\u307e\u308c\u305f\u6642\u4ee3\u3078\u306e\u5c0a\u656c\u3068\u3001\u50d5\u3089\u540c\u4e16\u4ee3\u306e\u89e3\u91c8\u3092\u7e54\u308a\u4ea4\u305c\u4e00\u4e38\u3068\u306a\u3063\u3066\u4f5c\u308a\u307e\u3057\u305f\u3002\u305c\u3072\u3054\u89a7\u304f\u3060\u3055\u3044\u3002\n\n\u3010\u30a2\u30eb\u30d0\u30e0\u60c5\u5831\u3011\n\u7af9\u5185\u307e\u308a\u3084\u300110\u5e74\u3076\u308a\u306e\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30a2\u30eb\u30d0\u30e0\u300cPrecious Days\u300d\u304c10/23(\u6c34)\u306b\u767a\u58f2\u6c7a\u5b9a\uff01\n10\u5e74\u3092\u8a70\u3081\u8fbc\u3093\u3067\u3001\u4eba\u751f\u3092\u7167\u3089\u3057\u51fa\u3059\u3002\u3042\u306a\u305f\u306e\u5fc3\u306b\u5c4a\u304f18\u66f2\uff01\n\u3054\u4e88\u7d04\u306f\u30b3\u30c1\u30e9\uff1ahttps://mariyatakeuchi.lnk.to/PreciousDaysAY\n\n\u7af9\u5185\u307e\u308a\u3084\u300cPrecious Days\u300d\n\u767a\u58f2\u65e5\uff1a2024\u5e7410\u670823\u65e5(\u6c34)\n\u2460 \u30c7\u30e9\u30c3\u30af\u30b9\u76e4\uff08CD\uff0bBlu-ray\uff09 8,800\u5186\uff08\u7a0e\u8fbc\uff09 WPZL-32154/5\n\u2461 \u30c7\u30e9\u30c3\u30af\u30b9\u76e4\uff08CD\uff0bDVD\uff09 8,800\u5186\uff08\u7a0e\u8fbc\uff09 WPZL-32156/7\n\u2462 \u901a\u5e38\u76e4\uff08CD\uff09 3,410\u5186\uff08\u7a0e\u8fbc\uff09 WPCL-13607\n\u2463 \u30a2\u30ca\u30ed\u30b0\u30ec\u30b3\u30fc\u30c9\uff082\u679a\u7d44LP\uff0f180g\u91cd\u91cf\u76e4\uff09\uff08\u5b8c\u5168\u751f\u7523\u9650\u5b9a\uff09 5,500\u5186\uff08\u7a0e\u8fbc\uff09 WPJL-10222/3\n\u2464 \u30ab\u30bb\u30c3\u30c8\u30c6\u30fc\u30d7\uff08\u5b8c\u5168\u751f\u7523\u9650\u5b9a\uff09 3,410\u5186\uff08\u7a0e\u8fbc\uff09 WPTL-10005\n\u203b5\u5f62\u614b\u305d\u308c\u305e\u308c\u306e\u521d\u56de\u30d7\u30ec\u30b9\u5206\u306e\u307f\u30de\u30b8\u30c3\u30af\u30ab\u30fc\u30c9\u5c01\u5165(\u8a73\u7d30\u306f\u5f8c\u65e5\u767a\u8868\uff01)\n\n\uff1c\u53ce\u9332\u697d\u66f2\uff1e\n01.Brighten up your day ! \u30c6\u30ec\u30d3\u671d\u65e5\u300c\u5927\u4e0b\u5bb9\u5b50 \u30ef\u30a4\u30c9\uff01\u30b9\u30af\u30e9\u30f3\u30d6\u30eb\u300d\u30c6\u30fc\u30de\u30bd\u30f3\u30b0\n02.\u5c0f\u3055\u306a\u9858\u3044 (2024 New Remix) \u6620\u753b\u300c\u3042\u3044\u3042\u3044\u5098\u300d\u4e3b\u984c\u6b4c\n03.\u30d9\u30a4\u30d3\u30fc\u30fb\u30de\u30a4\u30f3\uff08\u65e5\u672c\u8a9eVer\uff09 \u30c7\u30a3\u30ba\u30cb\u30fc\u6620\u753b\u300c\u30c0\u30f3\u30dc\u300d\u65e5\u672c\u7248\u30a8\u30f3\u30c9\u30bd\u30f3\u30b0\n04.\u541b\u306e\u5c45\u5834\u6240\uff08Have a Good Time Here\uff09 Netflix\u30b7\u30ea\u30fc\u30ba\u300c\u30dd\u30b1\u30e2\u30f3\u30b3\u30f3\u30b7\u30a7\u30eb\u30b8\u30e5\u300d\u4e3b\u984c\u6b4c\n05.Smiling Days (2024 New Remix) \u30d9\u30eb\u30e1\u30be\u30f3CM\u697d\u66f2\n06.Watching Over You\uff08Duet with \u674f\u91cc\uff09 \u30c6\u30ec\u30d3\u671d\u65e5\u91d1\u66dc\u30ca\u30a4\u30c8\u30c9\u30e9\u30de\u300c\u548c\u7530\u5bb6\u306e\u7537\u305f\u3061\u300d\u4e3b\u984c\u6b4c\n07.\u9060\u3044\u307e\u307c\u308d\u3057\n08.Subject:\u3055\u3088\u3046\u306a\u3089 \u30bb\u30eb\u30d5\u30ab\u30f4\u30a1\u30fc(\u677e\u6d66\u4e9c\u5f25\u3055\u3093\u3078\u306e\u63d0\u4f9b\u697d\u66f2)\n09.\u5922\u306e\u679c\u3066\u307e\u3067 \u30bb\u30eb\u30d5\u30ab\u30f4\u30a1\u30fc(\u65e9\u898b\u6c99\u7e54\u3055\u3093\u3078\u306e\u63d0\u4f9b\u697d\u66f2)\n10.TOKYO WOMAN \u30d5\u30b8\u30c6\u30ec\u30d3\u6df1\u591c\u30c9\u30e9\u30de\u300cTOKYO WOMAN\u300d\u4e3b\u984c\u6b4c\n11.\u65c5\u306e\u3064\u3065\u304d (2024 New Remix) \u6620\u753b\u300c\u6700\u9ad8\u306e\u4eba\u751f\u306e\u898b\u3064\u3051\u65b9\u300d\u4e3b\u984c\u6b4c\n12.Coffee & Chocolate \u671d\u65e5\u751f\u547dCM\u30bd\u30f3\u30b0\n13.Days of Love \u30a8\u30a2\u30a6\u30a3\u30fc\u30f4CM\u30bd\u30f3\u30b0\n14.\u6b4c\u3092\u8d08\u308d\u3046 ABC\u30c6\u30ec\u30d3\u30fb\u30c6\u30ec\u30d3\u671d\u65e5\u7cfb\u30c9\u30e9\u30de\u300c\u7d20\u6674\u3089\u3057\u304d\u54c9\u3001\u5148\u751f\uff01\u300d\u4e3b\u984c\u6b4c\u3000\n15.\u4eca\u3092\u751f\u304d\u3088\u3046\uff08Seize the Day\uff09(2024 New Remix) NHK\u7dcf\u5408 \u571f\u66dc\u6642\u4ee3\u30c9\u30e9\u30de\u300c\u306c\u3051\u307e\u3044\u308b\uff5e\u5973\u4e09\u4eba\u4f0a\u52e2\u53c2\u308a\u300d\u4e3b\u984c\u6b4c\n16.All I Have To Do Is Dream\uff08Duet with \u5c71\u4e0b\u9054\u90ce\uff09\n17.\u4eca\u65e5\u306e\u60f3\u3044(2024 New Remix) \u30c6\u30ec\u30d3\u6771\u4eac\u7cfb\u5217\u300c\u30ef\u30fc\u30eb\u30c9\u30d3\u30b8\u30cd\u30b9\u30b5\u30c6\u30e9\u30a4\u30c8\uff08WBS\uff09\u300d\u30a8\u30f3\u30c7\u30a3\u30f3\u30b0\u30c6\u30fc\u30de\u66f2\n18.May Each Day\n\n\uff1c\u30c7\u30e9\u30c3\u30af\u30b9\u76e4\u306e\u307f\u53ce\u9332\uff1e\n\u300cPrecious Live Collection\u300d\n01.\u77b3\u306e\u3055\u3055\u3084\u304d\u3000\u203b\u300cLIVE Turntable\u300d\u3088\u308a\n02.\u5f85\u3063\u3066\u3044\u308b\u308f\u3000\u203b\u300cLIVE Turntable\u300d\u3088\u308a\n03.September\u3000\u203b\u300cLIVE Turntable\u300d\u3088\u308a\n04.\u4e94\u7dda\u7d19\u3000\u203b\u300cLIVE Turntable\u300d\u3088\u308a\n05.\u60b2\u60e8\u306a\u6226\u4e89\u3000\u203b\u300cLIVE Turntable\u300d\u3088\u308a\n06.Oh No, Oh Yes\u3000\u203b\u300cLIVE Turntable\u300d\u3088\u308a\n07.\u9759\u304b\u306a\u4f1d\u8aac\u3000\u203b\u300cLIVE Turntable\u300d\u3088\u308a\n08.\u5e78\u305b\u306e\u3082\u306e\u3055\u3057\u3000\u203b\u300cLIVE Turntable\u300d\u3088\u308a\n09.All I Have To Do Is Dream\u3000\u203b\u300cLIVE Turntable\u300d\u3088\u308a\n10.\u3059\u3066\u304d\u306a\u30d2\u30c3\u30c8\u30bd\u30f3\u30b0\u3000\u203b\u300cLIVE Turntable\u300d\u3088\u308a\n11.\u5bb6\u306b\u5e30\u308d\u3046 \u203b\u300cLIVE Turntable Plus\u300d\u3088\u308a SPACE SHOWER SWEET LOVE SHOWER 2012\n12.\u5143\u6c17\u3092\u51fa\u3057\u3066 \u203bSPACE SHOWER SWEET LOVE SHOWER 2012(\u521d\u6620\u50cf\u5316)\n13.\u307f\u3093\u306a\u4e00\u4eba\u3000\u203b\u300cLIVE Turntable Plus\u300d\u3088\u308a souvenir again mariya takeuchi live 2010\n14.\u30d7\u30e9\u30b9\u30c6\u30a3\u30c3\u30af\u30fb\u30e9\u30d6\u3000\u203b\u300cLIVE Turntable Plus\u300d\u3088\u308a souvenir 2014\n15.\u99c5\u3000\u203b\u300cLIVE Turntable Plus\u300d\u3088\u308a souvenir 2014\n16.\u4eba\u751f\u306e\u6249\u3000\u203b\u300cLIVE Turntable Plus\u300d\u3088\u308a souvenir again mariya takeuchi live 2010\n17.\u3044\u306e\u3061\u306e\u6b4c\u3000\u203b\u300cLIVE Turntable Plus\u300d\u3088\u308a souvenir 2014\n\n\u3054\u4e88\u7d04\u306f\u30b3\u30c1\u30e9\uff1ahttps://mariyatakeuchi.lnk.to/PreciousDaysAY\n\n\uff1c\u8cfc\u5165\u8005\u7279\u5178\uff1e\n\u30fbAmazon\uff1a\u30e1\u30ac\u30b8\u30e3\u30b1\n\u203bAmazon\u30aa\u30ea\u30b8\u30ca\u30eb\u68b1\u5305\u300c\u30c7\u30b3\u30c0\u30f3\u300d\u306b\u3066\u914d\u9001\uff1aCD\u3084\u30ab\u30bb\u30c3\u30c8\u30c6\u30fc\u30d7\u3092\u68b1\u5305\u3059\u308b\u305f\u3081\u306e\u5c02\u7528BOX\u3067\u30aa\u30ea\u30b8\u30ca\u30eb\u306e\u30c7\u30b6\u30a4\u30f3\u4ed5\u69d8\u3068\u306a\u3063\u3066\u304a\u308a\u3001\u958b\u5c01\u5f8c\u306f\u5199\u771f\u7acb\u3066\u306e\u3088\u3046\u306b\u7bb1\u81ea\u4f53\u3092\u98fe\u308b\u3053\u3068\u304c\u3067\u304d\u307e\u3059\u3002\uff08\u30a2\u30ca\u30ed\u30b0\u30ec\u30b3\u30fc\u30c9\u306f\u30c7\u30b3\u30c0\u30f3\u5bfe\u8c61\u5916\u306e\u305f\u3081\u901a\u5e38\u68b1\u5305\u3067\u914d\u9001\uff09\n\u30fb\u697d\u5929\u30d6\u30c3\u30af\u30b9\uff1a\u30af\u30ea\u30a2\u30dd\u30fc\u30c1\n\u203b\u697d\u5929\u30d6\u30c3\u30af\u30b9\u30aa\u30ea\u30b8\u30ca\u30eb\u68b1\u5305\u300c\u914d\u9001\u30d1\u30c3\u30af\u300d\u306b\u3066\u914d\u9001\uff1a\u7279\u5225\u306a\u30c7\u30b6\u30a4\u30f3\u306e\u914d\u9001\u30d1\u30c3\u30b1\u30fc\u30b8\u3067\u304a\u5c4a\u3051\u81f4\u3057\u307e\u3059\u3002\u3053\u3053\u3067\u3057\u304b\u624b\u306b\u5165\u3089\u306a\u3044\u30c7\u30b6\u30a4\u30f3\u4ed5\u69d8\u3068\u306a\u308a\u307e\u3059\u3002\uff08\u30a2\u30ca\u30ed\u30b0\u30ec\u30b3\u30fc\u30c9\u306f\u914d\u9001\u30d1\u30c3\u30af\u5bfe\u8c61\u5916\u306e\u305f\u3081\u901a\u5e38\u68b1\u5305\u3067\u914d\u9001\uff09\n\u30fb\u30bb\u30d6\u30f3\u30cd\u30c3\u30c8\u30b7\u30e7\u30c3\u30d4\u30f3\u30b0\uff1a\u30c8\u30fc\u30c8\u578b\u30a8\u30b3\u30d0\u30c3\u30b0\n\u30fb\u30bf\u30ef\u30fc\u30ec\u30b3\u30fc\u30c9\uff1a\u30df\u30cb\u30cf\u30f3\u30ab\u30c1\u30bf\u30aa\u30eb\n\u30fbHMV\uff1a57mm\u7f36\u30de\u30b0\u30cd\u30c3\u30c8\n\u30fbTSUTAYA\uff1a\u30dd\u30b9\u30c8\u30ab\u30fc\u30c9\uff08TSUTAYA ver.\uff09\n\u30fb\u5c71\u91ce\u697d\u5668\uff1a\u30dd\u30b9\u30c8\u30ab\u30fc\u30c9\uff08\u5c71\u91ce\u697d\u5668 ver.\uff09\n\u30fb\u65b0\u661f\u5802WonderGOO\uff1a\u30dd\u30b9\u30c8\u30ab\u30fc\u30c9\uff08\u65b0\u661f\u5802WonderGOO ver.\uff09\n\u30fb\u30ef\u30fc\u30ca\u30fc\u30df\u30e5\u30fc\u30b8\u30c3\u30af\u30fb\u30b9\u30c8\u30a2\uff1a\u30dd\u30b9\u30c8\u30ab\u30fc\u30c9\uff08WMS ver.\uff09\n\u30fb\u62e0\u70b9\u5e97\uff1a\u30dd\u30b9\u30c8\u30ab\u30fc\u30c9\uff08\u62e0\u70b9\u5e97 ver.\uff09\u203b\u5bfe\u8c61\u5e97\u306f\u5f8c\u65e5\u767a\u8868\u3057\u307e\u3059\u3002\n\n\u203b\u4e00\u90e8\u306eCD\u30b7\u30e7\u30c3\u30d7\uff08\u304a\u3088\u3073\u30cd\u30c3\u30c8\u30b7\u30e7\u30c3\u30d4\u30f3\u30b0\u30b5\u30a4\u30c8\uff09\u3067\u306f\u7279\u5178\u30d7\u30ec\u30bc\u30f3\u30c8\u3092\u5b9f\u65bd\u3057\u3066\u3044\u306a\u3044\u5834\u5408\u304c\u3054\u3056\u3044\u307e\u3059\u3002\n\u203b\u4e00\u90e8\u306e\u30cd\u30c3\u30c8\u30b7\u30e7\u30c3\u30d4\u30f3\u30b0\u30b5\u30a4\u30c8\u3067\u306f\u3001\u300c\u7279\u5178\u4ed8\u304d\u300d\u3068\u300c\u7279\u5178\u306a\u3057\u300d\u306e\u30ab\u30fc\u30c8\u304c\u3054\u3056\u3044\u307e\u3059\u306e\u3067\u3054\u6ce8\u610f\u304f\u3060\u3055\u3044\u3002\n\u203b\u7279\u5178\u306f\u6570\u306b\u9650\u308a\u304c\u3054\u3056\u3044\u307e\u3059\u3002\u7121\u304f\u306a\u308a\u6b21\u7b2c\u7d42\u4e86\u3068\u306a\u308a\u307e\u3059\u306e\u3067\u3001\u304a\u65e9\u3081\u306e\u3054\u4e88\u7d04\u3092\u304a\u52e7\u3081\u3057\u307e\u3059\u3002\n\u203b\u7279\u5178\u306e\u6709\u7121\u306b\u95a2\u3059\u308b\u304a\u554f\u3044\u5408\u308f\u305b\u306f\u3001\u76f4\u63a5\u5404CD\u30b7\u30e7\u30c3\u30d7\uff08\u304a\u3088\u3073\u30cd\u30c3\u30c8\u30b7\u30e7\u30c3\u30d4\u30f3\u30b0\u30b5\u30a4\u30c8\uff09\u306b\u3066\u3054\u78ba\u8a8d\u304f\u3060\u3055\u3044\u3002\n\n\u3010Infomation\u3011\n\u7af9\u5185\u307e\u308a\u308445\u5468\u5e74 \u7279\u8a2d\u30b5\u30a4\u30c8\nhttps://mariya45th.jp/\n\u7af9\u5185\u307e\u308a\u308445\u5468\u5e74 \u30aa\u30d5\u30a3\u30b7\u30e3\u30ebFacebook\nhttps://www.facebook.com/mariya45th\n\u7af9\u5185\u307e\u308a\u308445\u5468\u5e74 \u30aa\u30d5\u30a3\u30b7\u30e3\u30ebX(\u65e7Twitter)\nhttps://twitter.com/mariya45th\n\n#\u7af9\u5185\u307e\u308a\u3084 #\u30d7\u30e9\u30b9\u30c6\u30a3\u30c3\u30af\u30e9\u30d6 #Plasticlove",
                 "thumbnails": {
                     "default": {
                         "url": "https://i.ytimg.com/vi/T_lC2O1oIew/default.jpg",
@@ -1509,7 +1509,54 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "ep4GK3_tKqqLTyVpKJozbCWA-oo",
+            "etag": "J2bMPBGFMo4vfnf4jMUP7f7IZSY",
+            "id": "UEw0TUVZdDBraUhaVk84c0xHcndCTmJ6N0F6UE5XWDlPTy40NjI5ODZCQUE5NkRBMDI0",
+            "snippet": {
+                "publishedAt": "2024-09-05T09:35:27Z",
+                "channelId": "UCNHE3OcC8G345-7rNgu-g9w",
+                "title": "TAEYEON \ud0dc\uc5f0 '\ubd88\ud2f0 (Spark)' MV",
+                "description": "TAEYEON\u2019s 2nd Full Album \"Purpose\u201d is out!\nListen and download on your favorite platform: https://smarturl.it/TY_Purpose\n\n[Tracklist]\n1. Here I Am\n2. \ubd88\ud2f0 (Spark)\n3. Find Me\n4. Love You Like Crazy\n5. \ud558\ud558\ud558 (LOL)\n6. Better Babe\n7. Wine\n8. Do You Love Me?\n9. City Love\n10. Gravity\n11. Blue\n12. \uc0ac\uacc4 (Four Seasons)\n\nTAEYEON Official\nhttp://www.youtube.com/GIRLSGENERATION\nhttp://www.facebook.com/girlsgeneration\nhttp://twitter.com/girlsgeneration\nhttps://www.instagram.com/girlsgeneration\n\n#TAEYEON #\ubd88\ud2f0 #Spark #\ud0dc\uc5f0\nTAEYEON \ud0dc\uc5f0 '\ubd88\ud2f0 (Spark)' MV \u2117\u00a9 SM ENTERTAINMENT",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/eP4ga_fNm-E/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/eP4ga_fNm-E/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/eP4ga_fNm-E/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/eP4ga_fNm-E/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/eP4ga_fNm-E/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "JSON Bourne",
+                "playlistId": "PL4MEYt0kiHZVO8sLGrwBNbz7AzPNWX9OO",
+                "position": 32,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "eP4ga_fNm-E"
+                },
+                "videoOwnerChannelTitle": "SMTOWN",
+                "videoOwnerChannelId": "UCEf_Bc-KVd7onSeifS3py9g"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "f1wQ4VB_uTFuVf6BISDone1V3dw",
             "id": "UEw0TUVZdDBraUhaVk84c0xHcndCTmJ6N0F6UE5XWDlPTy40NUU5MjUxOUU1MDRGQzM0",
             "snippet": {
                 "publishedAt": "2024-06-28T09:02:06Z",
@@ -1540,7 +1587,7 @@
                 },
                 "channelTitle": "JSON Bourne",
                 "playlistId": "PL4MEYt0kiHZVO8sLGrwBNbz7AzPNWX9OO",
-                "position": 32,
+                "position": 33,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "BDsuR22GQPQ"
@@ -1551,7 +1598,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "2PdPRk1NV9mC4-6xixdVTPYfAmM",
+            "etag": "nuKQFqnHBkutkELV1SRm3ymdWcc",
             "id": "UEw0TUVZdDBraUhaVk84c0xHcndCTmJ6N0F6UE5XWDlPTy5FMUU5ODU1MDE0RTk1Q0Ew",
             "snippet": {
                 "publishedAt": "2024-06-25T08:31:39Z",
@@ -1582,7 +1629,7 @@
                 },
                 "channelTitle": "JSON Bourne",
                 "playlistId": "PL4MEYt0kiHZVO8sLGrwBNbz7AzPNWX9OO",
-                "position": 33,
+                "position": 34,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "74LXx0wSqMI"
@@ -1593,7 +1640,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "c5BvgiHkiwyjExUrJwcAK2a9ldI",
+            "etag": "gE9FGEa6RvKjBdt-MzKVEpR8DT8",
             "id": "UEw0TUVZdDBraUhaVk84c0xHcndCTmJ6N0F6UE5XWDlPTy45NDk1REZENzhEMzU5MDQz",
             "snippet": {
                 "publishedAt": "2022-11-09T05:46:21Z",
@@ -1629,7 +1676,7 @@
                 },
                 "channelTitle": "JSON Bourne",
                 "playlistId": "PL4MEYt0kiHZVO8sLGrwBNbz7AzPNWX9OO",
-                "position": 34,
+                "position": 35,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "NNGd3uANaes"
@@ -1640,7 +1687,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "2bAxnWEBTFsU_XlxpGH_4FqQ5lQ",
+            "etag": "QNZMKI-SMmrIKoJfKq-XvKZBdSg",
             "id": "UEw0TUVZdDBraUhaVk84c0xHcndCTmJ6N0F6UE5XWDlPTy4yMzk0RjU2NDJBMzI5RDE2",
             "snippet": {
                 "publishedAt": "2024-07-03T10:23:47Z",
@@ -1676,7 +1723,7 @@
                 },
                 "channelTitle": "JSON Bourne",
                 "playlistId": "PL4MEYt0kiHZVO8sLGrwBNbz7AzPNWX9OO",
-                "position": 35,
+                "position": 36,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "Q-oM2BQ8Jow"
@@ -1687,7 +1734,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "P_gv9vy7G8w0xxTy6ND4XAampWY",
+            "etag": "STSNFsW_pT9bah0Ev_R5hhYLOhQ",
             "id": "UEw0TUVZdDBraUhaVk84c0xHcndCTmJ6N0F6UE5XWDlPTy43OTQxRDdENkQwNEZGMkQy",
             "snippet": {
                 "publishedAt": "2024-07-12T10:39:19Z",
@@ -1723,7 +1770,7 @@
                 },
                 "channelTitle": "JSON Bourne",
                 "playlistId": "PL4MEYt0kiHZVO8sLGrwBNbz7AzPNWX9OO",
-                "position": 36,
+                "position": 37,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "LBTdJHkAr5A"
@@ -1734,7 +1781,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "Jd0HCnXjG8nV6an7L40mBBndC2M",
+            "etag": "78iefPP0s6PSZpWFVvqkmGsidT4",
             "id": "UEw0TUVZdDBraUhaVk84c0xHcndCTmJ6N0F6UE5XWDlPTy5DQ0MyQ0Y4Mzg0M0VGOEYw",
             "snippet": {
                 "publishedAt": "2023-05-30T06:56:01Z",
@@ -1770,7 +1817,7 @@
                 },
                 "channelTitle": "JSON Bourne",
                 "playlistId": "PL4MEYt0kiHZVO8sLGrwBNbz7AzPNWX9OO",
-                "position": 37,
+                "position": 38,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "T_V76Dm42bY"
@@ -1781,7 +1828,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "cSdLDDn-DJfEf3H8EfM3-w_OmbQ",
+            "etag": "igSGOv22euR6lFrJ0LkRvuMlPfI",
             "id": "UEw0TUVZdDBraUhaVk84c0xHcndCTmJ6N0F6UE5XWDlPTy5FOTM0MjQ2Q0ZDQURDRUFE",
             "snippet": {
                 "publishedAt": "2024-07-12T10:25:27Z",
@@ -1817,7 +1864,7 @@
                 },
                 "channelTitle": "JSON Bourne",
                 "playlistId": "PL4MEYt0kiHZVO8sLGrwBNbz7AzPNWX9OO",
-                "position": 38,
+                "position": 39,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "VaKzNtwPQxE"
@@ -1828,7 +1875,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "2engRYirPqd4jxRAxje4m3f8rSc",
+            "etag": "bPYD4VAwKRvLtM2NHC09XDbxDys",
             "id": "UEw0TUVZdDBraUhaVk84c0xHcndCTmJ6N0F6UE5XWDlPTy4zODMyNzgxRTc3QzBBMjJE",
             "snippet": {
                 "publishedAt": "2024-07-18T11:20:00Z",
@@ -1859,7 +1906,7 @@
                 },
                 "channelTitle": "JSON Bourne",
                 "playlistId": "PL4MEYt0kiHZVO8sLGrwBNbz7AzPNWX9OO",
-                "position": 39,
+                "position": 40,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "3OC2aPCuzjo"
@@ -1870,7 +1917,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "NpjToSqXgHKjtU3Vy-CTCjnoxq8",
+            "etag": "g02ujvPweOCKNIv39INVNRgc8FU",
             "id": "UEw0TUVZdDBraUhaVk84c0xHcndCTmJ6N0F6UE5XWDlPTy5BRUVCN0E0MzEwQzAwNjMy",
             "snippet": {
                 "publishedAt": "2024-01-27T06:10:41Z",
@@ -1906,7 +1953,7 @@
                 },
                 "channelTitle": "JSON Bourne",
                 "playlistId": "PL4MEYt0kiHZVO8sLGrwBNbz7AzPNWX9OO",
-                "position": 40,
+                "position": 41,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "ukgvTE3A0Ic"
@@ -1917,7 +1964,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "_dcNB_GCNsTuRctuVnivA193SlQ",
+            "etag": "mz-dEQsOcu1EtsiqbHYSVFmtveQ",
             "id": "UEw0TUVZdDBraUhaVk84c0xHcndCTmJ6N0F6UE5XWDlPTy42ODgwQ0RBNTY1OTRERDQy",
             "snippet": {
                 "publishedAt": "2024-08-30T09:35:33Z",
@@ -1953,7 +2000,7 @@
                 },
                 "channelTitle": "JSON Bourne",
                 "playlistId": "PL4MEYt0kiHZVO8sLGrwBNbz7AzPNWX9OO",
-                "position": 41,
+                "position": 42,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "miomuSGoPzI"
@@ -1964,7 +2011,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "odpUbJNuOnQhWpVvmf7MWFZYIss",
+            "etag": "pUR3VWyXGbaQm2oE6eiEEVop658",
             "id": "UEw0TUVZdDBraUhaVk84c0xHcndCTmJ6N0F6UE5XWDlPTy5ENDU4Q0M4RDExNzM1Mjcy",
             "snippet": {
                 "publishedAt": "2022-12-19T04:40:27Z",
@@ -2000,7 +2047,7 @@
                 },
                 "channelTitle": "JSON Bourne",
                 "playlistId": "PL4MEYt0kiHZVO8sLGrwBNbz7AzPNWX9OO",
-                "position": 42,
+                "position": 43,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "4z9TdDCWN7g"
@@ -2011,7 +2058,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "12OTKjP_MtkVHfnSykHwCCgX7zg",
+            "etag": "44A2JF1sqpeL37VrSpNndX4SH4c",
             "id": "UEw0TUVZdDBraUhaVk84c0xHcndCTmJ6N0F6UE5XWDlPTy40MkJFNUMzMTJDNkVFQjEy",
             "snippet": {
                 "publishedAt": "2024-06-25T06:58:21Z",
@@ -2047,7 +2094,7 @@
                 },
                 "channelTitle": "JSON Bourne",
                 "playlistId": "PL4MEYt0kiHZVO8sLGrwBNbz7AzPNWX9OO",
-                "position": 43,
+                "position": 44,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "VZY6VPVH-PA"
@@ -2058,7 +2105,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "z5Ii12pLV7jIxycRTwlmLXZnlgI",
+            "etag": "whAz5apqkQ4WpjBeVgWDWOybI7s",
             "id": "UEw0TUVZdDBraUhaVk84c0xHcndCTmJ6N0F6UE5XWDlPTy5FQUY2Qzk4RUFDN0ZFRkZF",
             "snippet": {
                 "publishedAt": "2023-11-28T06:11:50Z",
@@ -2094,7 +2141,7 @@
                 },
                 "channelTitle": "JSON Bourne",
                 "playlistId": "PL4MEYt0kiHZVO8sLGrwBNbz7AzPNWX9OO",
-                "position": 44,
+                "position": 45,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "mX8rMMS-MbI"
@@ -2105,7 +2152,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "YeboOsVtAdn7JTP1e8yMR_r6l74",
+            "etag": "yW_Fo7xVZLKgi7H0yL6kOUVX7BE",
             "id": "UEw0TUVZdDBraUhaVk84c0xHcndCTmJ6N0F6UE5XWDlPTy4zMDg5MkQ5MEVDMEM1NTg2",
             "snippet": {
                 "publishedAt": "2022-11-22T11:18:53Z",
@@ -2141,7 +2188,7 @@
                 },
                 "channelTitle": "JSON Bourne",
                 "playlistId": "PL4MEYt0kiHZVO8sLGrwBNbz7AzPNWX9OO",
-                "position": 45,
+                "position": 46,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "3mMVcCMO_Ng"
@@ -2152,7 +2199,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "S3iAMIFI1fsJT4OfwE9q9Z-LPLA",
+            "etag": "BWeiQl5jPOOvDwYy7A7d5thHHg4",
             "id": "UEw0TUVZdDBraUhaVk84c0xHcndCTmJ6N0F6UE5XWDlPTy41RTNBREYwMkI5QzU3RkY2",
             "snippet": {
                 "publishedAt": "2023-10-19T04:10:53Z",
@@ -2188,7 +2235,7 @@
                 },
                 "channelTitle": "JSON Bourne",
                 "playlistId": "PL4MEYt0kiHZVO8sLGrwBNbz7AzPNWX9OO",
-                "position": 46,
+                "position": 47,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "PyZgym599bA"
@@ -2199,7 +2246,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "bmewIcqySt-P3lA6zN-lHaTpbpc",
+            "etag": "aOcDGKyjhhUZBB0G3i3LusOe-OY",
             "id": "UEw0TUVZdDBraUhaVk84c0xHcndCTmJ6N0F6UE5XWDlPTy5EMzdGRjBBQzVCNEY2NDhG",
             "snippet": {
                 "publishedAt": "2024-07-18T05:18:29Z",
@@ -2235,60 +2282,13 @@
                 },
                 "channelTitle": "JSON Bourne",
                 "playlistId": "PL4MEYt0kiHZVO8sLGrwBNbz7AzPNWX9OO",
-                "position": 47,
+                "position": 48,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "anNBvqzzbBk"
                 },
                 "videoOwnerChannelTitle": "Conor Maynard",
                 "videoOwnerChannelId": "UCpmD3iT-8TQzRuygIiS9bAw"
-            }
-        },
-        {
-            "kind": "youtube#playlistItem",
-            "etag": "7Ml4n6w-daXhb93hqQhwVc5ENww",
-            "id": "UEw0TUVZdDBraUhaVk84c0xHcndCTmJ6N0F6UE5XWDlPTy4xRDJGOTc4RkUxMzUwMUFG",
-            "snippet": {
-                "publishedAt": "2024-01-22T10:00:42Z",
-                "channelId": "UCNHE3OcC8G345-7rNgu-g9w",
-                "title": "Nightcore - To Be Human // lyrics",
-                "description": "\u265b SUBSCRIBE FOR JOINING TEAM BLAKE \u265b\n\u2583\u2583\u2583\u2583\u2583\u2583\u2583\u2583\u2583\u2583\u2583\u2583\u2583\u2583\u2583\u2583\u2583\u2583\u2583\u2583\u2583\u2583\u2583\u2583\n\n\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500 \u2718 SONG INFORMATION \u2718 \u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\n\u2606 Name \u27bc To Be Human\n\u2606 Artist \u27bc Marina\n\u2583\u2583\u2583\u2583\u2583\u2583\u2583\u2583\u2583\u2583\u2583\u2583\u2583\u2583\u2583\u2583\u2583\u2583\u2583\u2583\u2583\u2583\u2583\u2583\n\n\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500 \u2718 DOWNLOADS \u2718 \u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\n\u2606 Music \u27bc https://bit.ly/30hrm8A\n\u2606 Picture \u27bc https://bit.ly/2Mi9kA3\n\n\u2583\u2583\u2583\u2583\u2583\u2583\u2583\u2583\u2583\u2583\u2583\u2583\u2583\u2583\u2583\u2583\u2583\u2583\u2583\u2583\u2583\u2583\u2583\u2583\n\n\u2500\u2500\u2500\u2500\u2500\u2500\u2500 \u2718 SUPPORT THE ARTISTS \u2718 \u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\n\u272a MUSIC:\n Follow Marina!\n\u2606 http://www.marinaofficial.co.uk/ \n\u2606 https://www.instagram.com/marinadiama/\n\u2606 https://twitter.com/marinadiamandis \n\u2606 https://www.facebook.com/marinadiamandis \n\u2606 https://soundcloud.com/marinadiamandis\n\n\u2583\u2583\u2583\u2583\u2583\u2583\u2583\u2583\u2583\u2583\u2583\u2583\u2583\u2583\u2583\u2583\u2583\u2583\u2583\u2583\u2583\u2583\u2583\u2583\n\n\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500 \u2718 SOCIAL MEDIA \u2718 \u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\n\u2606 Facebook \u27bc https://www.facebook.com/ZenKunYT/\n\u2606 Youtube (2nd channel) \u27bc https://goo.gl/S7cnP9\n\n\u2583\u2583\u2583\u2583\u2583\u2583\u2583\u2583\u2583\u2583\u2583\u2583\u2583\u2583\u2583\u2583\u2583\u2583\u2583\u2583\u2583\u2583\u2583\u2583\n\n\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500 \u2718 LYRICS \u2718 \u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\n[Verse 1]\nThe pagodas and the palaces\nDressed in gold leaf, hide the damages\nSpot the Geisha as she balances\nLife's a cakewalk, full of challenges\nGo to Russia, see the Red Square\nLenin's body lying dead there\nFrom Kyoto, Hiroshima\nWatch the black cloud crawling nearer\n\n[Pre-Chorus 1]\nThere were riots in America\nJust when things were getting better\nAll the things I've done and seen\nStill I don't know what life means\n\n[Chorus]\nAll the people living in, living in the world today\nWe're united by our love, we're united by our pain (Ooh)\nAll the things that I've done and I've seen\nStill, I don't know, don't know what it means\n\n[Verse 2]\nFly to Athens, pass the Parthenon\nSee the village where my father's from\nTo Chicago from Angola\nS\u00e3o Paulo to Verona\n\n[Pre-Chorus 2]\nAnd anywhere you go, you'll see (Ooh)\nPeople are just like you and me (Ooh)\nAll the things I've done and seen\nStill, I don't know what life means\n\n[Chorus]\nAll the people living in, living in the world today\nWe're united by our love, we're united by our pain (Ooh)\nAll the things that I've done and I've seen\nStill, I don't know, don't know what it means\nTo be human\n(Oh-oh-oh-oh-oh, oh-oh, oh-oh)\n(Oh-oh-oh-oh-oh, oh-oh, oh-oh)\nStill, I don't know, don't know what it means\nTo be human, a real human being\n\n[Bridge]\nI like to think about how we all look from afar\nPeople driving fancy cars look like beetles to the stars\nThe missiles and the bombs sound like symphonies gone wrong\nAnd if there is a God, they'll know why it's so hard\n\n[Chorus]\nTo be human\n(Oh-oh-oh-oh-oh, oh-oh, oh-oh)\n(Oh-oh-oh-oh-oh, oh-oh, oh-oh)\nTo be human\nStill, I don't know, don't know what it means\nTo be human, a real human being\n\n[Outro]\n(To be human)\nI want connection, ooh\nI wanna feel human again\n(To be human)\nLost my direction, ooh\nI wanna feel human again\nTo be human, to be human\nTo be human, to be human\n\n\u2583\u2583\u2583\u2583\u2583\u2583\u2583\u2583\u2583\u2583\u2583\u2583\u2583\u2583\u2583\u2583\u2583\u2583\u2583\u2583\u2583\u2583\u2583\u2583\n\n\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500 \u2718 TAGS \u2718 \u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\n#nightcore #tobehuman #marina #lyrics\n#blakearmy #teamzen\n\n\u2583\u2583\u2583\u2583\u2583\u2583\u2583\u2583\u2583\u2583\u2583\u2583\u2583\u2583\u2583\u2583\u2583\u2583\u2583\u2583\u2583\u2583\u2583\u2583\n\n\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500 \u2718 DISCLAIMER \u2718 \u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\n\u2606 If you are the creator of this song or the owner of\nthe pictures and you don't want me to use them in my \nvideo, email me and I'll take it down\n\u2606 crazynightcores@gmail.com\n\n\u2583\u2583\u2583\u2583\u2583\u2583\u2583\u2583\u2583\u2583\u2583\u2583\u2583\u2583\u2583\u2583\u2583\u2583\u2583\u2583\u2583\u2583\u2583\u2583\n\nTHANKS FOR WATCHING!",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/fJoOAbyMQG8/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/fJoOAbyMQG8/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/fJoOAbyMQG8/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    },
-                    "standard": {
-                        "url": "https://i.ytimg.com/vi/fJoOAbyMQG8/sddefault.jpg",
-                        "width": 640,
-                        "height": 480
-                    },
-                    "maxres": {
-                        "url": "https://i.ytimg.com/vi/fJoOAbyMQG8/maxresdefault.jpg",
-                        "width": 1280,
-                        "height": 720
-                    }
-                },
-                "channelTitle": "JSON Bourne",
-                "playlistId": "PL4MEYt0kiHZVO8sLGrwBNbz7AzPNWX9OO",
-                "position": 48,
-                "resourceId": {
-                    "kind": "youtube#video",
-                    "videoId": "fJoOAbyMQG8"
-                },
-                "videoOwnerChannelTitle": "Blake",
-                "videoOwnerChannelId": "UCSA581G_LT7av-ZX_Fn8nIg"
             }
         },
         {
@@ -2340,7 +2340,7 @@
         }
     ],
     "pageInfo": {
-        "totalResults": 242,
+        "totalResults": 250,
         "resultsPerPage": 50
     }
 }
