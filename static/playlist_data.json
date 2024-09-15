@@ -1,11 +1,11 @@
 {
     "kind": "youtube#playlistItemListResponse",
-    "etag": "sExKWCDsCwCXC6Ud3s6gotr_rQQ",
-    "nextPageToken": "EAAajQFQVDpDRElpRURGRU1rWTVOemhHUlRFek5UQXhRVVlvQVVqRmhjYVd3S3VJQTFBQldrUWlRMmxLVVZSRVVrNVNWbXd3VFVkMGNGTkdjRmRVZW1oNlZFVmtlV1F3U2s5WmJtOHpVVmh3VVZSc1pGbFBWVGxRUldkelNUUlFZbXgwWjFsUmFVdFBNR1ZuSWc",
+    "etag": "YtQG81zLsiYZc_qEtHePbVbcm84",
+    "nextPageToken": "EAAajQFQVDpDRElpRUVRek4wWkdNRUZETlVJMFJqWTBPRVlvQVVqSmlybTB0TDJJQTFBQldrUWlRMmxLVVZSRVVrNVNWbXd3VFVkMGNGTkdjRmRVZW1oNlZFVmtlV1F3U2s5WmJtOHpVVmh3VVZSc1pGbFBWVGxRUldkelNUbGlNa3gwZDFsUmNVdGhPVU4zSWc",
     "items": [
         {
             "kind": "youtube#playlistItem",
-            "etag": "-Kz8C3B6FsRbOu3DoMp9uKOOqLI",
+            "etag": "6Pp8HrmGoHPwU-aWWtx7x4DPeso",
             "id": "UEw0TUVZdDBraUhaVk84c0xHcndCTmJ6N0F6UE5XWDlPTy5CMUM0NzY5NzdEQzlGRjAx",
             "snippet": {
                 "publishedAt": "2023-12-07T09:34:19Z",
@@ -52,7 +52,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "1CxsQqN_RZ11Pma_7bdkB68UaQM",
+            "etag": "IZegJbhchvPzIl4LIS2DrIH2Ar4",
             "id": "UEw0TUVZdDBraUhaVk84c0xHcndCTmJ6N0F6UE5XWDlPTy5ENjg2QjQ3OTVDOUE2QzYw",
             "snippet": {
                 "publishedAt": "2024-07-04T11:56:37Z",
@@ -99,7 +99,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "ogVJqOW6aPS-uKHiVIBdOL5e6jE",
+            "etag": "92vm6KR00uP7QYjWefROcpa58jE",
             "id": "UEw0TUVZdDBraUhaVk84c0xHcndCTmJ6N0F6UE5XWDlPTy45NDIzMEVBNjk5NTFGRDZC",
             "snippet": {
                 "publishedAt": "2024-05-23T09:54:13Z",
@@ -146,7 +146,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "dkTWjM1mjZS3m_wyyX3cc-CI4eg",
+            "etag": "vuY-Q-OeZ_ES5c3LIUoPWtQORzU",
             "id": "UEw0TUVZdDBraUhaVk84c0xHcndCTmJ6N0F6UE5XWDlPTy4xMkVGQjNCMUM1N0RFNEUx",
             "snippet": {
                 "publishedAt": "2022-10-13T09:06:15Z",
@@ -193,7 +193,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "YbEiZ_0st4Q5GEeSlny3gKt89R8",
+            "etag": "xeE2uoQK0WcO2S5uhP3xX5sabCU",
             "id": "UEw0TUVZdDBraUhaVk84c0xHcndCTmJ6N0F6UE5XWDlPTy5DODY2Qzc5Mzc1QkZEQ0NF",
             "snippet": {
                 "publishedAt": "2024-03-01T04:45:16Z",
@@ -240,7 +240,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "zmPQb9L-9TZpx6drsvl16SIloOk",
+            "etag": "qYLWQfogiiTeBJPph-sZk1SUmL8",
             "id": "UEw0TUVZdDBraUhaVk84c0xHcndCTmJ6N0F6UE5XWDlPTy41NEI5MkYxNzc0MDczQUUw",
             "snippet": {
                 "publishedAt": "2024-07-05T07:25:42Z",
@@ -287,7 +287,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "hyaEYvrMhqt5-wpdnuTX2NpClHQ",
+            "etag": "DG6Jaic0p3-KikuHnnXKIlt4Y_Y",
             "id": "UEw0TUVZdDBraUhaVk84c0xHcndCTmJ6N0F6UE5XWDlPTy5DNzE1RjZEMUZCMjA0RDBB",
             "snippet": {
                 "publishedAt": "2023-04-12T11:47:05Z",
@@ -334,13 +334,13 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "iUg22h7hE0MgQkuxS3b54Bb2xVM",
+            "etag": "FKMoxrYTomSA51YwUh4bFET8XuE",
             "id": "UEw0TUVZdDBraUhaVk84c0xHcndCTmJ6N0F6UE5XWDlPTy45NzUwQkI1M0UxNThBMkU0",
             "snippet": {
                 "publishedAt": "2023-02-07T09:32:31Z",
                 "channelId": "UCNHE3OcC8G345-7rNgu-g9w",
                 "title": "Caravan Palace - Lone Digger (Official MV)",
-                "description": "\ud83d\udcc0 Preorder our new album: https://caravanpalace.ffm.to/gmclub\n\ud83c\udfab Come see us live: http://www.caravanpalace.com/tour \n\ud83d\udd14 Subscribe to our channel and click the bell to activate notifications: http://bit.ly/2gvdiok\n\nLYRICS:\nHey brotha what you thinkin' \n\rLeave that old record spinnin\u2019\nYou feel the rhythm going\n\rLegs ain't got time to lay low\n\rYour knees are bending so\n\rIt's time to get up and let go\r\n\n\nHey Mama, how is it going ?\n\rCan\u2019t see your body movin\nDon\u2019t leave the party dyin\u2019\nKeep booty shaking you know\n\rYour head has no right to say \"no\"\n\rTonight it\u2019s \"ready, set, go!\"\n\n\r\rBaby can you move around the rhythm, so we can get with em,\nJump around, and get us a rock\u2019n roll round\nWhats the count down, body body,\nComin with a super hotty\nLet\u2019s go, real slow, hell no\u2026\r\n\nBaby can you move around the rhythm\ncause you know we\u2019re livin in the fast lane,\nSpeed up it ain\u2019t no game\n\rJust turn up all the beams when I come up on the scene\r\n\nHey Brotha what you thinkin'\nThat good ol\u2019 sound is ringin\n\rThey don\u2019t know what they\u2019re missin\u2019\nLegs ain't got time to lay low\nYour knees are bending so\nIt's time to get up and let go\r\nHey Brotha nice and steady\nPut down your drink, you\u2019re ready\nIt\u2019s hot when things get messy\nKeep booty shaking you know\nYour head has no right to say \"no\"\nTonight it\u2019s \"ready, set, go!\"\n\nBaby can you move around the rhythm\ncause you know we\u2019re livin in the fast lane,\nSpeed up it ain\u2019t no game\n\rJust turn up all the beams when I come up on the scene\n\rFollow us: \nhttp://www.facebook.com/CaravanPalace \nhttp://www.caravanpalace.com/ \nhttps://twitter.com/caravanpalace \nhttps://www.instagram.com/caravanpalace/\n\n\nVIDEO CREDITS:\n\nDirector: Double Ninja (doubleninja.com)\nProduction Company: Cumulus (agence-cumulus.com)\nExecutive Producers: Thomas Vernay and Yann Wallaert\nAssistant Director: J\u00e9r\u00e9mie Balais\nArt Director: Double Ninja\nAnimation: J\u00e9r\u00e9mie Balais and Jeff le Bars\nIllustration: J\u00e9r\u00e9mie Balais\nEditing: Thomas Vernay\n\nCe vid\u00e9oclip a b\u00e9n\u00e9fici\u00e9 du soutien de la SACEM",
+                "description": "\ud83d\udcc0 get our latest album: https://caravanpalace.ffm.to/gmclub\n\ud83c\udfab Come see us live: http://www.caravanpalace.com/tour \n\ud83d\udd14 Subscribe to our channel and click the bell to activate notifications: http://bit.ly/2gvdiok\n\nLYRICS:\nHey brotha what you thinkin' \n\rLeave that old record spinnin\u2019\nYou feel the rhythm going\n\rLegs ain't got time to lay low\n\rYour knees are bending so\n\rIt's time to get up and let go\r\n\n\nHey Mama, how is it going ?\n\rCan\u2019t see your body movin\nDon\u2019t leave the party dyin\u2019\nKeep booty shaking you know\n\rYour head has no right to say \"no\"\n\rTonight it\u2019s \"ready, set, go!\"\n\n\r\rBaby can you move around the rhythm, so we can get with em,\nJump around, and get us a rock\u2019n roll round\nWhats the count down, body body,\nComin with a super hotty\nLet\u2019s go, real slow, hell no\u2026\r\n\nBaby can you move around the rhythm\ncause you know we\u2019re livin in the fast lane,\nSpeed up it ain\u2019t no game\n\rJust turn up all the beams when I come up on the scene\r\n\nHey Brotha what you thinkin'\nThat good ol\u2019 sound is ringin\n\rThey don\u2019t know what they\u2019re missin\u2019\nLegs ain't got time to lay low\nYour knees are bending so\nIt's time to get up and let go\r\nHey Brotha nice and steady\nPut down your drink, you\u2019re ready\nIt\u2019s hot when things get messy\nKeep booty shaking you know\nYour head has no right to say \"no\"\nTonight it\u2019s \"ready, set, go!\"\n\nBaby can you move around the rhythm\ncause you know we\u2019re livin in the fast lane,\nSpeed up it ain\u2019t no game\n\rJust turn up all the beams when I come up on the scene\n\rFollow us: \nhttp://www.facebook.com/CaravanPalace \nhttp://www.caravanpalace.com/ \nhttps://twitter.com/caravanpalace \nhttps://www.instagram.com/caravanpalace/\n\n\nVIDEO CREDITS:\n\nDirector: Double Ninja (doubleninja.com)\nProduction Company: Cumulus (agence-cumulus.com)\nExecutive Producers: Thomas Vernay and Yann Wallaert\nAssistant Director: J\u00e9r\u00e9mie Balais\nArt Director: Double Ninja\nAnimation: J\u00e9r\u00e9mie Balais and Jeff le Bars\nIllustration: J\u00e9r\u00e9mie Balais\nEditing: Thomas Vernay\n\nCe vid\u00e9oclip a b\u00e9n\u00e9fici\u00e9 du soutien de la SACEM",
                 "thumbnails": {
                     "default": {
                         "url": "https://i.ytimg.com/vi/UbQgXeY_zi4/default.jpg",
@@ -381,7 +381,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "sRZx6SXpl_mkvZKlTcmRqy2DjD8",
+            "etag": "UCusO6qvPfROy3h-he046kkbLyk",
             "id": "UEw0TUVZdDBraUhaVk84c0xHcndCTmJ6N0F6UE5XWDlPTy41NkI0NEY2RDEwNTU3Q0M2",
             "snippet": {
                 "publishedAt": "2022-10-05T09:16:22Z",
@@ -428,7 +428,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "fJ9McQFZsJPoBR4I5rRfRzBhie8",
+            "etag": "cGCX1xhU4YoUhMs1mGh27me9b2Q",
             "id": "UEw0TUVZdDBraUhaVk84c0xHcndCTmJ6N0F6UE5XWDlPTy41RjU0OTVCQThDNUUwQzBD",
             "snippet": {
                 "publishedAt": "2024-05-27T09:45:46Z",
@@ -475,7 +475,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "q9m10WI5T65lt3Ts5oNcBsyDhFM",
+            "etag": "p0NK2xaDeBu9U-OcI6MDx4MEyd8",
             "id": "UEw0TUVZdDBraUhaVk84c0xHcndCTmJ6N0F6UE5XWDlPTy5EMUJFNzRCNDRFQjE5RjM4",
             "snippet": {
                 "publishedAt": "2023-12-19T05:42:20Z",
@@ -522,7 +522,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "t9SNV8kUQFDgREwpZlCbERJGH8U",
+            "etag": "lmm24HWtfrbD0cXfxQCFqgqdLQ8",
             "id": "UEw0TUVZdDBraUhaVk84c0xHcndCTmJ6N0F6UE5XWDlPTy43RjU3NEIyMjFBMEIxQ0ZF",
             "snippet": {
                 "publishedAt": "2024-07-05T04:15:13Z",
@@ -569,7 +569,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "dYTI0xvFAu-IKl0XhPMS7SwPI8s",
+            "etag": "HCA85GLmO8a4-PfD60tVrQeS1eI",
             "id": "UEw0TUVZdDBraUhaVk84c0xHcndCTmJ6N0F6UE5XWDlPTy4yODlGNEE0NkRGMEEzMEQy",
             "snippet": {
                 "publishedAt": "2022-10-05T09:39:23Z",
@@ -710,7 +710,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "4fqNnWJy6lMskAOv3mLq5NkXSEM",
+            "etag": "CIaF9xo-hIV5amiLeUgrkBGYkPA",
             "id": "UEw0TUVZdDBraUhaVk84c0xHcndCTmJ6N0F6UE5XWDlPTy5DNzNDRDE1NzhGODQzODI2",
             "snippet": {
                 "publishedAt": "2024-06-04T09:16:06Z",
@@ -757,7 +757,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "rBEexje9j-QNjYrs124sLMnavaI",
+            "etag": "rE_4_74IxZReaLlUXa5ueRW4Vlg",
             "id": "UEw0TUVZdDBraUhaVk84c0xHcndCTmJ6N0F6UE5XWDlPTy4zMzg4MjBBNzZCQzY5MDk4",
             "snippet": {
                 "publishedAt": "2024-07-26T03:23:40Z",
@@ -804,7 +804,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "klOo061ch6uFlPHO8vFkGEKvBjs",
+            "etag": "3CzW7UfottXGajJm5T5wTZPMIe8",
             "id": "UEw0TUVZdDBraUhaVk84c0xHcndCTmJ6N0F6UE5XWDlPTy4yMkNBN0M4QUJEQzYxMjA3",
             "snippet": {
                 "publishedAt": "2024-06-21T11:21:47Z",
@@ -851,7 +851,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "AuTr_xPO3Zpd-2U656J2AGC0kJE",
+            "etag": "FRM-WcK7Z9bYZdcT5-6XnU5PkA4",
             "id": "UEw0TUVZdDBraUhaVk84c0xHcndCTmJ6N0F6UE5XWDlPTy45REM1NzQ1MDM2OUZDNDMx",
             "snippet": {
                 "publishedAt": "2024-08-13T12:58:53Z",
@@ -898,7 +898,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "zUzMSGSl9usCA59nNrK4yggnm0o",
+            "etag": "EP1DQSMdJVHN9Ue_24IJN1tauRg",
             "id": "UEw0TUVZdDBraUhaVk84c0xHcndCTmJ6N0F6UE5XWDlPTy5FRDc0QkQxMzlEMTZBMzg0",
             "snippet": {
                 "publishedAt": "2024-08-13T09:45:27Z",
@@ -945,7 +945,54 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "excqXCbeECc8LFsFCVkMrQbJYrA",
+            "etag": "-ULJVFxc-PUiuQKw0LvgKSRjTlU",
+            "id": "UEw0TUVZdDBraUhaVk84c0xHcndCTmJ6N0F6UE5XWDlPTy4yRjU0MzcwMkYwRkVDNDhC",
+            "snippet": {
+                "publishedAt": "2024-09-12T06:00:59Z",
+                "channelId": "UCNHE3OcC8G345-7rNgu-g9w",
+                "title": "Lil Dicky - Molly feat. Brendon Urie (Official Video)",
+                "description": "PENITH is here!!! Listen: https://LilDicky.lnk.to/PenithID\n\nLatest video off of Lil Dicky's debut album \"Professional Rapper.\" \nGet Professional Rapper:\niTunes \u25ba http://smarturl.it/LilDickyiTunes \nAmazon \u25ba http://smarturl.it/lildickyamazon\nGoogle Play \u25ba http://smarturl.it/LildickyGooglePlay\nSpotify \u25bahttp://smarturl.it/LilDickySpotify\nOfficial Website \u25bahttp://lildicky.com\n\nDirector\nJames Lees\n\nWritten By\nBrian Vannucci\nDavid Burd\n\nExecutive Producer\nDanielle Hinde\n\nProducer\nMark McCune\n\nDP\nKate Arizmendi\n\nMake Up/Hair\nKevianno\n\nStylist\nChristina Flannery\n\nProduction Designer\nParis Pickard\n\nBride\nIsabelle Loeb\n\nEditor\nBrian Vannucci\n\nColorist\nRicky Gausis/MPC\n\nVFX\nBemo\n\nSound Mix\nAlex Reeves\n\nSong produced by Yuri Beats\nSong Mixed by Rob Kinelski at The Fortress of Amplitude\nAssistant Engineer: David Baker\nCategory\nMusic\nLicense\nStandard YouTube License",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/UZkVqLjGM_I/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/UZkVqLjGM_I/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/UZkVqLjGM_I/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/UZkVqLjGM_I/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/UZkVqLjGM_I/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "JSON Bourne",
+                "playlistId": "PL4MEYt0kiHZVO8sLGrwBNbz7AzPNWX9OO",
+                "position": 20,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "UZkVqLjGM_I"
+                },
+                "videoOwnerChannelTitle": "Lil Dicky",
+                "videoOwnerChannelId": "UC8rVJyj4zE0S9-sccMLifIA"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "6RLLnU0yYWWKD3zQBfysA5RREmg",
             "id": "UEw0TUVZdDBraUhaVk84c0xHcndCTmJ6N0F6UE5XWDlPTy4wNjIzRDA1OTQ2M0UyODEw",
             "snippet": {
                 "publishedAt": "2024-04-10T06:18:01Z",
@@ -981,7 +1028,7 @@
                 },
                 "channelTitle": "JSON Bourne",
                 "playlistId": "PL4MEYt0kiHZVO8sLGrwBNbz7AzPNWX9OO",
-                "position": 20,
+                "position": 21,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "aezstCBHOPQ"
@@ -992,7 +1039,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "HJn2lHumgKPw5zr0ple6aWwredM",
+            "etag": "H2pz4h2eqKYeCNuuaD5tWZpbwM4",
             "id": "UEw0TUVZdDBraUhaVk84c0xHcndCTmJ6N0F6UE5XWDlPTy5EQTkxMkVFODRENEJBMERF",
             "snippet": {
                 "publishedAt": "2024-07-18T17:11:44Z",
@@ -1028,7 +1075,7 @@
                 },
                 "channelTitle": "JSON Bourne",
                 "playlistId": "PL4MEYt0kiHZVO8sLGrwBNbz7AzPNWX9OO",
-                "position": 21,
+                "position": 22,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "OBqw818mQ1E"
@@ -1039,7 +1086,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "QjOSIgbPuXnMgXWVVK-rYJE6vn4",
+            "etag": "7py5l70NJ3PXJ85PamoOZzqrzDY",
             "id": "UEw0TUVZdDBraUhaVk84c0xHcndCTmJ6N0F6UE5XWDlPTy5GOUJEOERGNDg1N0QyNDA3",
             "snippet": {
                 "publishedAt": "2024-07-24T08:45:36Z",
@@ -1075,7 +1122,7 @@
                 },
                 "channelTitle": "JSON Bourne",
                 "playlistId": "PL4MEYt0kiHZVO8sLGrwBNbz7AzPNWX9OO",
-                "position": 22,
+                "position": 23,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "Py9paavgZ-0"
@@ -1086,7 +1133,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "BYvxwPIuefg7nYBDtEk5_H9Mtv8",
+            "etag": "jMJJbsmuz9C-RNDtMBcip3jCuu0",
             "id": "UEw0TUVZdDBraUhaVk84c0xHcndCTmJ6N0F6UE5XWDlPTy42RDgxQ0M2OUIwREZCNjZF",
             "snippet": {
                 "publishedAt": "2024-03-01T03:21:04Z",
@@ -1122,7 +1169,7 @@
                 },
                 "channelTitle": "JSON Bourne",
                 "playlistId": "PL4MEYt0kiHZVO8sLGrwBNbz7AzPNWX9OO",
-                "position": 23,
+                "position": 24,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "d0RmRJsgP28"
@@ -1133,7 +1180,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "llanEHIXjGkqF3_U-vDTSX1RZ18",
+            "etag": "X4Ld7maY2QqaZov818VSV-xbvoU",
             "id": "UEw0TUVZdDBraUhaVk84c0xHcndCTmJ6N0F6UE5XWDlPTy45MEI3NjgzMTVFQkZGODYx",
             "snippet": {
                 "publishedAt": "2024-02-07T04:17:55Z",
@@ -1169,7 +1216,7 @@
                 },
                 "channelTitle": "JSON Bourne",
                 "playlistId": "PL4MEYt0kiHZVO8sLGrwBNbz7AzPNWX9OO",
-                "position": 24,
+                "position": 25,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "s5dhDn3R0A0"
@@ -1180,7 +1227,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "AjSOPFS03aVjv_gmeolJJ9be_eA",
+            "etag": "E4R0lq8NRz5zYnhs__VV28iJ-3k",
             "id": "UEw0TUVZdDBraUhaVk84c0xHcndCTmJ6N0F6UE5XWDlPTy5GM0Q3M0MzMzY5NTJFNTdE",
             "snippet": {
                 "publishedAt": "2023-01-17T04:13:12Z",
@@ -1216,7 +1263,7 @@
                 },
                 "channelTitle": "JSON Bourne",
                 "playlistId": "PL4MEYt0kiHZVO8sLGrwBNbz7AzPNWX9OO",
-                "position": 25,
+                "position": 26,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "p856dtR4mms"
@@ -1227,7 +1274,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "QRn8ke2paJmrBoW72FmbJQuzh8w",
+            "etag": "eBvvn3bKBdbTmh9liL8R5NIK94I",
             "id": "UEw0TUVZdDBraUhaVk84c0xHcndCTmJ6N0F6UE5XWDlPTy43ODA2MDVCQzY5QzZDMjUw",
             "snippet": {
                 "publishedAt": "2023-12-22T09:54:20Z",
@@ -1263,7 +1310,7 @@
                 },
                 "channelTitle": "JSON Bourne",
                 "playlistId": "PL4MEYt0kiHZVO8sLGrwBNbz7AzPNWX9OO",
-                "position": 26,
+                "position": 27,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "cRLSKh5ridA"
@@ -1274,7 +1321,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "dKNnSlh8yJbTV09fecEHudmqgy8",
+            "etag": "q1zufQhtuSTsoiCZXATrQsqzMbQ",
             "id": "UEw0TUVZdDBraUhaVk84c0xHcndCTmJ6N0F6UE5XWDlPTy5ENEEyOTIwNkY4NzFGMkQ2",
             "snippet": {
                 "publishedAt": "2024-01-15T05:22:47Z",
@@ -1310,7 +1357,7 @@
                 },
                 "channelTitle": "JSON Bourne",
                 "playlistId": "PL4MEYt0kiHZVO8sLGrwBNbz7AzPNWX9OO",
-                "position": 27,
+                "position": 28,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "GCWl50HQZIM"
@@ -1321,7 +1368,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "dQj_kPyRFf3qTPknMJedv6NKd8k",
+            "etag": "lHmewDb34W3Xcj3Y7qio1U4RZLQ",
             "id": "UEw0TUVZdDBraUhaVk84c0xHcndCTmJ6N0F6UE5XWDlPTy42NEZDNTU0RTRENDUzRjMz",
             "snippet": {
                 "publishedAt": "2024-01-15T06:56:30Z",
@@ -1357,7 +1404,7 @@
                 },
                 "channelTitle": "JSON Bourne",
                 "playlistId": "PL4MEYt0kiHZVO8sLGrwBNbz7AzPNWX9OO",
-                "position": 28,
+                "position": 29,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "yHV04eSGzAA"
@@ -1368,7 +1415,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "ImdJO3iDGu72lDu_dJXGYe8RlSE",
+            "etag": "yA-bY2yjtsDy8bQ6GjKTEZKqqko",
             "id": "UEw0TUVZdDBraUhaVk84c0xHcndCTmJ6N0F6UE5XWDlPTy5DRUQwODMxQzUyRTlGRkY3",
             "snippet": {
                 "publishedAt": "2023-09-25T08:51:04Z",
@@ -1404,7 +1451,7 @@
                 },
                 "channelTitle": "JSON Bourne",
                 "playlistId": "PL4MEYt0kiHZVO8sLGrwBNbz7AzPNWX9OO",
-                "position": 29,
+                "position": 30,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "aVpJGGQHSqc"
@@ -1415,7 +1462,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "wbAueY5hUE6KEnP6DS1MVkDNoCY",
+            "etag": "vE0rSvLPXu43ARWELhrHH-bepzo",
             "id": "UEw0TUVZdDBraUhaVk84c0xHcndCTmJ6N0F6UE5XWDlPTy5DQzY2RDZFRUQyRDlDQkMw",
             "snippet": {
                 "publishedAt": "2024-06-18T06:37:11Z",
@@ -1451,7 +1498,7 @@
                 },
                 "channelTitle": "JSON Bourne",
                 "playlistId": "PL4MEYt0kiHZVO8sLGrwBNbz7AzPNWX9OO",
-                "position": 30,
+                "position": 31,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "T_lC2O1oIew"
@@ -1462,7 +1509,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "GpdnaVc6XnNEJOOaZrAPlgyC3mo",
+            "etag": "64Li9L4WLamobx2Yb0PXr86yz4U",
             "id": "UEw0TUVZdDBraUhaVk84c0xHcndCTmJ6N0F6UE5XWDlPTy5EMzJDRTUwQjBEOUVFQzAw",
             "snippet": {
                 "publishedAt": "2023-12-06T11:29:51Z",
@@ -1498,7 +1545,7 @@
                 },
                 "channelTitle": "JSON Bourne",
                 "playlistId": "PL4MEYt0kiHZVO8sLGrwBNbz7AzPNWX9OO",
-                "position": 31,
+                "position": 32,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "K0-ucWKiTps"
@@ -1509,7 +1556,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "J2bMPBGFMo4vfnf4jMUP7f7IZSY",
+            "etag": "XuuDW4ufSTwmPpOpNLU6WBy_p4Y",
             "id": "UEw0TUVZdDBraUhaVk84c0xHcndCTmJ6N0F6UE5XWDlPTy40NjI5ODZCQUE5NkRBMDI0",
             "snippet": {
                 "publishedAt": "2024-09-05T09:35:27Z",
@@ -1545,7 +1592,7 @@
                 },
                 "channelTitle": "JSON Bourne",
                 "playlistId": "PL4MEYt0kiHZVO8sLGrwBNbz7AzPNWX9OO",
-                "position": 32,
+                "position": 33,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "eP4ga_fNm-E"
@@ -1556,7 +1603,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "f1wQ4VB_uTFuVf6BISDone1V3dw",
+            "etag": "o74gAWY05eZxer0PI3rePVyhCjo",
             "id": "UEw0TUVZdDBraUhaVk84c0xHcndCTmJ6N0F6UE5XWDlPTy40NUU5MjUxOUU1MDRGQzM0",
             "snippet": {
                 "publishedAt": "2024-06-28T09:02:06Z",
@@ -1587,7 +1634,7 @@
                 },
                 "channelTitle": "JSON Bourne",
                 "playlistId": "PL4MEYt0kiHZVO8sLGrwBNbz7AzPNWX9OO",
-                "position": 33,
+                "position": 34,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "BDsuR22GQPQ"
@@ -1598,7 +1645,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "nuKQFqnHBkutkELV1SRm3ymdWcc",
+            "etag": "so23t17Rwsx1IjXzHTW06dc8Xz0",
             "id": "UEw0TUVZdDBraUhaVk84c0xHcndCTmJ6N0F6UE5XWDlPTy5FMUU5ODU1MDE0RTk1Q0Ew",
             "snippet": {
                 "publishedAt": "2024-06-25T08:31:39Z",
@@ -1629,7 +1676,7 @@
                 },
                 "channelTitle": "JSON Bourne",
                 "playlistId": "PL4MEYt0kiHZVO8sLGrwBNbz7AzPNWX9OO",
-                "position": 34,
+                "position": 35,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "74LXx0wSqMI"
@@ -1640,7 +1687,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "gE9FGEa6RvKjBdt-MzKVEpR8DT8",
+            "etag": "bY7rEP3gGLDxv3OZ8A9RKBdqM68",
             "id": "UEw0TUVZdDBraUhaVk84c0xHcndCTmJ6N0F6UE5XWDlPTy45NDk1REZENzhEMzU5MDQz",
             "snippet": {
                 "publishedAt": "2022-11-09T05:46:21Z",
@@ -1676,7 +1723,7 @@
                 },
                 "channelTitle": "JSON Bourne",
                 "playlistId": "PL4MEYt0kiHZVO8sLGrwBNbz7AzPNWX9OO",
-                "position": 35,
+                "position": 36,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "NNGd3uANaes"
@@ -1687,7 +1734,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "QNZMKI-SMmrIKoJfKq-XvKZBdSg",
+            "etag": "g7rN_zvLf9qnHvyEsc-7ZTdfxEw",
             "id": "UEw0TUVZdDBraUhaVk84c0xHcndCTmJ6N0F6UE5XWDlPTy4yMzk0RjU2NDJBMzI5RDE2",
             "snippet": {
                 "publishedAt": "2024-07-03T10:23:47Z",
@@ -1723,7 +1770,7 @@
                 },
                 "channelTitle": "JSON Bourne",
                 "playlistId": "PL4MEYt0kiHZVO8sLGrwBNbz7AzPNWX9OO",
-                "position": 36,
+                "position": 37,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "Q-oM2BQ8Jow"
@@ -1734,7 +1781,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "STSNFsW_pT9bah0Ev_R5hhYLOhQ",
+            "etag": "0FWowxuWjL8d_779iXwrqaNO9kI",
             "id": "UEw0TUVZdDBraUhaVk84c0xHcndCTmJ6N0F6UE5XWDlPTy43OTQxRDdENkQwNEZGMkQy",
             "snippet": {
                 "publishedAt": "2024-07-12T10:39:19Z",
@@ -1770,7 +1817,7 @@
                 },
                 "channelTitle": "JSON Bourne",
                 "playlistId": "PL4MEYt0kiHZVO8sLGrwBNbz7AzPNWX9OO",
-                "position": 37,
+                "position": 38,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "LBTdJHkAr5A"
@@ -1781,7 +1828,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "78iefPP0s6PSZpWFVvqkmGsidT4",
+            "etag": "WIqqSygFjQ87ZyhywEA4X9ZH6ao",
             "id": "UEw0TUVZdDBraUhaVk84c0xHcndCTmJ6N0F6UE5XWDlPTy5DQ0MyQ0Y4Mzg0M0VGOEYw",
             "snippet": {
                 "publishedAt": "2023-05-30T06:56:01Z",
@@ -1817,7 +1864,7 @@
                 },
                 "channelTitle": "JSON Bourne",
                 "playlistId": "PL4MEYt0kiHZVO8sLGrwBNbz7AzPNWX9OO",
-                "position": 38,
+                "position": 39,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "T_V76Dm42bY"
@@ -1828,7 +1875,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "igSGOv22euR6lFrJ0LkRvuMlPfI",
+            "etag": "HpB1mu47umn3SUFmrWeOP-esVHg",
             "id": "UEw0TUVZdDBraUhaVk84c0xHcndCTmJ6N0F6UE5XWDlPTy5FOTM0MjQ2Q0ZDQURDRUFE",
             "snippet": {
                 "publishedAt": "2024-07-12T10:25:27Z",
@@ -1864,7 +1911,7 @@
                 },
                 "channelTitle": "JSON Bourne",
                 "playlistId": "PL4MEYt0kiHZVO8sLGrwBNbz7AzPNWX9OO",
-                "position": 39,
+                "position": 40,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "VaKzNtwPQxE"
@@ -1875,7 +1922,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "bPYD4VAwKRvLtM2NHC09XDbxDys",
+            "etag": "CKKBXOeaPHwEqJ6emTOGXUQHgAQ",
             "id": "UEw0TUVZdDBraUhaVk84c0xHcndCTmJ6N0F6UE5XWDlPTy4zODMyNzgxRTc3QzBBMjJE",
             "snippet": {
                 "publishedAt": "2024-07-18T11:20:00Z",
@@ -1906,7 +1953,7 @@
                 },
                 "channelTitle": "JSON Bourne",
                 "playlistId": "PL4MEYt0kiHZVO8sLGrwBNbz7AzPNWX9OO",
-                "position": 40,
+                "position": 41,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "3OC2aPCuzjo"
@@ -1917,7 +1964,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "g02ujvPweOCKNIv39INVNRgc8FU",
+            "etag": "0cwnnwSkiVuaNN0Bk-6RxGYjS_4",
             "id": "UEw0TUVZdDBraUhaVk84c0xHcndCTmJ6N0F6UE5XWDlPTy5BRUVCN0E0MzEwQzAwNjMy",
             "snippet": {
                 "publishedAt": "2024-01-27T06:10:41Z",
@@ -1953,7 +2000,7 @@
                 },
                 "channelTitle": "JSON Bourne",
                 "playlistId": "PL4MEYt0kiHZVO8sLGrwBNbz7AzPNWX9OO",
-                "position": 41,
+                "position": 42,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "ukgvTE3A0Ic"
@@ -1964,7 +2011,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "mz-dEQsOcu1EtsiqbHYSVFmtveQ",
+            "etag": "P5vVAzJv32HJfUdav1C19a3bRiQ",
             "id": "UEw0TUVZdDBraUhaVk84c0xHcndCTmJ6N0F6UE5XWDlPTy42ODgwQ0RBNTY1OTRERDQy",
             "snippet": {
                 "publishedAt": "2024-08-30T09:35:33Z",
@@ -2000,7 +2047,7 @@
                 },
                 "channelTitle": "JSON Bourne",
                 "playlistId": "PL4MEYt0kiHZVO8sLGrwBNbz7AzPNWX9OO",
-                "position": 42,
+                "position": 43,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "miomuSGoPzI"
@@ -2011,7 +2058,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "pUR3VWyXGbaQm2oE6eiEEVop658",
+            "etag": "OvnFFhTG_6dstc4UkUtgu8v281g",
             "id": "UEw0TUVZdDBraUhaVk84c0xHcndCTmJ6N0F6UE5XWDlPTy5ENDU4Q0M4RDExNzM1Mjcy",
             "snippet": {
                 "publishedAt": "2022-12-19T04:40:27Z",
@@ -2047,7 +2094,7 @@
                 },
                 "channelTitle": "JSON Bourne",
                 "playlistId": "PL4MEYt0kiHZVO8sLGrwBNbz7AzPNWX9OO",
-                "position": 43,
+                "position": 44,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "4z9TdDCWN7g"
@@ -2058,7 +2105,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "44A2JF1sqpeL37VrSpNndX4SH4c",
+            "etag": "GdtuTXpsN5OLwnVhhSh5idapY9M",
             "id": "UEw0TUVZdDBraUhaVk84c0xHcndCTmJ6N0F6UE5XWDlPTy40MkJFNUMzMTJDNkVFQjEy",
             "snippet": {
                 "publishedAt": "2024-06-25T06:58:21Z",
@@ -2094,7 +2141,7 @@
                 },
                 "channelTitle": "JSON Bourne",
                 "playlistId": "PL4MEYt0kiHZVO8sLGrwBNbz7AzPNWX9OO",
-                "position": 44,
+                "position": 45,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "VZY6VPVH-PA"
@@ -2105,7 +2152,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "whAz5apqkQ4WpjBeVgWDWOybI7s",
+            "etag": "nqf4RPq0eJ5uaqgrB2Ihl9j91WQ",
             "id": "UEw0TUVZdDBraUhaVk84c0xHcndCTmJ6N0F6UE5XWDlPTy5FQUY2Qzk4RUFDN0ZFRkZF",
             "snippet": {
                 "publishedAt": "2023-11-28T06:11:50Z",
@@ -2141,7 +2188,7 @@
                 },
                 "channelTitle": "JSON Bourne",
                 "playlistId": "PL4MEYt0kiHZVO8sLGrwBNbz7AzPNWX9OO",
-                "position": 45,
+                "position": 46,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "mX8rMMS-MbI"
@@ -2152,7 +2199,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "yW_Fo7xVZLKgi7H0yL6kOUVX7BE",
+            "etag": "nG--dZvhog3k6_vti35dn0vgJEI",
             "id": "UEw0TUVZdDBraUhaVk84c0xHcndCTmJ6N0F6UE5XWDlPTy4zMDg5MkQ5MEVDMEM1NTg2",
             "snippet": {
                 "publishedAt": "2022-11-22T11:18:53Z",
@@ -2188,7 +2235,7 @@
                 },
                 "channelTitle": "JSON Bourne",
                 "playlistId": "PL4MEYt0kiHZVO8sLGrwBNbz7AzPNWX9OO",
-                "position": 46,
+                "position": 47,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "3mMVcCMO_Ng"
@@ -2199,101 +2246,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "BWeiQl5jPOOvDwYy7A7d5thHHg4",
-            "id": "UEw0TUVZdDBraUhaVk84c0xHcndCTmJ6N0F6UE5XWDlPTy41RTNBREYwMkI5QzU3RkY2",
-            "snippet": {
-                "publishedAt": "2023-10-19T04:10:53Z",
-                "channelId": "UCNHE3OcC8G345-7rNgu-g9w",
-                "title": "SIA - Elastic Heart (Leroy Sanchez Cover)",
-                "description": "I\u2019m a little late in posting this but I LOVE it! Hope you like my cover of Elastic Heart by Sia!\nTHUMBS UP for the dumbo ears & don't forget to SUBSCRIBE for more! http://bit.ly/1VXVr6l\nMy single #ByMySide is now available on iTunes: http://smarturl.it/ByMySideLS \n\nBy My Side is also available on Google Play and Amazon\nGoogle Play: http://smarturl.it/ByMySideGP \nAmazon: http://smarturl.it/ByMySideAmz\n\nFollow Me! \nINSTAGRAM: http://www.instagram.com/iamleroysanchez\nTWITTER: http://www.twitter.com/iamleroysanchez\nFACEBOOK: http://www.facebook.com/iamleroysanchez\nSOUNDCLOUD: http://www.soundcloud.com/iamleroysanchez\nWEBSITE: https://www.leroysanchez.com/",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/PyZgym599bA/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/PyZgym599bA/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/PyZgym599bA/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    },
-                    "standard": {
-                        "url": "https://i.ytimg.com/vi/PyZgym599bA/sddefault.jpg",
-                        "width": 640,
-                        "height": 480
-                    },
-                    "maxres": {
-                        "url": "https://i.ytimg.com/vi/PyZgym599bA/maxresdefault.jpg",
-                        "width": 1280,
-                        "height": 720
-                    }
-                },
-                "channelTitle": "JSON Bourne",
-                "playlistId": "PL4MEYt0kiHZVO8sLGrwBNbz7AzPNWX9OO",
-                "position": 47,
-                "resourceId": {
-                    "kind": "youtube#video",
-                    "videoId": "PyZgym599bA"
-                },
-                "videoOwnerChannelTitle": "Leroy Sanchez",
-                "videoOwnerChannelId": "UCWACD_NdQo00BhutSXMKa-w"
-            }
-        },
-        {
-            "kind": "youtube#playlistItem",
-            "etag": "aOcDGKyjhhUZBB0G3i3LusOe-OY",
-            "id": "UEw0TUVZdDBraUhaVk84c0xHcndCTmJ6N0F6UE5XWDlPTy5EMzdGRjBBQzVCNEY2NDhG",
-            "snippet": {
-                "publishedAt": "2024-07-18T05:18:29Z",
-                "channelId": "UCNHE3OcC8G345-7rNgu-g9w",
-                "title": "Conor Maynard - Hate How Much I Love You (Official Video)",
-                "description": "Download / Stream: https://Conor.lnk.to/HHMILY\nI'M GOING ON TOUR!!! Tickets here: https://listings.ticketweb.co.uk/conormaynard\n\nClick to SUBSCRIBE: http://smarturl.it/SubConorMaynard\n\nMore from me... \nOfficial Site: http://www.conor-maynard.com/\nFacebook: https://www.facebook.com/ConorMaynard\nTwitter: https://twitter.com/ConorMaynard\nInstagram: http://instagram.com/conormaynard",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/anNBvqzzbBk/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/anNBvqzzbBk/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/anNBvqzzbBk/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    },
-                    "standard": {
-                        "url": "https://i.ytimg.com/vi/anNBvqzzbBk/sddefault.jpg",
-                        "width": 640,
-                        "height": 480
-                    },
-                    "maxres": {
-                        "url": "https://i.ytimg.com/vi/anNBvqzzbBk/maxresdefault.jpg",
-                        "width": 1280,
-                        "height": 720
-                    }
-                },
-                "channelTitle": "JSON Bourne",
-                "playlistId": "PL4MEYt0kiHZVO8sLGrwBNbz7AzPNWX9OO",
-                "position": 48,
-                "resourceId": {
-                    "kind": "youtube#video",
-                    "videoId": "anNBvqzzbBk"
-                },
-                "videoOwnerChannelTitle": "Conor Maynard",
-                "videoOwnerChannelId": "UCpmD3iT-8TQzRuygIiS9bAw"
-            }
-        },
-        {
-            "kind": "youtube#playlistItem",
-            "etag": "8rzwU-UrxC6BfghwqnfBiFr6gjw",
+            "etag": "FJYOMWNLzaasph6puZNszBkBk74",
             "id": "UEw0TUVZdDBraUhaVk84c0xHcndCTmJ6N0F6UE5XWDlPTy5BRjY4NjdBRjA5RTdCMUMx",
             "snippet": {
                 "publishedAt": "2024-05-28T10:13:02Z",
@@ -2329,7 +2282,7 @@
                 },
                 "channelTitle": "JSON Bourne",
                 "playlistId": "PL4MEYt0kiHZVO8sLGrwBNbz7AzPNWX9OO",
-                "position": 49,
+                "position": 48,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "Sg3hU_sdhKw"
@@ -2337,10 +2290,57 @@
                 "videoOwnerChannelTitle": "BangersOnly",
                 "videoOwnerChannelId": "UCTS70WpqG82S0CPZgWFg1GQ"
             }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "X2oNgLC86sky4aTbP0vfGZw5Zhg",
+            "id": "UEw0TUVZdDBraUhaVk84c0xHcndCTmJ6N0F6UE5XWDlPTy41RTNBREYwMkI5QzU3RkY2",
+            "snippet": {
+                "publishedAt": "2023-10-19T04:10:53Z",
+                "channelId": "UCNHE3OcC8G345-7rNgu-g9w",
+                "title": "SIA - Elastic Heart (Leroy Sanchez Cover)",
+                "description": "Stream \"Nuclear\" by Leroy Sanchez here: https://lnk.to/nuclear\n\nI\u2019m a little late in posting this but I LOVE it! Hope you like my cover of Elastic Heart by Sia!\nTHUMBS UP for the dumbo ears & don't forget to SUBSCRIBE for more! http://bit.ly/1VXVr6l\nMy single #ByMySide is now available on iTunes: http://smarturl.it/ByMySideLS \n\nBy My Side is also available on Google Play and Amazon\nGoogle Play: http://smarturl.it/ByMySideGP \nAmazon: http://smarturl.it/ByMySideAmz\n\nFollow Me! \nINSTAGRAM: http://www.instagram.com/iamleroysanchez\nTWITTER: http://www.twitter.com/iamleroysanchez\nFACEBOOK: http://www.facebook.com/iamleroysanchez\nSOUNDCLOUD: http://www.soundcloud.com/iamleroysanchez\nWEBSITE: https://www.leroysanchez.com/",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/PyZgym599bA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/PyZgym599bA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/PyZgym599bA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/PyZgym599bA/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/PyZgym599bA/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "JSON Bourne",
+                "playlistId": "PL4MEYt0kiHZVO8sLGrwBNbz7AzPNWX9OO",
+                "position": 49,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "PyZgym599bA"
+                },
+                "videoOwnerChannelTitle": "Leroy Sanchez",
+                "videoOwnerChannelId": "UCWACD_NdQo00BhutSXMKa-w"
+            }
         }
     ],
     "pageInfo": {
-        "totalResults": 250,
+        "totalResults": 255,
         "resultsPerPage": 50
     }
 }
