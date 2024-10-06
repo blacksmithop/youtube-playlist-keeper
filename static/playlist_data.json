@@ -1,7 +1,7 @@
 {
     "kind": "youtube#playlistItemListResponse",
-    "etag": "sC_bUvLoI4rIZzUAgsInLwdX2KY",
-    "nextPageToken": "EAAajgFQVDpDRElpRUVRME5UaERRemhFTVRFM016VXlOeklvQVVqRnQtMm9wZWFJQTFBQldrVWlRMmxLVVZSRVVrNVNWbXd3VFVkMGNGTkdjRmRVZW1oNlZFVmtlV1F3U2s5WmJtOHpVVmh3VVZSc1pGbFBWVGxRUldkM1NXbzFlbWgwZDFsUmFVMWxRekpuUlNJ",
+    "etag": "1M75Bk5sab33P60S1OSzPzJ3mSk",
+    "nextPageToken": "EAAajgFQVDpDRElpRURZNE9EQkRSRUUxTmpVNU5FUkVORElvQVVpbG5LZnd6UEdJQTFBQldrVWlRMmxLVVZSRVVrNVNWbXd3VFVkMGNGTkdjRmRVZW1oNlZFVmtlV1F3U2s5WmJtOHpVVmh3VVZSc1pGbFBWVGxRUldkM1NUZGZaalIwZDFsUmFVNVllWGRSUlNJ",
     "items": [
         {
             "kind": "youtube#playlistItem",
@@ -141,7 +141,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "p9F7KDxabQB_vC51SZqSdfQsxe8",
+            "etag": "SWzhZ1pQvDZCjc-_P6BCiyS1FzI",
             "id": "UEw0TUVZdDBraUhaVk84c0xHcndCTmJ6N0F6UE5XWDlPTy45NDIzMEVBNjk5NTFGRDZC",
             "snippet": {
                 "publishedAt": "2024-05-23T09:54:13Z",
@@ -376,7 +376,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "BB9hysYiLKEke3l3NUiBQ21_UxQ",
+            "etag": "dr6k_3cb8HXqoPIiRmT_qfkDqVk",
             "id": "UEw0TUVZdDBraUhaVk84c0xHcndCTmJ6N0F6UE5XWDlPTy45NzUwQkI1M0UxNThBMkU0",
             "snippet": {
                 "publishedAt": "2023-02-07T09:32:31Z",
@@ -470,13 +470,13 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "v-Wu62nYKXftI3ZwnECxaQl7JWA",
+            "etag": "zTcw4tYPGqVhTm4cUY6RCwGmYeY",
             "id": "UEw0TUVZdDBraUhaVk84c0xHcndCTmJ6N0F6UE5XWDlPTy41NkI0NEY2RDEwNTU3Q0M2",
             "snippet": {
                 "publishedAt": "2022-10-05T09:16:22Z",
                 "channelId": "UCNHE3OcC8G345-7rNgu-g9w",
                 "title": "James Bay - Hold Back The River",
-                "description": "James Bay\u2019s fourth studio album \u2018Changes All The Time\u2019 is out October 4th, 2024. Pre-Order here: https://jamesbay.lnk.to/shopWE\n\nOfficial Music Video by James Bay performing \u201cHold Back The River\u201d \n \nSubscribe for more official content from James Bay: https://JamesBay.lnk.to/SubscribeYD\n \nConnect with James Bay: \nhttps://www.jamesbay.com \nhttps://JamesBay.lnk.to/SpotifyFollow \nhttps://JamesBay.lnk.to/AppleMusic \nhttps://www.instagram.com/jamesbaymusic \nhttps://www.tiktok.com/@jamesbaymusic \nhttps://x.com/JamesBayMusic\nhttps://www.facebook.com/jamesbaymusic \n\n#JamesBay #HoldBackTheRiver",
+                "description": "James Bay\u2019s fourth studio album \u2018Changes All The Time\u2019 is out now. Download/Stream: https://JamesBay.lnk.to/CATT\n \n Official Music Video by James Bay performing \u201cHold Back The River\u201d \n  \n Subscribe for more official content from James Bay: https://JamesBay.lnk.to/SubscribeYD\n  \n Connect with James Bay: \n https://www.jamesbay.com \n https://JamesBay.lnk.to/SpotifyFollow \n https://JamesBay.lnk.to/AppleMusic \n https://www.instagram.com/jamesbaymusic \n https://www.tiktok.com/@jamesbaymusic \n https://x.com/JamesBayMusic\n https://www.facebook.com/jamesbaymusic \n \n #JamesBay #HoldBackTheRiver",
                 "thumbnails": {
                     "default": {
                         "url": "https://i.ytimg.com/vi/mqiH0ZSkM9I/default.jpg",
@@ -893,7 +893,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "rHMOEX-J4e1Ca3ZfHqkLUaAVlJM",
+            "etag": "rJcO-RoZx-ho57Xwa3X9RJaM2zE",
             "id": "UEw0TUVZdDBraUhaVk84c0xHcndCTmJ6N0F6UE5XWDlPTy5DNzNDRDE1NzhGODQzODI2",
             "snippet": {
                 "publishedAt": "2024-06-04T09:16:06Z",
@@ -987,7 +987,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "rstwQOAs7bEwivRo56cwoYT3Mf0",
+            "etag": "Ydr3gvC1U7BaOay7B8mxt63rXLQ",
             "id": "UEw0TUVZdDBraUhaVk84c0xHcndCTmJ6N0F6UE5XWDlPTy4yMkNBN0M4QUJEQzYxMjA3",
             "snippet": {
                 "publishedAt": "2024-06-21T11:21:47Z",
@@ -2288,36 +2288,36 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "lOLEQF21WT4RUa-zXE8hQIun_rU",
-            "id": "UEw0TUVZdDBraUhaVk84c0xHcndCTmJ6N0F6UE5XWDlPTy42ODgwQ0RBNTY1OTRERDQy",
+            "etag": "gdoGV6IinKQZyNlPdbYfYB1o6zM",
+            "id": "UEw0TUVZdDBraUhaVk84c0xHcndCTmJ6N0F6UE5XWDlPTy4xMTE0RDU2NTlEMTkxNzZB",
             "snippet": {
-                "publishedAt": "2024-08-30T09:35:33Z",
+                "publishedAt": "2024-10-03T06:38:38Z",
                 "channelId": "UCNHE3OcC8G345-7rNgu-g9w",
-                "title": "Chicken Attack // Song Voyage // Japan // ft. Takeo Ischi",
-                "description": "TAKEO RETURNS- Chicken Pig Attack: https://www.youtube.com/watch?v=7dAUADjVzv4\nStream the track - https://open.spotify.com/album/5iMdlqdmZrzX52AAhGEgW7\nhttps://itunes.apple.com/us/album/chicken-attack-single/1224325595\nFULL JAPAN EPISODE: https://www.youtube.com/watch?v=3aE2TYFU6WM\nAll our songs & bts videos - https://www.patreon.com/gregorybrothers\nNext Episode of SONG VOYAGE - Wednesday, February 8th! Come back to see us bumble around AUSTRALIA! // Takeo Ischi, the greatest Chicken Yodeler the world has ever seen, returns to the Internet with a new addition to the oeuvre of Chicken Yodeling. \n//\nCreated by Portal A (https://portal-a.com) and the Gregory Brothers\n\nStarring the Gregory Brothers: Andrew Gregory, Evan Gregory, Michael Gregory, Sarah Gregory\n\nFeatured Artist: Takeo Ischi\nhttps://www.takeoischi.com/\nAlso Starring: Aoshi, Ichiriki Yamamoto, Narashino Seiryukutsu, Tekubi Ashikubi\n\nExecutive Producers: Nate Houghteling, Kai Hasson, Evan Bregman, Zach Blume, and the Gregory Brothers\n\nDirected by: Dan Eckman\nWritten by: Jeremy Weiner, Lee Ellenberg\nOriginal Song by: The Gregory Brothers ft. Takeo Ischi\n\nProduced by Portal A\nCo-Producers: The Gregory Brothers\nLine Producer: Jeff Winkler \nAssociate Producers: Jenny Leaf, Brendan Nahmias\nConsulting Producers: Meggie McFadden, D.C. Pierson\n\nDirector of Photography: Graham Sheldon\nB-Cam/Sound/Swing: Rin Ehlers\n\nEditor: Jeff Striker, Brad Allen Wilde\nAssistant Editor: Jake Keller\n\nVisual Effects Artist: Tanner Merrill\nGraphics and Title Artist: Tess Hannel, Jake Keller\n\nSpecial Thanks: Chikayo Morijiri, Daijiro Yamamoto, Ryuzo Tsutsui\n\n#TakeoCinematicUniverse #ChickenAttack #SchmoCinematicUniverse",
+                "title": "Joe Brooks - Superman",
+                "description": "Joe Brooks on Tour, NOW http://joebrooks.com/touring.html\nUS, UK, Asia and Europe\n\nhttp://www.facebook.com/joebrooksmusic\nhttp://www.twitter.com/joebrooksmusic\nhttp://www.joebrooks.com\n\nMusic video by Joe Brooks performing Superman. (C) 2010 Universal Republic Records, a division of UMG Recordings, Inc.",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/miomuSGoPzI/default.jpg",
+                        "url": "https://i.ytimg.com/vi/otx0Bnru0dY/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/miomuSGoPzI/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/otx0Bnru0dY/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/miomuSGoPzI/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/otx0Bnru0dY/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     },
                     "standard": {
-                        "url": "https://i.ytimg.com/vi/miomuSGoPzI/sddefault.jpg",
+                        "url": "https://i.ytimg.com/vi/otx0Bnru0dY/sddefault.jpg",
                         "width": 640,
                         "height": 480
                     },
                     "maxres": {
-                        "url": "https://i.ytimg.com/vi/miomuSGoPzI/maxresdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/otx0Bnru0dY/maxresdefault.jpg",
                         "width": 1280,
                         "height": 720
                     }
@@ -2327,15 +2327,15 @@
                 "position": 49,
                 "resourceId": {
                     "kind": "youtube#video",
-                    "videoId": "miomuSGoPzI"
+                    "videoId": "otx0Bnru0dY"
                 },
-                "videoOwnerChannelTitle": "schmoyoho",
-                "videoOwnerChannelId": "UCNYrK4tc5i1-eL8TXesH2pg"
+                "videoOwnerChannelTitle": "JoeBrooksVEVO",
+                "videoOwnerChannelId": "UCsEymiLudWw1m2p-wTtQ_Rw"
             }
         }
     ],
     "pageInfo": {
-        "totalResults": 271,
+        "totalResults": 275,
         "resultsPerPage": 50
     }
 }
