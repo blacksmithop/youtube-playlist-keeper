@@ -1,11 +1,11 @@
 {
     "kind": "youtube#playlistItemListResponse",
-    "etag": "3RmOL_HIcPfGX9GUY4qlFfrN27k",
-    "nextPageToken": "EAAajQFQVDpDRElpRUVVNU16UXlORFpEUmtOQlJFTkZRVVFvQVVqenFJaWZzTGlKQTFBQldrUWlRMmxLVVZSRVVrNVNWbXd3VFVkMGNGTkdjRmRVZW1oNlZFVmtlV1F3U2s5WmJtOHpVVmh3VVZSc1pGbFBWVGxRUldkelNUTnhOazUxVVZsUmRVOXhUMlpSSWc",
+    "etag": "FpkzAQ2Ulhh01pZJzNh1cd8pK6M",
+    "nextPageToken": "EAAajgFQVDpDRElpRUVVNU16UXlORFpEUmtOQlJFTkZRVVFvQVVpWWdOdUd6Y3lKQTFBQldrVWlRMmxLVVZSRVVrNVNWbXd3VFVkMGNGTkdjRmRVZW1oNlZFVmtlV1F3U2s5WmJtOHpVVmh3VVZSc1pGbFBWVGxRUldkM1NUZDFUek4xVVZsUmQwdFBlV3huU1NJ",
     "items": [
         {
             "kind": "youtube#playlistItem",
-            "etag": "6Pp8HrmGoHPwU-aWWtx7x4DPeso",
+            "etag": "-DKGiL2W9yixU3s545BHs6Jc1ME",
             "id": "UEw0TUVZdDBraUhaVk84c0xHcndCTmJ6N0F6UE5XWDlPTy5CMUM0NzY5NzdEQzlGRjAx",
             "snippet": {
                 "publishedAt": "2023-12-07T09:34:19Z",
@@ -1692,54 +1692,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "-jqceJPvGQCEWC5t08FJNzKeLns",
-            "id": "UEw0TUVZdDBraUhaVk84c0xHcndCTmJ6N0F6UE5XWDlPTy5GOUFFM0FFNzI5RkU1NjAx",
-            "snippet": {
-                "publishedAt": "2024-10-31T10:09:33Z",
-                "channelId": "UCNHE3OcC8G345-7rNgu-g9w",
-                "title": "C2C - Delta (Official Video)",
-                "description": "Find the album 'Tetr4' here : https://OnAndOnRecords.lnk.to/TETR4\n2xLP Vinyl Edition : http://www.onandon-records.com/fr/7-all\n\nVideo : \"Delta\" by CRCR (http://www.crcr.fr/)\n\nFollow C2C :\nhttp://www.facebook.com/C2Cofficial\nhttps://twitter.com/C2Cdjs\nhttp://soundcloud.com/c2cdjs\nhttp://www.c2cmusic.fr/\n\nCredits :\nExecutive Production : Wizz/Quad\n\u00a9 On And On Records (www.onandon-records.com)",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/PZbkF-15ObM/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/PZbkF-15ObM/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/PZbkF-15ObM/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    },
-                    "standard": {
-                        "url": "https://i.ytimg.com/vi/PZbkF-15ObM/sddefault.jpg",
-                        "width": 640,
-                        "height": 480
-                    },
-                    "maxres": {
-                        "url": "https://i.ytimg.com/vi/PZbkF-15ObM/maxresdefault.jpg",
-                        "width": 1280,
-                        "height": 720
-                    }
-                },
-                "channelTitle": "JSON Bourne",
-                "playlistId": "PL4MEYt0kiHZVO8sLGrwBNbz7AzPNWX9OO",
-                "position": 36,
-                "resourceId": {
-                    "kind": "youtube#video",
-                    "videoId": "PZbkF-15ObM"
-                },
-                "videoOwnerChannelTitle": "C2Cdjsofficial",
-                "videoOwnerChannelId": "UCac75Lum9UIZVX6_kaHthSQ"
-            }
-        },
-        {
-            "kind": "youtube#playlistItem",
-            "etag": "dfWmg7y06k9ZPefOdWeSyhR2hi4",
+            "etag": "fIVVnncJga_Bw6eSxAD99EXu8VU",
             "id": "UEw0TUVZdDBraUhaVk84c0xHcndCTmJ6N0F6UE5XWDlPTy44OEI3NUQ0QTlFM0FCOUU4",
             "snippet": {
                 "publishedAt": "2024-09-24T09:36:35Z",
@@ -1775,13 +1728,60 @@
                 },
                 "channelTitle": "JSON Bourne",
                 "playlistId": "PL4MEYt0kiHZVO8sLGrwBNbz7AzPNWX9OO",
-                "position": 37,
+                "position": 36,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "oJuGlqO85YI"
                 },
                 "videoOwnerChannelTitle": "TheFatRat",
                 "videoOwnerChannelId": "UCa_UMppcMsHIzb5LDx1u9zQ"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "OjvmB5s5DJj8SnwQqOc9rAiKfrw",
+            "id": "UEw0TUVZdDBraUhaVk84c0xHcndCTmJ6N0F6UE5XWDlPTy5GOUFFM0FFNzI5RkU1NjAx",
+            "snippet": {
+                "publishedAt": "2024-10-31T10:09:33Z",
+                "channelId": "UCNHE3OcC8G345-7rNgu-g9w",
+                "title": "C2C - Delta (Official Video)",
+                "description": "Find the album 'Tetr4' here : https://OnAndOnRecords.lnk.to/TETR4\n2xLP Vinyl Edition : http://www.onandon-records.com/fr/7-all\n\nVideo : \"Delta\" by CRCR (http://www.crcr.fr/)\n\nFollow C2C :\nhttp://www.facebook.com/C2Cofficial\nhttps://twitter.com/C2Cdjs\nhttp://soundcloud.com/c2cdjs\nhttp://www.c2cmusic.fr/\n\nCredits :\nExecutive Production : Wizz/Quad\n\u00a9 On And On Records (www.onandon-records.com)",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/PZbkF-15ObM/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/PZbkF-15ObM/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/PZbkF-15ObM/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/PZbkF-15ObM/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/PZbkF-15ObM/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "JSON Bourne",
+                "playlistId": "PL4MEYt0kiHZVO8sLGrwBNbz7AzPNWX9OO",
+                "position": 37,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "PZbkF-15ObM"
+                },
+                "videoOwnerChannelTitle": "C2Cdjsofficial",
+                "videoOwnerChannelId": "UCac75Lum9UIZVX6_kaHthSQ"
             }
         },
         {
@@ -2340,7 +2340,7 @@
         }
     ],
     "pageInfo": {
-        "totalResults": 293,
+        "totalResults": 296,
         "resultsPerPage": 50
     }
 }
