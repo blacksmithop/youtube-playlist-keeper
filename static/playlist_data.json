@@ -1,7 +1,7 @@
 {
     "kind": "youtube#playlistItemListResponse",
-    "etag": "Y9Cpo-SxNzPHzIFyGzgBozeZJoY",
-    "nextPageToken": "EAAajgFQVDpDRElpRUVGR05qZzJOMEZHTURsRk4wSXhRekVvQVVpMjE0aks4dHFKQTFBQldrVWlRMmxLVVZSRVVrNVNWbXd3VFVkMGNGTkdjRmRVZW1oNlZFVmtlV1F3U2s5WmJtOHpVVmh3VVZSc1pGbFBWVGxRUldkM1NURlBSRloxVVZsUk9FOHpRbWxuUlNJ",
+    "etag": "iFuWIj7yk22sd-xC75k7A68flkU",
+    "nextPageToken": "EAAajgFQVDpDRElpRUVORFF6SkRSamd6T0RRelJVWTRSakFvQVVpYnFMYk96dVdKQTFBQldrVWlRMmxLVVZSRVVrNVNWbXd3VFVkMGNGTkdjRmRVZW1oNlZFVmtlV1F3U2s5WmJtOHpVVmh3VVZSc1pGbFBWVGxRUldkM1NXZHdOM04xVVZsUkxVOXlOMjUzVFNJ",
     "items": [
         {
             "kind": "youtube#playlistItem",
@@ -94,7 +94,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "2tjnKKghNZvLKMEqgHGcSEvkOic",
+            "etag": "4fPV0hQxr5PfhZkYKgkVNrj08MU",
             "id": "UEw0TUVZdDBraUhaVk84c0xHcndCTmJ6N0F6UE5XWDlPTy5ENjg2QjQ3OTVDOUE2QzYw",
             "snippet": {
                 "publishedAt": "2024-07-04T11:56:37Z",
@@ -752,7 +752,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "rQD65q54H3BtV_KU5vrsUCR0PsM",
+            "etag": "nph4zM3qEpEQ-Z6Fm8HtGSW1P2g",
             "id": "UEw0TUVZdDBraUhaVk84c0xHcndCTmJ6N0F6UE5XWDlPTy43RjU3NEIyMjFBMEIxQ0ZF",
             "snippet": {
                 "publishedAt": "2024-07-05T04:15:13Z",
@@ -893,7 +893,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "4OL1RkbQBrETYAqpdQXJGMnlAHc",
+            "etag": "IMtHzvzNmxAnRbmZX8eE4cnKwOw",
             "id": "UEw0TUVZdDBraUhaVk84c0xHcndCTmJ6N0F6UE5XWDlPTy5BNzdEQzY0REQzQTEyN0U3",
             "snippet": {
                 "publishedAt": "2024-01-07T16:54:21Z",
@@ -1645,7 +1645,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "8LdE1UmjjXvL2qxALSuJW0cNITA",
+            "etag": "DJ5Z9e1ib9wkz1KsPk7FlbLUhYE",
             "id": "UEw0TUVZdDBraUhaVk84c0xHcndCTmJ6N0F6UE5XWDlPTy5GM0Q3M0MzMzY5NTJFNTdE",
             "snippet": {
                 "publishedAt": "2023-01-17T04:13:12Z",
@@ -2246,7 +2246,54 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "atizRbxN_XCcNLj2zgBpNPN0Py4",
+            "etag": "MDInvYHliBdS2iAgicFY8lVjSv4",
+            "id": "UEw0TUVZdDBraUhaVk84c0xHcndCTmJ6N0F6UE5XWDlPTy5BRjY4NjdBRjA5RTdCMUMx",
+            "snippet": {
+                "publishedAt": "2024-05-28T10:13:02Z",
+                "channelId": "UCNHE3OcC8G345-7rNgu-g9w",
+                "title": "Hozier - Too Sweet (Lyrics) \"i take my whiskey neat\"",
+                "description": "Submissions / Inquiries - nick@bangersonlyhq.com\n\nPartner Channels:\nChillOnly - https://bit.ly/3uYHKe3\nSauceOnly - https://bit.ly/30gjpSP\nBagOnly - https://bit.ly/38eIimn\nVibesOnly - https://bit.ly/30dN2nQ\n\n#Hozier #TooSweet #Lyrics",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Sg3hU_sdhKw/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Sg3hU_sdhKw/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Sg3hU_sdhKw/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/Sg3hU_sdhKw/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/Sg3hU_sdhKw/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "JSON Bourne",
+                "playlistId": "PL4MEYt0kiHZVO8sLGrwBNbz7AzPNWX9OO",
+                "position": 48,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "Sg3hU_sdhKw"
+                },
+                "videoOwnerChannelTitle": "BangersOnly",
+                "videoOwnerChannelId": "UCTS70WpqG82S0CPZgWFg1GQ"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "jXniB2NBvkBgPwd3Jnucbl66yVU",
             "id": "UEw0TUVZdDBraUhaVk84c0xHcndCTmJ6N0F6UE5XWDlPTy43OTQxRDdENkQwNEZGMkQy",
             "snippet": {
                 "publishedAt": "2024-07-12T10:39:19Z",
@@ -2282,7 +2329,7 @@
                 },
                 "channelTitle": "JSON Bourne",
                 "playlistId": "PL4MEYt0kiHZVO8sLGrwBNbz7AzPNWX9OO",
-                "position": 48,
+                "position": 49,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "LBTdJHkAr5A"
@@ -2290,57 +2337,10 @@
                 "videoOwnerChannelTitle": "thefrayVEVO",
                 "videoOwnerChannelId": "UC61baUoIGkDzh_gWGRpnIcA"
             }
-        },
-        {
-            "kind": "youtube#playlistItem",
-            "etag": "PNO7Z7mXf2LVlEIQRL4V3V733Q0",
-            "id": "UEw0TUVZdDBraUhaVk84c0xHcndCTmJ6N0F6UE5XWDlPTy5DQ0MyQ0Y4Mzg0M0VGOEYw",
-            "snippet": {
-                "publishedAt": "2023-05-30T06:56:01Z",
-                "channelId": "UCNHE3OcC8G345-7rNgu-g9w",
-                "title": "Achilles Come Down",
-                "description": "Provided to YouTube by Sony Music Entertainment\n\nAchilles Come Down \u00b7 Gang of Youths\n\nGo Farther In Lightness\n\n\u2117 2017 Mosy Recordings under exclusive license to Sony Music Entertainment Australia Pty Ltd\n\nReleased on: 2017-08-18\n\nComposer, Lyricist: David Le'aupepe\nMixing  Engineer, Producer: Adrian Breakspear\nMastering  Engineer: Joe Lambert\n\nAuto-generated by YouTube.",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/T_V76Dm42bY/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/T_V76Dm42bY/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/T_V76Dm42bY/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    },
-                    "standard": {
-                        "url": "https://i.ytimg.com/vi/T_V76Dm42bY/sddefault.jpg",
-                        "width": 640,
-                        "height": 480
-                    },
-                    "maxres": {
-                        "url": "https://i.ytimg.com/vi/T_V76Dm42bY/maxresdefault.jpg",
-                        "width": 1280,
-                        "height": 720
-                    }
-                },
-                "channelTitle": "JSON Bourne",
-                "playlistId": "PL4MEYt0kiHZVO8sLGrwBNbz7AzPNWX9OO",
-                "position": 49,
-                "resourceId": {
-                    "kind": "youtube#video",
-                    "videoId": "T_V76Dm42bY"
-                },
-                "videoOwnerChannelTitle": "Gang of Youths - Topic",
-                "videoOwnerChannelId": "UCqcwEKytA9iFcdDLGdrbWFw"
-            }
         }
     ],
     "pageInfo": {
-        "totalResults": 297,
+        "totalResults": 298,
         "resultsPerPage": 50
     }
 }
