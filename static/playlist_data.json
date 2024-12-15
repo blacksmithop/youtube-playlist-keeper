@@ -1,11 +1,11 @@
 {
     "kind": "youtube#playlistItemListResponse",
-    "etag": "Wxec8d7umcs6R_p8HCM8C7XbbAI",
-    "nextPageToken": "EAAajgFQVDpDRElpRUVORFF6SkRSamd6T0RRelJVWTRSakFvQVVqWjJjYWIzNW1LQTFBQldrVWlRMmxLVVZSRVVrNVNWbXd3VFVkMGNGTkdjRmRVZW1oNlZFVmtlV1F3U2s5WmJtOHpVVmh3VVZSc1pGbFBWVGxRUldkM1NYWmpabHAxWjFsUmNVcDFXVEZSVFNJ",
+    "etag": "nKQWY-WQeg7XxMLCIZKfkd2nHQ0",
+    "nextPageToken": "EAAajgFQVDpDRElpRUVORFF6SkRSamd6T0RRelJVWTRSakFvQVVqMGpieXY0YVNLQTFBQldrVWlRMmxLVVZSRVVrNVNWbXd3VFVkMGNGTkdjRmRVZW1oNlZFVmtlV1F3U2s5WmJtOHpVVmh3VVZSc1pGbFBWVGxRUldkM1NUVmtWSGQxWjFsUmIwODNNVFIzU1NJ",
     "items": [
         {
             "kind": "youtube#playlistItem",
-            "etag": "-DKGiL2W9yixU3s545BHs6Jc1ME",
+            "etag": "lImA1YoEqRB6QPbZMU8Bb85KDr0",
             "id": "UEw0TUVZdDBraUhaVk84c0xHcndCTmJ6N0F6UE5XWDlPTy5CMUM0NzY5NzdEQzlGRjAx",
             "snippet": {
                 "publishedAt": "2023-12-07T09:34:19Z",
@@ -52,7 +52,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "rvh8v7h5orZMhbBZfo2_0CzKAho",
+            "etag": "1V1-w5NwVfqgPyCIQwBatJozsnw",
             "id": "UEw0TUVZdDBraUhaVk84c0xHcndCTmJ6N0F6UE5XWDlPTy4xRUU4M0JFMUQ4QTA2MjVB",
             "snippet": {
                 "publishedAt": "2024-09-25T04:17:12Z",
@@ -940,7 +940,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "NGDVnPS5FYRjGDJN34hVF65JYkI",
+            "etag": "2IpCTIYhDmz-vG37kLTMV9FsxpQ",
             "id": "UEw0TUVZdDBraUhaVk84c0xHcndCTmJ6N0F6UE5XWDlPTy4zMzg4MjBBNzZCQzY5MDk4",
             "snippet": {
                 "publishedAt": "2024-07-26T03:23:40Z",
@@ -2063,7 +2063,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "PTITWWna6IFjSpYrxFBzK32MehI",
+            "etag": "WpDTxlATZ1dIaTr7Boz8dV0gSWc",
             "id": "UEw0TUVZdDBraUhaVk84c0xHcndCTmJ6N0F6UE5XWDlPTy5FMUU5ODU1MDE0RTk1Q0Ew",
             "snippet": {
                 "publishedAt": "2024-06-25T08:31:39Z",
@@ -2105,7 +2105,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "B3Vfxt1sBwTA71GaNEhGXlMwvBc",
+            "etag": "NAlAcBf5to8NjPb6_4rhiXxOykQ",
             "id": "UEw0TUVZdDBraUhaVk84c0xHcndCTmJ6N0F6UE5XWDlPTy4yQjdDRUQyQ0M0MEZCQkEx",
             "snippet": {
                 "publishedAt": "2024-09-22T12:55:11Z",
@@ -2340,7 +2340,7 @@
         }
     ],
     "pageInfo": {
-        "totalResults": 299,
+        "totalResults": 300,
         "resultsPerPage": 50
     }
 }
