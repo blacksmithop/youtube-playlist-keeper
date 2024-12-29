@@ -1,11 +1,11 @@
 {
     "kind": "youtube#playlistItemListResponse",
-    "etag": "QfBneQKSmbG801e6z5Fg7H-rHUI",
-    "nextPageToken": "EAAajQFQVDpDRElpRUVORFF6SkRSamd6T0RRelJVWTRSakFvQVVpMC03eWZtN2FLQTFBQldrUWlRMmxLVVZSRVVrNVNWbXd3VFVkMGNGTkdjRmRVZW1oNlZFVmtlV1F3U2s5WmJtOHpVVmh3VVZSc1pGbFBWVGxRUldkelNYbGhSMVoxZDFsUmIwNXhRa0ozSWc",
+    "etag": "5d91bbGYzumr2kU0-l8GW7O-Udc",
+    "nextPageToken": "EAAajgFQVDpDRElpRUVORFF6SkRSamd6T0RRelJVWTRSakFvQVVpZXplSDA3c1NLQTFBQldrVWlRMmxLVVZSRVVrNVNWbXd3VFVkMGNGTkdjRmRVZW1oNlZFVmtlV1F3U2s5WmJtOHpVVmh3VVZSc1pGbFBWVGxRUldkM1NXdFFMWHAxZDFsUmMxQkxhM0ZCUlNJ",
     "items": [
         {
             "kind": "youtube#playlistItem",
-            "etag": "lImA1YoEqRB6QPbZMU8Bb85KDr0",
+            "etag": "_QCt78kZYeulzUFx5e70j9xwc2I",
             "id": "UEw0TUVZdDBraUhaVk84c0xHcndCTmJ6N0F6UE5XWDlPTy5CMUM0NzY5NzdEQzlGRjAx",
             "snippet": {
                 "publishedAt": "2023-12-07T09:34:19Z",
@@ -705,7 +705,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "WjxB1_l-SK3e5Tk_zDOC5YVfHRk",
+            "etag": "8z8k2CNz081aRjkvl5VN4NHAek0",
             "id": "UEw0TUVZdDBraUhaVk84c0xHcndCTmJ6N0F6UE5XWDlPTy42MTk5OTRCREQ5RkNFODZF",
             "snippet": {
                 "publishedAt": "2024-09-15T14:40:50Z",
@@ -752,7 +752,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "nph4zM3qEpEQ-Z6Fm8HtGSW1P2g",
+            "etag": "7gNYFObigAlDOhjSo4f7KE93t28",
             "id": "UEw0TUVZdDBraUhaVk84c0xHcndCTmJ6N0F6UE5XWDlPTy43RjU3NEIyMjFBMEIxQ0ZF",
             "snippet": {
                 "publishedAt": "2024-07-05T04:15:13Z",
@@ -799,7 +799,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "CKNE_q_Yu1wKpzhbSEJxW8AhbKo",
+            "etag": "i7nr15yntc77GFj5RilT13I7-30",
             "id": "UEw0TUVZdDBraUhaVk84c0xHcndCTmJ6N0F6UE5XWDlPTy4yODlGNEE0NkRGMEEzMEQy",
             "snippet": {
                 "publishedAt": "2022-10-05T09:39:23Z",
@@ -987,7 +987,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "YAzpjkJqYOW7gDrUhlCy3spzVUg",
+            "etag": "eiBEgEhseEg0WMyaDEIaighF5mk",
             "id": "UEw0TUVZdDBraUhaVk84c0xHcndCTmJ6N0F6UE5XWDlPTy5DNzNDRDE1NzhGODQzODI2",
             "snippet": {
                 "publishedAt": "2024-06-04T09:16:06Z",
@@ -1081,7 +1081,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "nM_5lkoqp8N9Ufc9PDIhCOu3EQI",
+            "etag": "TEiXX3HXkMqIY6jxGdSyZFDM-qE",
             "id": "UEw0TUVZdDBraUhaVk84c0xHcndCTmJ6N0F6UE5XWDlPTy5FRDc0QkQxMzlEMTZBMzg0",
             "snippet": {
                 "publishedAt": "2024-08-13T09:45:27Z",
@@ -1410,7 +1410,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "hxyGGpsVEh_dMjdCkKI0L8tsdA4",
+            "etag": "izx1JK2HcBBqhbdscY-Jb2mKFk8",
             "id": "UEw0TUVZdDBraUhaVk84c0xHcndCTmJ6N0F6UE5XWDlPTy5GOUJEOERGNDg1N0QyNDA3",
             "snippet": {
                 "publishedAt": "2024-07-24T08:45:36Z",
@@ -1504,7 +1504,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "CSX9QoPwo6I9iQEE3ySr2E56QfA",
+            "etag": "Mx93EC5t5XdqG41dPS_Ns5orgrI",
             "id": "UEw0TUVZdDBraUhaVk84c0xHcndCTmJ6N0F6UE5XWDlPTy5ENEEyOTIwNkY4NzFGMkQ2",
             "snippet": {
                 "publishedAt": "2024-01-15T05:22:47Z",
@@ -1551,7 +1551,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "cAyXU15Wkpew966lLEyUBd28xSg",
+            "etag": "nTwEjDm0_X055eIGcevwMgk9NH4",
             "id": "UEw0TUVZdDBraUhaVk84c0xHcndCTmJ6N0F6UE5XWDlPTy43ODA2MDVCQzY5QzZDMjUw",
             "snippet": {
                 "publishedAt": "2023-12-22T09:54:20Z",
@@ -1739,7 +1739,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "HogThLlHnO_qwCEfnbog9UcBl5o",
+            "etag": "l4oe_ddzd2d7lBvqv_VC2LYZb3w",
             "id": "UEw0TUVZdDBraUhaVk84c0xHcndCTmJ6N0F6UE5XWDlPTy5DQzY2RDZFRUQyRDlDQkMw",
             "snippet": {
                 "publishedAt": "2024-06-18T06:37:11Z",
@@ -1833,7 +1833,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "26ZsZRV88TE55xyAImgbvO91PiM",
+            "etag": "eGsJKjVRaT40XWbeAMGcGhF6DCY",
             "id": "UEw0TUVZdDBraUhaVk84c0xHcndCTmJ6N0F6UE5XWDlPTy42NEZDNTU0RTRENDUzRjMz",
             "snippet": {
                 "publishedAt": "2024-01-15T06:56:30Z",
@@ -1927,7 +1927,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "80ja1WQJepkRuQP5mIw6sPlPVWg",
+            "etag": "dGpbtOgE749u6L7RtcBLqTIVj0s",
             "id": "UEw0TUVZdDBraUhaVk84c0xHcndCTmJ6N0F6UE5XWDlPTy5EMzJDRTUwQjBEOUVFQzAw",
             "snippet": {
                 "publishedAt": "2023-12-06T11:29:51Z",
@@ -1974,7 +1974,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "uakgV7Inl36r_powfnsAH3np7RU",
+            "etag": "X4NPf1D9uWBtE_ax9e6r4nWyOIo",
             "id": "UEw0TUVZdDBraUhaVk84c0xHcndCTmJ6N0F6UE5XWDlPTy40NjI5ODZCQUE5NkRBMDI0",
             "snippet": {
                 "publishedAt": "2024-09-05T09:35:27Z",
@@ -2105,7 +2105,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "1GyV11-TsBi6mkppI2N16GkWEdA",
+            "etag": "NgFqnVo5Z2UKNS7LsoKud1ufkQE",
             "id": "UEw0TUVZdDBraUhaVk84c0xHcndCTmJ6N0F6UE5XWDlPTy4yQjdDRUQyQ0M0MEZCQkEx",
             "snippet": {
                 "publishedAt": "2024-09-22T12:55:11Z",
@@ -2152,54 +2152,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "_E8HxxoqvqjXyZmNQ0U-gkP0PFw",
-            "id": "UEw0TUVZdDBraUhaVk84c0xHcndCTmJ6N0F6UE5XWDlPTy45NDk1REZENzhEMzU5MDQz",
-            "snippet": {
-                "publishedAt": "2022-11-09T05:46:21Z",
-                "channelId": "UCNHE3OcC8G345-7rNgu-g9w",
-                "title": "BoyWithUke ft. Oliver Tree - Sick of U (Official Music Video)",
-                "description": "Spotify: https://BoyWithUke.lnk.to/Spotify\nApple Music: https://BoyWithUke.lnk.to/AppleMusic\nInstagram: https://BoyWithUke.lnk.to/Instagram\nTikTok: https://BoyWithUke.lnk.to/TikTok\nAll other links and socials: https://linktr.ee/Boywithuke\n \nThe official YouTube channel of BoyWithUke.\nSubscribe :D\n\n\n\nMusic video by BoyWithUke performing Sick of U. \u00a9 2022 Boywithuke, LLC, under exclusive license to Mercury Records/Republic Records, a division of UMG Recordings, Inc.",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/NNGd3uANaes/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/NNGd3uANaes/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/NNGd3uANaes/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    },
-                    "standard": {
-                        "url": "https://i.ytimg.com/vi/NNGd3uANaes/sddefault.jpg",
-                        "width": 640,
-                        "height": 480
-                    },
-                    "maxres": {
-                        "url": "https://i.ytimg.com/vi/NNGd3uANaes/maxresdefault.jpg",
-                        "width": 1280,
-                        "height": 720
-                    }
-                },
-                "channelTitle": "JSON Bourne",
-                "playlistId": "PL4MEYt0kiHZVO8sLGrwBNbz7AzPNWX9OO",
-                "position": 46,
-                "resourceId": {
-                    "kind": "youtube#video",
-                    "videoId": "NNGd3uANaes"
-                },
-                "videoOwnerChannelTitle": "BoyWithUkeVEVO",
-                "videoOwnerChannelId": "UCcUcckay9ZVzIZ92kEqz5Yw"
-            }
-        },
-        {
-            "kind": "youtube#playlistItem",
-            "etag": "KyFC_PvlikdECE4lIoRYCxclhqI",
+            "etag": "AegnmN6MSiBE1IYAf66w2OFJBx4",
             "id": "UEw0TUVZdDBraUhaVk84c0xHcndCTmJ6N0F6UE5XWDlPTy5BRjY4NjdBRjA5RTdCMUMx",
             "snippet": {
                 "publishedAt": "2024-05-28T10:13:02Z",
@@ -2235,13 +2188,60 @@
                 },
                 "channelTitle": "JSON Bourne",
                 "playlistId": "PL4MEYt0kiHZVO8sLGrwBNbz7AzPNWX9OO",
-                "position": 47,
+                "position": 46,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "Sg3hU_sdhKw"
                 },
                 "videoOwnerChannelTitle": "BangersOnly",
                 "videoOwnerChannelId": "UCTS70WpqG82S0CPZgWFg1GQ"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "GSdqShLzdahPKuja8vm0vE3aQBY",
+            "id": "UEw0TUVZdDBraUhaVk84c0xHcndCTmJ6N0F6UE5XWDlPTy45NDk1REZENzhEMzU5MDQz",
+            "snippet": {
+                "publishedAt": "2022-11-09T05:46:21Z",
+                "channelId": "UCNHE3OcC8G345-7rNgu-g9w",
+                "title": "BoyWithUke ft. Oliver Tree - Sick of U (Official Music Video)",
+                "description": "Spotify: https://BoyWithUke.lnk.to/Spotify\nApple Music: https://BoyWithUke.lnk.to/AppleMusic\nInstagram: https://BoyWithUke.lnk.to/Instagram\nTikTok: https://BoyWithUke.lnk.to/TikTok\nAll other links and socials: https://linktr.ee/Boywithuke\n \nThe official YouTube channel of BoyWithUke.\nSubscribe :D\n\n\n\nMusic video by BoyWithUke performing Sick of U. \u00a9 2022 Boywithuke, LLC, under exclusive license to Mercury Records/Republic Records, a division of UMG Recordings, Inc.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/NNGd3uANaes/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/NNGd3uANaes/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/NNGd3uANaes/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/NNGd3uANaes/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/NNGd3uANaes/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "JSON Bourne",
+                "playlistId": "PL4MEYt0kiHZVO8sLGrwBNbz7AzPNWX9OO",
+                "position": 47,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "NNGd3uANaes"
+                },
+                "videoOwnerChannelTitle": "BoyWithUkeVEVO",
+                "videoOwnerChannelId": "UCcUcckay9ZVzIZ92kEqz5Yw"
             }
         },
         {
@@ -2340,7 +2340,7 @@
         }
     ],
     "pageInfo": {
-        "totalResults": 304,
+        "totalResults": 305,
         "resultsPerPage": 50
     }
 }
