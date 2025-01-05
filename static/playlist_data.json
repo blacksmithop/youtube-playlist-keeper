@@ -1,7 +1,7 @@
 {
     "kind": "youtube#playlistItemListResponse",
-    "etag": "5d91bbGYzumr2kU0-l8GW7O-Udc",
-    "nextPageToken": "EAAajgFQVDpDRElpRUVORFF6SkRSamd6T0RRelJVWTRSakFvQVVpZXplSDA3c1NLQTFBQldrVWlRMmxLVVZSRVVrNVNWbXd3VFVkMGNGTkdjRmRVZW1oNlZFVmtlV1F3U2s5WmJtOHpVVmh3VVZSc1pGbFBWVGxRUldkM1NXdFFMWHAxZDFsUmMxQkxhM0ZCUlNJ",
+    "etag": "mDbnmLM1EOmkZQeSRK00QpnUvp4",
+    "nextPageToken": "EAAajQFQVDpDRElpRUVORFF6SkRSamd6T0RRelJVWTRSakFvQVVqY3Z1UzIyTTZLQTFBQldrUWlRMmxLVVZSRVVrNVNWbXd3VFVkMGNGTkdjRmRVZW1oNlZFVmtlV1F3U2s5WmJtOHpVVmh3VVZSc1pGbFBWVGxRUldkelNYRnpla2wxZDFsUk5FeGhSbFpuSWc",
     "items": [
         {
             "kind": "youtube#playlistItem",
@@ -564,7 +564,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "-UUru6lNlhsHQZj7Mqgm6LpdJ64",
+            "etag": "T5YgWac8wQoppDaDnLpwxo_Fi_g",
             "id": "UEw0TUVZdDBraUhaVk84c0xHcndCTmJ6N0F6UE5XWDlPTy41RjU0OTVCQThDNUUwQzBD",
             "snippet": {
                 "publishedAt": "2024-05-27T09:45:46Z",
@@ -1034,7 +1034,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "5f73Z3DNrpM39CGhIjD2Z14Hsts",
+            "etag": "wczhJN4G6RSxzlBuR4ZfE7wctoU",
             "id": "UEw0TUVZdDBraUhaVk84c0xHcndCTmJ6N0F6UE5XWDlPTy4yMkNBN0M4QUJEQzYxMjA3",
             "snippet": {
                 "publishedAt": "2024-06-21T11:21:47Z",
@@ -1410,7 +1410,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "izx1JK2HcBBqhbdscY-Jb2mKFk8",
+            "etag": "UkiRsD2cJ2vf2dH_1gWenVjfswo",
             "id": "UEw0TUVZdDBraUhaVk84c0xHcndCTmJ6N0F6UE5XWDlPTy5GOUJEOERGNDg1N0QyNDA3",
             "snippet": {
                 "publishedAt": "2024-07-24T08:45:36Z",
@@ -1833,54 +1833,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "eGsJKjVRaT40XWbeAMGcGhF6DCY",
-            "id": "UEw0TUVZdDBraUhaVk84c0xHcndCTmJ6N0F6UE5XWDlPTy42NEZDNTU0RTRENDUzRjMz",
-            "snippet": {
-                "publishedAt": "2024-01-15T06:56:30Z",
-                "channelId": "UCNHE3OcC8G345-7rNgu-g9w",
-                "title": "Kimbra - \"Settle Down\"",
-                "description": "Kimbra's debut album VOWS is out now in the US, CA, Australia, and New Zealand. Get VOWS here: http://wbr.fm/kimbramusic\r\n\r\nDirected by Guy Franklin. \r\nFor more Kimbra:\r\nhttp://Facebook.com/KimbraMusic\r\nhttp://KimbraMusic.com\r\nhttp://Twitter.com/KimbraMusic\r\nhttp://YouTube.com/KimbraMusic\r\n\r\nSettle Down Lyrics: \r\n\r\nI wanna settle down\r\nI wanna settle down\r\nWon't you settle down with me?\r\nSettle down\r\n\r\nWe can settle at a table..\r\nA table for two\r\nWon't you wine and dine with me?\r\nSettle down\r\n\r\nI wanna raise a child\r\nI wanna raise a child\r\nWon't you raise a child with me...\r\nRaise a child\r\n\r\nWe'll call her Nebraska\r\nNebraska Jones\r\nShe'll have your nose\r\nJust so you know\r\n\r\nI wanna settle down\r\nI wanna settle down\r\nWon't you settle down with me?\r\nSettle down\r\n\r\nRun from Angela Vickers\r\nI saw her with you\r\nMonday morning small talking on the avenue\r\nShe's got a fancy car\r\nShe wants to take you far\r\nFrom the city lights and sounds deep into the dark\r\n\r\nStar so light and star so bright\r\nFirst star i see tonight!\r\nStar so light and star so bright\r\nKeep him by side!\r\n\r\nI wanna settle down\r\nI wanna settle down\r\nBaby there's no need to run\r\nI'll love you well\r\nI wanna settle down\r\nIt's time to bring you down\r\nOn just one knee for now\r\nLets make our vows",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/yHV04eSGzAA/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/yHV04eSGzAA/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/yHV04eSGzAA/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    },
-                    "standard": {
-                        "url": "https://i.ytimg.com/vi/yHV04eSGzAA/sddefault.jpg",
-                        "width": 640,
-                        "height": 480
-                    },
-                    "maxres": {
-                        "url": "https://i.ytimg.com/vi/yHV04eSGzAA/maxresdefault.jpg",
-                        "width": 1280,
-                        "height": 720
-                    }
-                },
-                "channelTitle": "JSON Bourne",
-                "playlistId": "PL4MEYt0kiHZVO8sLGrwBNbz7AzPNWX9OO",
-                "position": 39,
-                "resourceId": {
-                    "kind": "youtube#video",
-                    "videoId": "yHV04eSGzAA"
-                },
-                "videoOwnerChannelTitle": "Forum5Recordings",
-                "videoOwnerChannelId": "UCs6C3Cp_7H3r9KTPXcoN1Lg"
-            }
-        },
-        {
-            "kind": "youtube#playlistItem",
-            "etag": "lT1-P7aWhpko1sD633KIya_DLG0",
+            "etag": "QGJlVy12PUKnBldTPztk6n3oKyA",
             "id": "UEw0TUVZdDBraUhaVk84c0xHcndCTmJ6N0F6UE5XWDlPTy5DRUQwODMxQzUyRTlGRkY3",
             "snippet": {
                 "publishedAt": "2023-09-25T08:51:04Z",
@@ -1916,13 +1869,60 @@
                 },
                 "channelTitle": "JSON Bourne",
                 "playlistId": "PL4MEYt0kiHZVO8sLGrwBNbz7AzPNWX9OO",
-                "position": 40,
+                "position": 39,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "aVpJGGQHSqc"
                 },
                 "videoOwnerChannelTitle": "Jonathan Young",
                 "videoOwnerChannelId": "UC40gs0opj389ohjLnJIAJzA"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "3R1_-uxl9y0E6wqqQNNFj8JN-3c",
+            "id": "UEw0TUVZdDBraUhaVk84c0xHcndCTmJ6N0F6UE5XWDlPTy42NEZDNTU0RTRENDUzRjMz",
+            "snippet": {
+                "publishedAt": "2024-01-15T06:56:30Z",
+                "channelId": "UCNHE3OcC8G345-7rNgu-g9w",
+                "title": "Kimbra - \"Settle Down\"",
+                "description": "Kimbra's debut album VOWS is out now in the US, CA, Australia, and New Zealand. Get VOWS here: http://wbr.fm/kimbramusic\r\n\r\nDirected by Guy Franklin. \r\nFor more Kimbra:\r\nhttp://Facebook.com/KimbraMusic\r\nhttp://KimbraMusic.com\r\nhttp://Twitter.com/KimbraMusic\r\nhttp://YouTube.com/KimbraMusic\r\n\r\nSettle Down Lyrics: \r\n\r\nI wanna settle down\r\nI wanna settle down\r\nWon't you settle down with me?\r\nSettle down\r\n\r\nWe can settle at a table..\r\nA table for two\r\nWon't you wine and dine with me?\r\nSettle down\r\n\r\nI wanna raise a child\r\nI wanna raise a child\r\nWon't you raise a child with me...\r\nRaise a child\r\n\r\nWe'll call her Nebraska\r\nNebraska Jones\r\nShe'll have your nose\r\nJust so you know\r\n\r\nI wanna settle down\r\nI wanna settle down\r\nWon't you settle down with me?\r\nSettle down\r\n\r\nRun from Angela Vickers\r\nI saw her with you\r\nMonday morning small talking on the avenue\r\nShe's got a fancy car\r\nShe wants to take you far\r\nFrom the city lights and sounds deep into the dark\r\n\r\nStar so light and star so bright\r\nFirst star i see tonight!\r\nStar so light and star so bright\r\nKeep him by side!\r\n\r\nI wanna settle down\r\nI wanna settle down\r\nBaby there's no need to run\r\nI'll love you well\r\nI wanna settle down\r\nIt's time to bring you down\r\nOn just one knee for now\r\nLets make our vows",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/yHV04eSGzAA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/yHV04eSGzAA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/yHV04eSGzAA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/yHV04eSGzAA/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/yHV04eSGzAA/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "JSON Bourne",
+                "playlistId": "PL4MEYt0kiHZVO8sLGrwBNbz7AzPNWX9OO",
+                "position": 40,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "yHV04eSGzAA"
+                },
+                "videoOwnerChannelTitle": "Forum5Recordings",
+                "videoOwnerChannelId": "UCs6C3Cp_7H3r9KTPXcoN1Lg"
             }
         },
         {
@@ -2105,7 +2105,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "NgFqnVo5Z2UKNS7LsoKud1ufkQE",
+            "etag": "I01wMX8dL5o-RwH3sCN1AaXKaKM",
             "id": "UEw0TUVZdDBraUhaVk84c0xHcndCTmJ6N0F6UE5XWDlPTy4yQjdDRUQyQ0M0MEZCQkEx",
             "snippet": {
                 "publishedAt": "2024-09-22T12:55:11Z",
@@ -2340,7 +2340,7 @@
         }
     ],
     "pageInfo": {
-        "totalResults": 305,
+        "totalResults": 306,
         "resultsPerPage": 50
     }
 }
