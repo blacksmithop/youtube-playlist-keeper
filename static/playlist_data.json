@@ -1,7 +1,7 @@
 {
     "kind": "youtube#playlistItemListResponse",
-    "etag": "YiRrFEGNQoDIBNbqqhe3W_7tsfs",
-    "nextPageToken": "EAAajgFQVDpDRElpRUVORFF6SkRSamd6T0RRelJVWTRSakFvQVVpRnlLckZoLUdLQTFBQldrVWlRMmxLVVZSRVVrNVNWbXd3VFVkMGNGTkdjRmRVZW1oNlZFVmtlV1F3U2s5WmJtOHpVVmh3VVZSc1pGbFBWVGxRUldkM1NWOUpOM1oxZDFsUmFVeG1SREZCUlNJ",
+    "etag": "KcqXJwHcp1WhCxbhIjItNVmNZ8o",
+    "nextPageToken": "EAAajgFQVDpDRElpRUVORFF6SkRSamd6T0RRelJVWTRSakFvQVVqenlhUDk4X21LQTFBQldrVWlRMmxLVVZSRVVrNVNWbXd3VFVkMGNGTkdjRmRVZW1oNlZFVmtlV1F3U2s5WmJtOHpVVmh3VVZSc1pGbFBWVGxRUldkM1NUWndlV3AyUVZsUmRVOU1jUzFCUlNJ",
     "items": [
         {
             "kind": "youtube#playlistItem",
@@ -52,7 +52,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "GP46SiWAN-JQYSCUCX5hn1dGlbU",
+            "etag": "Gg5i_vYNgIThw6a7uOEzuBpZRhk",
             "id": "UEw0TUVZdDBraUhaVk84c0xHcndCTmJ6N0F6UE5XWDlPTy4xRUU4M0JFMUQ4QTA2MjVB",
             "snippet": {
                 "publishedAt": "2024-09-25T04:17:12Z",
@@ -94,7 +94,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "Ip8lZw6OJ23oq_-Jn5ZaPNV72dQ",
+            "etag": "PQUXX4IPNB38obWAiK4H-p7Jjxo",
             "id": "UEw0TUVZdDBraUhaVk84c0xHcndCTmJ6N0F6UE5XWDlPTy5ENjg2QjQ3OTVDOUE2QzYw",
             "snippet": {
                 "publishedAt": "2024-07-04T11:56:37Z",
@@ -329,7 +329,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "Z93ZlsXuTgR5LsfFf6OPhDTQyvw",
+            "etag": "lDGk9OabU8CzOOwVPLpI8lnfU1o",
             "id": "UEw0TUVZdDBraUhaVk84c0xHcndCTmJ6N0F6UE5XWDlPTy5DNzE1RjZEMUZCMjA0RDBB",
             "snippet": {
                 "publishedAt": "2023-04-12T11:47:05Z",
@@ -376,7 +376,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "Dj7Si5e1NFvuKenOnRtVE-v7oGM",
+            "etag": "68LTGlODRHChXqEdpnTeLGJ48Qg",
             "id": "UEw0TUVZdDBraUhaVk84c0xHcndCTmJ6N0F6UE5XWDlPTy45NzUwQkI1M0UxNThBMkU0",
             "snippet": {
                 "publishedAt": "2023-02-07T09:32:31Z",
@@ -470,7 +470,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "pWCBK9RQsE0nVJ2T2F3XAVU1VwU",
+            "etag": "vt5lR-4grnW26ck8vklLRNSR2jw",
             "id": "UEw0TUVZdDBraUhaVk84c0xHcndCTmJ6N0F6UE5XWDlPTy45MTRCQjE3QzVGNDREODIz",
             "snippet": {
                 "publishedAt": "2024-09-27T11:47:15Z",
@@ -611,7 +611,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "-U8mddk52ain4DgS0FBSYqn2Pk0",
+            "etag": "0IsizwyO9CW2mLgxbwkqIeDrwxo",
             "id": "UEw0TUVZdDBraUhaVk84c0xHcndCTmJ6N0F6UE5XWDlPTy5EMUJFNzRCNDRFQjE5RjM4",
             "snippet": {
                 "publishedAt": "2023-12-19T05:42:20Z",
@@ -752,7 +752,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "7gNYFObigAlDOhjSo4f7KE93t28",
+            "etag": "Oo8jzH1gRgT8l3BdnUhHeE4PRFA",
             "id": "UEw0TUVZdDBraUhaVk84c0xHcndCTmJ6N0F6UE5XWDlPTy43RjU3NEIyMjFBMEIxQ0ZF",
             "snippet": {
                 "publishedAt": "2024-07-05T04:15:13Z",
@@ -940,7 +940,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "2IpCTIYhDmz-vG37kLTMV9FsxpQ",
+            "etag": "R5nnU8j5aBm9fNFrVUN8J3UGRFE",
             "id": "UEw0TUVZdDBraUhaVk84c0xHcndCTmJ6N0F6UE5XWDlPTy4zMzg4MjBBNzZCQzY5MDk4",
             "snippet": {
                 "publishedAt": "2024-07-26T03:23:40Z",
@@ -987,7 +987,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "eiBEgEhseEg0WMyaDEIaighF5mk",
+            "etag": "uQ470kbuKnUpNT737vRpmYoZCMM",
             "id": "UEw0TUVZdDBraUhaVk84c0xHcndCTmJ6N0F6UE5XWDlPTy5DNzNDRDE1NzhGODQzODI2",
             "snippet": {
                 "publishedAt": "2024-06-04T09:16:06Z",
@@ -1034,7 +1034,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "wczhJN4G6RSxzlBuR4ZfE7wctoU",
+            "etag": "TFzI-6AV2L1LGhWSv4IMx-TTbz4",
             "id": "UEw0TUVZdDBraUhaVk84c0xHcndCTmJ6N0F6UE5XWDlPTy4yMkNBN0M4QUJEQzYxMjA3",
             "snippet": {
                 "publishedAt": "2024-06-21T11:21:47Z",
@@ -1081,54 +1081,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "ioZQ5NxOI44IEM__5tO-khb6UQE",
-            "id": "UEw0TUVZdDBraUhaVk84c0xHcndCTmJ6N0F6UE5XWDlPTy5FRDc0QkQxMzlEMTZBMzg0",
-            "snippet": {
-                "publishedAt": "2024-08-13T09:45:27Z",
-                "channelId": "UCNHE3OcC8G345-7rNgu-g9w",
-                "title": "\u80e1\u590f Xia Hu - Those Bygone Years \u90a3\u4e9b\u5e74",
-                "description": "Music video by Hu, Xia performing Those Bygone Years. \u00a9 2011 Sony Music Entertainment China Holdings Limited",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/KqjgLbKZ1h0/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/KqjgLbKZ1h0/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/KqjgLbKZ1h0/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    },
-                    "standard": {
-                        "url": "https://i.ytimg.com/vi/KqjgLbKZ1h0/sddefault.jpg",
-                        "width": 640,
-                        "height": 480
-                    },
-                    "maxres": {
-                        "url": "https://i.ytimg.com/vi/KqjgLbKZ1h0/maxresdefault.jpg",
-                        "width": 1280,
-                        "height": 720
-                    }
-                },
-                "channelTitle": "JSON Bourne",
-                "playlistId": "PL4MEYt0kiHZVO8sLGrwBNbz7AzPNWX9OO",
-                "position": 23,
-                "resourceId": {
-                    "kind": "youtube#video",
-                    "videoId": "KqjgLbKZ1h0"
-                },
-                "videoOwnerChannelTitle": "HuXiaVEVO",
-                "videoOwnerChannelId": "UCIZavUMxkpJUpeqGSwlli6A"
-            }
-        },
-        {
-            "kind": "youtube#playlistItem",
-            "etag": "IZGZvUvIzdp0AJ-nCm4OnUndRfY",
+            "etag": "CwDOGmVl8kgHy_XGtnG2lWJHGac",
             "id": "UEw0TUVZdDBraUhaVk84c0xHcndCTmJ6N0F6UE5XWDlPTy4wNjIzRDA1OTQ2M0UyODEw",
             "snippet": {
                 "publishedAt": "2024-04-10T06:18:01Z",
@@ -1164,13 +1117,60 @@
                 },
                 "channelTitle": "JSON Bourne",
                 "playlistId": "PL4MEYt0kiHZVO8sLGrwBNbz7AzPNWX9OO",
-                "position": 24,
+                "position": 23,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "aezstCBHOPQ"
                 },
                 "videoOwnerChannelTitle": "Hozier",
                 "videoOwnerChannelId": "UCwAam3W_VLfb6mEKPW2nDFg"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "evyLceAqeNHY30rPY8ZUmxcHAPI",
+            "id": "UEw0TUVZdDBraUhaVk84c0xHcndCTmJ6N0F6UE5XWDlPTy5FRDc0QkQxMzlEMTZBMzg0",
+            "snippet": {
+                "publishedAt": "2024-08-13T09:45:27Z",
+                "channelId": "UCNHE3OcC8G345-7rNgu-g9w",
+                "title": "\u80e1\u590f Xia Hu - Those Bygone Years \u90a3\u4e9b\u5e74",
+                "description": "Music video by Hu, Xia performing Those Bygone Years. \u00a9 2011 Sony Music Entertainment China Holdings Limited",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/KqjgLbKZ1h0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/KqjgLbKZ1h0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/KqjgLbKZ1h0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/KqjgLbKZ1h0/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/KqjgLbKZ1h0/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "JSON Bourne",
+                "playlistId": "PL4MEYt0kiHZVO8sLGrwBNbz7AzPNWX9OO",
+                "position": 24,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "KqjgLbKZ1h0"
+                },
+                "videoOwnerChannelTitle": "HuXiaVEVO",
+                "videoOwnerChannelId": "UCIZavUMxkpJUpeqGSwlli6A"
             }
         },
         {
@@ -1222,7 +1222,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "0IQTMZ_-gRJnte-5iu6M7mmG_SY",
+            "etag": "DRd2xAgbOof98uy4DrSa7NI1PKc",
             "id": "UEw0TUVZdDBraUhaVk84c0xHcndCTmJ6N0F6UE5XWDlPTy4yRjU0MzcwMkYwRkVDNDhC",
             "snippet": {
                 "publishedAt": "2024-09-12T06:00:59Z",
@@ -1269,7 +1269,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "AJ7VWnLqEE7Q28eMtvg_AsJYcB0",
+            "etag": "YvMK9IwVv2wys_jaJO14m9B1Eqs",
             "id": "UEw0TUVZdDBraUhaVk84c0xHcndCTmJ6N0F6UE5XWDlPTy42MzYyQ0E2MUE4ODAzQkU5",
             "snippet": {
                 "publishedAt": "2024-10-16T03:49:03Z",
@@ -1316,7 +1316,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "aFzux8-G_JqGgXd6XBcamdXZTKY",
+            "etag": "xxYmxVEK24QSyqMUTJOO7LcfcDo",
             "id": "UEw0TUVZdDBraUhaVk84c0xHcndCTmJ6N0F6UE5XWDlPTy43NkI3M0NGOUE4ODY2OTE1",
             "snippet": {
                 "publishedAt": "2024-10-16T03:49:04Z",
@@ -1410,7 +1410,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "LxtUfNz_2t1N0K5hITqarY0NG1c",
+            "etag": "ZqPPXSVduJ0-QjqM2WkEYGWJb7w",
             "id": "UEw0TUVZdDBraUhaVk84c0xHcndCTmJ6N0F6UE5XWDlPTy5GOUJEOERGNDg1N0QyNDA3",
             "snippet": {
                 "publishedAt": "2024-07-24T08:45:36Z",
@@ -1504,7 +1504,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "MumV2KDvz5f02RfP6bODPFjYppw",
+            "etag": "Yl1jk-AiRok9TyEeajixOa-kGxM",
             "id": "UEw0TUVZdDBraUhaVk84c0xHcndCTmJ6N0F6UE5XWDlPTy5ENEEyOTIwNkY4NzFGMkQ2",
             "snippet": {
                 "publishedAt": "2024-01-15T05:22:47Z",
@@ -1880,7 +1880,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "3R1_-uxl9y0E6wqqQNNFj8JN-3c",
+            "etag": "ACoWvy7FKGxeg25haxkaMdM2dfA",
             "id": "UEw0TUVZdDBraUhaVk84c0xHcndCTmJ6N0F6UE5XWDlPTy42NEZDNTU0RTRENDUzRjMz",
             "snippet": {
                 "publishedAt": "2024-01-15T06:56:30Z",
@@ -2063,96 +2063,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "paxqEFjBALZLTBGsbzhqZgIq9tI",
-            "id": "UEw0TUVZdDBraUhaVk84c0xHcndCTmJ6N0F6UE5XWDlPTy5FMUU5ODU1MDE0RTk1Q0Ew",
-            "snippet": {
-                "publishedAt": "2024-06-25T08:31:39Z",
-                "channelId": "UCNHE3OcC8G345-7rNgu-g9w",
-                "title": "Caro Emerald - A Night Like This (Official Video)",
-                "description": "From the album \"Deleted Scenes From The Cutting Room Floor\"\n\nClick here for more Caro Emerald: https://caroemerald.lnk.to/ANLTYT\n\nSmouldering, vintage latin and jazz inspired songs with a contemporary sheen - the music and aesthetic of Caro Emerald have been capturing hearts and minds across the continents since 2009. Backed by creative minds, songwriters and producers David Schreurs, Vincent Degiorgio and Jan van Wieringen the Amsterdam/Toronto based group blends smokey hiphop beats, loops and samples with jazz, 60's movie scores, latin and  bigband music to a unique, upbeat and infectious sound. Their debut album \"Deletes Scenes From The Cutting Room Floor\" (2010) was an overnight smash, resulting in over 2 million album sales, #1 hits in the UK, The Netherlands (longest #1 album ever, 30 weeks) and top 5 hits in the rest of Europe. Caro has performed around the globe on stages including the Royal Albert Hall, Glastonbury mainstage and Hide Park - to name but a few. \n\nWritten by David Schreurs, Vincent Degiorgio, Jan van Wieringen.\nProduced by David Schreurs, Jan van Wieringen. (c) + (p) 2009 Grandmono Records",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/74LXx0wSqMI/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/74LXx0wSqMI/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/74LXx0wSqMI/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    },
-                    "standard": {
-                        "url": "https://i.ytimg.com/vi/74LXx0wSqMI/sddefault.jpg",
-                        "width": 640,
-                        "height": 480
-                    }
-                },
-                "channelTitle": "JSON Bourne",
-                "playlistId": "PL4MEYt0kiHZVO8sLGrwBNbz7AzPNWX9OO",
-                "position": 44,
-                "resourceId": {
-                    "kind": "youtube#video",
-                    "videoId": "74LXx0wSqMI"
-                },
-                "videoOwnerChannelTitle": "caroemerald",
-                "videoOwnerChannelId": "UCUmqK1oeMpSfRQ6oUpiYKHA"
-            }
-        },
-        {
-            "kind": "youtube#playlistItem",
-            "etag": "Ojed6x4KkMVGbH0AcOgECh6qX3M",
-            "id": "UEw0TUVZdDBraUhaVk84c0xHcndCTmJ6N0F6UE5XWDlPTy4yQjdDRUQyQ0M0MEZCQkEx",
-            "snippet": {
-                "publishedAt": "2024-09-22T12:55:11Z",
-                "channelId": "UCNHE3OcC8G345-7rNgu-g9w",
-                "title": "Bad Apple!! - Full Version w/video [Lyrics in Romaji, Translation in English]",
-                "description": "I did a montage of the video \"Bad Apple!!\" to go with the full version. The song is sang by Nomico and made by Alstroemeria Records.\n\nAt some places, it's not lag. It's just the video that is slow down.\n\n==How to see the subtitles (updated on July 3rd, 2020)==\nThose who are not familiar with the YouTube Captions, you just have to press the settings button and go to \"Subtitles/CC\", it will give you those options:\n- \"English - Translation in English\" - Turn on the English Captions\n- \"Japanese - Romaji\" - Turn on the Romaji Captions\n-  Off\nI hope that was helpful. :)\n\n==Various Description Edits==\nEdit 28-12-2012: 1,000,000 views to end the year! I never thought that the video will actually have a million views. Thanks everyone! :)\n\nEdit 13-11-2013: Wow, 2,000,000 views! That's so incredible!!!  :D\n\nEdit 27-03-2018: Anyone mentioning \"Undertale\" in the comments gets filtered.\n\nEdit 03-07-2020: 27 million views. Wow. I still can't believe an edit of the original Bad Apple!! video that I made when I was 15 years old got this many views.",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/9lNZ_Rnr7Jc/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/9lNZ_Rnr7Jc/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/9lNZ_Rnr7Jc/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    },
-                    "standard": {
-                        "url": "https://i.ytimg.com/vi/9lNZ_Rnr7Jc/sddefault.jpg",
-                        "width": 640,
-                        "height": 480
-                    },
-                    "maxres": {
-                        "url": "https://i.ytimg.com/vi/9lNZ_Rnr7Jc/maxresdefault.jpg",
-                        "width": 1280,
-                        "height": 720
-                    }
-                },
-                "channelTitle": "JSON Bourne",
-                "playlistId": "PL4MEYt0kiHZVO8sLGrwBNbz7AzPNWX9OO",
-                "position": 45,
-                "resourceId": {
-                    "kind": "youtube#video",
-                    "videoId": "9lNZ_Rnr7Jc"
-                },
-                "videoOwnerChannelTitle": "luigiman09",
-                "videoOwnerChannelId": "UCPZeEvYtEm9LXWQbu049kDw"
-            }
-        },
-        {
-            "kind": "youtube#playlistItem",
-            "etag": "Lttb7TyUS5Q0O97T75mtYzFE4bg",
+            "etag": "cX05q2D7qSQb_z0LehR2RWeFKfQ",
             "id": "UEw0TUVZdDBraUhaVk84c0xHcndCTmJ6N0F6UE5XWDlPTy5BRjY4NjdBRjA5RTdCMUMx",
             "snippet": {
                 "publishedAt": "2024-05-28T10:13:02Z",
@@ -2188,7 +2099,7 @@
                 },
                 "channelTitle": "JSON Bourne",
                 "playlistId": "PL4MEYt0kiHZVO8sLGrwBNbz7AzPNWX9OO",
-                "position": 46,
+                "position": 44,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "Sg3hU_sdhKw"
@@ -2199,7 +2110,96 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "LRQPXW0hLlFPiQOBUINsaTVQ7OQ",
+            "etag": "hWeBJq7X4oTGPhkeE1wo2z3Hd7o",
+            "id": "UEw0TUVZdDBraUhaVk84c0xHcndCTmJ6N0F6UE5XWDlPTy5FMUU5ODU1MDE0RTk1Q0Ew",
+            "snippet": {
+                "publishedAt": "2024-06-25T08:31:39Z",
+                "channelId": "UCNHE3OcC8G345-7rNgu-g9w",
+                "title": "Caro Emerald - A Night Like This (Official Video)",
+                "description": "From the album \"Deleted Scenes From The Cutting Room Floor\"\n\nClick here for more Caro Emerald: https://caroemerald.lnk.to/ANLTYT\n\nSmouldering, vintage latin and jazz inspired songs with a contemporary sheen - the music and aesthetic of Caro Emerald have been capturing hearts and minds across the continents since 2009. Backed by creative minds, songwriters and producers David Schreurs, Vincent Degiorgio and Jan van Wieringen the Amsterdam/Toronto based group blends smokey hiphop beats, loops and samples with jazz, 60's movie scores, latin and  bigband music to a unique, upbeat and infectious sound. Their debut album \"Deletes Scenes From The Cutting Room Floor\" (2010) was an overnight smash, resulting in over 2 million album sales, #1 hits in the UK, The Netherlands (longest #1 album ever, 30 weeks) and top 5 hits in the rest of Europe. Caro has performed around the globe on stages including the Royal Albert Hall, Glastonbury mainstage and Hide Park - to name but a few. \n\nWritten by David Schreurs, Vincent Degiorgio, Jan van Wieringen.\nProduced by David Schreurs, Jan van Wieringen. (c) + (p) 2009 Grandmono Records",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/74LXx0wSqMI/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/74LXx0wSqMI/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/74LXx0wSqMI/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/74LXx0wSqMI/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "JSON Bourne",
+                "playlistId": "PL4MEYt0kiHZVO8sLGrwBNbz7AzPNWX9OO",
+                "position": 45,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "74LXx0wSqMI"
+                },
+                "videoOwnerChannelTitle": "caroemerald",
+                "videoOwnerChannelId": "UCUmqK1oeMpSfRQ6oUpiYKHA"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "l_oTSERpobeGQTfHXe1ULx-RWQE",
+            "id": "UEw0TUVZdDBraUhaVk84c0xHcndCTmJ6N0F6UE5XWDlPTy4yQjdDRUQyQ0M0MEZCQkEx",
+            "snippet": {
+                "publishedAt": "2024-09-22T12:55:11Z",
+                "channelId": "UCNHE3OcC8G345-7rNgu-g9w",
+                "title": "Bad Apple!! - Full Version w/video [Lyrics in Romaji, Translation in English]",
+                "description": "I did a montage of the video \"Bad Apple!!\" to go with the full version. The song is sang by Nomico and made by Alstroemeria Records.\n\nAt some places, it's not lag. It's just the video that is slow down.\n\n==How to see the subtitles (updated on July 3rd, 2020)==\nThose who are not familiar with the YouTube Captions, you just have to press the settings button and go to \"Subtitles/CC\", it will give you those options:\n- \"English - Translation in English\" - Turn on the English Captions\n- \"Japanese - Romaji\" - Turn on the Romaji Captions\n-  Off\nI hope that was helpful. :)\n\n==Various Description Edits==\nEdit 28-12-2012: 1,000,000 views to end the year! I never thought that the video will actually have a million views. Thanks everyone! :)\n\nEdit 13-11-2013: Wow, 2,000,000 views! That's so incredible!!!  :D\n\nEdit 27-03-2018: Anyone mentioning \"Undertale\" in the comments gets filtered.\n\nEdit 03-07-2020: 27 million views. Wow. I still can't believe an edit of the original Bad Apple!! video that I made when I was 15 years old got this many views.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/9lNZ_Rnr7Jc/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/9lNZ_Rnr7Jc/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/9lNZ_Rnr7Jc/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/9lNZ_Rnr7Jc/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/9lNZ_Rnr7Jc/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "JSON Bourne",
+                "playlistId": "PL4MEYt0kiHZVO8sLGrwBNbz7AzPNWX9OO",
+                "position": 46,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "9lNZ_Rnr7Jc"
+                },
+                "videoOwnerChannelTitle": "luigiman09",
+                "videoOwnerChannelId": "UCPZeEvYtEm9LXWQbu049kDw"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "DCL8TfrvKNKbqvv3NRnjY8YX5PI",
             "id": "UEw0TUVZdDBraUhaVk84c0xHcndCTmJ6N0F6UE5XWDlPTy45NDk1REZENzhEMzU5MDQz",
             "snippet": {
                 "publishedAt": "2022-11-09T05:46:21Z",
@@ -2293,7 +2293,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "jvKjmalIX5JkJKc8jNw21zGMrYU",
+            "etag": "uJQXS3-HL5yNbBZ7MKKOI6i3wU8",
             "id": "UEw0TUVZdDBraUhaVk84c0xHcndCTmJ6N0F6UE5XWDlPTy43OTQxRDdENkQwNEZGMkQy",
             "snippet": {
                 "publishedAt": "2024-07-12T10:39:19Z",
@@ -2340,7 +2340,7 @@
         }
     ],
     "pageInfo": {
-        "totalResults": 308,
+        "totalResults": 309,
         "resultsPerPage": 50
     }
 }
