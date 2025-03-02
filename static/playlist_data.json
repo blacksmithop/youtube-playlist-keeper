@@ -1,7 +1,7 @@
 {
     "kind": "youtube#playlistItemListResponse",
-    "etag": "tg3_9RxERK8Aiir33yxhLw2iJLY",
-    "nextPageToken": "EAAajgFQVDpDRElpRURrME9UVkVSa1EzT0VRek5Ua3dORE1vQVVqbm5hdlE3ZEdMQTFBQldrVWlRMmxLVVZSRVVrNVNWbXd3VFVkMGNGTkdjRmRVZW1oNlZFVmtlV1F3U2s5WmJtOHpVVmh3VVZSc1pGbFBWVGxRUldkM1NUWjBXR0oyVVZsUk1rdFVaWE5CU1NJ",
+    "etag": "3jwvtgUP84_LCXCp891xzstW2_k",
+    "nextPageToken": "EAAaHlBUOkNESWlFRGswT1RWRVJrUTNPRVF6TlRrd05ETQ",
     "items": [
         {
             "kind": "youtube#playlistItem",
@@ -52,7 +52,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "h94BoJuJ18B6XgR3pYNzjeVsAYw",
+            "etag": "5_qvQxiAexx5Gt_kTQBuOT5X07o",
             "id": "UEw0TUVZdDBraUhaVk84c0xHcndCTmJ6N0F6UE5XWDlPTy4xRUU4M0JFMUQ4QTA2MjVB",
             "snippet": {
                 "publishedAt": "2024-09-25T04:17:12Z",
@@ -235,7 +235,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "Ghre9eFKOtAixrVFEieHqvlJE78",
+            "etag": "6NAAJ2d2ozBoHTvBjIMOnNJDZu8",
             "id": "UEw0TUVZdDBraUhaVk84c0xHcndCTmJ6N0F6UE5XWDlPTy5DODY2Qzc5Mzc1QkZEQ0NF",
             "snippet": {
                 "publishedAt": "2024-03-01T04:45:16Z",
@@ -282,7 +282,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "NDRyczNvZPfVbiEGhnt4zqHLgRI",
+            "etag": "5l8K4T8BUUzGJwuAXL_S_zm5xdI",
             "id": "UEw0TUVZdDBraUhaVk84c0xHcndCTmJ6N0F6UE5XWDlPTy41NEI5MkYxNzc0MDczQUUw",
             "snippet": {
                 "publishedAt": "2024-07-05T07:25:42Z",
@@ -329,7 +329,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "4_WxJORgA4OF0Ft_w7r1Y-rT2jM",
+            "etag": "WtKb1QWD8r48id4vmtUUrqsvBcI",
             "id": "UEw0TUVZdDBraUhaVk84c0xHcndCTmJ6N0F6UE5XWDlPTy5DNzE1RjZEMUZCMjA0RDBB",
             "snippet": {
                 "publishedAt": "2023-04-12T11:47:05Z",
@@ -376,7 +376,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "68LTGlODRHChXqEdpnTeLGJ48Qg",
+            "etag": "76nUZIk2tNQ3rXTaoomCC_Ppfc8",
             "id": "UEw0TUVZdDBraUhaVk84c0xHcndCTmJ6N0F6UE5XWDlPTy45NzUwQkI1M0UxNThBMkU0",
             "snippet": {
                 "publishedAt": "2023-02-07T09:32:31Z",
@@ -423,7 +423,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "YrvpEvTWW4clJYeRvPf3uvJser8",
+            "etag": "0rE2t9wYtUY9guavaXGhhFVAq-8",
             "id": "UEw0TUVZdDBraUhaVk84c0xHcndCTmJ6N0F6UE5XWDlPTy4xN0E0QjgwRkVBM0I5Nzg1",
             "snippet": {
                 "publishedAt": "2025-02-09T17:04:22Z",
@@ -507,7 +507,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "FSlQ_1303T4VSOFGUzkJoIhIaJY",
+            "etag": "qp40O64qY1mKAH6dxMxO_JlrpPE",
             "id": "UEw0TUVZdDBraUhaVk84c0xHcndCTmJ6N0F6UE5XWDlPTy45MTRCQjE3QzVGNDREODIz",
             "snippet": {
                 "publishedAt": "2024-09-27T11:47:15Z",
@@ -601,7 +601,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "fJ7s3n_ap1D7Il1wpdFoL_6z6rw",
+            "etag": "YodduMT3AWSiQqbIHb_7iiyqTXI",
             "id": "UEw0TUVZdDBraUhaVk84c0xHcndCTmJ6N0F6UE5XWDlPTy41RjU0OTVCQThDNUUwQzBD",
             "snippet": {
                 "publishedAt": "2024-05-27T09:45:46Z",
@@ -648,7 +648,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "z-b5S1an1K1XR0dXYWk-JuCCr3o",
+            "etag": "NYJkpr5z8UeiM_pQIsd6HOyOI08",
             "id": "UEw0TUVZdDBraUhaVk84c0xHcndCTmJ6N0F6UE5XWDlPTy5EMUJFNzRCNDRFQjE5RjM4",
             "snippet": {
                 "publishedAt": "2023-12-19T05:42:20Z",
@@ -695,7 +695,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "T_hzDsS9-mB-P0QIFrm6QCaVsxY",
+            "etag": "Pt0c157288Z--2qnvV8Gbrj2J9Y",
             "id": "UEw0TUVZdDBraUhaVk84c0xHcndCTmJ6N0F6UE5XWDlPTy5FRkIzNkJFQkQ3RkUwOUY5",
             "snippet": {
                 "publishedAt": "2024-09-23T06:11:57Z",
@@ -742,7 +742,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "O2j6DYe7MVkDGA-5gZK3LMqzs3w",
+            "etag": "hAxtpvjgLNHwT-BhNi52Z1-njbY",
             "id": "UEw0TUVZdDBraUhaVk84c0xHcndCTmJ6N0F6UE5XWDlPTy42MTk5OTRCREQ5RkNFODZF",
             "snippet": {
                 "publishedAt": "2024-09-15T14:40:50Z",
@@ -789,7 +789,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "DJbzp9yC3hcZC1qQtHgi-BZKdl8",
+            "etag": "9kdKJIsSilS6xCtA43kt3lxGoZI",
             "id": "UEw0TUVZdDBraUhaVk84c0xHcndCTmJ6N0F6UE5XWDlPTy43RjU3NEIyMjFBMEIxQ0ZF",
             "snippet": {
                 "publishedAt": "2024-07-05T04:15:13Z",
@@ -836,54 +836,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "_Q23NBRV3dGUBpvmiRktuJJGCZ8",
-            "id": "UEw0TUVZdDBraUhaVk84c0xHcndCTmJ6N0F6UE5XWDlPTy4yODlGNEE0NkRGMEEzMEQy",
-            "snippet": {
-                "publishedAt": "2022-10-05T09:39:23Z",
-                "channelId": "UCNHE3OcC8G345-7rNgu-g9w",
-                "title": "Jonathan Roy - Keeping Me Alive (Live Acoustic Performance)",
-                "description": "Jonathan Roy's live acoustic performance of \"Keeping Me Alive\" from the EP, My Lullaby - available now at http://jonathanroyofficial.com/mylullaby\n\n\u25ba Listen to Part 1 of my upcoming album 'Symphony of Doubts': https://linktr.ee/jonathanroy\n\u25ba Watch my latest covers like \"Gravity\" by John Mayer: http://jonathanroyofficial.com/covers\n\u25ba And subscribe to my channel for more new music: http://jonathanroyofficial.com/youtube\n\nSite: http://jonathanroyofficial.com\nInstagram: http://instagram.com/jonathanroy\nFacebook: http://facebook.com/jonathanroyofficial\nTwitter: http://twitter.com/jonroyofficial\nTikTok: http://tiktok.com/@jonathanroymusic\n\nSinger: Jonathan Roy\nKeys: Caulder Nash\nDrums: Marc B\u00e9land\nVocals: Kim Richardson\nChorists: Mundia Production\nDancer: Jean Yannick Tangara\nDirector/Producer: Samuel Gauthier\nAssistant director: Neil Elias\nDirector of photography: Sam Trudelle\nSteady cam operator: Benoit Gauthier\nAssistant Camera:  Steven Turcotte\nGaffer: Hugo Ferland Dionne \n1 Best boy electric: Jean S\u00e9bastien Buysse\n2 Best boy electric: Luna Gautier\n3 Best boy \u00e9lectric: Cynthia Whissel\nMix and sound recording: Chris Anderson AKA The Boss\nColorist: Jules Saulnier\nCraft: Michel Gauthier and Sylvie Boissy\n\nLyrics:\nYou try to hold me down so I became a soldier\nBuilt up all theses walls and now I'm climbing over\nThose nasty bees are tempting me\nOh lord! But I ain't going back\n\nYou take me for a fool, that doesn't make me foolish\nTold me I was wrong, passion made you ruthless\nManipulate, it's just too late\nOh lord! 'Cause I ain't going back no more\nYour fueling of the flames gonna show you what I'm made of\n\nBreakin' every chain that you put on me\nYou thought I wouldn't change but I grew on you\n'Cause I will never be what you wanted\nThis fire, this fire\nIs keeping me alive\n\nMaking me believe I couldn't do without you\nMake it hard to leave you think it's all about you\nYou know I'll never be what you wanted\nThis fire, this fire\n\nI tried to get this weight off of my shoulders\nBuilt up all my strength I'm finally taking over\nComplicate, I don't appreciate\nOh lord, 'cause I ain't going back no more\nYour fueling of the flames gonna show you what I'm made of\n\nBreakin' every chain that you put on me\nYou thought I wouldn't change but I grew on you\n'Cause I will never be what you wanted\nThis fire, this fire\nIs keeping me alive\n\nMaking me believe I couldn't do without you\nMake it hard to leave you think it's all about you\nYou know I'll never be what you wanted\nThis fire, this fire\nIs keeping me alive\n\nBreakin' me, shakin' me, shapin' me\nInto what I never wanted, oh\nBreakin' me, shakin' me\nMakin' my beatin' heart a little stronger\n\nBreakin' every chain that you put on me\nYou thought I wouldn't change but I grew on you\n'Cause I will never be what you wanted\nThis fire, this fire\nIs keeping me alive\n\nBreakin' every chain that you put on me\nYou thought I wouldn't change but I grew on you\n'Cause I would never be what you wanted\nThis fire, this fire\nIs keeping me alive\n\nMaking me believe I couldn't do without you\nMake it hard to leave you think it's all about you\nYou know I'll never be what you wanted\nThis fire, this fire\nIs keeping me alive\n\nKeeping me alive, keeping me alive\nThis fire, this fire\nIs keeping me alive\n\n#JonathanRoy #KeepingMeAlive #MyLullaby",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/UyaZmFGyuMg/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/UyaZmFGyuMg/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/UyaZmFGyuMg/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    },
-                    "standard": {
-                        "url": "https://i.ytimg.com/vi/UyaZmFGyuMg/sddefault.jpg",
-                        "width": 640,
-                        "height": 480
-                    },
-                    "maxres": {
-                        "url": "https://i.ytimg.com/vi/UyaZmFGyuMg/maxresdefault.jpg",
-                        "width": 1280,
-                        "height": 720
-                    }
-                },
-                "channelTitle": "JSON Bourne",
-                "playlistId": "PL4MEYt0kiHZVO8sLGrwBNbz7AzPNWX9OO",
-                "position": 18,
-                "resourceId": {
-                    "kind": "youtube#video",
-                    "videoId": "UyaZmFGyuMg"
-                },
-                "videoOwnerChannelTitle": "Jonathan Roy",
-                "videoOwnerChannelId": "UC8N9bw28xavKvPSUIuZ5SWQ"
-            }
-        },
-        {
-            "kind": "youtube#playlistItem",
-            "etag": "i7K_hoVO5EXFld8DrA_vqOLtx44",
+            "etag": "esXjtPNNBZbt9kN4sx_kI_JyZUk",
             "id": "UEw0TUVZdDBraUhaVk84c0xHcndCTmJ6N0F6UE5XWDlPTy41ODIyMTgwQzA4NjJCQkZC",
             "snippet": {
                 "publishedAt": "2023-12-14T04:05:10Z",
@@ -919,13 +872,60 @@
                 },
                 "channelTitle": "JSON Bourne",
                 "playlistId": "PL4MEYt0kiHZVO8sLGrwBNbz7AzPNWX9OO",
-                "position": 19,
+                "position": 18,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "T2fjQrsKbAM"
                 },
                 "videoOwnerChannelTitle": "BoyWithUkeVEVO",
                 "videoOwnerChannelId": "UCcUcckay9ZVzIZ92kEqz5Yw"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "NhoRTqzNEEark7jwUZf5Rf_pJE4",
+            "id": "UEw0TUVZdDBraUhaVk84c0xHcndCTmJ6N0F6UE5XWDlPTy4yODlGNEE0NkRGMEEzMEQy",
+            "snippet": {
+                "publishedAt": "2022-10-05T09:39:23Z",
+                "channelId": "UCNHE3OcC8G345-7rNgu-g9w",
+                "title": "Jonathan Roy - Keeping Me Alive (Live Acoustic Performance)",
+                "description": "Jonathan Roy's live acoustic performance of \"Keeping Me Alive\" from the EP, My Lullaby - available now at http://jonathanroyofficial.com/mylullaby\n\n\u25ba Listen to Part 1 of my upcoming album 'Symphony of Doubts': https://linktr.ee/jonathanroy\n\u25ba Watch my latest covers like \"Gravity\" by John Mayer: http://jonathanroyofficial.com/covers\n\u25ba And subscribe to my channel for more new music: http://jonathanroyofficial.com/youtube\n\nSite: http://jonathanroyofficial.com\nInstagram: http://instagram.com/jonathanroy\nFacebook: http://facebook.com/jonathanroyofficial\nTwitter: http://twitter.com/jonroyofficial\nTikTok: http://tiktok.com/@jonathanroymusic\n\nSinger: Jonathan Roy\nKeys: Caulder Nash\nDrums: Marc B\u00e9land\nVocals: Kim Richardson\nChorists: Mundia Production\nDancer: Jean Yannick Tangara\nDirector/Producer: Samuel Gauthier\nAssistant director: Neil Elias\nDirector of photography: Sam Trudelle\nSteady cam operator: Benoit Gauthier\nAssistant Camera:  Steven Turcotte\nGaffer: Hugo Ferland Dionne \n1 Best boy electric: Jean S\u00e9bastien Buysse\n2 Best boy electric: Luna Gautier\n3 Best boy \u00e9lectric: Cynthia Whissel\nMix and sound recording: Chris Anderson AKA The Boss\nColorist: Jules Saulnier\nCraft: Michel Gauthier and Sylvie Boissy\n\nLyrics:\nYou try to hold me down so I became a soldier\nBuilt up all theses walls and now I'm climbing over\nThose nasty bees are tempting me\nOh lord! But I ain't going back\n\nYou take me for a fool, that doesn't make me foolish\nTold me I was wrong, passion made you ruthless\nManipulate, it's just too late\nOh lord! 'Cause I ain't going back no more\nYour fueling of the flames gonna show you what I'm made of\n\nBreakin' every chain that you put on me\nYou thought I wouldn't change but I grew on you\n'Cause I will never be what you wanted\nThis fire, this fire\nIs keeping me alive\n\nMaking me believe I couldn't do without you\nMake it hard to leave you think it's all about you\nYou know I'll never be what you wanted\nThis fire, this fire\n\nI tried to get this weight off of my shoulders\nBuilt up all my strength I'm finally taking over\nComplicate, I don't appreciate\nOh lord, 'cause I ain't going back no more\nYour fueling of the flames gonna show you what I'm made of\n\nBreakin' every chain that you put on me\nYou thought I wouldn't change but I grew on you\n'Cause I will never be what you wanted\nThis fire, this fire\nIs keeping me alive\n\nMaking me believe I couldn't do without you\nMake it hard to leave you think it's all about you\nYou know I'll never be what you wanted\nThis fire, this fire\nIs keeping me alive\n\nBreakin' me, shakin' me, shapin' me\nInto what I never wanted, oh\nBreakin' me, shakin' me\nMakin' my beatin' heart a little stronger\n\nBreakin' every chain that you put on me\nYou thought I wouldn't change but I grew on you\n'Cause I will never be what you wanted\nThis fire, this fire\nIs keeping me alive\n\nBreakin' every chain that you put on me\nYou thought I wouldn't change but I grew on you\n'Cause I would never be what you wanted\nThis fire, this fire\nIs keeping me alive\n\nMaking me believe I couldn't do without you\nMake it hard to leave you think it's all about you\nYou know I'll never be what you wanted\nThis fire, this fire\nIs keeping me alive\n\nKeeping me alive, keeping me alive\nThis fire, this fire\nIs keeping me alive\n\n#JonathanRoy #KeepingMeAlive #MyLullaby",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/UyaZmFGyuMg/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/UyaZmFGyuMg/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/UyaZmFGyuMg/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/UyaZmFGyuMg/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/UyaZmFGyuMg/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "JSON Bourne",
+                "playlistId": "PL4MEYt0kiHZVO8sLGrwBNbz7AzPNWX9OO",
+                "position": 19,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "UyaZmFGyuMg"
+                },
+                "videoOwnerChannelTitle": "Jonathan Roy",
+                "videoOwnerChannelId": "UC8N9bw28xavKvPSUIuZ5SWQ"
             }
         },
         {
@@ -977,7 +977,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "B1Yo0snIE3_StNbeSKhtxvcv20U",
+            "etag": "_l7ntZmSo3Pdc-uN63FGwy4eW8I",
             "id": "UEw0TUVZdDBraUhaVk84c0xHcndCTmJ6N0F6UE5XWDlPTy4zMzg4MjBBNzZCQzY5MDk4",
             "snippet": {
                 "publishedAt": "2024-07-26T03:23:40Z",
@@ -1071,7 +1071,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "S0uT6oKPNKdBg8CZ6lkw0WIuQcM",
+            "etag": "sNSqxNCGTc2sKNyWc4sRa0K73p4",
             "id": "UEw0TUVZdDBraUhaVk84c0xHcndCTmJ6N0F6UE5XWDlPTy4yMkNBN0M4QUJEQzYxMjA3",
             "snippet": {
                 "publishedAt": "2024-06-21T11:21:47Z",
@@ -1165,7 +1165,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "rYj0zaP7a9xi-PnnpmDMKaT4_RM",
+            "etag": "6nFivXh89dFMEDM2ItSp6LbZytg",
             "id": "UEw0TUVZdDBraUhaVk84c0xHcndCTmJ6N0F6UE5XWDlPTy5FRDc0QkQxMzlEMTZBMzg0",
             "snippet": {
                 "publishedAt": "2024-08-13T09:45:27Z",
@@ -1259,7 +1259,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "Af1f6RXkQQ0zLLM8Lx9H53yty10",
+            "etag": "xMojVVCHVaXrFcFLUJQAus1jO8Y",
             "id": "UEw0TUVZdDBraUhaVk84c0xHcndCTmJ6N0F6UE5XWDlPTy4yRjU0MzcwMkYwRkVDNDhC",
             "snippet": {
                 "publishedAt": "2024-09-12T06:00:59Z",
@@ -1306,7 +1306,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "Sgo9Eqhhah-kzLFuYjF-4UEkAkg",
+            "etag": "NpfFphduUaQz_2eRrMpWNA567Ec",
             "id": "UEw0TUVZdDBraUhaVk84c0xHcndCTmJ6N0F6UE5XWDlPTy5EQTkxMkVFODRENEJBMERF",
             "snippet": {
                 "publishedAt": "2024-07-18T17:11:44Z",
@@ -1447,7 +1447,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "ToB5QNF5yFluGac_YP0epgRqpl4",
+            "etag": "WyszJqfpePr07DRHTpnAPDRGHRg",
             "id": "UEw0TUVZdDBraUhaVk84c0xHcndCTmJ6N0F6UE5XWDlPTy5GOUJEOERGNDg1N0QyNDA3",
             "snippet": {
                 "publishedAt": "2024-07-24T08:45:36Z",
@@ -1494,7 +1494,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "2FWy6uPBygCWwY5qpOPG8N5PCHk",
+            "etag": "LQ_tReex69exBA02rMylFuB3okA",
             "id": "UEw0TUVZdDBraUhaVk84c0xHcndCTmJ6N0F6UE5XWDlPTy42RDgxQ0M2OUIwREZCNjZF",
             "snippet": {
                 "publishedAt": "2024-03-01T03:21:04Z",
@@ -1682,7 +1682,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "H7PTtZv8Ra5-DE4XGgcyy6jK4WM",
+            "etag": "tmCG1qG36_LLaeXrrxwUcb6EVQk",
             "id": "UEw0TUVZdDBraUhaVk84c0xHcndCTmJ6N0F6UE5XWDlPTy45MEI3NjgzMTVFQkZGODYx",
             "snippet": {
                 "publishedAt": "2024-02-07T04:17:55Z",
@@ -1729,7 +1729,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "g4_v-kNYc6r3-F5ES936AclR5TY",
+            "etag": "Jn3cQXJa2pWHXTRN8dHZx2rm5CM",
             "id": "UEw0TUVZdDBraUhaVk84c0xHcndCTmJ6N0F6UE5XWDlPTy5GM0Q3M0MzMzY5NTJFNTdE",
             "snippet": {
                 "publishedAt": "2023-01-17T04:13:12Z",
@@ -1823,13 +1823,13 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "jHR2St1GlOEHpS2dApYwnj1B2OM",
+            "etag": "IxUMRQ9lkeaRViYAMYsLGGEASO4",
             "id": "UEw0TUVZdDBraUhaVk84c0xHcndCTmJ6N0F6UE5XWDlPTy44OEI3NUQ0QTlFM0FCOUU4",
             "snippet": {
                 "publishedAt": "2024-09-24T09:36:35Z",
                 "channelId": "UCNHE3OcC8G345-7rNgu-g9w",
                 "title": "TheFatRat & Anjulie - Close To The Sun",
-                "description": "Download the song and the wallpaper for free on my website: https://www.thefatrat.com/\nPre-Save my new song \"Out Of Love\" coming February 28th: https://thefatrat.ffm.to/tfroutoflove\nListen to Close To The Sun here \ud83d\udc49 https://thefatrat.ffm.to/closetothesun\n\n\ud83d\udc9c Subscribe for more FREE MUSIC: https://www.youtube.com/thefatrat \n\ud83d\udc49 Check out my socials: https://ffm.bio/thefatrat\n\ud83c\udf0eSupport me in helping children in Manila get education: https://charity.thefatrat.com/\n\n//////////////////////////// \nFollow Anjulie https://www.youtube.com/channel/UCIBn7Lyo73uJWoojjT0sh6A\n\nArt by Kenji Gonzales\nAnimation by myself\n\n//////////////////////////// \n#thefatrat #fatrat #anjulie #closetothesun #music #gamingmusic #freemusic #copyrightfree #royaltyfree #futurebass #electrohouse #edm #dubstep #trap #bass\n#Orchestra #GlitchHop #Soundtrack #EpicMusic #FreeMusic #NoCopyrightMusic #Marshmello #AlanWalker #K-391\n\nGamingMusic | Copyright Free Music | FreeMusic | TheFatRat | Orchestra | Cinematic | Glitch Hop | Soundtrack | Marshmello | Alan Walker | K-391",
+                "description": "Download the song and the wallpaper for free on my website: https://www.thefatrat.com/\nMy new song \"Out Of Love\" is OUT NOW: https://thefatrat.ffm.to/tfroutoflove\nListen to Close To The Sun here \ud83d\udc49 https://thefatrat.ffm.to/closetothesun\n\n\ud83d\udc9c Subscribe for more FREE MUSIC: https://www.youtube.com/thefatrat \n\ud83d\udc49 Check out my socials: https://ffm.bio/thefatrat\n\ud83c\udf0eSupport me in helping children in Manila get education: https://charity.thefatrat.com/\n\n//////////////////////////// \nFollow Anjulie https://www.youtube.com/channel/UCIBn7Lyo73uJWoojjT0sh6A\n\nArt by Kenji Gonzales\nAnimation by myself\n\n//////////////////////////// \n#thefatrat #fatrat #anjulie #closetothesun #music #gamingmusic #freemusic #copyrightfree #royaltyfree #futurebass #electrohouse #edm #dubstep #trap #bass\n#Orchestra #GlitchHop #Soundtrack #EpicMusic #FreeMusic #NoCopyrightMusic #Marshmello #AlanWalker #K-391\n\nGamingMusic | Copyright Free Music | FreeMusic | TheFatRat | Orchestra | Cinematic | Glitch Hop | Soundtrack | Marshmello | Alan Walker | K-391",
                 "thumbnails": {
                     "default": {
                         "url": "https://i.ytimg.com/vi/oJuGlqO85YI/default.jpg",
@@ -1870,7 +1870,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "taWnRsxlXr5rmsdsjMkFRS6a6OE",
+            "etag": "QsJwt4OeupSA1iIVVRu4zqi6oIM",
             "id": "UEw0TUVZdDBraUhaVk84c0xHcndCTmJ6N0F6UE5XWDlPTy5GOUFFM0FFNzI5RkU1NjAx",
             "snippet": {
                 "publishedAt": "2024-10-31T10:09:33Z",
@@ -1917,101 +1917,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "j_XFUMdD9ZjFLbatSJbIFpURUng",
-            "id": "UEw0TUVZdDBraUhaVk84c0xHcndCTmJ6N0F6UE5XWDlPTy5DRUQwODMxQzUyRTlGRkY3",
-            "snippet": {
-                "publishedAt": "2023-09-25T08:51:04Z",
-                "channelId": "UCNHE3OcC8G345-7rNgu-g9w",
-                "title": "UNRAVEL (FULL version - Tokyo Ghoul OP) - English opening cover by Jonathan Young",
-                "description": "Jonathan Young's full english OP cover of Unravel Tokyo Ghoul opening\n\u25baListen on Spotify or Apple: https://ffm.to/jyocanime\n\n\u25baFollow Me:\nDiscord: https://discord.gg/jonathanyoung\nTikTok: http://www.tiktok.com/@jonathanymusic\nTwitch: https://www.twitch.tv/jonathanymusic\nInstagram: http://instagram.com/jonathanymusic\nFacebook: http://facebook.com/jonathanyoungmusic\nTwitter: http://twitter.com/jonathanymusic\nContact: liam@bands.management\n\n\u25baMerch: http://jonathanyoungmusic.com",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/aVpJGGQHSqc/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/aVpJGGQHSqc/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/aVpJGGQHSqc/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    },
-                    "standard": {
-                        "url": "https://i.ytimg.com/vi/aVpJGGQHSqc/sddefault.jpg",
-                        "width": 640,
-                        "height": 480
-                    },
-                    "maxres": {
-                        "url": "https://i.ytimg.com/vi/aVpJGGQHSqc/maxresdefault.jpg",
-                        "width": 1280,
-                        "height": 720
-                    }
-                },
-                "channelTitle": "JSON Bourne",
-                "playlistId": "PL4MEYt0kiHZVO8sLGrwBNbz7AzPNWX9OO",
-                "position": 41,
-                "resourceId": {
-                    "kind": "youtube#video",
-                    "videoId": "aVpJGGQHSqc"
-                },
-                "videoOwnerChannelTitle": "Jonathan Young",
-                "videoOwnerChannelId": "UC40gs0opj389ohjLnJIAJzA"
-            }
-        },
-        {
-            "kind": "youtube#playlistItem",
-            "etag": "YaJbMegfQpa9lSyTVjbIQYMnyP0",
-            "id": "UEw0TUVZdDBraUhaVk84c0xHcndCTmJ6N0F6UE5XWDlPTy42NEZDNTU0RTRENDUzRjMz",
-            "snippet": {
-                "publishedAt": "2024-01-15T06:56:30Z",
-                "channelId": "UCNHE3OcC8G345-7rNgu-g9w",
-                "title": "Kimbra - \"Settle Down\"",
-                "description": "Kimbra's debut album VOWS is out now in the US, CA, Australia, and New Zealand. Get VOWS here: http://wbr.fm/kimbramusic\r\n\r\nDirected by Guy Franklin. \r\nFor more Kimbra:\r\nhttp://Facebook.com/KimbraMusic\r\nhttp://KimbraMusic.com\r\nhttp://Twitter.com/KimbraMusic\r\nhttp://YouTube.com/KimbraMusic\r\n\r\nSettle Down Lyrics: \r\n\r\nI wanna settle down\r\nI wanna settle down\r\nWon't you settle down with me?\r\nSettle down\r\n\r\nWe can settle at a table..\r\nA table for two\r\nWon't you wine and dine with me?\r\nSettle down\r\n\r\nI wanna raise a child\r\nI wanna raise a child\r\nWon't you raise a child with me...\r\nRaise a child\r\n\r\nWe'll call her Nebraska\r\nNebraska Jones\r\nShe'll have your nose\r\nJust so you know\r\n\r\nI wanna settle down\r\nI wanna settle down\r\nWon't you settle down with me?\r\nSettle down\r\n\r\nRun from Angela Vickers\r\nI saw her with you\r\nMonday morning small talking on the avenue\r\nShe's got a fancy car\r\nShe wants to take you far\r\nFrom the city lights and sounds deep into the dark\r\n\r\nStar so light and star so bright\r\nFirst star i see tonight!\r\nStar so light and star so bright\r\nKeep him by side!\r\n\r\nI wanna settle down\r\nI wanna settle down\r\nBaby there's no need to run\r\nI'll love you well\r\nI wanna settle down\r\nIt's time to bring you down\r\nOn just one knee for now\r\nLets make our vows",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/yHV04eSGzAA/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/yHV04eSGzAA/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/yHV04eSGzAA/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    },
-                    "standard": {
-                        "url": "https://i.ytimg.com/vi/yHV04eSGzAA/sddefault.jpg",
-                        "width": 640,
-                        "height": 480
-                    },
-                    "maxres": {
-                        "url": "https://i.ytimg.com/vi/yHV04eSGzAA/maxresdefault.jpg",
-                        "width": 1280,
-                        "height": 720
-                    }
-                },
-                "channelTitle": "JSON Bourne",
-                "playlistId": "PL4MEYt0kiHZVO8sLGrwBNbz7AzPNWX9OO",
-                "position": 42,
-                "resourceId": {
-                    "kind": "youtube#video",
-                    "videoId": "yHV04eSGzAA"
-                },
-                "videoOwnerChannelTitle": "Forum5Recordings",
-                "videoOwnerChannelId": "UCs6C3Cp_7H3r9KTPXcoN1Lg"
-            }
-        },
-        {
-            "kind": "youtube#playlistItem",
-            "etag": "ADp0Z-WOeLVVzbxW9DGEwglmB-o",
+            "etag": "DnnmNX2AA54DN_HYrHaG7L07s9s",
             "id": "UEw0TUVZdDBraUhaVk84c0xHcndCTmJ6N0F6UE5XWDlPTy5BRjY4NjdBRjA5RTdCMUMx",
             "snippet": {
                 "publishedAt": "2024-05-28T10:13:02Z",
@@ -2047,7 +1953,7 @@
                 },
                 "channelTitle": "JSON Bourne",
                 "playlistId": "PL4MEYt0kiHZVO8sLGrwBNbz7AzPNWX9OO",
-                "position": 43,
+                "position": 41,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "Sg3hU_sdhKw"
@@ -2058,7 +1964,101 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "qkZ1FqUecjlcx8wvaEWUsfAQhMg",
+            "etag": "CrJK4BcFGfSO6T0FohstpO4TsWM",
+            "id": "UEw0TUVZdDBraUhaVk84c0xHcndCTmJ6N0F6UE5XWDlPTy5DRUQwODMxQzUyRTlGRkY3",
+            "snippet": {
+                "publishedAt": "2023-09-25T08:51:04Z",
+                "channelId": "UCNHE3OcC8G345-7rNgu-g9w",
+                "title": "UNRAVEL (FULL version - Tokyo Ghoul OP) - English opening cover by Jonathan Young",
+                "description": "Jonathan Young's full english OP cover of Unravel Tokyo Ghoul opening\n\u25baListen on Spotify or Apple: https://ffm.to/jyocanime\n\n\u25baFollow Me:\nDiscord: https://discord.gg/jonathanyoung\nTikTok: http://www.tiktok.com/@jonathanymusic\nTwitch: https://www.twitch.tv/jonathanymusic\nInstagram: http://instagram.com/jonathanymusic\nFacebook: http://facebook.com/jonathanyoungmusic\nTwitter: http://twitter.com/jonathanymusic\nContact: liam@bands.management\n\n\u25baMerch: http://jonathanyoungmusic.com",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/aVpJGGQHSqc/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/aVpJGGQHSqc/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/aVpJGGQHSqc/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/aVpJGGQHSqc/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/aVpJGGQHSqc/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "JSON Bourne",
+                "playlistId": "PL4MEYt0kiHZVO8sLGrwBNbz7AzPNWX9OO",
+                "position": 42,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "aVpJGGQHSqc"
+                },
+                "videoOwnerChannelTitle": "Jonathan Young",
+                "videoOwnerChannelId": "UC40gs0opj389ohjLnJIAJzA"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "Y2oLe88e-ukP7kG3jFxEDlzHmIs",
+            "id": "UEw0TUVZdDBraUhaVk84c0xHcndCTmJ6N0F6UE5XWDlPTy42NEZDNTU0RTRENDUzRjMz",
+            "snippet": {
+                "publishedAt": "2024-01-15T06:56:30Z",
+                "channelId": "UCNHE3OcC8G345-7rNgu-g9w",
+                "title": "Kimbra - \"Settle Down\"",
+                "description": "Kimbra's debut album VOWS is out now in the US, CA, Australia, and New Zealand. Get VOWS here: http://wbr.fm/kimbramusic\r\n\r\nDirected by Guy Franklin. \r\nFor more Kimbra:\r\nhttp://Facebook.com/KimbraMusic\r\nhttp://KimbraMusic.com\r\nhttp://Twitter.com/KimbraMusic\r\nhttp://YouTube.com/KimbraMusic\r\n\r\nSettle Down Lyrics: \r\n\r\nI wanna settle down\r\nI wanna settle down\r\nWon't you settle down with me?\r\nSettle down\r\n\r\nWe can settle at a table..\r\nA table for two\r\nWon't you wine and dine with me?\r\nSettle down\r\n\r\nI wanna raise a child\r\nI wanna raise a child\r\nWon't you raise a child with me...\r\nRaise a child\r\n\r\nWe'll call her Nebraska\r\nNebraska Jones\r\nShe'll have your nose\r\nJust so you know\r\n\r\nI wanna settle down\r\nI wanna settle down\r\nWon't you settle down with me?\r\nSettle down\r\n\r\nRun from Angela Vickers\r\nI saw her with you\r\nMonday morning small talking on the avenue\r\nShe's got a fancy car\r\nShe wants to take you far\r\nFrom the city lights and sounds deep into the dark\r\n\r\nStar so light and star so bright\r\nFirst star i see tonight!\r\nStar so light and star so bright\r\nKeep him by side!\r\n\r\nI wanna settle down\r\nI wanna settle down\r\nBaby there's no need to run\r\nI'll love you well\r\nI wanna settle down\r\nIt's time to bring you down\r\nOn just one knee for now\r\nLets make our vows",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/yHV04eSGzAA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/yHV04eSGzAA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/yHV04eSGzAA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/yHV04eSGzAA/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/yHV04eSGzAA/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "JSON Bourne",
+                "playlistId": "PL4MEYt0kiHZVO8sLGrwBNbz7AzPNWX9OO",
+                "position": 43,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "yHV04eSGzAA"
+                },
+                "videoOwnerChannelTitle": "Forum5Recordings",
+                "videoOwnerChannelId": "UCs6C3Cp_7H3r9KTPXcoN1Lg"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "hA6RGa7oqE91hcXyG73V2IB3OPA",
             "id": "UEw0TUVZdDBraUhaVk84c0xHcndCTmJ6N0F6UE5XWDlPTy5EMzJDRTUwQjBEOUVFQzAw",
             "snippet": {
                 "publishedAt": "2023-12-06T11:29:51Z",
@@ -2105,7 +2105,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "R6n_-T2OyAI_cKz6YQ-pzvZ311c",
+            "etag": "CKBSwMiZsBvTtQWkJ6RXSgk67Ec",
             "id": "UEw0TUVZdDBraUhaVk84c0xHcndCTmJ6N0F6UE5XWDlPTy40NjI5ODZCQUE5NkRBMDI0",
             "snippet": {
                 "publishedAt": "2024-09-05T09:35:27Z",
@@ -2194,7 +2194,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "yzitSWC44mjtiK22pUFzHh1J-mw",
+            "etag": "DPf9w0VWP3L8C3f8nQ9whwZ70iI",
             "id": "UEw0TUVZdDBraUhaVk84c0xHcndCTmJ6N0F6UE5XWDlPTy5FMUU5ODU1MDE0RTk1Q0Ew",
             "snippet": {
                 "publishedAt": "2024-06-25T08:31:39Z",
@@ -2236,7 +2236,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "tiDEKi1KhmnziF3JYR-CXVf84DI",
+            "etag": "SGR1H6yvkfErn7fSe_rNAFSqc9E",
             "id": "UEw0TUVZdDBraUhaVk84c0xHcndCTmJ6N0F6UE5XWDlPTy4yQjdDRUQyQ0M0MEZCQkEx",
             "snippet": {
                 "publishedAt": "2024-09-22T12:55:11Z",
@@ -2330,7 +2330,7 @@
         }
     ],
     "pageInfo": {
-        "totalResults": 330,
+        "totalResults": 332,
         "resultsPerPage": 50
     }
 }
