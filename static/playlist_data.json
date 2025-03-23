@@ -1,6 +1,6 @@
 {
     "kind": "youtube#playlistItemListResponse",
-    "etag": "vIsYqfTjG1VoqjRrN7OvgS4nPXE",
+    "etag": "1TGKcfaw1kV6j5gedCYGQvBwiz4",
     "nextPageToken": "EAAaHlBUOkNESWlFREl6UWpBM05URkZOemN4T0RnMk9UQQ",
     "items": [
         {
@@ -554,7 +554,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "iwqt1u-kU81QJ7ZB1Jeurn6vJCk",
+            "etag": "S9LFb4iPfi-9eJFeR0I_XEquxnw",
             "id": "UEw0TUVZdDBraUhaVk84c0xHcndCTmJ6N0F6UE5XWDlPTy41NkI0NEY2RDEwNTU3Q0M2",
             "snippet": {
                 "publishedAt": "2022-10-05T09:16:22Z",
@@ -1071,54 +1071,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "MiSGpfbRSfcIN6RjlZJGnDOVr08",
-            "id": "UEw0TUVZdDBraUhaVk84c0xHcndCTmJ6N0F6UE5XWDlPTy5DNzNDRDE1NzhGODQzODI2",
-            "snippet": {
-                "publishedAt": "2024-06-04T09:16:06Z",
-                "channelId": "UCNHE3OcC8G345-7rNgu-g9w",
-                "title": "Avicii - Broken Arrows",
-                "description": "Listen to more music by Avicii here: https://Avicii.lnk.to/Channel\nIn Dolby Atmos: https://avicii.lnk.to/SpatialAudio\n\n[Verse 1]\nYou stripped your love down to the wire\nFire shy and cold alone outside\nYou stripped it right down to the wire\nBut I see you behind those tired eyes\n\n[Pre-Chorus]\nNow as you wade through shadows that live in your heart\nYou'll find the light that leads home\nCause I see you for you and your beautiful scars\nSo take my hand, don't let go\n\n[Chorus]\nCause it's not too late, it's not too late\nI, I see the hope in your heart\nAnd sometimes you lose and sometimes you're shooting\nBroken arrows in the dark\nBut I, I see the hope in your heart\n\n[Verse 2]\nI've seen the darkness in the light\nThe kind of blue that leaves you lost and blind\nThe only thing that's black and white\nIs that you don't have to walk alone this time\n\n[Pre-Chorus]\nWe have to tear down walls that live in your heart\nTo find someone you call home\nNow you see me for me and my beautiful scars\nSo take my hand, don't let go\n\n[Chorus]\nCause it's not too late, it's not too late\nI, I see the hope in your heart\nAnd sometimes you lose and sometimes you're shooting\nBroken arrows in the dark\nBut I, I see the hope in your heart\n\n[Outro]\nIt's not too late, it's not too late\nI see the hope in your heart\nSometimes losing, sometimes shooting\nBroken arrows in the dark\n\n#Avicii #BrokenArrows",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/V6iKSUoUN48/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/V6iKSUoUN48/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/V6iKSUoUN48/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    },
-                    "standard": {
-                        "url": "https://i.ytimg.com/vi/V6iKSUoUN48/sddefault.jpg",
-                        "width": 640,
-                        "height": 480
-                    },
-                    "maxres": {
-                        "url": "https://i.ytimg.com/vi/V6iKSUoUN48/maxresdefault.jpg",
-                        "width": 1280,
-                        "height": 720
-                    }
-                },
-                "channelTitle": "JSON Bourne",
-                "playlistId": "PL4MEYt0kiHZVO8sLGrwBNbz7AzPNWX9OO",
-                "position": 23,
-                "resourceId": {
-                    "kind": "youtube#video",
-                    "videoId": "V6iKSUoUN48"
-                },
-                "videoOwnerChannelTitle": "AviciiOfficialVEVO",
-                "videoOwnerChannelId": "UC1SqP7_RfOC9Jf9L_GRHANg"
-            }
-        },
-        {
-            "kind": "youtube#playlistItem",
-            "etag": "S7TWLRAM1HTxv3TfPZwrGAMOQa8",
+            "etag": "sNSqxNCGTc2sKNyWc4sRa0K73p4",
             "id": "UEw0TUVZdDBraUhaVk84c0xHcndCTmJ6N0F6UE5XWDlPTy4yMkNBN0M4QUJEQzYxMjA3",
             "snippet": {
                 "publishedAt": "2024-06-21T11:21:47Z",
@@ -1154,13 +1107,60 @@
                 },
                 "channelTitle": "JSON Bourne",
                 "playlistId": "PL4MEYt0kiHZVO8sLGrwBNbz7AzPNWX9OO",
-                "position": 24,
+                "position": 23,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "6tz1_znrbmc"
                 },
                 "videoOwnerChannelTitle": "Jhonaz",
                 "videoOwnerChannelId": "UCRoeQHmIX2iEeRNTstHRYdg"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "6qYUmgp5mXKqn80B5YYktsMb908",
+            "id": "UEw0TUVZdDBraUhaVk84c0xHcndCTmJ6N0F6UE5XWDlPTy5DNzNDRDE1NzhGODQzODI2",
+            "snippet": {
+                "publishedAt": "2024-06-04T09:16:06Z",
+                "channelId": "UCNHE3OcC8G345-7rNgu-g9w",
+                "title": "Avicii - Broken Arrows",
+                "description": "Listen to more music by Avicii here: https://Avicii.lnk.to/Channel\nIn Dolby Atmos: https://avicii.lnk.to/SpatialAudio\n\n[Verse 1]\nYou stripped your love down to the wire\nFire shy and cold alone outside\nYou stripped it right down to the wire\nBut I see you behind those tired eyes\n\n[Pre-Chorus]\nNow as you wade through shadows that live in your heart\nYou'll find the light that leads home\nCause I see you for you and your beautiful scars\nSo take my hand, don't let go\n\n[Chorus]\nCause it's not too late, it's not too late\nI, I see the hope in your heart\nAnd sometimes you lose and sometimes you're shooting\nBroken arrows in the dark\nBut I, I see the hope in your heart\n\n[Verse 2]\nI've seen the darkness in the light\nThe kind of blue that leaves you lost and blind\nThe only thing that's black and white\nIs that you don't have to walk alone this time\n\n[Pre-Chorus]\nWe have to tear down walls that live in your heart\nTo find someone you call home\nNow you see me for me and my beautiful scars\nSo take my hand, don't let go\n\n[Chorus]\nCause it's not too late, it's not too late\nI, I see the hope in your heart\nAnd sometimes you lose and sometimes you're shooting\nBroken arrows in the dark\nBut I, I see the hope in your heart\n\n[Outro]\nIt's not too late, it's not too late\nI see the hope in your heart\nSometimes losing, sometimes shooting\nBroken arrows in the dark\n\n#Avicii #BrokenArrows",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/V6iKSUoUN48/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/V6iKSUoUN48/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/V6iKSUoUN48/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/V6iKSUoUN48/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/V6iKSUoUN48/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "JSON Bourne",
+                "playlistId": "PL4MEYt0kiHZVO8sLGrwBNbz7AzPNWX9OO",
+                "position": 24,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "V6iKSUoUN48"
+                },
+                "videoOwnerChannelTitle": "AviciiOfficialVEVO",
+                "videoOwnerChannelId": "UC1SqP7_RfOC9Jf9L_GRHANg"
             }
         },
         {
@@ -1870,13 +1870,13 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "OWDQOziEJMAR9qunND6LsKCYc2U",
+            "etag": "tNnq1PZAl7-oyk1_4cl82N6an-k",
             "id": "UEw0TUVZdDBraUhaVk84c0xHcndCTmJ6N0F6UE5XWDlPTy44OEI3NUQ0QTlFM0FCOUU4",
             "snippet": {
                 "publishedAt": "2024-09-24T09:36:35Z",
                 "channelId": "UCNHE3OcC8G345-7rNgu-g9w",
                 "title": "TheFatRat & Anjulie - Close To The Sun",
-                "description": "Download the song and the wallpaper for free on my website: https://www.thefatrat.com/\nMy new song \"Out Of Love\" is OUT NOW: https://thefatrat.ffm.to/tfroutoflove\nListen to Close To The Sun here \ud83d\udc49 https://thefatrat.ffm.to/closetothesun\n\n\ud83d\udc9c Subscribe for more FREE MUSIC: https://www.youtube.com/thefatrat \n\ud83d\udc49 Check out my socials: https://ffm.bio/thefatrat\n\ud83c\udf0eSupport me in helping children in Manila get education: https://charity.thefatrat.com/\n\n//////////////////////////// \nFollow Anjulie https://www.youtube.com/channel/UCIBn7Lyo73uJWoojjT0sh6A\n\nArt by Kenji Gonzales\nAnimation by myself\n\n//////////////////////////// \n#thefatrat #fatrat #anjulie #closetothesun #music #gamingmusic #freemusic #copyrightfree #royaltyfree #futurebass #electrohouse #edm #dubstep #trap #bass\n#Orchestra #GlitchHop #Soundtrack #EpicMusic #FreeMusic #NoCopyrightMusic #Marshmello #AlanWalker #K-391\n\nGamingMusic | Copyright Free Music | FreeMusic | TheFatRat | Orchestra | Cinematic | Glitch Hop | Soundtrack | Marshmello | Alan Walker | K-391",
+                "description": "Download the song and the wallpaper for free on my website: https://www.thefatrat.com/\nPre-Save my new song \"Killing Me\" coming April 4th: https://thefatrat.ffm.to/killingme\nListen to Close To The Sun here \ud83d\udc49 https://thefatrat.ffm.to/closetothesun\n\n\ud83d\udc9c Subscribe for more FREE MUSIC: https://www.youtube.com/thefatrat \n\ud83d\udc49 Check out my socials: https://ffm.bio/thefatrat\n\ud83c\udf0eSupport me in helping children in Manila get education: https://charity.thefatrat.com/\n\n//////////////////////////// \nFollow Anjulie https://www.youtube.com/channel/UCIBn7Lyo73uJWoojjT0sh6A\n\nArt by Kenji Gonzales\nAnimation by myself\n\n//////////////////////////// \n#thefatrat #fatrat #anjulie #closetothesun #music #gamingmusic #freemusic #copyrightfree #royaltyfree #futurebass #electrohouse #edm #dubstep #trap #bass\n#Orchestra #GlitchHop #Soundtrack #EpicMusic #FreeMusic #NoCopyrightMusic #Marshmello #AlanWalker #K-391\n\nGamingMusic | Copyright Free Music | FreeMusic | TheFatRat | Orchestra | Cinematic | Glitch Hop | Soundtrack | Marshmello | Alan Walker | K-391",
                 "thumbnails": {
                     "default": {
                         "url": "https://i.ytimg.com/vi/oJuGlqO85YI/default.jpg",
@@ -2199,7 +2199,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "0C5CP9FtpvLClkiv6cXi185mOY4",
+            "etag": "c5wEqj03wcMyXkZ_FT84SDfHJ0k",
             "id": "UEw0TUVZdDBraUhaVk84c0xHcndCTmJ6N0F6UE5XWDlPTy40NUU5MjUxOUU1MDRGQzM0",
             "snippet": {
                 "publishedAt": "2024-06-28T09:02:06Z",
@@ -2288,7 +2288,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "18y_VWO2BP83p_L19d8aPtPUbs4",
+            "etag": "Yl2ckeEbZRPnYKzr7iUqTPVirmU",
             "id": "UEw0TUVZdDBraUhaVk84c0xHcndCTmJ6N0F6UE5XWDlPTy5FMUU5ODU1MDE0RTk1Q0Ew",
             "snippet": {
                 "publishedAt": "2024-06-25T08:31:39Z",
