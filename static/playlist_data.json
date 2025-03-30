@@ -1,7 +1,7 @@
 {
     "kind": "youtube#playlistItemListResponse",
-    "etag": "1TGKcfaw1kV6j5gedCYGQvBwiz4",
-    "nextPageToken": "EAAaHlBUOkNESWlFREl6UWpBM05URkZOemN4T0RnMk9UQQ",
+    "etag": "rV3S5f44znFw2kq62vTJjgoUjrU",
+    "nextPageToken": "EAAaHlBUOkNESWlFRVV4UlRrNE5UVXdNVFJGT1RWRFFUQQ",
     "items": [
         {
             "kind": "youtube#playlistItem",
@@ -789,7 +789,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "9kdKJIsSilS6xCtA43kt3lxGoZI",
+            "etag": "_38q2Gr6BqfBb6uUoxMNwkezW_E",
             "id": "UEw0TUVZdDBraUhaVk84c0xHcndCTmJ6N0F6UE5XWDlPTy43RjU3NEIyMjFBMEIxQ0ZF",
             "snippet": {
                 "publishedAt": "2024-07-05T04:15:13Z",
@@ -836,7 +836,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "N9vKuxRKDpUq6LDvo7UFp9bfvrw",
+            "etag": "udbyIHH_74zGgX5wZt2rNfFDAXA",
             "id": "UEw0TUVZdDBraUhaVk84c0xHcndCTmJ6N0F6UE5XWDlPTy41ODIyMTgwQzA4NjJCQkZC",
             "snippet": {
                 "publishedAt": "2023-12-14T04:05:10Z",
@@ -1682,54 +1682,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "ke0nHiCwSZyLGj6QP2-kdmH3sZg",
-            "id": "UEw0TUVZdDBraUhaVk84c0xHcndCTmJ6N0F6UE5XWDlPTy43ODA2MDVCQzY5QzZDMjUw",
-            "snippet": {
-                "publishedAt": "2023-12-22T09:54:20Z",
-                "channelId": "UCNHE3OcC8G345-7rNgu-g9w",
-                "title": "girass\u00f3is de van gogh - baco exu do blues || cover",
-                "description": "oi genteee\nfaz 35 anos que eu n\u00e3o posto (como sempre)\nmas espero que gostem :D\n\n\nredes sociais:\nig: froesmari\nfacebook: mari froes\nemail: contato@marianafroes.com",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/cRLSKh5ridA/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/cRLSKh5ridA/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/cRLSKh5ridA/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    },
-                    "standard": {
-                        "url": "https://i.ytimg.com/vi/cRLSKh5ridA/sddefault.jpg",
-                        "width": 640,
-                        "height": 480
-                    },
-                    "maxres": {
-                        "url": "https://i.ytimg.com/vi/cRLSKh5ridA/maxresdefault.jpg",
-                        "width": 1280,
-                        "height": 720
-                    }
-                },
-                "channelTitle": "JSON Bourne",
-                "playlistId": "PL4MEYt0kiHZVO8sLGrwBNbz7AzPNWX9OO",
-                "position": 36,
-                "resourceId": {
-                    "kind": "youtube#video",
-                    "videoId": "cRLSKh5ridA"
-                },
-                "videoOwnerChannelTitle": "Mari Froes",
-                "videoOwnerChannelId": "UCAvuRrHQnT-4EVj-oqGUBOA"
-            }
-        },
-        {
-            "kind": "youtube#playlistItem",
-            "etag": "TtjZwGnxyVGNPsn-50hoghusCM4",
+            "etag": "DBjpXV4-7S5T4NgMS1VP--9UUPQ",
             "id": "UEw0TUVZdDBraUhaVk84c0xHcndCTmJ6N0F6UE5XWDlPTy5DQzY2RDZFRUQyRDlDQkMw",
             "snippet": {
                 "publishedAt": "2024-06-18T06:37:11Z",
@@ -1765,13 +1718,60 @@
                 },
                 "channelTitle": "JSON Bourne",
                 "playlistId": "PL4MEYt0kiHZVO8sLGrwBNbz7AzPNWX9OO",
-                "position": 37,
+                "position": 36,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "T_lC2O1oIew"
                 },
                 "videoOwnerChannelTitle": "\u7af9\u5185\u307e\u308a\u3084 - Mariya Takeuchi Official YouTube Channel",
                 "videoOwnerChannelId": "UCFCHKsT1ZY2aLUAbWW1lJGA"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "VxkV0UH9L0j7-M6IVIuOzmONCJU",
+            "id": "UEw0TUVZdDBraUhaVk84c0xHcndCTmJ6N0F6UE5XWDlPTy43ODA2MDVCQzY5QzZDMjUw",
+            "snippet": {
+                "publishedAt": "2023-12-22T09:54:20Z",
+                "channelId": "UCNHE3OcC8G345-7rNgu-g9w",
+                "title": "girass\u00f3is de van gogh - baco exu do blues || cover",
+                "description": "oi genteee\nfaz 35 anos que eu n\u00e3o posto (como sempre)\nmas espero que gostem :D\n\n\nredes sociais:\nig: froesmari\nfacebook: mari froes\nemail: contato@marianafroes.com",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/cRLSKh5ridA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/cRLSKh5ridA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/cRLSKh5ridA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/cRLSKh5ridA/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/cRLSKh5ridA/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "JSON Bourne",
+                "playlistId": "PL4MEYt0kiHZVO8sLGrwBNbz7AzPNWX9OO",
+                "position": 37,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "cRLSKh5ridA"
+                },
+                "videoOwnerChannelTitle": "Mari Froes",
+                "videoOwnerChannelId": "UCAvuRrHQnT-4EVj-oqGUBOA"
             }
         },
         {
@@ -1823,7 +1823,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "I1nb5TofDG-5qkRPBg_zO3cIoqU",
+            "etag": "M3JdfZQB7Mof4MBWrN52Zj-wgwk",
             "id": "UEw0TUVZdDBraUhaVk84c0xHcndCTmJ6N0F6UE5XWDlPTy5GM0Q3M0MzMzY5NTJFNTdE",
             "snippet": {
                 "publishedAt": "2023-01-17T04:13:12Z",
@@ -1917,54 +1917,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "CyfZvOvNHBM4-4oKvT2jPlg1mbE",
-            "id": "UEw0TUVZdDBraUhaVk84c0xHcndCTmJ6N0F6UE5XWDlPTy5GOUFFM0FFNzI5RkU1NjAx",
-            "snippet": {
-                "publishedAt": "2024-10-31T10:09:33Z",
-                "channelId": "UCNHE3OcC8G345-7rNgu-g9w",
-                "title": "C2C - Delta (Official Video)",
-                "description": "Find the album 'Tetr4' here : https://OnAndOnRecords.lnk.to/TETR4\n2xLP Vinyl Edition : http://www.onandon-records.com/fr/7-all\n\nVideo : \"Delta\" by CRCR (http://www.crcr.fr/)\n\nFollow C2C :\nhttp://www.facebook.com/C2Cofficial\nhttps://twitter.com/C2Cdjs\nhttp://soundcloud.com/c2cdjs\nhttp://www.c2cmusic.fr/\n\nCredits :\nExecutive Production : Wizz/Quad\n\u00a9 On And On Records (www.onandon-records.com)",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/PZbkF-15ObM/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/PZbkF-15ObM/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/PZbkF-15ObM/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    },
-                    "standard": {
-                        "url": "https://i.ytimg.com/vi/PZbkF-15ObM/sddefault.jpg",
-                        "width": 640,
-                        "height": 480
-                    },
-                    "maxres": {
-                        "url": "https://i.ytimg.com/vi/PZbkF-15ObM/maxresdefault.jpg",
-                        "width": 1280,
-                        "height": 720
-                    }
-                },
-                "channelTitle": "JSON Bourne",
-                "playlistId": "PL4MEYt0kiHZVO8sLGrwBNbz7AzPNWX9OO",
-                "position": 41,
-                "resourceId": {
-                    "kind": "youtube#video",
-                    "videoId": "PZbkF-15ObM"
-                },
-                "videoOwnerChannelTitle": "C2Cdjsofficial",
-                "videoOwnerChannelId": "UCac75Lum9UIZVX6_kaHthSQ"
-            }
-        },
-        {
-            "kind": "youtube#playlistItem",
-            "etag": "7b2ueBlEXCf0myyrFVNryAlKxgU",
+            "etag": "DnnmNX2AA54DN_HYrHaG7L07s9s",
             "id": "UEw0TUVZdDBraUhaVk84c0xHcndCTmJ6N0F6UE5XWDlPTy5BRjY4NjdBRjA5RTdCMUMx",
             "snippet": {
                 "publishedAt": "2024-05-28T10:13:02Z",
@@ -2000,13 +1953,60 @@
                 },
                 "channelTitle": "JSON Bourne",
                 "playlistId": "PL4MEYt0kiHZVO8sLGrwBNbz7AzPNWX9OO",
-                "position": 42,
+                "position": 41,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "Sg3hU_sdhKw"
                 },
                 "videoOwnerChannelTitle": "BangersOnly",
                 "videoOwnerChannelId": "UCTS70WpqG82S0CPZgWFg1GQ"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "tm_zJPGmr04Mmu4ibO4hI-Ymbdc",
+            "id": "UEw0TUVZdDBraUhaVk84c0xHcndCTmJ6N0F6UE5XWDlPTy5GOUFFM0FFNzI5RkU1NjAx",
+            "snippet": {
+                "publishedAt": "2024-10-31T10:09:33Z",
+                "channelId": "UCNHE3OcC8G345-7rNgu-g9w",
+                "title": "C2C - Delta (Official Video)",
+                "description": "Find the album 'Tetr4' here : https://OnAndOnRecords.lnk.to/TETR4\n2xLP Vinyl Edition : http://www.onandon-records.com/fr/7-all\n\nVideo : \"Delta\" by CRCR (http://www.crcr.fr/)\n\nFollow C2C :\nhttp://www.facebook.com/C2Cofficial\nhttps://twitter.com/C2Cdjs\nhttp://soundcloud.com/c2cdjs\nhttp://www.c2cmusic.fr/\n\nCredits :\nExecutive Production : Wizz/Quad\n\u00a9 On And On Records (www.onandon-records.com)",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/PZbkF-15ObM/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/PZbkF-15ObM/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/PZbkF-15ObM/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/PZbkF-15ObM/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/PZbkF-15ObM/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "JSON Bourne",
+                "playlistId": "PL4MEYt0kiHZVO8sLGrwBNbz7AzPNWX9OO",
+                "position": 42,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "PZbkF-15ObM"
+                },
+                "videoOwnerChannelTitle": "C2Cdjsofficial",
+                "videoOwnerChannelId": "UCac75Lum9UIZVX6_kaHthSQ"
             }
         },
         {
@@ -2288,33 +2288,38 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "Yl2ckeEbZRPnYKzr7iUqTPVirmU",
-            "id": "UEw0TUVZdDBraUhaVk84c0xHcndCTmJ6N0F6UE5XWDlPTy5FMUU5ODU1MDE0RTk1Q0Ew",
+            "etag": "mpD8ak_0PwKOq_TX_vjdLp8Sfy8",
+            "id": "UEw0TUVZdDBraUhaVk84c0xHcndCTmJ6N0F6UE5XWDlPTy4yM0IwNzUxRTc3MTg4Njkw",
             "snippet": {
-                "publishedAt": "2024-06-25T08:31:39Z",
+                "publishedAt": "2025-02-05T04:46:53Z",
                 "channelId": "UCNHE3OcC8G345-7rNgu-g9w",
-                "title": "Caro Emerald - A Night Like This (Official Video)",
-                "description": "From the album \"Deleted Scenes From The Cutting Room Floor\"\n\nClick here for more Caro Emerald: https://caroemerald.lnk.to/ANLTYT\n\nSmouldering, vintage latin and jazz inspired songs with a contemporary sheen - the music and aesthetic of Caro Emerald have been capturing hearts and minds across the continents since 2009. Backed by creative minds, songwriters and producers David Schreurs, Vincent Degiorgio and Jan van Wieringen the Amsterdam/Toronto based group blends smokey hiphop beats, loops and samples with jazz, 60's movie scores, latin and  bigband music to a unique, upbeat and infectious sound. Their debut album \"Deletes Scenes From The Cutting Room Floor\" (2010) was an overnight smash, resulting in over 2 million album sales, #1 hits in the UK, The Netherlands (longest #1 album ever, 30 weeks) and top 5 hits in the rest of Europe. Caro has performed around the globe on stages including the Royal Albert Hall, Glastonbury mainstage and Hide Park - to name but a few. \n\nWritten by David Schreurs, Vincent Degiorgio, Jan van Wieringen.\nProduced by David Schreurs, Jan van Wieringen. (c) + (p) 2009 Grandmono Records",
+                "title": "Alicia Keys: NPR Music Tiny Desk Concert",
+                "description": "This performance was recorded on Feb. 12, 2020. We will continue releasing Tiny Desk videos of shows that had already been taped. In light of current events, NPR is postponing new live tapings of Tiny Desk Concerts. In the meantime, check out Tiny Desk (home) concerts! They\u2019re recorded by the artists in their home. It\u2019s the same spirit \u2014 stripped-down sets, an intimate setting \u2014 just a different space.\n\nJune 17, 2020 | Abby O'Neill -- On a brisk February morning, Alicia Keys, full of effervescence, entered NPR through the loading dock wearing a canary yellow faux fur coat. During our ride to the fourth floor, she joked about how she hadn't been invited to play at the Tiny Desk. That, of course, wasn't exactly true. We worked on and off for years to make this moment happen, and I can say wholeheartedly that it was worth the wait.\n\nAlicia Keys has an aura that you can sense the second she enters a room, or in my case, an elevator. She radiates compassion and kindness. This spirit is the key to Keys's songwriting, which is rooted in introspection and mindfulness.\n\nAs she approached her piano, a bit surprised at the amount of people in the room, she smiled and remarked over her shoulder, \"Gee, the Tiny Desk is tiny!\" She kicked off the set with an uncanny ode to combat the darkness of this moment in American history: \"Show Me Love,\" a single she released in 2019. No one could have predicted then how much her lyrics and musical healing would be crucial during this emotionally fraught time of unprecedented political and racial unrest, heightened by three months of quarantine due to a global pandemic.\n\nThe stand-out moment during her Tiny Desk was the premiere of \"Gramercy Park\", a song from her upcoming self-titled album, ALICIA, which is set to be released this fall. It's one of those timeless songs that will transcend radio formats and genres, with lyrics that address how utter selflessness and worrying about making everyone happy but yourself can throw your own center askew. The song's spiritual refrain is sure to be a sing-along moment for the rest of Keys's career.\n\nShe told the crowd after \"Gramercy Park\" that she's struggled with appeasing people her whole life, but she's trying harder now to set boundaries. Luckily for the Tiny Desk audience, that resolution didn't pertain to this concert. After wrapping up what was to be a three-song set with her latest single \"Underdog,\" which you may have seen her perform at this year's Grammys, the crowd begged for an encore. After crowdsourcing suggestions, she and her band delivered a riveting rendition of Keys's breakout 2001 single, \"Fallin'.\"\n\nThe world, now more than ever, needs more love, reflection and accountability \u2013 a mantra that's woven into every fiber of Alicia Keys's being and every lyric of her songs.\n\nSET LIST\n\"Show Me Love\"\n\"Gramercy Park\"\n\"Underdog\"\n\"Fallin'\"\n\nMUSICIANS\nAlicia Keys: vocals, piano; RAII & Whitney: vocals; Ant Parrish: bass; Curt Chambers: guitar; Mike Reid: drums; Omar Edwards: keys.\n\nCREDITS\nProducers: Abby O'Neill, Morgan Noelle Smith, Kara Frame; Creative director: Bob Boilen; Audio engineers: Josh Rogosin, Natasha Branch; Videographers: Kara Frame, Maia Stern, Melany Rochester, Shanti Hands; Editor: Maia Stern; Associate Producer: Bobby Carter; Executive producer: Lauren Onkey; VP, programming: Anya Grundmann; Photo: Kisha Ravi/NPR",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/74LXx0wSqMI/default.jpg",
+                        "url": "https://i.ytimg.com/vi/uwUt1fVLb3E/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/74LXx0wSqMI/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/uwUt1fVLb3E/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/74LXx0wSqMI/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/uwUt1fVLb3E/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     },
                     "standard": {
-                        "url": "https://i.ytimg.com/vi/74LXx0wSqMI/sddefault.jpg",
+                        "url": "https://i.ytimg.com/vi/uwUt1fVLb3E/sddefault.jpg",
                         "width": 640,
                         "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/uwUt1fVLb3E/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
                     }
                 },
                 "channelTitle": "JSON Bourne",
@@ -2322,15 +2327,15 @@
                 "position": 49,
                 "resourceId": {
                     "kind": "youtube#video",
-                    "videoId": "74LXx0wSqMI"
+                    "videoId": "uwUt1fVLb3E"
                 },
-                "videoOwnerChannelTitle": "caroemerald",
-                "videoOwnerChannelId": "UCUmqK1oeMpSfRQ6oUpiYKHA"
+                "videoOwnerChannelTitle": "NPR Music",
+                "videoOwnerChannelId": "UC4eYXhJI4-7wSWc8UNRwD4A"
             }
         }
     ],
     "pageInfo": {
-        "totalResults": 337,
+        "totalResults": 338,
         "resultsPerPage": 50
     }
 }
