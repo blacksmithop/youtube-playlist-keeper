@@ -1,6 +1,6 @@
 {
     "kind": "youtube#playlistItemListResponse",
-    "etag": "BqbXl_qXerhUcoU9pqm6j-HH_FI",
+    "etag": "e1FuKnguBohVU6xGup1IOFchs84",
     "nextPageToken": "EAAaHlBUOkNESWlFRVV4UlRrNE5UVXdNVFJGT1RWRFFUQQ",
     "items": [
         {
@@ -329,7 +329,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "WtKb1QWD8r48id4vmtUUrqsvBcI",
+            "etag": "T_VeT8jc2vDtq84w5KG2GdEb3fw",
             "id": "UEw0TUVZdDBraUhaVk84c0xHcndCTmJ6N0F6UE5XWDlPTy5DNzE1RjZEMUZCMjA0RDBB",
             "snippet": {
                 "publishedAt": "2023-04-12T11:47:05Z",
@@ -1494,7 +1494,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "N8OL43gnyCVcq1GuGTOfCZUEZaA",
+            "etag": "4vA634BM9eBGN1d4nGAM2-bI7P0",
             "id": "UEw0TUVZdDBraUhaVk84c0xHcndCTmJ6N0F6UE5XWDlPTy5GOUJEOERGNDg1N0QyNDA3",
             "snippet": {
                 "publishedAt": "2024-07-24T08:45:36Z",
@@ -1776,148 +1776,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "U748eucS_RMX5WnyCIxW9k8DnGs",
-            "id": "UEw0TUVZdDBraUhaVk84c0xHcndCTmJ6N0F6UE5XWDlPTy45MEI3NjgzMTVFQkZGODYx",
-            "snippet": {
-                "publishedAt": "2024-02-07T04:17:55Z",
-                "channelId": "UCNHE3OcC8G345-7rNgu-g9w",
-                "title": "Tom Walker - Fly Away With Me (Official Video)",
-                "description": "Download & stream the Deluxe Edition of Tom Walker's debut album \"What a Time to Be Alive\" here: http://smarturl.it/TWWATTBADeluxe\nDownload & stream Tom Walker 'Fly Away With Me' now:\n\nApple http://smarturl.it/FAWMapple\nSpotify http://smarturl.it/FAWMspotify\n\n----------------------------------\n\nFollow Tom Walker: \n\nhttps://www.facebook.com/IamTomWalker\nhttps://twitter.com/IamTomWalker\nhttps://www.instagram.com/IamTomWalker\n\n----------------------------------\n\nLyrics\n\nI'm strumming on the corner\nabout to catch last the train home\nI'll have to jump the barriers\nso can you spare a penny for my thoughts\nI've been praised upon the pavements \npassers by don't pay much.\nchased away by neighbours,\nseen things you couldn't make up\nif these streets could talk\nthey'd tell a story or two\nI'll paint a picture for you \n\nI can tell you what it feels like\nto lose your home on a cold night\ncan you see the blood in my red eyes\nhave another toke, we'll forget life\n\nSo come and fly away with me \nto a place where we could be anyone we wanna be \nwe can bottle up our fear \nbrew a taste so sweet\nknock us off our feet \nand we'll \nburn our troubles \ninhale them all \npaint the future on a fractured wall \nso come and fly away with me\nto a place where we could anyone we wanna be\n\nStill in the station when I wake up\nI missed the last train home \njump back over the barriers\nno one's got a penny for my flaws \nI'm asleep upon the pavement \npassersby don't say much, tutted at by strangers\ndreamt things you'd never dream of \nif these streets could talk they'd tell a story or two \nI'll paint a picture for you\n\nI can tell you what it feels like\nto lose something you love on a cold night \nasthe cars roll by under the street lights \nthere's only one way I can forget life\n\nSo come and fly away with me \nto a place where we could be anyone we wanna be \nwe can bottle up our fear \nbrew a taste so sweet\nknock us off our feet \nAnd We'll,\nburn our troubles \ninhale them all \npaint the future on a fractured wall \nso come and fly away with me \nto a place where we could anyone we wanna be\n\nWoooo woo woo woo \nwoooo woo woo woo \nwe could be anyone we wanna be\nwoooo woo woo woo \nwoooo woo woo woo \nwe could be anyone we wanna be\n\nThese streets I'm walking \nthey've started talking to me \ncan't you see? \nthere's only one way outta here \nwe have to face the things we fear \nand we could be anyone we wanna be \nyeah we could be anyone we wanna be \n\nSo come and fly away with me \nto a place where we could be anyone we wanna be \nwe can bottle up our fear \nbrew a taste so sweet\nknock us off our feet \nand We'll, \nburn our troubles \ninhale them all \npaint the future on a fractured wall \nso come and fly away with me \nto a place where we could be anyone we wanna be\n\nWoooo woo woo woo \nwoooo woo woo woo \nwe could be anyone we wanna be\nwoooo woo woo woo \nwoooo woo woo woo \nwe could be anyone we wanna be",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/s5dhDn3R0A0/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/s5dhDn3R0A0/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/s5dhDn3R0A0/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    },
-                    "standard": {
-                        "url": "https://i.ytimg.com/vi/s5dhDn3R0A0/sddefault.jpg",
-                        "width": 640,
-                        "height": 480
-                    },
-                    "maxres": {
-                        "url": "https://i.ytimg.com/vi/s5dhDn3R0A0/maxresdefault.jpg",
-                        "width": 1280,
-                        "height": 720
-                    }
-                },
-                "channelTitle": "JSON Bourne",
-                "playlistId": "PL4MEYt0kiHZVO8sLGrwBNbz7AzPNWX9OO",
-                "position": 38,
-                "resourceId": {
-                    "kind": "youtube#video",
-                    "videoId": "s5dhDn3R0A0"
-                },
-                "videoOwnerChannelTitle": "TomWalkerVEVO",
-                "videoOwnerChannelId": "UCvldE4vMaeDjfUTdQ63_rCw"
-            }
-        },
-        {
-            "kind": "youtube#playlistItem",
-            "etag": "O8iTQs2hmGBKb954JBv5ZO1jL98",
-            "id": "UEw0TUVZdDBraUhaVk84c0xHcndCTmJ6N0F6UE5XWDlPTy5GM0Q3M0MzMzY5NTJFNTdE",
-            "snippet": {
-                "publishedAt": "2023-01-17T04:13:12Z",
-                "channelId": "UCNHE3OcC8G345-7rNgu-g9w",
-                "title": "Birdy - The A Team (Official Live Performance Video)",
-                "description": "The official live performance video for Birdy - The A Team (by Ed Sheeran)\n\nSubscribe to Birdy's channel for all the best and latest official music videos, behind the scenes and live performances here - https://www.youtube.com/@birdy\n\nSee more live videos from Birdy : \nhttps://www.youtube.com/playlist?list=PLDC26997E9B9D4004\n\nFollow Birdy:\nhttp://www.facebook.com/BirdyMusic\nhttp://www.twitter.com/Birdy\nhttp://instagram.com/Birdyinstagram\nhttps://www.tiktok.com/@birdy\n\n#Birdy #EdSheeran #TheATeam",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/p856dtR4mms/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/p856dtR4mms/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/p856dtR4mms/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    },
-                    "standard": {
-                        "url": "https://i.ytimg.com/vi/p856dtR4mms/sddefault.jpg",
-                        "width": 640,
-                        "height": 480
-                    },
-                    "maxres": {
-                        "url": "https://i.ytimg.com/vi/p856dtR4mms/maxresdefault.jpg",
-                        "width": 1280,
-                        "height": 720
-                    }
-                },
-                "channelTitle": "JSON Bourne",
-                "playlistId": "PL4MEYt0kiHZVO8sLGrwBNbz7AzPNWX9OO",
-                "position": 39,
-                "resourceId": {
-                    "kind": "youtube#video",
-                    "videoId": "p856dtR4mms"
-                },
-                "videoOwnerChannelTitle": "Birdy",
-                "videoOwnerChannelId": "UCk3NOb_PipJJwzMuaBhEfQg"
-            }
-        },
-        {
-            "kind": "youtube#playlistItem",
-            "etag": "FZ-yEp1ELG_Jt6vHOLyzXDO6h5k",
-            "id": "UEw0TUVZdDBraUhaVk84c0xHcndCTmJ6N0F6UE5XWDlPTy44OEI3NUQ0QTlFM0FCOUU4",
-            "snippet": {
-                "publishedAt": "2024-09-24T09:36:35Z",
-                "channelId": "UCNHE3OcC8G345-7rNgu-g9w",
-                "title": "TheFatRat & Anjulie - Close To The Sun",
-                "description": "Download the song and the wallpaper for free on my website: https://www.thefatrat.com/\nMy new song \"Killing Me\" is OUT NOW: https://thefatrat.ffm.to/killingme\nListen to Close To The Sun here \ud83d\udc49 https://thefatrat.ffm.to/closetothesun\n\n\ud83d\udc9c Subscribe for more FREE MUSIC: https://www.youtube.com/thefatrat \n\ud83d\udc49 Check out my socials: https://ffm.bio/thefatrat\n\ud83c\udf0eSupport me in helping children in Manila get education: https://charity.thefatrat.com/\n\n//////////////////////////// \nFollow Anjulie https://www.youtube.com/channel/UCIBn7Lyo73uJWoojjT0sh6A\n\nArt by Kenji Gonzales\nAnimation by myself\n\n//////////////////////////// \n#thefatrat #fatrat #anjulie #closetothesun #music #gamingmusic #freemusic #copyrightfree #royaltyfree #futurebass #electrohouse #edm #dubstep #trap #bass\n#Orchestra #GlitchHop #Soundtrack #EpicMusic #FreeMusic #NoCopyrightMusic #Marshmello #AlanWalker #K-391\n\nGamingMusic | Copyright Free Music | FreeMusic | TheFatRat | Orchestra | Cinematic | Glitch Hop | Soundtrack | Marshmello | Alan Walker | K-391",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/oJuGlqO85YI/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/oJuGlqO85YI/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/oJuGlqO85YI/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    },
-                    "standard": {
-                        "url": "https://i.ytimg.com/vi/oJuGlqO85YI/sddefault.jpg",
-                        "width": 640,
-                        "height": 480
-                    },
-                    "maxres": {
-                        "url": "https://i.ytimg.com/vi/oJuGlqO85YI/maxresdefault.jpg",
-                        "width": 1280,
-                        "height": 720
-                    }
-                },
-                "channelTitle": "JSON Bourne",
-                "playlistId": "PL4MEYt0kiHZVO8sLGrwBNbz7AzPNWX9OO",
-                "position": 40,
-                "resourceId": {
-                    "kind": "youtube#video",
-                    "videoId": "oJuGlqO85YI"
-                },
-                "videoOwnerChannelTitle": "TheFatRat",
-                "videoOwnerChannelId": "UCa_UMppcMsHIzb5LDx1u9zQ"
-            }
-        },
-        {
-            "kind": "youtube#playlistItem",
-            "etag": "DnnmNX2AA54DN_HYrHaG7L07s9s",
+            "etag": "XOBYLsEGTeJMtdlD0dalo-ahNPA",
             "id": "UEw0TUVZdDBraUhaVk84c0xHcndCTmJ6N0F6UE5XWDlPTy5BRjY4NjdBRjA5RTdCMUMx",
             "snippet": {
                 "publishedAt": "2024-05-28T10:13:02Z",
@@ -1953,7 +1812,7 @@
                 },
                 "channelTitle": "JSON Bourne",
                 "playlistId": "PL4MEYt0kiHZVO8sLGrwBNbz7AzPNWX9OO",
-                "position": 41,
+                "position": 38,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "Sg3hU_sdhKw"
@@ -1964,7 +1823,148 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "aZ5UjB3C0XtSky8T9BXXVnF2zVU",
+            "etag": "ayma09iVAPdKf-nIhdyDgKsiCIU",
+            "id": "UEw0TUVZdDBraUhaVk84c0xHcndCTmJ6N0F6UE5XWDlPTy45MEI3NjgzMTVFQkZGODYx",
+            "snippet": {
+                "publishedAt": "2024-02-07T04:17:55Z",
+                "channelId": "UCNHE3OcC8G345-7rNgu-g9w",
+                "title": "Tom Walker - Fly Away With Me (Official Video)",
+                "description": "Download & stream the Deluxe Edition of Tom Walker's debut album \"What a Time to Be Alive\" here: http://smarturl.it/TWWATTBADeluxe\nDownload & stream Tom Walker 'Fly Away With Me' now:\n\nApple http://smarturl.it/FAWMapple\nSpotify http://smarturl.it/FAWMspotify\n\n----------------------------------\n\nFollow Tom Walker: \n\nhttps://www.facebook.com/IamTomWalker\nhttps://twitter.com/IamTomWalker\nhttps://www.instagram.com/IamTomWalker\n\n----------------------------------\n\nLyrics\n\nI'm strumming on the corner\nabout to catch last the train home\nI'll have to jump the barriers\nso can you spare a penny for my thoughts\nI've been praised upon the pavements \npassers by don't pay much.\nchased away by neighbours,\nseen things you couldn't make up\nif these streets could talk\nthey'd tell a story or two\nI'll paint a picture for you \n\nI can tell you what it feels like\nto lose your home on a cold night\ncan you see the blood in my red eyes\nhave another toke, we'll forget life\n\nSo come and fly away with me \nto a place where we could be anyone we wanna be \nwe can bottle up our fear \nbrew a taste so sweet\nknock us off our feet \nand we'll \nburn our troubles \ninhale them all \npaint the future on a fractured wall \nso come and fly away with me\nto a place where we could anyone we wanna be\n\nStill in the station when I wake up\nI missed the last train home \njump back over the barriers\nno one's got a penny for my flaws \nI'm asleep upon the pavement \npassersby don't say much, tutted at by strangers\ndreamt things you'd never dream of \nif these streets could talk they'd tell a story or two \nI'll paint a picture for you\n\nI can tell you what it feels like\nto lose something you love on a cold night \nasthe cars roll by under the street lights \nthere's only one way I can forget life\n\nSo come and fly away with me \nto a place where we could be anyone we wanna be \nwe can bottle up our fear \nbrew a taste so sweet\nknock us off our feet \nAnd We'll,\nburn our troubles \ninhale them all \npaint the future on a fractured wall \nso come and fly away with me \nto a place where we could anyone we wanna be\n\nWoooo woo woo woo \nwoooo woo woo woo \nwe could be anyone we wanna be\nwoooo woo woo woo \nwoooo woo woo woo \nwe could be anyone we wanna be\n\nThese streets I'm walking \nthey've started talking to me \ncan't you see? \nthere's only one way outta here \nwe have to face the things we fear \nand we could be anyone we wanna be \nyeah we could be anyone we wanna be \n\nSo come and fly away with me \nto a place where we could be anyone we wanna be \nwe can bottle up our fear \nbrew a taste so sweet\nknock us off our feet \nand We'll, \nburn our troubles \ninhale them all \npaint the future on a fractured wall \nso come and fly away with me \nto a place where we could be anyone we wanna be\n\nWoooo woo woo woo \nwoooo woo woo woo \nwe could be anyone we wanna be\nwoooo woo woo woo \nwoooo woo woo woo \nwe could be anyone we wanna be",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/s5dhDn3R0A0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/s5dhDn3R0A0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/s5dhDn3R0A0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/s5dhDn3R0A0/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/s5dhDn3R0A0/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "JSON Bourne",
+                "playlistId": "PL4MEYt0kiHZVO8sLGrwBNbz7AzPNWX9OO",
+                "position": 39,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "s5dhDn3R0A0"
+                },
+                "videoOwnerChannelTitle": "TomWalkerVEVO",
+                "videoOwnerChannelId": "UCvldE4vMaeDjfUTdQ63_rCw"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "-Mc8Qs48_FrJwFmUbfFJLFeJ890",
+            "id": "UEw0TUVZdDBraUhaVk84c0xHcndCTmJ6N0F6UE5XWDlPTy5GM0Q3M0MzMzY5NTJFNTdE",
+            "snippet": {
+                "publishedAt": "2023-01-17T04:13:12Z",
+                "channelId": "UCNHE3OcC8G345-7rNgu-g9w",
+                "title": "Birdy - The A Team (Official Live Performance Video)",
+                "description": "The official live performance video for Birdy - The A Team (by Ed Sheeran)\n\nSubscribe to Birdy's channel for all the best and latest official music videos, behind the scenes and live performances here - https://www.youtube.com/@birdy\n\nSee more live videos from Birdy : \nhttps://www.youtube.com/playlist?list=PLDC26997E9B9D4004\n\nFollow Birdy:\nhttp://www.facebook.com/BirdyMusic\nhttp://www.twitter.com/Birdy\nhttp://instagram.com/Birdyinstagram\nhttps://www.tiktok.com/@birdy\n\n#Birdy #EdSheeran #TheATeam",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/p856dtR4mms/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/p856dtR4mms/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/p856dtR4mms/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/p856dtR4mms/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/p856dtR4mms/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "JSON Bourne",
+                "playlistId": "PL4MEYt0kiHZVO8sLGrwBNbz7AzPNWX9OO",
+                "position": 40,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "p856dtR4mms"
+                },
+                "videoOwnerChannelTitle": "Birdy",
+                "videoOwnerChannelId": "UCk3NOb_PipJJwzMuaBhEfQg"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "ED0gY3kBRJxm2T84mdywP63FLjo",
+            "id": "UEw0TUVZdDBraUhaVk84c0xHcndCTmJ6N0F6UE5XWDlPTy44OEI3NUQ0QTlFM0FCOUU4",
+            "snippet": {
+                "publishedAt": "2024-09-24T09:36:35Z",
+                "channelId": "UCNHE3OcC8G345-7rNgu-g9w",
+                "title": "TheFatRat & Anjulie - Close To The Sun",
+                "description": "Download the song and the wallpaper for free on my website: https://www.thefatrat.com/\nMy new song \"Killing Me\" is OUT NOW: https://thefatrat.ffm.to/killingme\nListen to Close To The Sun here \ud83d\udc49 https://thefatrat.ffm.to/closetothesun\n\n\ud83d\udc9c Subscribe for more FREE MUSIC: https://www.youtube.com/thefatrat \n\ud83d\udc49 Check out my socials: https://ffm.bio/thefatrat\n\ud83c\udf0eSupport me in helping children in Manila get education: https://charity.thefatrat.com/\n\n//////////////////////////// \nFollow Anjulie https://www.youtube.com/channel/UCIBn7Lyo73uJWoojjT0sh6A\n\nArt by Kenji Gonzales\nAnimation by myself\n\n//////////////////////////// \n#thefatrat #fatrat #anjulie #closetothesun #music #gamingmusic #freemusic #copyrightfree #royaltyfree #futurebass #electrohouse #edm #dubstep #trap #bass\n#Orchestra #GlitchHop #Soundtrack #EpicMusic #FreeMusic #NoCopyrightMusic #Marshmello #AlanWalker #K-391\n\nGamingMusic | Copyright Free Music | FreeMusic | TheFatRat | Orchestra | Cinematic | Glitch Hop | Soundtrack | Marshmello | Alan Walker | K-391",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/oJuGlqO85YI/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/oJuGlqO85YI/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/oJuGlqO85YI/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/oJuGlqO85YI/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/oJuGlqO85YI/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "JSON Bourne",
+                "playlistId": "PL4MEYt0kiHZVO8sLGrwBNbz7AzPNWX9OO",
+                "position": 41,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "oJuGlqO85YI"
+                },
+                "videoOwnerChannelTitle": "TheFatRat",
+                "videoOwnerChannelId": "UCa_UMppcMsHIzb5LDx1u9zQ"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "esQO2Vo5JAaDgMtROl0iAQhdWRE",
             "id": "UEw0TUVZdDBraUhaVk84c0xHcndCTmJ6N0F6UE5XWDlPTy5GOUFFM0FFNzI5RkU1NjAx",
             "snippet": {
                 "publishedAt": "2024-10-31T10:09:33Z",
@@ -2105,54 +2105,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "NKZbip3oNhheVe2kC8aqLe6Wwt8",
-            "id": "UEw0TUVZdDBraUhaVk84c0xHcndCTmJ6N0F6UE5XWDlPTy5EMzJDRTUwQjBEOUVFQzAw",
-            "snippet": {
-                "publishedAt": "2023-12-06T11:29:51Z",
-                "channelId": "UCNHE3OcC8G345-7rNgu-g9w",
-                "title": "The One That Got Away - Katy Perry (Cover by Tiffany Alvord & Chester See)",
-                "description": "The One That Got Away - (Cover by Tiffany Alvord & Chester See)\nWhile you're here, go here: https://bio.site/tiffanyalvord\n\nI absolutely LOVE this song. We changed it up & put our own take on this song, so it IS different. Me & Chester had a lot of fun making this for you guys. Also if your wondering... the tattoos are FAKE (: Come-on... I wouldn't really do that :p If you want cool matching tattoos we got them at Toys R Us. Thanks for watching! Love, Tiffany\n\nFollow Tiffany Alvord:\nFacebook: http://www.facebook.com/Tiffanyalvord\nTwitter: http://www.twitter.com/Tiffanyalvord\nInstagram: http://bit.ly/TiffanyInstagram\nSnapchat: https://www.snapchat.com/add/TiffanyAlvord\nWebsite: http://www.tiffanyalvord.com/\n\nFollow Chester See:\nhttp://www.youtube.com/user/ChesterSee\n\nListen to Tiffany Alvord On:\niTunes: http://apple.co/1XWXf0G\nGoogle Play: http://bit.ly/1XWXfOj\nSpotify: http://bit.ly/1Ps77OB\nAmazon: http://amzn.to/1O7SXBV\n\nMy album \"My Dream\" is on iTunes: https://bit.ly/tiffanymydream\n\nWatch More Tiffany Alvord:\nOriginals: http://bit.ly/1t73cNv\nCovers: http://bit.ly/1U09hnr\nPopular Videos: http://bit.ly/1UBjKpr\nLatest Uploads: http://bit.ly/1UdCZsb\nLive Acoustic Sets: http://bit.ly/1ZRLOqf\nOriginal Music Videos: http://bit.ly/1rquE71\nLyric Videos: http://bit.ly/1VChO2k\nVlogs: http://bit.ly/1Ps8SeL\n\nCover Credits:\nRecorded & Produced by: Andy Lange | http://www.youtube.com/andylangemusic\nShot & Edited by: Nick Riedell | https://twitter.com/NickRiedell",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/K0-ucWKiTps/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/K0-ucWKiTps/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/K0-ucWKiTps/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    },
-                    "standard": {
-                        "url": "https://i.ytimg.com/vi/K0-ucWKiTps/sddefault.jpg",
-                        "width": 640,
-                        "height": 480
-                    },
-                    "maxres": {
-                        "url": "https://i.ytimg.com/vi/K0-ucWKiTps/maxresdefault.jpg",
-                        "width": 1280,
-                        "height": 720
-                    }
-                },
-                "channelTitle": "JSON Bourne",
-                "playlistId": "PL4MEYt0kiHZVO8sLGrwBNbz7AzPNWX9OO",
-                "position": 45,
-                "resourceId": {
-                    "kind": "youtube#video",
-                    "videoId": "K0-ucWKiTps"
-                },
-                "videoOwnerChannelTitle": "Tiffany Alvord",
-                "videoOwnerChannelId": "UCR-ENZ64WL1vB8KU4YzdmTQ"
-            }
-        },
-        {
-            "kind": "youtube#playlistItem",
-            "etag": "rOHpQoWfk3BhWS4ODjNCITrM7ew",
+            "etag": "CKBSwMiZsBvTtQWkJ6RXSgk67Ec",
             "id": "UEw0TUVZdDBraUhaVk84c0xHcndCTmJ6N0F6UE5XWDlPTy40NjI5ODZCQUE5NkRBMDI0",
             "snippet": {
                 "publishedAt": "2024-09-05T09:35:27Z",
@@ -2188,7 +2141,7 @@
                 },
                 "channelTitle": "JSON Bourne",
                 "playlistId": "PL4MEYt0kiHZVO8sLGrwBNbz7AzPNWX9OO",
-                "position": 46,
+                "position": 45,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "eP4ga_fNm-E"
@@ -2199,49 +2152,54 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "aY25ufl6fblh1wff8HVamNyFTdg",
-            "id": "UEw0TUVZdDBraUhaVk84c0xHcndCTmJ6N0F6UE5XWDlPTy40NUU5MjUxOUU1MDRGQzM0",
+            "etag": "y9B_63XoZYJLaVNmKY7sD1FHizs",
+            "id": "UEw0TUVZdDBraUhaVk84c0xHcndCTmJ6N0F6UE5XWDlPTy5EMzJDRTUwQjBEOUVFQzAw",
             "snippet": {
-                "publishedAt": "2024-06-28T09:02:06Z",
+                "publishedAt": "2023-12-06T11:29:51Z",
                 "channelId": "UCNHE3OcC8G345-7rNgu-g9w",
-                "title": "Dillon - Thirteen Thirtyfive",
-                "description": "'Thirteen Thirtyfive' of Dillon's upcoming debut album 'This Silence Kills' released on BPitch Control on the week of 11th of November.",
+                "title": "The One That Got Away - Katy Perry (Cover by Tiffany Alvord & Chester See)",
+                "description": "The One That Got Away - (Cover by Tiffany Alvord & Chester See)\nWhile you're here, go here: https://bio.site/tiffanyalvord\n\nI absolutely LOVE this song. We changed it up & put our own take on this song, so it IS different. Me & Chester had a lot of fun making this for you guys. Also if your wondering... the tattoos are FAKE (: Come-on... I wouldn't really do that :p If you want cool matching tattoos we got them at Toys R Us. Thanks for watching! Love, Tiffany\n\nFollow Tiffany Alvord:\nFacebook: http://www.facebook.com/Tiffanyalvord\nTwitter: http://www.twitter.com/Tiffanyalvord\nInstagram: http://bit.ly/TiffanyInstagram\nSnapchat: https://www.snapchat.com/add/TiffanyAlvord\nWebsite: http://www.tiffanyalvord.com/\n\nFollow Chester See:\nhttp://www.youtube.com/user/ChesterSee\n\nListen to Tiffany Alvord On:\niTunes: http://apple.co/1XWXf0G\nGoogle Play: http://bit.ly/1XWXfOj\nSpotify: http://bit.ly/1Ps77OB\nAmazon: http://amzn.to/1O7SXBV\n\nMy album \"My Dream\" is on iTunes: https://bit.ly/tiffanymydream\n\nWatch More Tiffany Alvord:\nOriginals: http://bit.ly/1t73cNv\nCovers: http://bit.ly/1U09hnr\nPopular Videos: http://bit.ly/1UBjKpr\nLatest Uploads: http://bit.ly/1UdCZsb\nLive Acoustic Sets: http://bit.ly/1ZRLOqf\nOriginal Music Videos: http://bit.ly/1rquE71\nLyric Videos: http://bit.ly/1VChO2k\nVlogs: http://bit.ly/1Ps8SeL\n\nCover Credits:\nRecorded & Produced by: Andy Lange | http://www.youtube.com/andylangemusic\nShot & Edited by: Nick Riedell | https://twitter.com/NickRiedell",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/BDsuR22GQPQ/default.jpg",
+                        "url": "https://i.ytimg.com/vi/K0-ucWKiTps/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/BDsuR22GQPQ/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/K0-ucWKiTps/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/BDsuR22GQPQ/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/K0-ucWKiTps/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     },
                     "standard": {
-                        "url": "https://i.ytimg.com/vi/BDsuR22GQPQ/sddefault.jpg",
+                        "url": "https://i.ytimg.com/vi/K0-ucWKiTps/sddefault.jpg",
                         "width": 640,
                         "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/K0-ucWKiTps/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
                     }
                 },
                 "channelTitle": "JSON Bourne",
                 "playlistId": "PL4MEYt0kiHZVO8sLGrwBNbz7AzPNWX9OO",
-                "position": 47,
+                "position": 46,
                 "resourceId": {
                     "kind": "youtube#video",
-                    "videoId": "BDsuR22GQPQ"
+                    "videoId": "K0-ucWKiTps"
                 },
-                "videoOwnerChannelTitle": "Dillon",
-                "videoOwnerChannelId": "UCO5xX8qbM0Xgbk42kYqddtQ"
+                "videoOwnerChannelTitle": "Tiffany Alvord",
+                "videoOwnerChannelId": "UCR-ENZ64WL1vB8KU4YzdmTQ"
             }
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "3WYzMELi49e_ip8bpfO1MjoiWQk",
+            "etag": "cdBD4APSrEDCO-YR9Nkvemis-es",
             "id": "UEw0TUVZdDBraUhaVk84c0xHcndCTmJ6N0F6UE5XWDlPTy4yM0IwNzUxRTc3MTg4Njkw",
             "snippet": {
                 "publishedAt": "2025-02-05T04:46:53Z",
@@ -2277,7 +2235,7 @@
                 },
                 "channelTitle": "JSON Bourne",
                 "playlistId": "PL4MEYt0kiHZVO8sLGrwBNbz7AzPNWX9OO",
-                "position": 48,
+                "position": 47,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "uwUt1fVLb3E"
@@ -2288,7 +2246,49 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "Vp1_nQlcerMZIqvPi0FWpjsk1po",
+            "etag": "rTIjVGoZsMfKOSu3b9NhaLauA-A",
+            "id": "UEw0TUVZdDBraUhaVk84c0xHcndCTmJ6N0F6UE5XWDlPTy40NUU5MjUxOUU1MDRGQzM0",
+            "snippet": {
+                "publishedAt": "2024-06-28T09:02:06Z",
+                "channelId": "UCNHE3OcC8G345-7rNgu-g9w",
+                "title": "Dillon - Thirteen Thirtyfive",
+                "description": "'Thirteen Thirtyfive' of Dillon's upcoming debut album 'This Silence Kills' released on BPitch Control on the week of 11th of November.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/BDsuR22GQPQ/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/BDsuR22GQPQ/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/BDsuR22GQPQ/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/BDsuR22GQPQ/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "JSON Bourne",
+                "playlistId": "PL4MEYt0kiHZVO8sLGrwBNbz7AzPNWX9OO",
+                "position": 48,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "BDsuR22GQPQ"
+                },
+                "videoOwnerChannelTitle": "Dillon",
+                "videoOwnerChannelId": "UCO5xX8qbM0Xgbk42kYqddtQ"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "BaJw9RUbD1rI-_m6jU03g70Sq6k",
             "id": "UEw0TUVZdDBraUhaVk84c0xHcndCTmJ6N0F6UE5XWDlPTy4yQjdDRUQyQ0M0MEZCQkEx",
             "snippet": {
                 "publishedAt": "2024-09-22T12:55:11Z",
@@ -2335,7 +2335,7 @@
         }
     ],
     "pageInfo": {
-        "totalResults": 338,
+        "totalResults": 341,
         "resultsPerPage": 50
     }
 }
