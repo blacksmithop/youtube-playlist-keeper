@@ -1,11 +1,11 @@
 {
     "kind": "youtube#playlistItemListResponse",
-    "etag": "zG_c1ojck7jP4U5lYkllr4Zhjl8",
+    "etag": "wxC2xbLno7nvn9LC_2u16dqwTlA",
     "nextPageToken": "EAAaHlBUOkNESWlFREpDTjBORlJESkRRelF3UmtKQ1FURQ",
     "items": [
         {
             "kind": "youtube#playlistItem",
-            "etag": "E73l8DdfGwscBrzZZeSj1PWrsBo",
+            "etag": "cXNVojQwOMskuT-B0eo0lTtt6T0",
             "id": "UEw0TUVZdDBraUhaVk84c0xHcndCTmJ6N0F6UE5XWDlPTy5CMUM0NzY5NzdEQzlGRjAx",
             "snippet": {
                 "publishedAt": "2023-12-07T09:34:19Z",
@@ -188,7 +188,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "5cGlkNYD-I3IRwLWhMh03lvSAhg",
+            "etag": "JVy0y2LDSnyYRL-YyWuB2VTUi30",
             "id": "UEw0TUVZdDBraUhaVk84c0xHcndCTmJ6N0F6UE5XWDlPTy4xMkVGQjNCMUM1N0RFNEUx",
             "snippet": {
                 "publishedAt": "2022-10-13T09:06:15Z",
@@ -648,7 +648,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "nico3OnuHPIbQKWMmFijrQWo6-Y",
+            "etag": "HpPaO_eUsKWrfKR2iryYlIjBMWU",
             "id": "UEw0TUVZdDBraUhaVk84c0xHcndCTmJ6N0F6UE5XWDlPTy41RjU0OTVCQThDNUUwQzBD",
             "snippet": {
                 "publishedAt": "2024-05-27T09:45:46Z",
@@ -1118,7 +1118,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "S7TWLRAM1HTxv3TfPZwrGAMOQa8",
+            "etag": "ffNdmEMihcr9oEaGJT2NQkabFiA",
             "id": "UEw0TUVZdDBraUhaVk84c0xHcndCTmJ6N0F6UE5XWDlPTy4yMkNBN0M4QUJEQzYxMjA3",
             "snippet": {
                 "publishedAt": "2024-06-21T11:21:47Z",
@@ -2011,7 +2011,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "-cdbkh-tXoVPLX6ITZGAX2mhjLM",
+            "etag": "bZDGTLXqP8M-77DEd3bKih7LWqA",
             "id": "UEw0TUVZdDBraUhaVk84c0xHcndCTmJ6N0F6UE5XWDlPTy5GOUFFM0FFNzI5RkU1NjAx",
             "snippet": {
                 "publishedAt": "2024-10-31T10:09:33Z",
@@ -2335,7 +2335,7 @@
         }
     ],
     "pageInfo": {
-        "totalResults": 345,
+        "totalResults": 346,
         "resultsPerPage": 50
     }
 }
