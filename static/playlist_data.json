@@ -1,7 +1,7 @@
 {
     "kind": "youtube#playlistItemListResponse",
-    "etag": "Zx-NUFiLdevNmzSmjz3zmMrGu9k",
-    "nextPageToken": "EAAaHlBUOkNESWlFREpDTjBORlJESkRRelF3UmtKQ1FURQ",
+    "etag": "O2LrGa_e6HsPODj9qJb5jAEBhHA",
+    "nextPageToken": "EAAaHlBUOkNESWlFRFExUlRreU5URTVSVFV3TkVaRE16UQ",
     "items": [
         {
             "kind": "youtube#playlistItem",
@@ -460,7 +460,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "5yqWwGomHKyRbUUnHajh29r8w30",
+            "etag": "i1QWEx3Pr9j_f5sspAsZ3yvPXCk",
             "id": "UEw0TUVZdDBraUhaVk84c0xHcndCTmJ6N0F6UE5XWDlPTy5BN0Q0NTk3QTY3NEFDOTE1",
             "snippet": {
                 "publishedAt": "2025-04-29T06:45:56Z",
@@ -2011,7 +2011,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "bZDGTLXqP8M-77DEd3bKih7LWqA",
+            "etag": "EP0nKeHbM8wAZtDYQB-K0A9YtoE",
             "id": "UEw0TUVZdDBraUhaVk84c0xHcndCTmJ6N0F6UE5XWDlPTy5GOUFFM0FFNzI5RkU1NjAx",
             "snippet": {
                 "publishedAt": "2024-10-31T10:09:33Z",
@@ -2293,33 +2293,38 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "eCGxjbQqYdZdu5ga8NejWVl3Yb4",
-            "id": "UEw0TUVZdDBraUhaVk84c0xHcndCTmJ6N0F6UE5XWDlPTy40NUU5MjUxOUU1MDRGQzM0",
+            "etag": "4tAJmRkVvTDlnt-E9UoLdpXN0zY",
+            "id": "UEw0TUVZdDBraUhaVk84c0xHcndCTmJ6N0F6UE5XWDlPTy4yQjdDRUQyQ0M0MEZCQkEx",
             "snippet": {
-                "publishedAt": "2024-06-28T09:02:06Z",
+                "publishedAt": "2024-09-22T12:55:11Z",
                 "channelId": "UCNHE3OcC8G345-7rNgu-g9w",
-                "title": "Dillon - Thirteen Thirtyfive",
-                "description": "'Thirteen Thirtyfive' of Dillon's upcoming debut album 'This Silence Kills' released on BPitch Control on the week of 11th of November.",
+                "title": "Bad Apple!! - Full Version w/video [Lyrics in Romaji, Translation in English]",
+                "description": "I did a montage of the video \"Bad Apple!!\" to go with the full version. The song is sang by Nomico and made by Alstroemeria Records.\n\nAt some places, it's not lag. It's just the video that is slow down.\n\n==How to see the subtitles (updated on July 3rd, 2020)==\nThose who are not familiar with the YouTube Captions, you just have to press the settings button and go to \"Subtitles/CC\", it will give you those options:\n- \"English - Translation in English\" - Turn on the English Captions\n- \"Japanese - Romaji\" - Turn on the Romaji Captions\n-  Off\nI hope that was helpful. :)\n\n==Various Description Edits==\nEdit 28-12-2012: 1,000,000 views to end the year! I never thought that the video will actually have a million views. Thanks everyone! :)\n\nEdit 13-11-2013: Wow, 2,000,000 views! That's so incredible!!!  :D\n\nEdit 27-03-2018: Anyone mentioning \"Undertale\" in the comments gets filtered.\n\nEdit 03-07-2020: 27 million views. Wow. I still can't believe an edit of the original Bad Apple!! video that I made when I was 15 years old got this many views.",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/BDsuR22GQPQ/default.jpg",
+                        "url": "https://i.ytimg.com/vi/9lNZ_Rnr7Jc/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/BDsuR22GQPQ/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/9lNZ_Rnr7Jc/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/BDsuR22GQPQ/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/9lNZ_Rnr7Jc/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     },
                     "standard": {
-                        "url": "https://i.ytimg.com/vi/BDsuR22GQPQ/sddefault.jpg",
+                        "url": "https://i.ytimg.com/vi/9lNZ_Rnr7Jc/sddefault.jpg",
                         "width": 640,
                         "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/9lNZ_Rnr7Jc/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
                     }
                 },
                 "channelTitle": "JSON Bourne",
@@ -2327,15 +2332,15 @@
                 "position": 49,
                 "resourceId": {
                     "kind": "youtube#video",
-                    "videoId": "BDsuR22GQPQ"
+                    "videoId": "9lNZ_Rnr7Jc"
                 },
-                "videoOwnerChannelTitle": "Dillon",
-                "videoOwnerChannelId": "UCO5xX8qbM0Xgbk42kYqddtQ"
+                "videoOwnerChannelTitle": "luigiman09",
+                "videoOwnerChannelId": "UCPZeEvYtEm9LXWQbu049kDw"
             }
         }
     ],
     "pageInfo": {
-        "totalResults": 346,
+        "totalResults": 351,
         "resultsPerPage": 50
     }
 }
