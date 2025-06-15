@@ -1,11 +1,11 @@
 {
     "kind": "youtube#playlistItemListResponse",
-    "etag": "ulZDFY6-B_b4hseYl0ozUJGXAYk",
+    "etag": "1eaL9-WwfxQQHruM7bLte8tABRQ",
     "nextPageToken": "EAAaHlBUOkNESWlFRFExUlRreU5URTVSVFV3TkVaRE16UQ",
     "items": [
         {
             "kind": "youtube#playlistItem",
-            "etag": "cXNVojQwOMskuT-B0eo0lTtt6T0",
+            "etag": "j0gHXXh5cX615vIJLz8RDNFLjok",
             "id": "UEw0TUVZdDBraUhaVk84c0xHcndCTmJ6N0F6UE5XWDlPTy5CMUM0NzY5NzdEQzlGRjAx",
             "snippet": {
                 "publishedAt": "2023-12-07T09:34:19Z",
@@ -52,7 +52,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "5_qvQxiAexx5Gt_kTQBuOT5X07o",
+            "etag": "04yd8Tt9gruFmGdg6Sszsx6ThUw",
             "id": "UEw0TUVZdDBraUhaVk84c0xHcndCTmJ6N0F6UE5XWDlPTy4xRUU4M0JFMUQ4QTA2MjVB",
             "snippet": {
                 "publishedAt": "2024-09-25T04:17:12Z",
@@ -188,7 +188,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "JVy0y2LDSnyYRL-YyWuB2VTUi30",
+            "etag": "v2MKAajn8QqsM3-JPvnC46khI8w",
             "id": "UEw0TUVZdDBraUhaVk84c0xHcndCTmJ6N0F6UE5XWDlPTy4xMkVGQjNCMUM1N0RFNEUx",
             "snippet": {
                 "publishedAt": "2022-10-13T09:06:15Z",
@@ -460,7 +460,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "i1QWEx3Pr9j_f5sspAsZ3yvPXCk",
+            "etag": "O_9pEjYB_fN9iNEcuKhR78tyO9o",
             "id": "UEw0TUVZdDBraUhaVk84c0xHcndCTmJ6N0F6UE5XWDlPTy5BN0Q0NTk3QTY3NEFDOTE1",
             "snippet": {
                 "publishedAt": "2025-04-29T06:45:56Z",
@@ -601,7 +601,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "DzSdgajw0pWOF5MqMettoqD15BY",
+            "etag": "vQvTXUHFm26suzq7iw78-aaNr5Q",
             "id": "UEw0TUVZdDBraUhaVk84c0xHcndCTmJ6N0F6UE5XWDlPTy41NkI0NEY2RDEwNTU3Q0M2",
             "snippet": {
                 "publishedAt": "2022-10-05T09:16:22Z",
@@ -648,7 +648,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "DSsr_Qpf17UGLdNBOCA1tiR9DQw",
+            "etag": "iGuELo8efUULK4jqEtTzUg2HmPE",
             "id": "UEw0TUVZdDBraUhaVk84c0xHcndCTmJ6N0F6UE5XWDlPTy41RjU0OTVCQThDNUUwQzBD",
             "snippet": {
                 "publishedAt": "2024-05-27T09:45:46Z",
@@ -883,7 +883,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "cChzRrW4R50s4f2qkt_t_R7fGgw",
+            "etag": "BlXVDcT7B3mFAJUbd48nQp-J12M",
             "id": "UEw0TUVZdDBraUhaVk84c0xHcndCTmJ6N0F6UE5XWDlPTy41ODIyMTgwQzA4NjJCQkZC",
             "snippet": {
                 "publishedAt": "2023-12-14T04:05:10Z",
@@ -930,7 +930,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "DUBSHUTf1sognif-W3EnZJjxZJk",
+            "etag": "gQGBnfCifAcJ3boOcwX3PhH-2os",
             "id": "UEw0TUVZdDBraUhaVk84c0xHcndCTmJ6N0F6UE5XWDlPTy4yODlGNEE0NkRGMEEzMEQy",
             "snippet": {
                 "publishedAt": "2022-10-05T09:39:23Z",
@@ -977,7 +977,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "U9ghb81ianzyTB7lPhJM_Hng9k0",
+            "etag": "Ke0FIASfluy9SKvdSU7Q-9pOmOg",
             "id": "UEw0TUVZdDBraUhaVk84c0xHcndCTmJ6N0F6UE5XWDlPTy5BNzdEQzY0REQzQTEyN0U3",
             "snippet": {
                 "publishedAt": "2024-01-07T16:54:21Z",
@@ -1071,7 +1071,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "gXuys3nuxvdudH4nc9PfUK00hVM",
+            "etag": "SqVH5QZNuLiqEpMuTO6qdZfaVwo",
             "id": "UEw0TUVZdDBraUhaVk84c0xHcndCTmJ6N0F6UE5XWDlPTy4zMzg4MjBBNzZCQzY5MDk4",
             "snippet": {
                 "publishedAt": "2024-07-26T03:23:40Z",
@@ -1118,7 +1118,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "ffNdmEMihcr9oEaGJT2NQkabFiA",
+            "etag": "vppXpGUuwEK2mCwa_S7HtEQN6k0",
             "id": "UEw0TUVZdDBraUhaVk84c0xHcndCTmJ6N0F6UE5XWDlPTy4yMkNBN0M4QUJEQzYxMjA3",
             "snippet": {
                 "publishedAt": "2024-06-21T11:21:47Z",
@@ -1259,7 +1259,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "K6_ZnttJj94_oNnDCFswFdqeHns",
+            "etag": "tKsXkbVggtMwkCpghIas6AmBTIo",
             "id": "UEw0TUVZdDBraUhaVk84c0xHcndCTmJ6N0F6UE5XWDlPTy45REM1NzQ1MDM2OUZDNDMx",
             "snippet": {
                 "publishedAt": "2024-08-13T12:58:53Z",
@@ -1306,7 +1306,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "NpfFphduUaQz_2eRrMpWNA567Ec",
+            "etag": "nXovoTTm3l4F9pN3WT9wJl88gL8",
             "id": "UEw0TUVZdDBraUhaVk84c0xHcndCTmJ6N0F6UE5XWDlPTy5EQTkxMkVFODRENEJBMERF",
             "snippet": {
                 "publishedAt": "2024-07-18T17:11:44Z",
@@ -1400,7 +1400,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "PLISKxjOOLTa6wP4Gp0HXP_YX70",
+            "etag": "lBZOCiuKDKd6BSMUsV_gUI8hWtU",
             "id": "UEw0TUVZdDBraUhaVk84c0xHcndCTmJ6N0F6UE5XWDlPTy42MzYyQ0E2MUE4ODAzQkU5",
             "snippet": {
                 "publishedAt": "2024-10-16T03:49:03Z",
@@ -1447,7 +1447,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "JaJCUkoLQzdPv5vIe9khUwcNeQA",
+            "etag": "u8_p8MXH-xf7TyYtORL5XR_Q63E",
             "id": "UEw0TUVZdDBraUhaVk84c0xHcndCTmJ6N0F6UE5XWDlPTy43NkI3M0NGOUE4ODY2OTE1",
             "snippet": {
                 "publishedAt": "2024-10-16T03:49:04Z",
@@ -1494,7 +1494,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "vndG-dKBMKhAutAX32SkvsDuEN0",
+            "etag": "2ZTW-11i-u8jDXmg9F53ha-hCDs",
             "id": "UEw0TUVZdDBraUhaVk84c0xHcndCTmJ6N0F6UE5XWDlPTy4zOTExNTAwOERBMTNFRUM4",
             "snippet": {
                 "publishedAt": "2025-03-05T04:41:41Z",
@@ -1541,7 +1541,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "-f8YSnEuLMDqqc4g2FjNyRfVKuI",
+            "etag": "gBEiG0hmkeRB2D4nf57DWA1_lUg",
             "id": "UEw0TUVZdDBraUhaVk84c0xHcndCTmJ6N0F6UE5XWDlPTy5GOUJEOERGNDg1N0QyNDA3",
             "snippet": {
                 "publishedAt": "2024-07-24T08:45:36Z",
@@ -1588,7 +1588,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "H47LYfcjgJJsVR26usLlKzWn6Zc",
+            "etag": "pbqKY3WTFKHkdnAOAzNETQk_yaA",
             "id": "UEw0TUVZdDBraUhaVk84c0xHcndCTmJ6N0F6UE5XWDlPTy5ENEEyOTIwNkY4NzFGMkQ2",
             "snippet": {
                 "publishedAt": "2024-01-15T05:22:47Z",
@@ -1682,7 +1682,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "5UH4LZAz2qpIottfCHUcHZWKcG0",
+            "etag": "b59Rjjdk4IOgB8OZ8H2LMPicY4s",
             "id": "UEw0TUVZdDBraUhaVk84c0xHcndCTmJ6N0F6UE5XWDlPTy5BRjY4NjdBRjA5RTdCMUMx",
             "snippet": {
                 "publishedAt": "2024-05-28T10:13:02Z",
@@ -1776,7 +1776,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "IjGij_QIpIdLrJSBhSkJXPcmytg",
+            "etag": "7rKiNW7qFphIdYEtMpUkD75eodE",
             "id": "UEw0TUVZdDBraUhaVk84c0xHcndCTmJ6N0F6UE5XWDlPTy5DQzY2RDZFRUQyRDlDQkMw",
             "snippet": {
                 "publishedAt": "2024-06-18T06:37:11Z",
@@ -1823,7 +1823,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "VavIwo7FN--PYhyzNxFS5XAKPuE",
+            "etag": "DI9DqgDAUgDttXkRgYJHV35SgJk",
             "id": "UEw0TUVZdDBraUhaVk84c0xHcndCTmJ6N0F6UE5XWDlPTy43ODA2MDVCQzY5QzZDMjUw",
             "snippet": {
                 "publishedAt": "2023-12-22T09:54:20Z",
@@ -1870,7 +1870,54 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "xfTi_MeTSpzykghrz7zGIA0uFqA",
+            "etag": "lYG9DKsOB-kHO9HpKscOYa5Zojk",
+            "id": "UEw0TUVZdDBraUhaVk84c0xHcndCTmJ6N0F6UE5XWDlPTy44OEI3NUQ0QTlFM0FCOUU4",
+            "snippet": {
+                "publishedAt": "2024-09-24T09:36:35Z",
+                "channelId": "UCNHE3OcC8G345-7rNgu-g9w",
+                "title": "TheFatRat & Anjulie - Close To The Sun",
+                "description": "Download the song and the wallpaper for free on my website: https://www.thefatrat.com/\nPre-Save my new song \"HONK\" coming June 27th: https://tinyurl.com/tfrhonk\nListen to Close To The Sun here: https://thefatrat.ffm.to/closetothesun\n\n\ud83d\udc9c Subscribe for more FREE MUSIC: https://www.youtube.com/thefatrat \n\ud83d\udc49 Check out my socials: https://ffm.bio/thefatrat\n\ud83d\udc49 Follow Anjulie: https://www.youtube.com/channel/UCIBn7Lyo73uJWoojjT0sh6A\n\n\ud83c\udf0eSupport me in helping children in Manila get education: https://charity.thefatrat.com/\n\n\ud83d\udc9c \"Close To The Sun\" is \ud83d\udc49 FREE-to-use on YouTube, Twitch and other social media channels if you credit properly in your video description. Copy and paste the credits below. If you don\u2019t credit properly, your video will get claimed.\n________________________________________________\n\ud83d\udc49 Credits (please copy paste)\nMusic: TheFatRat & Anjulie - Close To The Sun\nWatch the official music video: https://youtu.be/oJuGlqO85YI\nListen to Close To The Sun: https://tinyurl.com/tfrclosetothesun\nFollow TheFatRat: https://ffm.bio/thefatrat\n_________________________________________________\n\n//////////////////////////// \nArt by Kenji Gonzales\nAnimation by myself\n//////////////////////////// \n\n#thefatrat #fatrat #anjulie #closetothesun #music #gamingmusic #freemusic #copyrightfree #royaltyfree #futurebass #electrohouse #edm #dubstep #trap #bass\n#Orchestra #GlitchHop #Soundtrack #EpicMusic #FreeMusic #NoCopyrightMusic #Marshmello #AlanWalker #K-391\n\nGamingMusic | Copyright Free Music | FreeMusic | TheFatRat | Orchestra | Cinematic | Glitch Hop | Soundtrack | Marshmello | Alan Walker | K-391",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/oJuGlqO85YI/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/oJuGlqO85YI/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/oJuGlqO85YI/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/oJuGlqO85YI/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/oJuGlqO85YI/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "JSON Bourne",
+                "playlistId": "PL4MEYt0kiHZVO8sLGrwBNbz7AzPNWX9OO",
+                "position": 40,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "oJuGlqO85YI"
+                },
+                "videoOwnerChannelTitle": "TheFatRat",
+                "videoOwnerChannelId": "UCa_UMppcMsHIzb5LDx1u9zQ"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "vfM-Ij3gMOqGvRYpdvllRMinwAQ",
             "id": "UEw0TUVZdDBraUhaVk84c0xHcndCTmJ6N0F6UE5XWDlPTy45MEI3NjgzMTVFQkZGODYx",
             "snippet": {
                 "publishedAt": "2024-02-07T04:17:55Z",
@@ -1906,7 +1953,7 @@
                 },
                 "channelTitle": "JSON Bourne",
                 "playlistId": "PL4MEYt0kiHZVO8sLGrwBNbz7AzPNWX9OO",
-                "position": 40,
+                "position": 41,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "s5dhDn3R0A0"
@@ -1917,54 +1964,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "FIqCCx8lxq4ZTW25eNfTc9nSYA4",
-            "id": "UEw0TUVZdDBraUhaVk84c0xHcndCTmJ6N0F6UE5XWDlPTy44OEI3NUQ0QTlFM0FCOUU4",
-            "snippet": {
-                "publishedAt": "2024-09-24T09:36:35Z",
-                "channelId": "UCNHE3OcC8G345-7rNgu-g9w",
-                "title": "TheFatRat & Anjulie - Close To The Sun",
-                "description": "Download the song and the wallpaper for free on my website: https://www.thefatrat.com/\nMy new song \"Genius\" is OUT NOW: https://thefatrat.ffm.to/genius\nListen to Close To The Sun here: https://thefatrat.ffm.to/closetothesun\n\n\ud83d\udc9c Subscribe for more FREE MUSIC: https://www.youtube.com/thefatrat \n\ud83d\udc49 Check out my socials: https://ffm.bio/thefatrat\n\ud83d\udc49 Follow Anjulie: https://www.youtube.com/channel/UCIBn7Lyo73uJWoojjT0sh6A\n\n\ud83c\udf0eSupport me in helping children in Manila get education: https://charity.thefatrat.com/\n\n\ud83d\udc9c \"Close To The Sun\" is \ud83d\udc49 FREE-to-use on YouTube, Twitch and other social media channels if you credit properly in your video description. Copy and paste the credits below. If you don\u2019t credit properly, your video will get claimed.\n________________________________________________\n\ud83d\udc49 Credits (please copy paste)\nMusic: TheFatRat & Anjulie - Close To The Sun\nWatch the official music video: https://youtu.be/oJuGlqO85YI\nListen to Close To The Sun: https://tinyurl.com/tfrclosetothesun\nFollow TheFatRat: https://ffm.bio/thefatrat\n_________________________________________________\n\n//////////////////////////// \nArt by Kenji Gonzales\nAnimation by myself\n//////////////////////////// \n\n#thefatrat #fatrat #anjulie #closetothesun #music #gamingmusic #freemusic #copyrightfree #royaltyfree #futurebass #electrohouse #edm #dubstep #trap #bass\n#Orchestra #GlitchHop #Soundtrack #EpicMusic #FreeMusic #NoCopyrightMusic #Marshmello #AlanWalker #K-391\n\nGamingMusic | Copyright Free Music | FreeMusic | TheFatRat | Orchestra | Cinematic | Glitch Hop | Soundtrack | Marshmello | Alan Walker | K-391",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/oJuGlqO85YI/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/oJuGlqO85YI/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/oJuGlqO85YI/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    },
-                    "standard": {
-                        "url": "https://i.ytimg.com/vi/oJuGlqO85YI/sddefault.jpg",
-                        "width": 640,
-                        "height": 480
-                    },
-                    "maxres": {
-                        "url": "https://i.ytimg.com/vi/oJuGlqO85YI/maxresdefault.jpg",
-                        "width": 1280,
-                        "height": 720
-                    }
-                },
-                "channelTitle": "JSON Bourne",
-                "playlistId": "PL4MEYt0kiHZVO8sLGrwBNbz7AzPNWX9OO",
-                "position": 41,
-                "resourceId": {
-                    "kind": "youtube#video",
-                    "videoId": "oJuGlqO85YI"
-                },
-                "videoOwnerChannelTitle": "TheFatRat",
-                "videoOwnerChannelId": "UCa_UMppcMsHIzb5LDx1u9zQ"
-            }
-        },
-        {
-            "kind": "youtube#playlistItem",
-            "etag": "IpUskhJlAMHFtKWo1_KLtJew2sI",
+            "etag": "MXNEBsiShmvESwPuYkvJGxk3Z5U",
             "id": "UEw0TUVZdDBraUhaVk84c0xHcndCTmJ6N0F6UE5XWDlPTy5GM0Q3M0MzMzY5NTJFNTdE",
             "snippet": {
                 "publishedAt": "2023-01-17T04:13:12Z",
@@ -2011,7 +2011,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "4IHec1i5H871LONbBl8bFIUmHdM",
+            "etag": "PBhM01R47gXqJ7rRMYodCnlseeI",
             "id": "UEw0TUVZdDBraUhaVk84c0xHcndCTmJ6N0F6UE5XWDlPTy5GOUFFM0FFNzI5RkU1NjAx",
             "snippet": {
                 "publishedAt": "2024-10-31T10:09:33Z",
@@ -2105,7 +2105,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "rlCkSJi8K1drMWkJyX26LlsJgkQ",
+            "etag": "tLED_JrePVKSsTFHuKmGqDjar24",
             "id": "UEw0TUVZdDBraUhaVk84c0xHcndCTmJ6N0F6UE5XWDlPTy42NEZDNTU0RTRENDUzRjMz",
             "snippet": {
                 "publishedAt": "2024-01-15T06:56:30Z",
@@ -2152,7 +2152,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "rOHpQoWfk3BhWS4ODjNCITrM7ew",
+            "etag": "GyHkZcxFzUjiPJ-FKwcD_LK0SfU",
             "id": "UEw0TUVZdDBraUhaVk84c0xHcndCTmJ6N0F6UE5XWDlPTy40NjI5ODZCQUE5NkRBMDI0",
             "snippet": {
                 "publishedAt": "2024-09-05T09:35:27Z",
@@ -2246,7 +2246,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "3WYzMELi49e_ip8bpfO1MjoiWQk",
+            "etag": "7u645_jtMWFm_WOIVV1TgkDH9k0",
             "id": "UEw0TUVZdDBraUhaVk84c0xHcndCTmJ6N0F6UE5XWDlPTy4yM0IwNzUxRTc3MTg4Njkw",
             "snippet": {
                 "publishedAt": "2025-02-05T04:46:53Z",
@@ -2293,7 +2293,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "vrBRdRPmstZiaMr56lI0NteUuJw",
+            "etag": "ov57VijZ-Xqj8vDZAcjX1pCTKJ0",
             "id": "UEw0TUVZdDBraUhaVk84c0xHcndCTmJ6N0F6UE5XWDlPTy4yQjdDRUQyQ0M0MEZCQkEx",
             "snippet": {
                 "publishedAt": "2024-09-22T12:55:11Z",
@@ -2340,7 +2340,7 @@
         }
     ],
     "pageInfo": {
-        "totalResults": 352,
+        "totalResults": 354,
         "resultsPerPage": 50
     }
 }
