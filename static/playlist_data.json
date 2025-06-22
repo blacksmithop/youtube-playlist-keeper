@@ -1,7 +1,7 @@
 {
     "kind": "youtube#playlistItemListResponse",
-    "etag": "1eaL9-WwfxQQHruM7bLte8tABRQ",
-    "nextPageToken": "EAAaHlBUOkNESWlFRFExUlRreU5URTVSVFV3TkVaRE16UQ",
+    "etag": "RteKMbVshz2xmRDKxvGFNLDw0QE",
+    "nextPageToken": "EAAaHlBUOkNESWlFRVV4UlRrNE5UVXdNVFJGT1RWRFFUQQ",
     "items": [
         {
             "kind": "youtube#playlistItem",
@@ -52,7 +52,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "04yd8Tt9gruFmGdg6Sszsx6ThUw",
+            "etag": "e5OvEUVq2gTtb-Dcb3FlCplVVTU",
             "id": "UEw0TUVZdDBraUhaVk84c0xHcndCTmJ6N0F6UE5XWDlPTy4xRUU4M0JFMUQ4QTA2MjVB",
             "snippet": {
                 "publishedAt": "2024-09-25T04:17:12Z",
@@ -94,7 +94,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "ShnfwITAGSsfWPJDDst6hterfhU",
+            "etag": "wBsJOWyepxj1rts7CEAjhNFd7qc",
             "id": "UEw0TUVZdDBraUhaVk84c0xHcndCTmJ6N0F6UE5XWDlPTy5ENjg2QjQ3OTVDOUE2QzYw",
             "snippet": {
                 "publishedAt": "2024-07-04T11:56:37Z",
@@ -329,7 +329,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "T_VeT8jc2vDtq84w5KG2GdEb3fw",
+            "etag": "e0VVujiJvzs8ZbcYTvgMt2aH6rU",
             "id": "UEw0TUVZdDBraUhaVk84c0xHcndCTmJ6N0F6UE5XWDlPTy5DNzE1RjZEMUZCMjA0RDBB",
             "snippet": {
                 "publishedAt": "2023-04-12T11:47:05Z",
@@ -601,7 +601,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "vQvTXUHFm26suzq7iw78-aaNr5Q",
+            "etag": "Ci3yyhMTrCRB6UPMfga4QA6tF2E",
             "id": "UEw0TUVZdDBraUhaVk84c0xHcndCTmJ6N0F6UE5XWDlPTy41NkI0NEY2RDEwNTU3Q0M2",
             "snippet": {
                 "publishedAt": "2022-10-05T09:16:22Z",
@@ -1024,7 +1024,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "47ZUiv9jYhkfXFr48rfzWVP4MK4",
+            "etag": "KNhUpl3G-wpR3vPf0avpWchtXH0",
             "id": "UEw0TUVZdDBraUhaVk84c0xHcndCTmJ6N0F6UE5XWDlPTy4wNjIzRDA1OTQ2M0UyODEw",
             "snippet": {
                 "publishedAt": "2024-04-10T06:18:01Z",
@@ -1165,54 +1165,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "0646bO6rLT81JmqRSmZaiForguM",
-            "id": "UEw0TUVZdDBraUhaVk84c0xHcndCTmJ6N0F6UE5XWDlPTy5DNzNDRDE1NzhGODQzODI2",
-            "snippet": {
-                "publishedAt": "2024-06-04T09:16:06Z",
-                "channelId": "UCNHE3OcC8G345-7rNgu-g9w",
-                "title": "Avicii - Broken Arrows",
-                "description": "Listen to more music by Avicii here: https://Avicii.lnk.to/Channel\nIn Dolby Atmos: https://avicii.lnk.to/SpatialAudio\n\n[Verse 1]\nYou stripped your love down to the wire\nFire shy and cold alone outside\nYou stripped it right down to the wire\nBut I see you behind those tired eyes\n\n[Pre-Chorus]\nNow as you wade through shadows that live in your heart\nYou'll find the light that leads home\nCause I see you for you and your beautiful scars\nSo take my hand, don't let go\n\n[Chorus]\nCause it's not too late, it's not too late\nI, I see the hope in your heart\nAnd sometimes you lose and sometimes you're shooting\nBroken arrows in the dark\nBut I, I see the hope in your heart\n\n[Verse 2]\nI've seen the darkness in the light\nThe kind of blue that leaves you lost and blind\nThe only thing that's black and white\nIs that you don't have to walk alone this time\n\n[Pre-Chorus]\nWe have to tear down walls that live in your heart\nTo find someone you call home\nNow you see me for me and my beautiful scars\nSo take my hand, don't let go\n\n[Chorus]\nCause it's not too late, it's not too late\nI, I see the hope in your heart\nAnd sometimes you lose and sometimes you're shooting\nBroken arrows in the dark\nBut I, I see the hope in your heart\n\n[Outro]\nIt's not too late, it's not too late\nI see the hope in your heart\nSometimes losing, sometimes shooting\nBroken arrows in the dark\n\n#Avicii #BrokenArrows",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/V6iKSUoUN48/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/V6iKSUoUN48/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/V6iKSUoUN48/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    },
-                    "standard": {
-                        "url": "https://i.ytimg.com/vi/V6iKSUoUN48/sddefault.jpg",
-                        "width": 640,
-                        "height": 480
-                    },
-                    "maxres": {
-                        "url": "https://i.ytimg.com/vi/V6iKSUoUN48/maxresdefault.jpg",
-                        "width": 1280,
-                        "height": 720
-                    }
-                },
-                "channelTitle": "JSON Bourne",
-                "playlistId": "PL4MEYt0kiHZVO8sLGrwBNbz7AzPNWX9OO",
-                "position": 25,
-                "resourceId": {
-                    "kind": "youtube#video",
-                    "videoId": "V6iKSUoUN48"
-                },
-                "videoOwnerChannelTitle": "AviciiOfficialVEVO",
-                "videoOwnerChannelId": "UC1SqP7_RfOC9Jf9L_GRHANg"
-            }
-        },
-        {
-            "kind": "youtube#playlistItem",
-            "etag": "Q17GiT5LN7loJHWnqC0iEhlpj7g",
+            "etag": "slgbd_vJS5nW9coWQjhSVvwejvo",
             "id": "UEw0TUVZdDBraUhaVk84c0xHcndCTmJ6N0F6UE5XWDlPTy5FRDc0QkQxMzlEMTZBMzg0",
             "snippet": {
                 "publishedAt": "2024-08-13T09:45:27Z",
@@ -1248,13 +1201,60 @@
                 },
                 "channelTitle": "JSON Bourne",
                 "playlistId": "PL4MEYt0kiHZVO8sLGrwBNbz7AzPNWX9OO",
-                "position": 26,
+                "position": 25,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "KqjgLbKZ1h0"
                 },
                 "videoOwnerChannelTitle": "HuXiaVEVO",
                 "videoOwnerChannelId": "UCIZavUMxkpJUpeqGSwlli6A"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "FXNX3Sr-mA_vbr7rF-3jryLVB9E",
+            "id": "UEw0TUVZdDBraUhaVk84c0xHcndCTmJ6N0F6UE5XWDlPTy5DNzNDRDE1NzhGODQzODI2",
+            "snippet": {
+                "publishedAt": "2024-06-04T09:16:06Z",
+                "channelId": "UCNHE3OcC8G345-7rNgu-g9w",
+                "title": "Avicii - Broken Arrows",
+                "description": "Listen to more music by Avicii here: https://Avicii.lnk.to/Channel\nIn Dolby Atmos: https://avicii.lnk.to/SpatialAudio\n\n[Verse 1]\nYou stripped your love down to the wire\nFire shy and cold alone outside\nYou stripped it right down to the wire\nBut I see you behind those tired eyes\n\n[Pre-Chorus]\nNow as you wade through shadows that live in your heart\nYou'll find the light that leads home\nCause I see you for you and your beautiful scars\nSo take my hand, don't let go\n\n[Chorus]\nCause it's not too late, it's not too late\nI, I see the hope in your heart\nAnd sometimes you lose and sometimes you're shooting\nBroken arrows in the dark\nBut I, I see the hope in your heart\n\n[Verse 2]\nI've seen the darkness in the light\nThe kind of blue that leaves you lost and blind\nThe only thing that's black and white\nIs that you don't have to walk alone this time\n\n[Pre-Chorus]\nWe have to tear down walls that live in your heart\nTo find someone you call home\nNow you see me for me and my beautiful scars\nSo take my hand, don't let go\n\n[Chorus]\nCause it's not too late, it's not too late\nI, I see the hope in your heart\nAnd sometimes you lose and sometimes you're shooting\nBroken arrows in the dark\nBut I, I see the hope in your heart\n\n[Outro]\nIt's not too late, it's not too late\nI see the hope in your heart\nSometimes losing, sometimes shooting\nBroken arrows in the dark\n\n#Avicii #BrokenArrows",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/V6iKSUoUN48/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/V6iKSUoUN48/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/V6iKSUoUN48/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/V6iKSUoUN48/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/V6iKSUoUN48/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "JSON Bourne",
+                "playlistId": "PL4MEYt0kiHZVO8sLGrwBNbz7AzPNWX9OO",
+                "position": 26,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "V6iKSUoUN48"
+                },
+                "videoOwnerChannelTitle": "AviciiOfficialVEVO",
+                "videoOwnerChannelId": "UC1SqP7_RfOC9Jf9L_GRHANg"
             }
         },
         {
@@ -1447,54 +1447,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "u8_p8MXH-xf7TyYtORL5XR_Q63E",
-            "id": "UEw0TUVZdDBraUhaVk84c0xHcndCTmJ6N0F6UE5XWDlPTy43NkI3M0NGOUE4ODY2OTE1",
-            "snippet": {
-                "publishedAt": "2024-10-16T03:49:04Z",
-                "channelId": "UCNHE3OcC8G345-7rNgu-g9w",
-                "title": "Sabrina Carpenter - Can't Blame a Girl for Trying (Official Video)",
-                "description": "Sabrina\u2019s debut album, \u201cEyes Wide Open\u201d is available now!\niTunes: http://smarturl.it/sca1\nAmazon: http://smarturl.it/scama1\nStreaming: http://smarturl.it/scsa1 \n\nhttps://twitter.com/SabrinaAnnLynn \nhttp://instagram.com/sabrinacarpenter \nhttps://www.facebook.com/SabrinaCarpenter \nhttp://www.sabrinacarpenter.com\n\n#SabrinaCarpenter #CantBlameAGirlForTrying #Vevo #Pop #OfficialMusicVideo",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/HibDj27DHMI/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/HibDj27DHMI/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/HibDj27DHMI/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    },
-                    "standard": {
-                        "url": "https://i.ytimg.com/vi/HibDj27DHMI/sddefault.jpg",
-                        "width": 640,
-                        "height": 480
-                    },
-                    "maxres": {
-                        "url": "https://i.ytimg.com/vi/HibDj27DHMI/maxresdefault.jpg",
-                        "width": 1280,
-                        "height": 720
-                    }
-                },
-                "channelTitle": "JSON Bourne",
-                "playlistId": "PL4MEYt0kiHZVO8sLGrwBNbz7AzPNWX9OO",
-                "position": 31,
-                "resourceId": {
-                    "kind": "youtube#video",
-                    "videoId": "HibDj27DHMI"
-                },
-                "videoOwnerChannelTitle": "SabrinaCarpenterVEVO",
-                "videoOwnerChannelId": "UC4mYKePIas5YgGfYZ2J2OxQ"
-            }
-        },
-        {
-            "kind": "youtube#playlistItem",
-            "etag": "2ZTW-11i-u8jDXmg9F53ha-hCDs",
+            "etag": "tz_ZezUYIIFQPz0au5Binso7dMM",
             "id": "UEw0TUVZdDBraUhaVk84c0xHcndCTmJ6N0F6UE5XWDlPTy4zOTExNTAwOERBMTNFRUM4",
             "snippet": {
                 "publishedAt": "2025-03-05T04:41:41Z",
@@ -1530,7 +1483,7 @@
                 },
                 "channelTitle": "JSON Bourne",
                 "playlistId": "PL4MEYt0kiHZVO8sLGrwBNbz7AzPNWX9OO",
-                "position": 32,
+                "position": 31,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "NZGHXy1IAHM"
@@ -1541,7 +1494,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "gBEiG0hmkeRB2D4nf57DWA1_lUg",
+            "etag": "Y_9T4kRRYvZtm2bSCnALRkcK86U",
             "id": "UEw0TUVZdDBraUhaVk84c0xHcndCTmJ6N0F6UE5XWDlPTy5GOUJEOERGNDg1N0QyNDA3",
             "snippet": {
                 "publishedAt": "2024-07-24T08:45:36Z",
@@ -1577,7 +1530,7 @@
                 },
                 "channelTitle": "JSON Bourne",
                 "playlistId": "PL4MEYt0kiHZVO8sLGrwBNbz7AzPNWX9OO",
-                "position": 33,
+                "position": 32,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "Py9paavgZ-0"
@@ -1588,7 +1541,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "pbqKY3WTFKHkdnAOAzNETQk_yaA",
+            "etag": "o6VUucfzkQN5lOTULmBAxbBB6qc",
             "id": "UEw0TUVZdDBraUhaVk84c0xHcndCTmJ6N0F6UE5XWDlPTy5ENEEyOTIwNkY4NzFGMkQ2",
             "snippet": {
                 "publishedAt": "2024-01-15T05:22:47Z",
@@ -1624,7 +1577,7 @@
                 },
                 "channelTitle": "JSON Bourne",
                 "playlistId": "PL4MEYt0kiHZVO8sLGrwBNbz7AzPNWX9OO",
-                "position": 34,
+                "position": 33,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "GCWl50HQZIM"
@@ -1635,7 +1588,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "N1NkcNkZfPdxISnfCVdu3gTcoYk",
+            "etag": "SHjACeAqqMpS0H0zHFDhCKgvweQ",
             "id": "UEw0TUVZdDBraUhaVk84c0xHcndCTmJ6N0F6UE5XWDlPTy42RDgxQ0M2OUIwREZCNjZF",
             "snippet": {
                 "publishedAt": "2024-03-01T03:21:04Z",
@@ -1671,7 +1624,7 @@
                 },
                 "channelTitle": "JSON Bourne",
                 "playlistId": "PL4MEYt0kiHZVO8sLGrwBNbz7AzPNWX9OO",
-                "position": 35,
+                "position": 34,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "d0RmRJsgP28"
@@ -1682,7 +1635,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "b59Rjjdk4IOgB8OZ8H2LMPicY4s",
+            "etag": "j1v4YsG9fnFZ9clPF1gDgZnnKCQ",
             "id": "UEw0TUVZdDBraUhaVk84c0xHcndCTmJ6N0F6UE5XWDlPTy5BRjY4NjdBRjA5RTdCMUMx",
             "snippet": {
                 "publishedAt": "2024-05-28T10:13:02Z",
@@ -1718,7 +1671,7 @@
                 },
                 "channelTitle": "JSON Bourne",
                 "playlistId": "PL4MEYt0kiHZVO8sLGrwBNbz7AzPNWX9OO",
-                "position": 36,
+                "position": 35,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "Sg3hU_sdhKw"
@@ -1729,7 +1682,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "BckaiUqZrq3ntu5XauV1vWW2RVk",
+            "etag": "jfEe9Id-KZBhvNnKnO0OuokwuWo",
             "id": "UEw0TUVZdDBraUhaVk84c0xHcndCTmJ6N0F6UE5XWDlPTy4yMkQ1M0U2NzVEOTA2MTY5",
             "snippet": {
                 "publishedAt": "2025-02-13T12:55:15Z",
@@ -1765,7 +1718,7 @@
                 },
                 "channelTitle": "JSON Bourne",
                 "playlistId": "PL4MEYt0kiHZVO8sLGrwBNbz7AzPNWX9OO",
-                "position": 37,
+                "position": 36,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "EDK9KOfknTw"
@@ -1776,7 +1729,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "7rKiNW7qFphIdYEtMpUkD75eodE",
+            "etag": "JkVKjcgDwAPoCWlFgZfYoU_n2QA",
             "id": "UEw0TUVZdDBraUhaVk84c0xHcndCTmJ6N0F6UE5XWDlPTy5DQzY2RDZFRUQyRDlDQkMw",
             "snippet": {
                 "publishedAt": "2024-06-18T06:37:11Z",
@@ -1812,7 +1765,7 @@
                 },
                 "channelTitle": "JSON Bourne",
                 "playlistId": "PL4MEYt0kiHZVO8sLGrwBNbz7AzPNWX9OO",
-                "position": 38,
+                "position": 37,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "T_lC2O1oIew"
@@ -1823,7 +1776,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "DI9DqgDAUgDttXkRgYJHV35SgJk",
+            "etag": "8G7mtPcgO65XMX_M1ILcIB042u0",
             "id": "UEw0TUVZdDBraUhaVk84c0xHcndCTmJ6N0F6UE5XWDlPTy43ODA2MDVCQzY5QzZDMjUw",
             "snippet": {
                 "publishedAt": "2023-12-22T09:54:20Z",
@@ -1859,7 +1812,7 @@
                 },
                 "channelTitle": "JSON Bourne",
                 "playlistId": "PL4MEYt0kiHZVO8sLGrwBNbz7AzPNWX9OO",
-                "position": 39,
+                "position": 38,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "cRLSKh5ridA"
@@ -1870,7 +1823,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "lYG9DKsOB-kHO9HpKscOYa5Zojk",
+            "etag": "vsRXeQjfu7wQ35vsheWrmZ7Zw1M",
             "id": "UEw0TUVZdDBraUhaVk84c0xHcndCTmJ6N0F6UE5XWDlPTy44OEI3NUQ0QTlFM0FCOUU4",
             "snippet": {
                 "publishedAt": "2024-09-24T09:36:35Z",
@@ -1906,7 +1859,7 @@
                 },
                 "channelTitle": "JSON Bourne",
                 "playlistId": "PL4MEYt0kiHZVO8sLGrwBNbz7AzPNWX9OO",
-                "position": 40,
+                "position": 39,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "oJuGlqO85YI"
@@ -1917,7 +1870,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "vfM-Ij3gMOqGvRYpdvllRMinwAQ",
+            "etag": "FZLW2kwBkFeoHE3i4xKSitS0Tok",
             "id": "UEw0TUVZdDBraUhaVk84c0xHcndCTmJ6N0F6UE5XWDlPTy45MEI3NjgzMTVFQkZGODYx",
             "snippet": {
                 "publishedAt": "2024-02-07T04:17:55Z",
@@ -1953,7 +1906,7 @@
                 },
                 "channelTitle": "JSON Bourne",
                 "playlistId": "PL4MEYt0kiHZVO8sLGrwBNbz7AzPNWX9OO",
-                "position": 41,
+                "position": 40,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "s5dhDn3R0A0"
@@ -1964,7 +1917,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "MXNEBsiShmvESwPuYkvJGxk3Z5U",
+            "etag": "F5q1oDduk_DdSr6T2nDkpFgTJMI",
             "id": "UEw0TUVZdDBraUhaVk84c0xHcndCTmJ6N0F6UE5XWDlPTy5GM0Q3M0MzMzY5NTJFNTdE",
             "snippet": {
                 "publishedAt": "2023-01-17T04:13:12Z",
@@ -2000,7 +1953,7 @@
                 },
                 "channelTitle": "JSON Bourne",
                 "playlistId": "PL4MEYt0kiHZVO8sLGrwBNbz7AzPNWX9OO",
-                "position": 42,
+                "position": 41,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "p856dtR4mms"
@@ -2011,7 +1964,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "PBhM01R47gXqJ7rRMYodCnlseeI",
+            "etag": "3jaRVqlQarM_4g1kJwqi9h4waIM",
             "id": "UEw0TUVZdDBraUhaVk84c0xHcndCTmJ6N0F6UE5XWDlPTy5GOUFFM0FFNzI5RkU1NjAx",
             "snippet": {
                 "publishedAt": "2024-10-31T10:09:33Z",
@@ -2047,7 +2000,7 @@
                 },
                 "channelTitle": "JSON Bourne",
                 "playlistId": "PL4MEYt0kiHZVO8sLGrwBNbz7AzPNWX9OO",
-                "position": 43,
+                "position": 42,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "PZbkF-15ObM"
@@ -2058,7 +2011,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "4fuJRnjTdtrByG-7xAxVsd7Y5pY",
+            "etag": "qtnbUyld7LN6V_08zUycpal1U8Y",
             "id": "UEw0TUVZdDBraUhaVk84c0xHcndCTmJ6N0F6UE5XWDlPTy5DRUQwODMxQzUyRTlGRkY3",
             "snippet": {
                 "publishedAt": "2023-09-25T08:51:04Z",
@@ -2094,7 +2047,7 @@
                 },
                 "channelTitle": "JSON Bourne",
                 "playlistId": "PL4MEYt0kiHZVO8sLGrwBNbz7AzPNWX9OO",
-                "position": 44,
+                "position": 43,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "aVpJGGQHSqc"
@@ -2105,7 +2058,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "tLED_JrePVKSsTFHuKmGqDjar24",
+            "etag": "1d2kyCwhWnDmV-3KaXGZDCOMg50",
             "id": "UEw0TUVZdDBraUhaVk84c0xHcndCTmJ6N0F6UE5XWDlPTy42NEZDNTU0RTRENDUzRjMz",
             "snippet": {
                 "publishedAt": "2024-01-15T06:56:30Z",
@@ -2141,7 +2094,7 @@
                 },
                 "channelTitle": "JSON Bourne",
                 "playlistId": "PL4MEYt0kiHZVO8sLGrwBNbz7AzPNWX9OO",
-                "position": 45,
+                "position": 44,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "yHV04eSGzAA"
@@ -2152,7 +2105,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "GyHkZcxFzUjiPJ-FKwcD_LK0SfU",
+            "etag": "X4QpDYCwANU9wpMYOO0eExb7awA",
             "id": "UEw0TUVZdDBraUhaVk84c0xHcndCTmJ6N0F6UE5XWDlPTy40NjI5ODZCQUE5NkRBMDI0",
             "snippet": {
                 "publishedAt": "2024-09-05T09:35:27Z",
@@ -2188,7 +2141,7 @@
                 },
                 "channelTitle": "JSON Bourne",
                 "playlistId": "PL4MEYt0kiHZVO8sLGrwBNbz7AzPNWX9OO",
-                "position": 46,
+                "position": 45,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "eP4ga_fNm-E"
@@ -2199,7 +2152,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "AGPyh8eBSn4eylSEAzjydNoEmvQ",
+            "etag": "6oJwwvd-UOa8pqTQ9L6c28wsdTc",
             "id": "UEw0TUVZdDBraUhaVk84c0xHcndCTmJ6N0F6UE5XWDlPTy5EMzJDRTUwQjBEOUVFQzAw",
             "snippet": {
                 "publishedAt": "2023-12-06T11:29:51Z",
@@ -2235,7 +2188,7 @@
                 },
                 "channelTitle": "JSON Bourne",
                 "playlistId": "PL4MEYt0kiHZVO8sLGrwBNbz7AzPNWX9OO",
-                "position": 47,
+                "position": 46,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "K0-ucWKiTps"
@@ -2246,7 +2199,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "7u645_jtMWFm_WOIVV1TgkDH9k0",
+            "etag": "eZfem2HN0Qt97CcZRh99L4Jcsns",
             "id": "UEw0TUVZdDBraUhaVk84c0xHcndCTmJ6N0F6UE5XWDlPTy4yM0IwNzUxRTc3MTg4Njkw",
             "snippet": {
                 "publishedAt": "2025-02-05T04:46:53Z",
@@ -2282,7 +2235,7 @@
                 },
                 "channelTitle": "JSON Bourne",
                 "playlistId": "PL4MEYt0kiHZVO8sLGrwBNbz7AzPNWX9OO",
-                "position": 48,
+                "position": 47,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "uwUt1fVLb3E"
@@ -2293,7 +2246,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "ov57VijZ-Xqj8vDZAcjX1pCTKJ0",
+            "etag": "peptgzr4vAGADQUda0xNPDbV8XI",
             "id": "UEw0TUVZdDBraUhaVk84c0xHcndCTmJ6N0F6UE5XWDlPTy4yQjdDRUQyQ0M0MEZCQkEx",
             "snippet": {
                 "publishedAt": "2024-09-22T12:55:11Z",
@@ -2329,7 +2282,7 @@
                 },
                 "channelTitle": "JSON Bourne",
                 "playlistId": "PL4MEYt0kiHZVO8sLGrwBNbz7AzPNWX9OO",
-                "position": 49,
+                "position": 48,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "9lNZ_Rnr7Jc"
@@ -2337,10 +2290,52 @@
                 "videoOwnerChannelTitle": "luigiman09",
                 "videoOwnerChannelId": "UCPZeEvYtEm9LXWQbu049kDw"
             }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "biSSVt-A3oi2N7_GNGvRjR4_iFY",
+            "id": "UEw0TUVZdDBraUhaVk84c0xHcndCTmJ6N0F6UE5XWDlPTy40NUU5MjUxOUU1MDRGQzM0",
+            "snippet": {
+                "publishedAt": "2024-06-28T09:02:06Z",
+                "channelId": "UCNHE3OcC8G345-7rNgu-g9w",
+                "title": "Dillon - Thirteen Thirtyfive",
+                "description": "'Thirteen Thirtyfive' of Dillon's upcoming debut album 'This Silence Kills' released on BPitch Control on the week of 11th of November.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/BDsuR22GQPQ/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/BDsuR22GQPQ/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/BDsuR22GQPQ/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/BDsuR22GQPQ/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "JSON Bourne",
+                "playlistId": "PL4MEYt0kiHZVO8sLGrwBNbz7AzPNWX9OO",
+                "position": 49,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "BDsuR22GQPQ"
+                },
+                "videoOwnerChannelTitle": "Dillon",
+                "videoOwnerChannelId": "UCO5xX8qbM0Xgbk42kYqddtQ"
+            }
         }
     ],
     "pageInfo": {
-        "totalResults": 354,
+        "totalResults": 355,
         "resultsPerPage": 50
     }
 }
