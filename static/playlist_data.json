@@ -1,7 +1,7 @@
 {
     "kind": "youtube#playlistItemListResponse",
-    "etag": "KIIdTfMyE8o-TxoUWMqsAML_apM",
-    "nextPageToken": "EAAaHlBUOkNESWlFRFExUlRreU5URTVSVFV3TkVaRE16UQ",
+    "etag": "g3JH_GmleOKaLYF3C7PHWBYNviM",
+    "nextPageToken": "EAAaHlBUOkNESWlFRGswT1RWRVJrUTNPRVF6TlRrd05ETQ",
     "items": [
         {
             "kind": "youtube#playlistItem",
@@ -52,13 +52,13 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "LRu0rk5dtkJqUtDpt2K0m4VoohQ",
+            "etag": "JgkjMkcn-gMXVTVbBg2BEuYtBz4",
             "id": "UEw0TUVZdDBraUhaVk84c0xHcndCTmJ6N0F6UE5XWDlPTy4xRUU4M0JFMUQ4QTA2MjVB",
             "snippet": {
                 "publishedAt": "2024-09-25T04:17:12Z",
                 "channelId": "UCNHE3OcC8G345-7rNgu-g9w",
                 "title": "Clean Bandit - Symphony (feat. Zara Larsson) [Official Video]",
-                "description": "Listen to our new song Don't Leave Me Lonely! https://cleanbandit.lnk.to/dont-leave-me-lonelyIN\n\nCreative Director - Grace\nDirector - Jack\nDrone cinematography - Luke\nCinematography - Anya & Dasha \n\nDownload or stream our new album \"What Is Love?\" - out now: http://atlanti.cr/WhatIsLove\n\nClick here to subscribe: http://bit.ly/SubscribeToCleanBandit\n\nFollow us:\nWebsite: http://cleanbandit.co.uk/\nFacebook: http://www.facebook.com/cleanbandit \nTwitter: http://www.twitter.com/cleanbandit \nInstagram: http://instagram.com/cleanbandit\nSoundcloud: http://www.soundcloud.com/cleanbandit\nSpotify: http://www.atlre.co.uk/CleanBanditSpo...",
+                "description": "Listen to our new song Believe with Lloyiso https://cleanbandit.ffm.to/believe\n\nCreative Director - Grace\nDirector - Jack\nDrone cinematography - Luke\nCinematography - Anya & Dasha \n\nDownload or stream our new album \"What Is Love?\" - out now: http://atlanti.cr/WhatIsLove\n\nClick here to subscribe: http://bit.ly/SubscribeToCleanBandit\n\nFollow us:\nWebsite: http://cleanbandit.co.uk/\nFacebook: http://www.facebook.com/cleanbandit \nTwitter: http://www.twitter.com/cleanbandit \nInstagram: http://instagram.com/cleanbandit\nSoundcloud: http://www.soundcloud.com/cleanbandit\nSpotify: http://www.atlre.co.uk/CleanBanditSpo...",
                 "thumbnails": {
                     "default": {
                         "url": "https://i.ytimg.com/vi/aatr_2MstrI/default.jpg",
@@ -141,7 +141,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "PGyjpbBR4UCgqNKLkerfMW9CGlQ",
+            "etag": "FSdczibWjGCYRm0zx04G_LrpP8c",
             "id": "UEw0TUVZdDBraUhaVk84c0xHcndCTmJ6N0F6UE5XWDlPTy45NDIzMEVBNjk5NTFGRDZC",
             "snippet": {
                 "publishedAt": "2024-05-23T09:54:13Z",
@@ -1071,7 +1071,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "GAYrpf8tTM36ZG1ajWlYKjlW1zk",
+            "etag": "zccg9C6xcNdnxOS-rmhTV9_gW2s",
             "id": "UEw0TUVZdDBraUhaVk84c0xHcndCTmJ6N0F6UE5XWDlPTy4zMzg4MjBBNzZCQzY5MDk4",
             "snippet": {
                 "publishedAt": "2024-07-26T03:23:40Z",
@@ -1118,54 +1118,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "vppXpGUuwEK2mCwa_S7HtEQN6k0",
-            "id": "UEw0TUVZdDBraUhaVk84c0xHcndCTmJ6N0F6UE5XWDlPTy4yMkNBN0M4QUJEQzYxMjA3",
-            "snippet": {
-                "publishedAt": "2024-06-21T11:21:47Z",
-                "channelId": "UCNHE3OcC8G345-7rNgu-g9w",
-                "title": "Imagine Dragons - Not Today from ME BEFORE YOU",
-                "description": "Gracias a todos por verlo\ud83d\udc99\n\n\ud83d\udd25JHONAZ\ud83d\udd25\n_________________________________\nRedes Sociales:\nINSTAGRAM: https://www.instagram.com/jhonazofficial/\nFACEBOOK: https://www.facebook.com/jhonazofficial/\nTWITTER: https://twitter.com/jhonazofficial\n2do Canal / Vlogs: https://www.youtube.com/channel/UC2nuKZEmKoCPljQNrF62O9w\n\nM\u00fasica de Jhonaz\nSPOTIFY: https://open.spotify.com/artist/2pwIBa1Q2EhT5QMlvVlpxt?si=Fpp-EN86T7OsdTYg6fM34Q\nSOUNDCLOUD: https://soundcloud.com/jhonazofficial\n\nDALE LIKE, ME GUSTA Y SUSCRIBETE! :)",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/6tz1_znrbmc/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/6tz1_znrbmc/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/6tz1_znrbmc/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    },
-                    "standard": {
-                        "url": "https://i.ytimg.com/vi/6tz1_znrbmc/sddefault.jpg",
-                        "width": 640,
-                        "height": 480
-                    },
-                    "maxres": {
-                        "url": "https://i.ytimg.com/vi/6tz1_znrbmc/maxresdefault.jpg",
-                        "width": 1280,
-                        "height": 720
-                    }
-                },
-                "channelTitle": "JSON Bourne",
-                "playlistId": "PL4MEYt0kiHZVO8sLGrwBNbz7AzPNWX9OO",
-                "position": 24,
-                "resourceId": {
-                    "kind": "youtube#video",
-                    "videoId": "6tz1_znrbmc"
-                },
-                "videoOwnerChannelTitle": "Jhonaz",
-                "videoOwnerChannelId": "UCRoeQHmIX2iEeRNTstHRYdg"
-            }
-        },
-        {
-            "kind": "youtube#playlistItem",
-            "etag": "slgbd_vJS5nW9coWQjhSVvwejvo",
+            "etag": "UUQNfOtN2IVSiMzDAkFjn53eiRQ",
             "id": "UEw0TUVZdDBraUhaVk84c0xHcndCTmJ6N0F6UE5XWDlPTy5FRDc0QkQxMzlEMTZBMzg0",
             "snippet": {
                 "publishedAt": "2024-08-13T09:45:27Z",
@@ -1201,13 +1154,60 @@
                 },
                 "channelTitle": "JSON Bourne",
                 "playlistId": "PL4MEYt0kiHZVO8sLGrwBNbz7AzPNWX9OO",
-                "position": 25,
+                "position": 24,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "KqjgLbKZ1h0"
                 },
                 "videoOwnerChannelTitle": "HuXiaVEVO",
                 "videoOwnerChannelId": "UCIZavUMxkpJUpeqGSwlli6A"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "5JCe1wh24DN34mwvIy16jzqwlZ8",
+            "id": "UEw0TUVZdDBraUhaVk84c0xHcndCTmJ6N0F6UE5XWDlPTy4yMkNBN0M4QUJEQzYxMjA3",
+            "snippet": {
+                "publishedAt": "2024-06-21T11:21:47Z",
+                "channelId": "UCNHE3OcC8G345-7rNgu-g9w",
+                "title": "Imagine Dragons - Not Today from ME BEFORE YOU",
+                "description": "Gracias a todos por verlo\ud83d\udc99\n\n\ud83d\udd25JHONAZ\ud83d\udd25\n_________________________________\nRedes Sociales:\nINSTAGRAM: https://www.instagram.com/jhonazofficial/\nFACEBOOK: https://www.facebook.com/jhonazofficial/\nTWITTER: https://twitter.com/jhonazofficial\n2do Canal / Vlogs: https://www.youtube.com/channel/UC2nuKZEmKoCPljQNrF62O9w\n\nM\u00fasica de Jhonaz\nSPOTIFY: https://open.spotify.com/artist/2pwIBa1Q2EhT5QMlvVlpxt?si=Fpp-EN86T7OsdTYg6fM34Q\nSOUNDCLOUD: https://soundcloud.com/jhonazofficial\n\nDALE LIKE, ME GUSTA Y SUSCRIBETE! :)",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/6tz1_znrbmc/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/6tz1_znrbmc/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/6tz1_znrbmc/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/6tz1_znrbmc/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/6tz1_znrbmc/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "JSON Bourne",
+                "playlistId": "PL4MEYt0kiHZVO8sLGrwBNbz7AzPNWX9OO",
+                "position": 25,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "6tz1_znrbmc"
+                },
+                "videoOwnerChannelTitle": "Jhonaz",
+                "videoOwnerChannelId": "UCRoeQHmIX2iEeRNTstHRYdg"
             }
         },
         {
@@ -1541,54 +1541,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "o6VUucfzkQN5lOTULmBAxbBB6qc",
-            "id": "UEw0TUVZdDBraUhaVk84c0xHcndCTmJ6N0F6UE5XWDlPTy5ENEEyOTIwNkY4NzFGMkQ2",
-            "snippet": {
-                "publishedAt": "2024-01-15T05:22:47Z",
-                "channelId": "UCNHE3OcC8G345-7rNgu-g9w",
-                "title": "Jax - Like My Father (Official Video)",
-                "description": "Download/Stream 'Like My Father' : https://JAX.lnk.to/LikeMyFatherID\n\nSubscribe for more content from Jax: https://JAX.lnk.to/SubscribeID\n\nhttps://www.jaxwritessongs.com/\n\nDirected by Jax\n\nLYRICS\nI wanna come home to roses \nAnd dirty little notes on Post-it\u2019s\nAnd when my hair starts turning grey\nHe\u2019ll say I\u2019m like a fine wine , better with age.\n\nI guess I learned it from my parents \nThat true love starts with friendship\nA kiss on the forehead, a date night\nFake an apology after a fight\n\nI need a man \nWho\u2019s patient and kind \nGets out of the car and holds the door \nI wanna slow dance \nIn the living room like \nWe\u2019re 18 at senior prom and grow old with someone \nWho makes me feel young\nI need a man who loves me\nLike my father loves my mom\n\nI wanna road trip in the summers \nI wanna make fun of each other\nI wanna rock out to Billy Joel \nAnd flip our kids off when they call us old\nHe\u2019ll accidentally burn our dinner\nAnd let me be the scrabble winner\nAnd when my body changes shapes\nHe\u2019ll say oh my god you look hot today\n\nI need a man \nWho\u2019s patient and kind \nGets out of the car and holds the door \nI wanna slow dance \nIn the living room like \nWe\u2019re 18 at senior prom and grow old with someone \nWho makes me feel young\nI need a man who loves me\nLike my father loves my mom\n\n\nAnd if he lives up to my father \nMaybe he can teach our daughter\nWhat it takes to love a queen  \nShe should know she\u2019s royalty\n\nFollow Jax\nhttps://www.tiktok.com/@jaxwritessongs\nhttps://www.facebook.com/JAXOfficialx\nhttps://www.instagram.com/jax\nhttps://twitter.com/Jax\n\n#Jax #LikeMyFather #OfficialVideo",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/GCWl50HQZIM/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/GCWl50HQZIM/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/GCWl50HQZIM/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    },
-                    "standard": {
-                        "url": "https://i.ytimg.com/vi/GCWl50HQZIM/sddefault.jpg",
-                        "width": 640,
-                        "height": 480
-                    },
-                    "maxres": {
-                        "url": "https://i.ytimg.com/vi/GCWl50HQZIM/maxresdefault.jpg",
-                        "width": 1280,
-                        "height": 720
-                    }
-                },
-                "channelTitle": "JSON Bourne",
-                "playlistId": "PL4MEYt0kiHZVO8sLGrwBNbz7AzPNWX9OO",
-                "position": 33,
-                "resourceId": {
-                    "kind": "youtube#video",
-                    "videoId": "GCWl50HQZIM"
-                },
-                "videoOwnerChannelTitle": "JAX",
-                "videoOwnerChannelId": "UC60kwqBXG52dCd-_oUphnwA"
-            }
-        },
-        {
-            "kind": "youtube#playlistItem",
-            "etag": "MU4nl_64PDEb9PCtkfjp6CTOZ_Y",
+            "etag": "fPbSIi0QZPxTg16FA1NW3Lkj-a4",
             "id": "UEw0TUVZdDBraUhaVk84c0xHcndCTmJ6N0F6UE5XWDlPTy5BRjY4NjdBRjA5RTdCMUMx",
             "snippet": {
                 "publishedAt": "2024-05-28T10:13:02Z",
@@ -1624,13 +1577,60 @@
                 },
                 "channelTitle": "JSON Bourne",
                 "playlistId": "PL4MEYt0kiHZVO8sLGrwBNbz7AzPNWX9OO",
-                "position": 34,
+                "position": 33,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "Sg3hU_sdhKw"
                 },
                 "videoOwnerChannelTitle": "BangersOnly",
                 "videoOwnerChannelId": "UCTS70WpqG82S0CPZgWFg1GQ"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "pbqKY3WTFKHkdnAOAzNETQk_yaA",
+            "id": "UEw0TUVZdDBraUhaVk84c0xHcndCTmJ6N0F6UE5XWDlPTy5ENEEyOTIwNkY4NzFGMkQ2",
+            "snippet": {
+                "publishedAt": "2024-01-15T05:22:47Z",
+                "channelId": "UCNHE3OcC8G345-7rNgu-g9w",
+                "title": "Jax - Like My Father (Official Video)",
+                "description": "Download/Stream 'Like My Father' : https://JAX.lnk.to/LikeMyFatherID\n\nSubscribe for more content from Jax: https://JAX.lnk.to/SubscribeID\n\nhttps://www.jaxwritessongs.com/\n\nDirected by Jax\n\nLYRICS\nI wanna come home to roses \nAnd dirty little notes on Post-it\u2019s\nAnd when my hair starts turning grey\nHe\u2019ll say I\u2019m like a fine wine , better with age.\n\nI guess I learned it from my parents \nThat true love starts with friendship\nA kiss on the forehead, a date night\nFake an apology after a fight\n\nI need a man \nWho\u2019s patient and kind \nGets out of the car and holds the door \nI wanna slow dance \nIn the living room like \nWe\u2019re 18 at senior prom and grow old with someone \nWho makes me feel young\nI need a man who loves me\nLike my father loves my mom\n\nI wanna road trip in the summers \nI wanna make fun of each other\nI wanna rock out to Billy Joel \nAnd flip our kids off when they call us old\nHe\u2019ll accidentally burn our dinner\nAnd let me be the scrabble winner\nAnd when my body changes shapes\nHe\u2019ll say oh my god you look hot today\n\nI need a man \nWho\u2019s patient and kind \nGets out of the car and holds the door \nI wanna slow dance \nIn the living room like \nWe\u2019re 18 at senior prom and grow old with someone \nWho makes me feel young\nI need a man who loves me\nLike my father loves my mom\n\n\nAnd if he lives up to my father \nMaybe he can teach our daughter\nWhat it takes to love a queen  \nShe should know she\u2019s royalty\n\nFollow Jax\nhttps://www.tiktok.com/@jaxwritessongs\nhttps://www.facebook.com/JAXOfficialx\nhttps://www.instagram.com/jax\nhttps://twitter.com/Jax\n\n#Jax #LikeMyFather #OfficialVideo",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/GCWl50HQZIM/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/GCWl50HQZIM/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/GCWl50HQZIM/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/GCWl50HQZIM/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/GCWl50HQZIM/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "JSON Bourne",
+                "playlistId": "PL4MEYt0kiHZVO8sLGrwBNbz7AzPNWX9OO",
+                "position": 34,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "GCWl50HQZIM"
+                },
+                "videoOwnerChannelTitle": "JAX",
+                "videoOwnerChannelId": "UC60kwqBXG52dCd-_oUphnwA"
             }
         },
         {
@@ -1823,7 +1823,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "J_xuuu0zbj3tEON5_Ywkw-KT49s",
+            "etag": "4k-4mZYLWOkUP2BxcV5f5gVcr4s",
             "id": "UEw0TUVZdDBraUhaVk84c0xHcndCTmJ6N0F6UE5XWDlPTy44OEI3NUQ0QTlFM0FCOUU4",
             "snippet": {
                 "publishedAt": "2024-09-24T09:36:35Z",
@@ -2058,7 +2058,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "1d2kyCwhWnDmV-3KaXGZDCOMg50",
+            "etag": "AnI9XX5XEnBHZbhqCDbuoI2WyLg",
             "id": "UEw0TUVZdDBraUhaVk84c0xHcndCTmJ6N0F6UE5XWDlPTy42NEZDNTU0RTRENDUzRjMz",
             "snippet": {
                 "publishedAt": "2024-01-15T06:56:30Z",
@@ -2246,7 +2246,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "Jha74YC5ZQ9r-awlMpxWPRNAoOY",
+            "etag": "lbQjvtU0KPSZ1NXBDKMFFGPL9dU",
             "id": "UEw0TUVZdDBraUhaVk84c0xHcndCTmJ6N0F6UE5XWDlPTy4yQjdDRUQyQ0M0MEZCQkEx",
             "snippet": {
                 "publishedAt": "2024-09-22T12:55:11Z",
@@ -2335,7 +2335,7 @@
         }
     ],
     "pageInfo": {
-        "totalResults": 362,
+        "totalResults": 363,
         "resultsPerPage": 50
     }
 }
