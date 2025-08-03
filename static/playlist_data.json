@@ -1,7 +1,7 @@
 {
     "kind": "youtube#playlistItemListResponse",
-    "etag": "g3JH_GmleOKaLYF3C7PHWBYNviM",
-    "nextPageToken": "EAAaHlBUOkNESWlFRGswT1RWRVJrUTNPRVF6TlRrd05ETQ",
+    "etag": "1I5mlmJYDZM1vXtd74WH1szL-HI",
+    "nextPageToken": "EAAaHlBUOkNESWlFRVV4UlRrNE5UVXdNVFJGT1RWRFFUQQ",
     "items": [
         {
             "kind": "youtube#playlistItem",
@@ -52,7 +52,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "JgkjMkcn-gMXVTVbBg2BEuYtBz4",
+            "etag": "3yz-fiEN2ijUrStWfLmrddcy3eE",
             "id": "UEw0TUVZdDBraUhaVk84c0xHcndCTmJ6N0F6UE5XWDlPTy4xRUU4M0JFMUQ4QTA2MjVB",
             "snippet": {
                 "publishedAt": "2024-09-25T04:17:12Z",
@@ -1964,7 +1964,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "g86OU3FCEoZGLDaAbWeZKNRYn1Q",
+            "etag": "SCiP28LzIvgMnOejZbiseRG6oF8",
             "id": "UEw0TUVZdDBraUhaVk84c0xHcndCTmJ6N0F6UE5XWDlPTy5GOUFFM0FFNzI5RkU1NjAx",
             "snippet": {
                 "publishedAt": "2024-10-31T10:09:33Z",
@@ -2293,33 +2293,38 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "1xr_mdSGT_tfMMxjgf2S968CoEE",
-            "id": "UEw0TUVZdDBraUhaVk84c0xHcndCTmJ6N0F6UE5XWDlPTy5FMUU5ODU1MDE0RTk1Q0Ew",
+            "etag": "244LKiyDnYOXqezAzyPufax41Tk",
+            "id": "UEw0TUVZdDBraUhaVk84c0xHcndCTmJ6N0F6UE5XWDlPTy45NDk1REZENzhEMzU5MDQz",
             "snippet": {
-                "publishedAt": "2024-06-25T08:31:39Z",
+                "publishedAt": "2022-11-09T05:46:21Z",
                 "channelId": "UCNHE3OcC8G345-7rNgu-g9w",
-                "title": "Caro Emerald - A Night Like This (Official Video)",
-                "description": "From the album \"Deleted Scenes From The Cutting Room Floor\"\n\nClick here for more Caro Emerald: https://caroemerald.lnk.to/ANLTYT\n\nSmouldering, vintage latin and jazz inspired songs with a contemporary sheen - the music and aesthetic of Caro Emerald have been capturing hearts and minds across the continents since 2009. Backed by creative minds, songwriters and producers David Schreurs, Vincent Degiorgio and Jan van Wieringen the Amsterdam/Toronto based group blends smokey hiphop beats, loops and samples with jazz, 60's movie scores, latin and  bigband music to a unique, upbeat and infectious sound. Their debut album \"Deletes Scenes From The Cutting Room Floor\" (2010) was an overnight smash, resulting in over 2 million album sales, #1 hits in the UK, The Netherlands (longest #1 album ever, 30 weeks) and top 5 hits in the rest of Europe. Caro has performed around the globe on stages including the Royal Albert Hall, Glastonbury mainstage and Hide Park - to name but a few. \n\nWritten by David Schreurs, Vincent Degiorgio, Jan van Wieringen.\nProduced by David Schreurs, Jan van Wieringen. (c) + (p) 2009 Grandmono Records",
+                "title": "BoyWithUke ft. Oliver Tree - Sick of U (Official Music Video)",
+                "description": "Spotify: https://BoyWithUke.lnk.to/Spotify\nApple Music: https://BoyWithUke.lnk.to/AppleMusic\nInstagram: https://BoyWithUke.lnk.to/Instagram\nTikTok: https://BoyWithUke.lnk.to/TikTok\nAll other links and socials: https://linktr.ee/Boywithuke\n \nThe official YouTube channel of BoyWithUke.\nSubscribe :D\n\n\n\nMusic video by BoyWithUke performing Sick of U. \u00a9 2022 Boywithuke, LLC, under exclusive license to Mercury Records/Republic Records, a division of UMG Recordings, Inc.",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/74LXx0wSqMI/default.jpg",
+                        "url": "https://i.ytimg.com/vi/NNGd3uANaes/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/74LXx0wSqMI/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/NNGd3uANaes/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/74LXx0wSqMI/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/NNGd3uANaes/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     },
                     "standard": {
-                        "url": "https://i.ytimg.com/vi/74LXx0wSqMI/sddefault.jpg",
+                        "url": "https://i.ytimg.com/vi/NNGd3uANaes/sddefault.jpg",
                         "width": 640,
                         "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/NNGd3uANaes/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
                     }
                 },
                 "channelTitle": "JSON Bourne",
@@ -2327,10 +2332,10 @@
                 "position": 49,
                 "resourceId": {
                     "kind": "youtube#video",
-                    "videoId": "74LXx0wSqMI"
+                    "videoId": "NNGd3uANaes"
                 },
-                "videoOwnerChannelTitle": "caroemerald",
-                "videoOwnerChannelId": "UCUmqK1oeMpSfRQ6oUpiYKHA"
+                "videoOwnerChannelTitle": "BoyWithUkeVEVO",
+                "videoOwnerChannelId": "UCcUcckay9ZVzIZ92kEqz5Yw"
             }
         }
     ],
