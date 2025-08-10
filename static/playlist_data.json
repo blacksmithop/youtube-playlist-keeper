@@ -1,6 +1,6 @@
 {
     "kind": "youtube#playlistItemListResponse",
-    "etag": "1I5mlmJYDZM1vXtd74WH1szL-HI",
+    "etag": "fjBmNxvty_VsS9AaaD7093J5iSs",
     "nextPageToken": "EAAaHlBUOkNESWlFRVV4UlRrNE5UVXdNVFJGT1RWRFFUQQ",
     "items": [
         {
@@ -52,7 +52,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "3yz-fiEN2ijUrStWfLmrddcy3eE",
+            "etag": "5K91TExoJ3FSPfzcXZV2MTx6HLw",
             "id": "UEw0TUVZdDBraUhaVk84c0xHcndCTmJ6N0F6UE5XWDlPTy4xRUU4M0JFMUQ4QTA2MjVB",
             "snippet": {
                 "publishedAt": "2024-09-25T04:17:12Z",
@@ -141,7 +141,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "FSdczibWjGCYRm0zx04G_LrpP8c",
+            "etag": "PNTUdie1_Mi9TWiFLmgxh5k1t0M",
             "id": "UEw0TUVZdDBraUhaVk84c0xHcndCTmJ6N0F6UE5XWDlPTy45NDIzMEVBNjk5NTFGRDZC",
             "snippet": {
                 "publishedAt": "2024-05-23T09:54:13Z",
@@ -1353,54 +1353,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "2aNXEOx0Wp7KKQpsAodPduGiBq4",
-            "id": "UEw0TUVZdDBraUhaVk84c0xHcndCTmJ6N0F6UE5XWDlPTy4yRjU0MzcwMkYwRkVDNDhC",
-            "snippet": {
-                "publishedAt": "2024-09-12T06:00:59Z",
-                "channelId": "UCNHE3OcC8G345-7rNgu-g9w",
-                "title": "Lil Dicky - Molly feat. Brendon Urie (Official Video)",
-                "description": "PENITH is here!!! Listen: https://LilDicky.lnk.to/PenithID\n\nLatest video off of Lil Dicky's debut album \"Professional Rapper.\" \nGet Professional Rapper:\niTunes \u25ba http://smarturl.it/LilDickyiTunes \nAmazon \u25ba http://smarturl.it/lildickyamazon\nGoogle Play \u25ba http://smarturl.it/LildickyGooglePlay\nSpotify \u25bahttp://smarturl.it/LilDickySpotify\nOfficial Website \u25bahttp://lildicky.com\n\nDirector\nJames Lees\n\nWritten By\nBrian Vannucci\nDavid Burd\n\nExecutive Producer\nDanielle Hinde\n\nProducer\nMark McCune\n\nDP\nKate Arizmendi\n\nMake Up/Hair\nKevianno\n\nStylist\nChristina Flannery\n\nProduction Designer\nParis Pickard\n\nBride\nIsabelle Loeb\n\nEditor\nBrian Vannucci\n\nColorist\nRicky Gausis/MPC\n\nVFX\nBemo\n\nSound Mix\nAlex Reeves\n\nSong produced by Yuri Beats\nSong Mixed by Rob Kinelski at The Fortress of Amplitude\nAssistant Engineer: David Baker\nCategory\nMusic\nLicense\nStandard YouTube License",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/UZkVqLjGM_I/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/UZkVqLjGM_I/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/UZkVqLjGM_I/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    },
-                    "standard": {
-                        "url": "https://i.ytimg.com/vi/UZkVqLjGM_I/sddefault.jpg",
-                        "width": 640,
-                        "height": 480
-                    },
-                    "maxres": {
-                        "url": "https://i.ytimg.com/vi/UZkVqLjGM_I/maxresdefault.jpg",
-                        "width": 1280,
-                        "height": 720
-                    }
-                },
-                "channelTitle": "JSON Bourne",
-                "playlistId": "PL4MEYt0kiHZVO8sLGrwBNbz7AzPNWX9OO",
-                "position": 29,
-                "resourceId": {
-                    "kind": "youtube#video",
-                    "videoId": "UZkVqLjGM_I"
-                },
-                "videoOwnerChannelTitle": "Lil Dicky",
-                "videoOwnerChannelId": "UC8rVJyj4zE0S9-sccMLifIA"
-            }
-        },
-        {
-            "kind": "youtube#playlistItem",
-            "etag": "K7-E_hENxCZI5FaUCgPT0cBQLL0",
+            "etag": "cWJeDKkO6Wcxw2yzeNjVs24HEpg",
             "id": "UEw0TUVZdDBraUhaVk84c0xHcndCTmJ6N0F6UE5XWDlPTy4zOTExNTAwOERBMTNFRUM4",
             "snippet": {
                 "publishedAt": "2025-03-05T04:41:41Z",
@@ -1436,13 +1389,60 @@
                 },
                 "channelTitle": "JSON Bourne",
                 "playlistId": "PL4MEYt0kiHZVO8sLGrwBNbz7AzPNWX9OO",
-                "position": 30,
+                "position": 29,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "NZGHXy1IAHM"
                 },
                 "videoOwnerChannelTitle": "LatinHype",
                 "videoOwnerChannelId": "UC-AlofdKECUdhXrbJQZ6iEg"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "YDz9RSo9IIk_0eU0XXr-KANqN1c",
+            "id": "UEw0TUVZdDBraUhaVk84c0xHcndCTmJ6N0F6UE5XWDlPTy4yRjU0MzcwMkYwRkVDNDhC",
+            "snippet": {
+                "publishedAt": "2024-09-12T06:00:59Z",
+                "channelId": "UCNHE3OcC8G345-7rNgu-g9w",
+                "title": "Lil Dicky - Molly feat. Brendon Urie (Official Video)",
+                "description": "PENITH is here!!! Listen: https://LilDicky.lnk.to/PenithID\n\nLatest video off of Lil Dicky's debut album \"Professional Rapper.\" \nGet Professional Rapper:\niTunes \u25ba http://smarturl.it/LilDickyiTunes \nAmazon \u25ba http://smarturl.it/lildickyamazon\nGoogle Play \u25ba http://smarturl.it/LildickyGooglePlay\nSpotify \u25bahttp://smarturl.it/LilDickySpotify\nOfficial Website \u25bahttp://lildicky.com\n\nDirector\nJames Lees\n\nWritten By\nBrian Vannucci\nDavid Burd\n\nExecutive Producer\nDanielle Hinde\n\nProducer\nMark McCune\n\nDP\nKate Arizmendi\n\nMake Up/Hair\nKevianno\n\nStylist\nChristina Flannery\n\nProduction Designer\nParis Pickard\n\nBride\nIsabelle Loeb\n\nEditor\nBrian Vannucci\n\nColorist\nRicky Gausis/MPC\n\nVFX\nBemo\n\nSound Mix\nAlex Reeves\n\nSong produced by Yuri Beats\nSong Mixed by Rob Kinelski at The Fortress of Amplitude\nAssistant Engineer: David Baker\nCategory\nMusic\nLicense\nStandard YouTube License",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/UZkVqLjGM_I/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/UZkVqLjGM_I/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/UZkVqLjGM_I/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/UZkVqLjGM_I/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/UZkVqLjGM_I/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "JSON Bourne",
+                "playlistId": "PL4MEYt0kiHZVO8sLGrwBNbz7AzPNWX9OO",
+                "position": 30,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "UZkVqLjGM_I"
+                },
+                "videoOwnerChannelTitle": "Lil Dicky",
+                "videoOwnerChannelId": "UC8rVJyj4zE0S9-sccMLifIA"
             }
         },
         {
@@ -2058,7 +2058,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "AnI9XX5XEnBHZbhqCDbuoI2WyLg",
+            "etag": "dk5Tmp6sHaoNI7JgWPdZkJkgeGw",
             "id": "UEw0TUVZdDBraUhaVk84c0xHcndCTmJ6N0F6UE5XWDlPTy42NEZDNTU0RTRENDUzRjMz",
             "snippet": {
                 "publishedAt": "2024-01-15T06:56:30Z",
@@ -2246,7 +2246,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "lbQjvtU0KPSZ1NXBDKMFFGPL9dU",
+            "etag": "0Ld2GXyrNEI4lctViz4zYRDpPZI",
             "id": "UEw0TUVZdDBraUhaVk84c0xHcndCTmJ6N0F6UE5XWDlPTy4yQjdDRUQyQ0M0MEZCQkEx",
             "snippet": {
                 "publishedAt": "2024-09-22T12:55:11Z",
@@ -2340,7 +2340,7 @@
         }
     ],
     "pageInfo": {
-        "totalResults": 363,
+        "totalResults": 364,
         "resultsPerPage": 50
     }
 }
