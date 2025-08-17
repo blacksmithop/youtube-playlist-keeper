@@ -1,11 +1,11 @@
 {
     "kind": "youtube#playlistItemListResponse",
-    "etag": "fjBmNxvty_VsS9AaaD7093J5iSs",
-    "nextPageToken": "EAAaHlBUOkNESWlFRVV4UlRrNE5UVXdNVFJGT1RWRFFUQQ",
+    "etag": "Lgn2ZZIMFfc7WyZ8uEKllSnyRGg",
+    "nextPageToken": "EAAaHlBUOkNESWlFRGswT1RWRVJrUTNPRVF6TlRrd05ETQ",
     "items": [
         {
             "kind": "youtube#playlistItem",
-            "etag": "3frI07enEY71O3IYptERKpo81wg",
+            "etag": "veShUVayXvYOfGXElcLYGUViI-s",
             "id": "UEw0TUVZdDBraUhaVk84c0xHcndCTmJ6N0F6UE5XWDlPTy5CMUM0NzY5NzdEQzlGRjAx",
             "snippet": {
                 "publishedAt": "2023-12-07T09:34:19Z",
@@ -648,7 +648,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "iGuELo8efUULK4jqEtTzUg2HmPE",
+            "etag": "joPGl7XYAtSUID1jI83AaqqeYak",
             "id": "UEw0TUVZdDBraUhaVk84c0xHcndCTmJ6N0F6UE5XWDlPTy41RjU0OTVCQThDNUUwQzBD",
             "snippet": {
                 "publishedAt": "2024-05-27T09:45:46Z",
@@ -1212,7 +1212,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "FXNX3Sr-mA_vbr7rF-3jryLVB9E",
+            "etag": "QXZiqJjCimcxjka3GOCeqnp7-hQ",
             "id": "UEw0TUVZdDBraUhaVk84c0xHcndCTmJ6N0F6UE5XWDlPTy5DNzNDRDE1NzhGODQzODI2",
             "snippet": {
                 "publishedAt": "2024-06-04T09:16:06Z",
@@ -1447,13 +1447,13 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "zmdNDe7bbleKcJylA66RX5nGPNU",
+            "etag": "0e3Iyq7ez8zL8q0GOoJ8w5kfLLY",
             "id": "UEw0TUVZdDBraUhaVk84c0xHcndCTmJ6N0F6UE5XWDlPTy42MzYyQ0E2MUE4ODAzQkU5",
             "snippet": {
                 "publishedAt": "2024-10-16T03:49:03Z",
                 "channelId": "UCNHE3OcC8G345-7rNgu-g9w",
                 "title": "Sabrina Carpenter - Can't Blame a Girl for Trying (Official Video)",
-                "description": "Sabrina\u2019s debut album, \u201cEyes Wide Open\u201d is available now!\niTunes: http://smarturl.it/sca1\nAmazon: http://smarturl.it/scama1\nStreaming: http://smarturl.it/scsa1 \n\nhttps://twitter.com/SabrinaAnnLynn \nhttp://instagram.com/sabrinacarpenter \nhttps://www.facebook.com/SabrinaCarpenter \nhttp://www.sabrinacarpenter.com\n\n#SabrinaCarpenter #CantBlameAGirlForTrying #Vevo #Pop #OfficialMusicVideo",
+                "description": "Sabrina\u2019s debut album, \u201cEyes Wide Open\u201d is available now!\niTunes: http://smarturl.it/sca1\nAmazon: http://smarturl.it/scama1\nStreaming: http://smarturl.it/scsa1 \n\nhttps://twitter.com/SabrinaAnnLynn \nhttp://instagram.com/sabrinacarpenter \nhttps://www.facebook.com/SabrinaCarpenter \nhttp://www.sabrinacarpenter.com",
                 "thumbnails": {
                     "default": {
                         "url": "https://i.ytimg.com/vi/HibDj27DHMI/default.jpg",
@@ -1682,7 +1682,54 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "aaVNj76GumNpMlhZBDH7VwKGmT0",
+            "etag": "GZv1At4n5V0KYd4hXxkxFTuKu2A",
+            "id": "UEw0TUVZdDBraUhaVk84c0xHcndCTmJ6N0F6UE5XWDlPTy5BNzVDNTJBQkJBOTRGRUMw",
+            "snippet": {
+                "publishedAt": "2025-08-12T04:23:46Z",
+                "channelId": "UCNHE3OcC8G345-7rNgu-g9w",
+                "title": "Kygo, Valerie Broussard - Think About You (Official Video)",
+                "description": "Stream or download \"Think About You\" here: http://smarturl.it/xThinkAboutYou\r\n#Kygo #ThinkAboutYou #ValerieBroussard #Vevo\r\n\r\nDirected by: Sarah Bahbah\r\nWritten by: Sarah Bahbah\r\n\r\nCinematographer:\u00a0Marz Miller\r\nExecutive Producer: Malcolm Duncan\r\nEditor - Aaron Bencid\r\n\r\nCo-Produced: Malcolm Duncan & Fabien Colas\r\nColor: Apache\r\nVFX:\u00a0Tim Hendrix\r\n \r\nListen at:\r\nhttp://smarturl.it/xThinkAboutYou\r\n\r\nFollow Kygo on: \r\nhttp://www.soundcloud.com/kygo\u00a0 \r\nhttps://www.facebook.com/kygoofficial/\u00a0 \r\nhttp://www.instagram.com/kygomusic\r\nhttps://twitter.com/kygomusic\r\n\r\nFollow Valerie Broussard on:\r\nYouTube: https://www.youtube.com/channel/UCa0geghnziLzUqeXSeYeREw\r\nSpotify: https://open.spotify.com/artist/6eVWXmKBW7Iltub01D9R1c?si=2LWMcpoRT7e7LLPxbNbW8w\r\nInstagram: https://www.instagram.com/valerie.broussard",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Fqfja0vj76s/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Fqfja0vj76s/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Fqfja0vj76s/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/Fqfja0vj76s/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/Fqfja0vj76s/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "JSON Bourne",
+                "playlistId": "PL4MEYt0kiHZVO8sLGrwBNbz7AzPNWX9OO",
+                "position": 36,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "Fqfja0vj76s"
+                },
+                "videoOwnerChannelTitle": "KygoOfficialVEVO",
+                "videoOwnerChannelId": "UCYpVqLSvfseUqb2URAkexlw"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "-nM0odVk26ClsTFapXpY4h0nVSc",
             "id": "UEw0TUVZdDBraUhaVk84c0xHcndCTmJ6N0F6UE5XWDlPTy5DQzY2RDZFRUQyRDlDQkMw",
             "snippet": {
                 "publishedAt": "2024-06-18T06:37:11Z",
@@ -1718,7 +1765,7 @@
                 },
                 "channelTitle": "JSON Bourne",
                 "playlistId": "PL4MEYt0kiHZVO8sLGrwBNbz7AzPNWX9OO",
-                "position": 36,
+                "position": 37,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "T_lC2O1oIew"
@@ -1729,7 +1776,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "BckaiUqZrq3ntu5XauV1vWW2RVk",
+            "etag": "IrMFIr4m3vx2eJFxi5dDhp5EjVU",
             "id": "UEw0TUVZdDBraUhaVk84c0xHcndCTmJ6N0F6UE5XWDlPTy4yMkQ1M0U2NzVEOTA2MTY5",
             "snippet": {
                 "publishedAt": "2025-02-13T12:55:15Z",
@@ -1765,7 +1812,7 @@
                 },
                 "channelTitle": "JSON Bourne",
                 "playlistId": "PL4MEYt0kiHZVO8sLGrwBNbz7AzPNWX9OO",
-                "position": 37,
+                "position": 38,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "EDK9KOfknTw"
@@ -1776,7 +1823,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "8G7mtPcgO65XMX_M1ILcIB042u0",
+            "etag": "DI9DqgDAUgDttXkRgYJHV35SgJk",
             "id": "UEw0TUVZdDBraUhaVk84c0xHcndCTmJ6N0F6UE5XWDlPTy43ODA2MDVCQzY5QzZDMjUw",
             "snippet": {
                 "publishedAt": "2023-12-22T09:54:20Z",
@@ -1812,7 +1859,7 @@
                 },
                 "channelTitle": "JSON Bourne",
                 "playlistId": "PL4MEYt0kiHZVO8sLGrwBNbz7AzPNWX9OO",
-                "position": 38,
+                "position": 39,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "cRLSKh5ridA"
@@ -1823,7 +1870,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "4k-4mZYLWOkUP2BxcV5f5gVcr4s",
+            "etag": "DHhaBX9FqdLSmZrlWTQZjP8eCos",
             "id": "UEw0TUVZdDBraUhaVk84c0xHcndCTmJ6N0F6UE5XWDlPTy44OEI3NUQ0QTlFM0FCOUU4",
             "snippet": {
                 "publishedAt": "2024-09-24T09:36:35Z",
@@ -1859,7 +1906,7 @@
                 },
                 "channelTitle": "JSON Bourne",
                 "playlistId": "PL4MEYt0kiHZVO8sLGrwBNbz7AzPNWX9OO",
-                "position": 39,
+                "position": 40,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "oJuGlqO85YI"
@@ -1870,7 +1917,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "FZLW2kwBkFeoHE3i4xKSitS0Tok",
+            "etag": "vfM-Ij3gMOqGvRYpdvllRMinwAQ",
             "id": "UEw0TUVZdDBraUhaVk84c0xHcndCTmJ6N0F6UE5XWDlPTy45MEI3NjgzMTVFQkZGODYx",
             "snippet": {
                 "publishedAt": "2024-02-07T04:17:55Z",
@@ -1906,7 +1953,7 @@
                 },
                 "channelTitle": "JSON Bourne",
                 "playlistId": "PL4MEYt0kiHZVO8sLGrwBNbz7AzPNWX9OO",
-                "position": 40,
+                "position": 41,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "s5dhDn3R0A0"
@@ -1917,7 +1964,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "8_YdURdoc0NFvQBYZPoOjXDMRsM",
+            "etag": "JTVBYewMvQe3UerVTiRXUwqVC9M",
             "id": "UEw0TUVZdDBraUhaVk84c0xHcndCTmJ6N0F6UE5XWDlPTy5GM0Q3M0MzMzY5NTJFNTdE",
             "snippet": {
                 "publishedAt": "2023-01-17T04:13:12Z",
@@ -1953,7 +2000,7 @@
                 },
                 "channelTitle": "JSON Bourne",
                 "playlistId": "PL4MEYt0kiHZVO8sLGrwBNbz7AzPNWX9OO",
-                "position": 41,
+                "position": 42,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "p856dtR4mms"
@@ -1964,7 +2011,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "SCiP28LzIvgMnOejZbiseRG6oF8",
+            "etag": "N-cYwaG5DYntHlgQbQm808D1PtI",
             "id": "UEw0TUVZdDBraUhaVk84c0xHcndCTmJ6N0F6UE5XWDlPTy5GOUFFM0FFNzI5RkU1NjAx",
             "snippet": {
                 "publishedAt": "2024-10-31T10:09:33Z",
@@ -2000,7 +2047,7 @@
                 },
                 "channelTitle": "JSON Bourne",
                 "playlistId": "PL4MEYt0kiHZVO8sLGrwBNbz7AzPNWX9OO",
-                "position": 42,
+                "position": 43,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "PZbkF-15ObM"
@@ -2011,7 +2058,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "qtnbUyld7LN6V_08zUycpal1U8Y",
+            "etag": "qhKpYmgRC5vRxH6EVsTZyQG4zVA",
             "id": "UEw0TUVZdDBraUhaVk84c0xHcndCTmJ6N0F6UE5XWDlPTy5DRUQwODMxQzUyRTlGRkY3",
             "snippet": {
                 "publishedAt": "2023-09-25T08:51:04Z",
@@ -2047,7 +2094,7 @@
                 },
                 "channelTitle": "JSON Bourne",
                 "playlistId": "PL4MEYt0kiHZVO8sLGrwBNbz7AzPNWX9OO",
-                "position": 43,
+                "position": 44,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "aVpJGGQHSqc"
@@ -2058,7 +2105,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "dk5Tmp6sHaoNI7JgWPdZkJkgeGw",
+            "etag": "Pm6zk47BIH_-5gsxLjnK3L-kt4A",
             "id": "UEw0TUVZdDBraUhaVk84c0xHcndCTmJ6N0F6UE5XWDlPTy42NEZDNTU0RTRENDUzRjMz",
             "snippet": {
                 "publishedAt": "2024-01-15T06:56:30Z",
@@ -2094,7 +2141,7 @@
                 },
                 "channelTitle": "JSON Bourne",
                 "playlistId": "PL4MEYt0kiHZVO8sLGrwBNbz7AzPNWX9OO",
-                "position": 44,
+                "position": 45,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "yHV04eSGzAA"
@@ -2105,7 +2152,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "X4QpDYCwANU9wpMYOO0eExb7awA",
+            "etag": "GyHkZcxFzUjiPJ-FKwcD_LK0SfU",
             "id": "UEw0TUVZdDBraUhaVk84c0xHcndCTmJ6N0F6UE5XWDlPTy40NjI5ODZCQUE5NkRBMDI0",
             "snippet": {
                 "publishedAt": "2024-09-05T09:35:27Z",
@@ -2141,60 +2188,13 @@
                 },
                 "channelTitle": "JSON Bourne",
                 "playlistId": "PL4MEYt0kiHZVO8sLGrwBNbz7AzPNWX9OO",
-                "position": 45,
+                "position": 46,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "eP4ga_fNm-E"
                 },
                 "videoOwnerChannelTitle": "SMTOWN",
                 "videoOwnerChannelId": "UCEf_Bc-KVd7onSeifS3py9g"
-            }
-        },
-        {
-            "kind": "youtube#playlistItem",
-            "etag": "6oJwwvd-UOa8pqTQ9L6c28wsdTc",
-            "id": "UEw0TUVZdDBraUhaVk84c0xHcndCTmJ6N0F6UE5XWDlPTy5EMzJDRTUwQjBEOUVFQzAw",
-            "snippet": {
-                "publishedAt": "2023-12-06T11:29:51Z",
-                "channelId": "UCNHE3OcC8G345-7rNgu-g9w",
-                "title": "The One That Got Away - Katy Perry (Cover by Tiffany Alvord & Chester See)",
-                "description": "The One That Got Away - (Cover by Tiffany Alvord & Chester See)\nWhile you're here, go here: https://bio.site/tiffanyalvord\n\nI absolutely LOVE this song. We changed it up & put our own take on this song, so it IS different. Me & Chester had a lot of fun making this for you guys. Also if your wondering... the tattoos are FAKE (: Come-on... I wouldn't really do that :p If you want cool matching tattoos we got them at Toys R Us. Thanks for watching! Love, Tiffany\n\nFollow Tiffany Alvord:\nFacebook: http://www.facebook.com/Tiffanyalvord\nTwitter: http://www.twitter.com/Tiffanyalvord\nInstagram: http://bit.ly/TiffanyInstagram\nSnapchat: https://www.snapchat.com/add/TiffanyAlvord\nWebsite: http://www.tiffanyalvord.com/\n\nFollow Chester See:\nhttp://www.youtube.com/user/ChesterSee\n\nListen to Tiffany Alvord On:\niTunes: http://apple.co/1XWXf0G\nGoogle Play: http://bit.ly/1XWXfOj\nSpotify: http://bit.ly/1Ps77OB\nAmazon: http://amzn.to/1O7SXBV\n\nMy album \"My Dream\" is on iTunes: https://bit.ly/tiffanymydream\n\nWatch More Tiffany Alvord:\nOriginals: http://bit.ly/1t73cNv\nCovers: http://bit.ly/1U09hnr\nPopular Videos: http://bit.ly/1UBjKpr\nLatest Uploads: http://bit.ly/1UdCZsb\nLive Acoustic Sets: http://bit.ly/1ZRLOqf\nOriginal Music Videos: http://bit.ly/1rquE71\nLyric Videos: http://bit.ly/1VChO2k\nVlogs: http://bit.ly/1Ps8SeL\n\nCover Credits:\nRecorded & Produced by: Andy Lange | http://www.youtube.com/andylangemusic\nShot & Edited by: Nick Riedell | https://twitter.com/NickRiedell",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/K0-ucWKiTps/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/K0-ucWKiTps/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/K0-ucWKiTps/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    },
-                    "standard": {
-                        "url": "https://i.ytimg.com/vi/K0-ucWKiTps/sddefault.jpg",
-                        "width": 640,
-                        "height": 480
-                    },
-                    "maxres": {
-                        "url": "https://i.ytimg.com/vi/K0-ucWKiTps/maxresdefault.jpg",
-                        "width": 1280,
-                        "height": 720
-                    }
-                },
-                "channelTitle": "JSON Bourne",
-                "playlistId": "PL4MEYt0kiHZVO8sLGrwBNbz7AzPNWX9OO",
-                "position": 46,
-                "resourceId": {
-                    "kind": "youtube#video",
-                    "videoId": "K0-ucWKiTps"
-                },
-                "videoOwnerChannelTitle": "Tiffany Alvord",
-                "videoOwnerChannelId": "UCR-ENZ64WL1vB8KU4YzdmTQ"
             }
         },
         {
@@ -2246,7 +2246,54 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "0Ld2GXyrNEI4lctViz4zYRDpPZI",
+            "etag": "IXE2LBGfPAZVZRial5udhRsN540",
+            "id": "UEw0TUVZdDBraUhaVk84c0xHcndCTmJ6N0F6UE5XWDlPTy5EMzJDRTUwQjBEOUVFQzAw",
+            "snippet": {
+                "publishedAt": "2023-12-06T11:29:51Z",
+                "channelId": "UCNHE3OcC8G345-7rNgu-g9w",
+                "title": "The One That Got Away - Katy Perry (Cover by Tiffany Alvord & Chester See)",
+                "description": "The One That Got Away - (Cover by Tiffany Alvord & Chester See)\nWhile you're here, go here: https://bio.site/tiffanyalvord\n\nI absolutely LOVE this song. We changed it up & put our own take on this song, so it IS different. Me & Chester had a lot of fun making this for you guys. Also if your wondering... the tattoos are FAKE (: Come-on... I wouldn't really do that :p If you want cool matching tattoos we got them at Toys R Us. Thanks for watching! Love, Tiffany\n\nFollow Tiffany Alvord:\nFacebook: http://www.facebook.com/Tiffanyalvord\nTwitter: http://www.twitter.com/Tiffanyalvord\nInstagram: http://bit.ly/TiffanyInstagram\nSnapchat: https://www.snapchat.com/add/TiffanyAlvord\nWebsite: http://www.tiffanyalvord.com/\n\nFollow Chester See:\nhttp://www.youtube.com/user/ChesterSee\n\nListen to Tiffany Alvord On:\niTunes: http://apple.co/1XWXf0G\nGoogle Play: http://bit.ly/1XWXfOj\nSpotify: http://bit.ly/1Ps77OB\nAmazon: http://amzn.to/1O7SXBV\n\nMy album \"My Dream\" is on iTunes: https://bit.ly/tiffanymydream\n\nWatch More Tiffany Alvord:\nOriginals: http://bit.ly/1t73cNv\nCovers: http://bit.ly/1U09hnr\nPopular Videos: http://bit.ly/1UBjKpr\nLatest Uploads: http://bit.ly/1UdCZsb\nLive Acoustic Sets: http://bit.ly/1ZRLOqf\nOriginal Music Videos: http://bit.ly/1rquE71\nLyric Videos: http://bit.ly/1VChO2k\nVlogs: http://bit.ly/1Ps8SeL\n\nCover Credits:\nRecorded & Produced by: Andy Lange | http://www.youtube.com/andylangemusic\nShot & Edited by: Nick Riedell | https://twitter.com/NickRiedell",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/K0-ucWKiTps/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/K0-ucWKiTps/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/K0-ucWKiTps/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/K0-ucWKiTps/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/K0-ucWKiTps/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "JSON Bourne",
+                "playlistId": "PL4MEYt0kiHZVO8sLGrwBNbz7AzPNWX9OO",
+                "position": 48,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "K0-ucWKiTps"
+                },
+                "videoOwnerChannelTitle": "Tiffany Alvord",
+                "videoOwnerChannelId": "UCR-ENZ64WL1vB8KU4YzdmTQ"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "VHj4tL6i5Kupzh06SV14vvtsun4",
             "id": "UEw0TUVZdDBraUhaVk84c0xHcndCTmJ6N0F6UE5XWDlPTy4yQjdDRUQyQ0M0MEZCQkEx",
             "snippet": {
                 "publishedAt": "2024-09-22T12:55:11Z",
@@ -2282,7 +2329,7 @@
                 },
                 "channelTitle": "JSON Bourne",
                 "playlistId": "PL4MEYt0kiHZVO8sLGrwBNbz7AzPNWX9OO",
-                "position": 48,
+                "position": 49,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "9lNZ_Rnr7Jc"
@@ -2290,57 +2337,10 @@
                 "videoOwnerChannelTitle": "luigiman09",
                 "videoOwnerChannelId": "UCPZeEvYtEm9LXWQbu049kDw"
             }
-        },
-        {
-            "kind": "youtube#playlistItem",
-            "etag": "244LKiyDnYOXqezAzyPufax41Tk",
-            "id": "UEw0TUVZdDBraUhaVk84c0xHcndCTmJ6N0F6UE5XWDlPTy45NDk1REZENzhEMzU5MDQz",
-            "snippet": {
-                "publishedAt": "2022-11-09T05:46:21Z",
-                "channelId": "UCNHE3OcC8G345-7rNgu-g9w",
-                "title": "BoyWithUke ft. Oliver Tree - Sick of U (Official Music Video)",
-                "description": "Spotify: https://BoyWithUke.lnk.to/Spotify\nApple Music: https://BoyWithUke.lnk.to/AppleMusic\nInstagram: https://BoyWithUke.lnk.to/Instagram\nTikTok: https://BoyWithUke.lnk.to/TikTok\nAll other links and socials: https://linktr.ee/Boywithuke\n \nThe official YouTube channel of BoyWithUke.\nSubscribe :D\n\n\n\nMusic video by BoyWithUke performing Sick of U. \u00a9 2022 Boywithuke, LLC, under exclusive license to Mercury Records/Republic Records, a division of UMG Recordings, Inc.",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/NNGd3uANaes/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/NNGd3uANaes/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/NNGd3uANaes/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    },
-                    "standard": {
-                        "url": "https://i.ytimg.com/vi/NNGd3uANaes/sddefault.jpg",
-                        "width": 640,
-                        "height": 480
-                    },
-                    "maxres": {
-                        "url": "https://i.ytimg.com/vi/NNGd3uANaes/maxresdefault.jpg",
-                        "width": 1280,
-                        "height": 720
-                    }
-                },
-                "channelTitle": "JSON Bourne",
-                "playlistId": "PL4MEYt0kiHZVO8sLGrwBNbz7AzPNWX9OO",
-                "position": 49,
-                "resourceId": {
-                    "kind": "youtube#video",
-                    "videoId": "NNGd3uANaes"
-                },
-                "videoOwnerChannelTitle": "BoyWithUkeVEVO",
-                "videoOwnerChannelId": "UCcUcckay9ZVzIZ92kEqz5Yw"
-            }
         }
     ],
     "pageInfo": {
-        "totalResults": 364,
+        "totalResults": 366,
         "resultsPerPage": 50
     }
 }
