@@ -1,6 +1,6 @@
 {
     "kind": "youtube#playlistItemListResponse",
-    "etag": "Lgn2ZZIMFfc7WyZ8uEKllSnyRGg",
+    "etag": "oXRAJVsqqgSNX79R3h4Q1PYu55I",
     "nextPageToken": "EAAaHlBUOkNESWlFRGswT1RWRVJrUTNPRVF6TlRrd05ETQ",
     "items": [
         {
@@ -1071,7 +1071,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "zccg9C6xcNdnxOS-rmhTV9_gW2s",
+            "etag": "kO-y1TF5aAFd-vd3dia_n-XgM_c",
             "id": "UEw0TUVZdDBraUhaVk84c0xHcndCTmJ6N0F6UE5XWDlPTy4zMzg4MjBBNzZCQzY5MDk4",
             "snippet": {
                 "publishedAt": "2024-07-26T03:23:40Z",
@@ -1964,7 +1964,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "JTVBYewMvQe3UerVTiRXUwqVC9M",
+            "etag": "5fIjY6e1OhW58uNDcUUhs4-AFw0",
             "id": "UEw0TUVZdDBraUhaVk84c0xHcndCTmJ6N0F6UE5XWDlPTy5GM0Q3M0MzMzY5NTJFNTdE",
             "snippet": {
                 "publishedAt": "2023-01-17T04:13:12Z",
@@ -2011,7 +2011,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "N-cYwaG5DYntHlgQbQm808D1PtI",
+            "etag": "R42VqZi3jaz4madlztiw4TH1i5k",
             "id": "UEw0TUVZdDBraUhaVk84c0xHcndCTmJ6N0F6UE5XWDlPTy5GOUFFM0FFNzI5RkU1NjAx",
             "snippet": {
                 "publishedAt": "2024-10-31T10:09:33Z",
@@ -2105,7 +2105,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "Pm6zk47BIH_-5gsxLjnK3L-kt4A",
+            "etag": "7XnsjMNacKNaAxav1LmLZFU6VMk",
             "id": "UEw0TUVZdDBraUhaVk84c0xHcndCTmJ6N0F6UE5XWDlPTy42NEZDNTU0RTRENDUzRjMz",
             "snippet": {
                 "publishedAt": "2024-01-15T06:56:30Z",
@@ -2293,7 +2293,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "VHj4tL6i5Kupzh06SV14vvtsun4",
+            "etag": "6pxhpbE8G669xIDpZ6ZTRxtlK4I",
             "id": "UEw0TUVZdDBraUhaVk84c0xHcndCTmJ6N0F6UE5XWDlPTy4yQjdDRUQyQ0M0MEZCQkEx",
             "snippet": {
                 "publishedAt": "2024-09-22T12:55:11Z",
@@ -2340,7 +2340,7 @@
         }
     ],
     "pageInfo": {
-        "totalResults": 366,
+        "totalResults": 369,
         "resultsPerPage": 50
     }
 }
