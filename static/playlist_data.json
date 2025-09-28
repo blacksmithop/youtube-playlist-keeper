@@ -1,6 +1,6 @@
 {
     "kind": "youtube#playlistItemListResponse",
-    "etag": "ToLLAM4GBCMn9P7vQMQk6veG798",
+    "etag": "Ptd9b4Z_oTTKEP7tnhd4MyqJQug",
     "nextPageToken": "EAAaHlBUOkNESWlFRGswT1RWRVJrUTNPRVF6TlRrd05ETQ",
     "items": [
         {
@@ -188,7 +188,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "l7z4Ai4LUqvlHi_sVjh_KDaoTTY",
+            "etag": "wm1DMWZPWtlKs3joiGa7TARsNDA",
             "id": "UEw0TUVZdDBraUhaVk84c0xHcndCTmJ6N0F6UE5XWDlPTy4xMkVGQjNCMUM1N0RFNEUx",
             "snippet": {
                 "publishedAt": "2022-10-13T09:06:15Z",
@@ -460,7 +460,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "O_9pEjYB_fN9iNEcuKhR78tyO9o",
+            "etag": "4oGWtImxX9CFyg1ejDO3eEi98Jc",
             "id": "UEw0TUVZdDBraUhaVk84c0xHcndCTmJ6N0F6UE5XWDlPTy5BN0Q0NTk3QTY3NEFDOTE1",
             "snippet": {
                 "publishedAt": "2025-04-29T06:45:56Z",
@@ -695,7 +695,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "pyQIQxWuSTn1mh9XNZ-E4T1yg0I",
+            "etag": "JQMmYL4pLb2sHwU69xgBc9TkRog",
             "id": "UEw0TUVZdDBraUhaVk84c0xHcndCTmJ6N0F6UE5XWDlPTy5EMUJFNzRCNDRFQjE5RjM4",
             "snippet": {
                 "publishedAt": "2023-12-19T05:42:20Z",
@@ -930,7 +930,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "JuS843qYbl1QUJJ0DEnE5vggjKk",
+            "etag": "S3lVNcRN29mEZgc6CcspR_BbPxk",
             "id": "UEw0TUVZdDBraUhaVk84c0xHcndCTmJ6N0F6UE5XWDlPTy4yODlGNEE0NkRGMEEzMEQy",
             "snippet": {
                 "publishedAt": "2022-10-05T09:39:23Z",
@@ -1635,7 +1635,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "N1NkcNkZfPdxISnfCVdu3gTcoYk",
+            "etag": "PPWM4z3o3ap_lfZ8Nw8xjvkGDi8",
             "id": "UEw0TUVZdDBraUhaVk84c0xHcndCTmJ6N0F6UE5XWDlPTy42RDgxQ0M2OUIwREZCNjZF",
             "snippet": {
                 "publishedAt": "2024-03-01T03:21:04Z",
@@ -1682,54 +1682,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "GZv1At4n5V0KYd4hXxkxFTuKu2A",
-            "id": "UEw0TUVZdDBraUhaVk84c0xHcndCTmJ6N0F6UE5XWDlPTy5BNzVDNTJBQkJBOTRGRUMw",
-            "snippet": {
-                "publishedAt": "2025-08-12T04:23:46Z",
-                "channelId": "UCNHE3OcC8G345-7rNgu-g9w",
-                "title": "Kygo, Valerie Broussard - Think About You (Official Video)",
-                "description": "Stream or download \"Think About You\" here: http://smarturl.it/xThinkAboutYou\r\n#Kygo #ThinkAboutYou #ValerieBroussard #Vevo\r\n\r\nDirected by: Sarah Bahbah\r\nWritten by: Sarah Bahbah\r\n\r\nCinematographer:\u00a0Marz Miller\r\nExecutive Producer: Malcolm Duncan\r\nEditor - Aaron Bencid\r\n\r\nCo-Produced: Malcolm Duncan & Fabien Colas\r\nColor: Apache\r\nVFX:\u00a0Tim Hendrix\r\n \r\nListen at:\r\nhttp://smarturl.it/xThinkAboutYou\r\n\r\nFollow Kygo on: \r\nhttp://www.soundcloud.com/kygo\u00a0 \r\nhttps://www.facebook.com/kygoofficial/\u00a0 \r\nhttp://www.instagram.com/kygomusic\r\nhttps://twitter.com/kygomusic\r\n\r\nFollow Valerie Broussard on:\r\nYouTube: https://www.youtube.com/channel/UCa0geghnziLzUqeXSeYeREw\r\nSpotify: https://open.spotify.com/artist/6eVWXmKBW7Iltub01D9R1c?si=2LWMcpoRT7e7LLPxbNbW8w\r\nInstagram: https://www.instagram.com/valerie.broussard",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/Fqfja0vj76s/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/Fqfja0vj76s/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/Fqfja0vj76s/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    },
-                    "standard": {
-                        "url": "https://i.ytimg.com/vi/Fqfja0vj76s/sddefault.jpg",
-                        "width": 640,
-                        "height": 480
-                    },
-                    "maxres": {
-                        "url": "https://i.ytimg.com/vi/Fqfja0vj76s/maxresdefault.jpg",
-                        "width": 1280,
-                        "height": 720
-                    }
-                },
-                "channelTitle": "JSON Bourne",
-                "playlistId": "PL4MEYt0kiHZVO8sLGrwBNbz7AzPNWX9OO",
-                "position": 36,
-                "resourceId": {
-                    "kind": "youtube#video",
-                    "videoId": "Fqfja0vj76s"
-                },
-                "videoOwnerChannelTitle": "KygoOfficialVEVO",
-                "videoOwnerChannelId": "UCYpVqLSvfseUqb2URAkexlw"
-            }
-        },
-        {
-            "kind": "youtube#playlistItem",
-            "etag": "CpTYL_VJK0yaHqwECW1UGC4VuAs",
+            "etag": "fiUnwHfoxXfW5ZUkc6A_UlRcVK4",
             "id": "UEw0TUVZdDBraUhaVk84c0xHcndCTmJ6N0F6UE5XWDlPTy5DQzY2RDZFRUQyRDlDQkMw",
             "snippet": {
                 "publishedAt": "2024-06-18T06:37:11Z",
@@ -1765,13 +1718,60 @@
                 },
                 "channelTitle": "JSON Bourne",
                 "playlistId": "PL4MEYt0kiHZVO8sLGrwBNbz7AzPNWX9OO",
-                "position": 37,
+                "position": 36,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "T_lC2O1oIew"
                 },
                 "videoOwnerChannelTitle": "\u7af9\u5185\u307e\u308a\u3084 - Mariya Takeuchi Official YouTube Channel",
                 "videoOwnerChannelId": "UCFCHKsT1ZY2aLUAbWW1lJGA"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "uve6mNRW8n_EGiUb0ZgerD0_rlY",
+            "id": "UEw0TUVZdDBraUhaVk84c0xHcndCTmJ6N0F6UE5XWDlPTy5BNzVDNTJBQkJBOTRGRUMw",
+            "snippet": {
+                "publishedAt": "2025-08-12T04:23:46Z",
+                "channelId": "UCNHE3OcC8G345-7rNgu-g9w",
+                "title": "Kygo, Valerie Broussard - Think About You (Official Video)",
+                "description": "Stream or download \"Think About You\" here: http://smarturl.it/xThinkAboutYou\r\n#Kygo #ThinkAboutYou #ValerieBroussard #Vevo\r\n\r\nDirected by: Sarah Bahbah\r\nWritten by: Sarah Bahbah\r\n\r\nCinematographer:\u00a0Marz Miller\r\nExecutive Producer: Malcolm Duncan\r\nEditor - Aaron Bencid\r\n\r\nCo-Produced: Malcolm Duncan & Fabien Colas\r\nColor: Apache\r\nVFX:\u00a0Tim Hendrix\r\n \r\nListen at:\r\nhttp://smarturl.it/xThinkAboutYou\r\n\r\nFollow Kygo on: \r\nhttp://www.soundcloud.com/kygo\u00a0 \r\nhttps://www.facebook.com/kygoofficial/\u00a0 \r\nhttp://www.instagram.com/kygomusic\r\nhttps://twitter.com/kygomusic\r\n\r\nFollow Valerie Broussard on:\r\nYouTube: https://www.youtube.com/channel/UCa0geghnziLzUqeXSeYeREw\r\nSpotify: https://open.spotify.com/artist/6eVWXmKBW7Iltub01D9R1c?si=2LWMcpoRT7e7LLPxbNbW8w\r\nInstagram: https://www.instagram.com/valerie.broussard",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Fqfja0vj76s/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Fqfja0vj76s/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Fqfja0vj76s/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/Fqfja0vj76s/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/Fqfja0vj76s/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "JSON Bourne",
+                "playlistId": "PL4MEYt0kiHZVO8sLGrwBNbz7AzPNWX9OO",
+                "position": 37,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "Fqfja0vj76s"
+                },
+                "videoOwnerChannelTitle": "KygoOfficialVEVO",
+                "videoOwnerChannelId": "UCYpVqLSvfseUqb2URAkexlw"
             }
         },
         {
@@ -2152,54 +2152,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "GyHkZcxFzUjiPJ-FKwcD_LK0SfU",
-            "id": "UEw0TUVZdDBraUhaVk84c0xHcndCTmJ6N0F6UE5XWDlPTy40NjI5ODZCQUE5NkRBMDI0",
-            "snippet": {
-                "publishedAt": "2024-09-05T09:35:27Z",
-                "channelId": "UCNHE3OcC8G345-7rNgu-g9w",
-                "title": "TAEYEON \ud0dc\uc5f0 '\ubd88\ud2f0 (Spark)' MV",
-                "description": "TAEYEON\u2019s 2nd Full Album \"Purpose\u201d is out!\nListen and download on your favorite platform: https://smarturl.it/TY_Purpose\n\n[Tracklist]\n1. Here I Am\n2. \ubd88\ud2f0 (Spark)\n3. Find Me\n4. Love You Like Crazy\n5. \ud558\ud558\ud558 (LOL)\n6. Better Babe\n7. Wine\n8. Do You Love Me?\n9. City Love\n10. Gravity\n11. Blue\n12. \uc0ac\uacc4 (Four Seasons)\n\nTAEYEON Official\nhttp://www.youtube.com/GIRLSGENERATION\nhttp://www.facebook.com/girlsgeneration\nhttp://twitter.com/girlsgeneration\nhttps://www.instagram.com/girlsgeneration\n\n#TAEYEON #\ubd88\ud2f0 #Spark #\ud0dc\uc5f0\nTAEYEON \ud0dc\uc5f0 '\ubd88\ud2f0 (Spark)' MV \u2117\u00a9 SM ENTERTAINMENT",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/eP4ga_fNm-E/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/eP4ga_fNm-E/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/eP4ga_fNm-E/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    },
-                    "standard": {
-                        "url": "https://i.ytimg.com/vi/eP4ga_fNm-E/sddefault.jpg",
-                        "width": 640,
-                        "height": 480
-                    },
-                    "maxres": {
-                        "url": "https://i.ytimg.com/vi/eP4ga_fNm-E/maxresdefault.jpg",
-                        "width": 1280,
-                        "height": 720
-                    }
-                },
-                "channelTitle": "JSON Bourne",
-                "playlistId": "PL4MEYt0kiHZVO8sLGrwBNbz7AzPNWX9OO",
-                "position": 46,
-                "resourceId": {
-                    "kind": "youtube#video",
-                    "videoId": "eP4ga_fNm-E"
-                },
-                "videoOwnerChannelTitle": "SMTOWN",
-                "videoOwnerChannelId": "UCEf_Bc-KVd7onSeifS3py9g"
-            }
-        },
-        {
-            "kind": "youtube#playlistItem",
-            "etag": "eZfem2HN0Qt97CcZRh99L4Jcsns",
+            "etag": "o4eZ_uhiIWP-4sLn1Bb6i7mitBg",
             "id": "UEw0TUVZdDBraUhaVk84c0xHcndCTmJ6N0F6UE5XWDlPTy4yM0IwNzUxRTc3MTg4Njkw",
             "snippet": {
                 "publishedAt": "2025-02-05T04:46:53Z",
@@ -2235,13 +2188,60 @@
                 },
                 "channelTitle": "JSON Bourne",
                 "playlistId": "PL4MEYt0kiHZVO8sLGrwBNbz7AzPNWX9OO",
-                "position": 47,
+                "position": 46,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "uwUt1fVLb3E"
                 },
                 "videoOwnerChannelTitle": "NPR Music",
                 "videoOwnerChannelId": "UC4eYXhJI4-7wSWc8UNRwD4A"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "AdPxG5LRPhVEnGsjQPjKTu2MF1o",
+            "id": "UEw0TUVZdDBraUhaVk84c0xHcndCTmJ6N0F6UE5XWDlPTy40NjI5ODZCQUE5NkRBMDI0",
+            "snippet": {
+                "publishedAt": "2024-09-05T09:35:27Z",
+                "channelId": "UCNHE3OcC8G345-7rNgu-g9w",
+                "title": "TAEYEON \ud0dc\uc5f0 '\ubd88\ud2f0 (Spark)' MV",
+                "description": "TAEYEON\u2019s 2nd Full Album \"Purpose\u201d is out!\nListen and download on your favorite platform: https://smarturl.it/TY_Purpose\n\n[Tracklist]\n1. Here I Am\n2. \ubd88\ud2f0 (Spark)\n3. Find Me\n4. Love You Like Crazy\n5. \ud558\ud558\ud558 (LOL)\n6. Better Babe\n7. Wine\n8. Do You Love Me?\n9. City Love\n10. Gravity\n11. Blue\n12. \uc0ac\uacc4 (Four Seasons)\n\nTAEYEON Official\nhttp://www.youtube.com/GIRLSGENERATION\nhttp://www.facebook.com/girlsgeneration\nhttp://twitter.com/girlsgeneration\nhttps://www.instagram.com/girlsgeneration\n\n#TAEYEON #\ubd88\ud2f0 #Spark #\ud0dc\uc5f0\nTAEYEON \ud0dc\uc5f0 '\ubd88\ud2f0 (Spark)' MV \u2117\u00a9 SM ENTERTAINMENT",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/eP4ga_fNm-E/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/eP4ga_fNm-E/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/eP4ga_fNm-E/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/eP4ga_fNm-E/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/eP4ga_fNm-E/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "JSON Bourne",
+                "playlistId": "PL4MEYt0kiHZVO8sLGrwBNbz7AzPNWX9OO",
+                "position": 47,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "eP4ga_fNm-E"
+                },
+                "videoOwnerChannelTitle": "SMTOWN",
+                "videoOwnerChannelId": "UCEf_Bc-KVd7onSeifS3py9g"
             }
         },
         {
@@ -2340,7 +2340,7 @@
         }
     ],
     "pageInfo": {
-        "totalResults": 374,
+        "totalResults": 375,
         "resultsPerPage": 50
     }
 }
