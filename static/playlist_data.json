@@ -1,6 +1,6 @@
 {
     "kind": "youtube#playlistItemListResponse",
-    "etag": "Ptd9b4Z_oTTKEP7tnhd4MyqJQug",
+    "etag": "Q-syavC7hdRCSzixJbzHW_6eZKo",
     "nextPageToken": "EAAaHlBUOkNESWlFRGswT1RWRVJrUTNPRVF6TlRrd05ETQ",
     "items": [
         {
@@ -141,7 +141,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "Op4YRvDhFxWTYAKWvyYol4Axtxs",
+            "etag": "SWnWUU_rSw87WbKvA8CX08KOuUY",
             "id": "UEw0TUVZdDBraUhaVk84c0xHcndCTmJ6N0F6UE5XWDlPTy45NDIzMEVBNjk5NTFGRDZC",
             "snippet": {
                 "publishedAt": "2024-05-23T09:54:13Z",
@@ -282,7 +282,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "gwyS-_UztU-unhBgwyjpDnJAouk",
+            "etag": "lgLUWaR2hSxYABkw1i4hW045gSU",
             "id": "UEw0TUVZdDBraUhaVk84c0xHcndCTmJ6N0F6UE5XWDlPTy41NEI5MkYxNzc0MDczQUUw",
             "snippet": {
                 "publishedAt": "2024-07-05T07:25:42Z",
@@ -930,7 +930,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "S3lVNcRN29mEZgc6CcspR_BbPxk",
+            "etag": "_Hkqm82w3wK2cMqLhwqlo4SO7AI",
             "id": "UEw0TUVZdDBraUhaVk84c0xHcndCTmJ6N0F6UE5XWDlPTy4yODlGNEE0NkRGMEEzMEQy",
             "snippet": {
                 "publishedAt": "2022-10-05T09:39:23Z",
@@ -1823,54 +1823,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "DI9DqgDAUgDttXkRgYJHV35SgJk",
-            "id": "UEw0TUVZdDBraUhaVk84c0xHcndCTmJ6N0F6UE5XWDlPTy43ODA2MDVCQzY5QzZDMjUw",
-            "snippet": {
-                "publishedAt": "2023-12-22T09:54:20Z",
-                "channelId": "UCNHE3OcC8G345-7rNgu-g9w",
-                "title": "girass\u00f3is de van gogh - baco exu do blues || cover",
-                "description": "oi genteee\nfaz 35 anos que eu n\u00e3o posto (como sempre)\nmas espero que gostem :D\n\n\nredes sociais:\nig: froesmari\nfacebook: mari froes\nemail: contato@marianafroes.com",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/cRLSKh5ridA/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/cRLSKh5ridA/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/cRLSKh5ridA/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    },
-                    "standard": {
-                        "url": "https://i.ytimg.com/vi/cRLSKh5ridA/sddefault.jpg",
-                        "width": 640,
-                        "height": 480
-                    },
-                    "maxres": {
-                        "url": "https://i.ytimg.com/vi/cRLSKh5ridA/maxresdefault.jpg",
-                        "width": 1280,
-                        "height": 720
-                    }
-                },
-                "channelTitle": "JSON Bourne",
-                "playlistId": "PL4MEYt0kiHZVO8sLGrwBNbz7AzPNWX9OO",
-                "position": 39,
-                "resourceId": {
-                    "kind": "youtube#video",
-                    "videoId": "cRLSKh5ridA"
-                },
-                "videoOwnerChannelTitle": "Mari Froes",
-                "videoOwnerChannelId": "UCAvuRrHQnT-4EVj-oqGUBOA"
-            }
-        },
-        {
-            "kind": "youtube#playlistItem",
-            "etag": "99LSysQEMnPykVC9_6rfPI5NXhw",
+            "etag": "DAXrM4EO04mirMgIIffgLvl10ck",
             "id": "UEw0TUVZdDBraUhaVk84c0xHcndCTmJ6N0F6UE5XWDlPTy44OEI3NUQ0QTlFM0FCOUU4",
             "snippet": {
                 "publishedAt": "2024-09-24T09:36:35Z",
@@ -1906,13 +1859,60 @@
                 },
                 "channelTitle": "JSON Bourne",
                 "playlistId": "PL4MEYt0kiHZVO8sLGrwBNbz7AzPNWX9OO",
-                "position": 40,
+                "position": 39,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "oJuGlqO85YI"
                 },
                 "videoOwnerChannelTitle": "TheFatRat",
                 "videoOwnerChannelId": "UCa_UMppcMsHIzb5LDx1u9zQ"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "hzD78zQJDsfn5u2TIG96ReleBdw",
+            "id": "UEw0TUVZdDBraUhaVk84c0xHcndCTmJ6N0F6UE5XWDlPTy43ODA2MDVCQzY5QzZDMjUw",
+            "snippet": {
+                "publishedAt": "2023-12-22T09:54:20Z",
+                "channelId": "UCNHE3OcC8G345-7rNgu-g9w",
+                "title": "girass\u00f3is de van gogh - baco exu do blues || cover",
+                "description": "oi genteee\nfaz 35 anos que eu n\u00e3o posto (como sempre)\nmas espero que gostem :D\n\n\nredes sociais:\nig: froesmari\nfacebook: mari froes\nemail: contato@marianafroes.com",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/cRLSKh5ridA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/cRLSKh5ridA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/cRLSKh5ridA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/cRLSKh5ridA/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/cRLSKh5ridA/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "JSON Bourne",
+                "playlistId": "PL4MEYt0kiHZVO8sLGrwBNbz7AzPNWX9OO",
+                "position": 40,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "cRLSKh5ridA"
+                },
+                "videoOwnerChannelTitle": "Mari Froes",
+                "videoOwnerChannelId": "UCAvuRrHQnT-4EVj-oqGUBOA"
             }
         },
         {
@@ -2340,7 +2340,7 @@
         }
     ],
     "pageInfo": {
-        "totalResults": 375,
+        "totalResults": 376,
         "resultsPerPage": 50
     }
 }
