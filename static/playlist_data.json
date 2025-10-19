@@ -1,11 +1,11 @@
 {
     "kind": "youtube#playlistItemListResponse",
-    "etag": "NPACBY4AkoDApUgdPXuXjxhFmXU",
-    "nextPageToken": "EAAaHlBUOkNESWlFRGswT1RWRVJrUTNPRVF6TlRrd05ETQ",
+    "etag": "AvaxH009zmmzTZy8TyWXp6kvrKo",
+    "nextPageToken": "EAAaHlBUOkNESWlFREpDTjBORlJESkRRelF3UmtKQ1FURQ",
     "items": [
         {
             "kind": "youtube#playlistItem",
-            "etag": "7XmqhP6ae4Cfj1u4tRF35PCd2aY",
+            "etag": "6MuB8pA75zoagKJaKcYXCur2x38",
             "id": "UEw0TUVZdDBraUhaVk84c0xHcndCTmJ6N0F6UE5XWDlPTy5CMUM0NzY5NzdEQzlGRjAx",
             "snippet": {
                 "publishedAt": "2023-12-07T09:34:19Z",
@@ -94,13 +94,13 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "wBsJOWyepxj1rts7CEAjhNFd7qc",
+            "etag": "UwkYd8oafXtdTIAEnY_5gQNE6j4",
             "id": "UEw0TUVZdDBraUhaVk84c0xHcndCTmJ6N0F6UE5XWDlPTy5ENjg2QjQ3OTVDOUE2QzYw",
             "snippet": {
                 "publishedAt": "2024-07-04T11:56:37Z",
                 "channelId": "UCNHE3OcC8G345-7rNgu-g9w",
                 "title": "Maroon 5 - Memories (Official Video)",
-                "description": "\u201cMemories\u201d is out now:\nhttps://smarturl.it/MemoriesMaroon5\n\nFor more, visit:\nhttps://www.facebook.com/maroon5\nhttps://twitter.com/maroon5\nhttps://www.instagram.com/maroon5\n\nSign up for updates: http://smarturl.it/Maroon5.News\n\n#Maroon5 #Memories #M5\n\nMusic video by Maroon 5 performing Memories. \u00a9 2019 Interscope Records (222 Records)\n\nhttp://vevo.ly/wdiQiA",
+                "description": "Music video by Maroon 5 performing Memories.\u00a9 2019 Interscope Records (222 Records)",
                 "thumbnails": {
                     "default": {
                         "url": "https://i.ytimg.com/vi/SlPhMPnQ58k/default.jpg",
@@ -235,54 +235,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "kowBtf7Kn6We6pGY4cPQJrm5Txw",
-            "id": "UEw0TUVZdDBraUhaVk84c0xHcndCTmJ6N0F6UE5XWDlPTy5DODY2Qzc5Mzc1QkZEQ0NF",
-            "snippet": {
-                "publishedAt": "2024-03-01T04:45:16Z",
-                "channelId": "UCNHE3OcC8G345-7rNgu-g9w",
-                "title": "Jeremy Zucker - comethru (Official Video)",
-                "description": "comethru (Official Video)\nSong Available on summer,\n\nListen/Download Here: https://republic.lnk.to/summerYD\n\nDirected & Produced by Ben Schmidt\n\nConnect with Jeremy\nhttps://www.facebook.com/jeremyzuckermusic\nhttps://www.instagram.com/jeremyzucker\nhttps://twitter.com/jeremyzucker\nhttp://www.jeremyzuckermusic.com\nWeverse: https://weverseapp.page.link/X1NC\n\nMusic video by Jeremy Zucker performing comethru. \u00a9 2018 Republic Records, a division of UMG Recordings, Inc.\n\nhttp://vevo.ly/yudOMp",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/jO2viLEW-1A/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/jO2viLEW-1A/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/jO2viLEW-1A/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    },
-                    "standard": {
-                        "url": "https://i.ytimg.com/vi/jO2viLEW-1A/sddefault.jpg",
-                        "width": 640,
-                        "height": 480
-                    },
-                    "maxres": {
-                        "url": "https://i.ytimg.com/vi/jO2viLEW-1A/maxresdefault.jpg",
-                        "width": 1280,
-                        "height": 720
-                    }
-                },
-                "channelTitle": "JSON Bourne",
-                "playlistId": "PL4MEYt0kiHZVO8sLGrwBNbz7AzPNWX9OO",
-                "position": 5,
-                "resourceId": {
-                    "kind": "youtube#video",
-                    "videoId": "jO2viLEW-1A"
-                },
-                "videoOwnerChannelTitle": "JeremyZuckerVEVO",
-                "videoOwnerChannelId": "UCDwX4cVW2WKKxM6P2BC4Rkw"
-            }
-        },
-        {
-            "kind": "youtube#playlistItem",
-            "etag": "9rMYpTe6bFR1v7LuJl_va21Ov-I",
+            "etag": "5X5YcTQ29B2p-UmSiSkz63cSZCM",
             "id": "UEw0TUVZdDBraUhaVk84c0xHcndCTmJ6N0F6UE5XWDlPTy41NEI5MkYxNzc0MDczQUUw",
             "snippet": {
                 "publishedAt": "2024-07-05T07:25:42Z",
@@ -318,13 +271,60 @@
                 },
                 "channelTitle": "JSON Bourne",
                 "playlistId": "PL4MEYt0kiHZVO8sLGrwBNbz7AzPNWX9OO",
-                "position": 6,
+                "position": 5,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "psuRGfAaju4"
                 },
                 "videoOwnerChannelTitle": "OwlCityVEVO",
                 "videoOwnerChannelId": "UCV-UW3I3mXakSoqV8SpF1sg"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "8-nH1yYd5H4QfOWMzR428FtOfZo",
+            "id": "UEw0TUVZdDBraUhaVk84c0xHcndCTmJ6N0F6UE5XWDlPTy5DODY2Qzc5Mzc1QkZEQ0NF",
+            "snippet": {
+                "publishedAt": "2024-03-01T04:45:16Z",
+                "channelId": "UCNHE3OcC8G345-7rNgu-g9w",
+                "title": "Jeremy Zucker - comethru (Official Video)",
+                "description": "comethru (Official Video)\nSong Available on summer,\n\nListen/Download Here: https://republic.lnk.to/summerYD\n\nDirected & Produced by Ben Schmidt\n\nConnect with Jeremy\nhttps://www.facebook.com/jeremyzuckermusic\nhttps://www.instagram.com/jeremyzucker\nhttps://twitter.com/jeremyzucker\nhttp://www.jeremyzuckermusic.com\nWeverse: https://weverseapp.page.link/X1NC\n\nMusic video by Jeremy Zucker performing comethru. \u00a9 2018 Republic Records, a division of UMG Recordings, Inc.\n\nhttp://vevo.ly/yudOMp",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/jO2viLEW-1A/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/jO2viLEW-1A/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/jO2viLEW-1A/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/jO2viLEW-1A/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/jO2viLEW-1A/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "JSON Bourne",
+                "playlistId": "PL4MEYt0kiHZVO8sLGrwBNbz7AzPNWX9OO",
+                "position": 6,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "jO2viLEW-1A"
+                },
+                "videoOwnerChannelTitle": "JeremyZuckerVEVO",
+                "videoOwnerChannelId": "UCDwX4cVW2WKKxM6P2BC4Rkw"
             }
         },
         {
@@ -423,7 +423,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "ifVJY3Ve_TICodypqI79mzc3BFw",
+            "etag": "anmNmNATYBkot0y-rcR1AX_2tUU",
             "id": "UEw0TUVZdDBraUhaVk84c0xHcndCTmJ6N0F6UE5XWDlPTy4xN0E0QjgwRkVBM0I5Nzg1",
             "snippet": {
                 "publishedAt": "2025-02-09T17:04:22Z",
@@ -460,54 +460,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "4oGWtImxX9CFyg1ejDO3eEi98Jc",
-            "id": "UEw0TUVZdDBraUhaVk84c0xHcndCTmJ6N0F6UE5XWDlPTy5BN0Q0NTk3QTY3NEFDOTE1",
-            "snippet": {
-                "publishedAt": "2025-04-29T06:45:56Z",
-                "channelId": "UCNHE3OcC8G345-7rNgu-g9w",
-                "title": "RADWIMPS - \u524d\u524d\u524d\u4e16 (movie ver.) [Official Music Video]",
-                "description": "\u300c\u524d\u524d\u524d\u4e16 (movie ver.)\u300dfrom\u300c\u541b\u306e\u540d\u306f\u3002\u300d\n2016.08.24 release\n\nhttps://radwimps.jp/yourname/\n\nOfficial web\uff1ahttps://radwimps.jp/\u200b\nTwitter\uff1ahttps://twitter.com/RADWIMPS\u200b\nInstagram\uff1ahttps://www.instagram.com/radwimps_jp/\u200b\nFacebook\uff1ahttps://www.facebook.com/radwimps.official/\nTikTok\uff1ahttps://www.tiktok.com/@radwimps_official/",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/PDSkFeMVNFs/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/PDSkFeMVNFs/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/PDSkFeMVNFs/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    },
-                    "standard": {
-                        "url": "https://i.ytimg.com/vi/PDSkFeMVNFs/sddefault.jpg",
-                        "width": 640,
-                        "height": 480
-                    },
-                    "maxres": {
-                        "url": "https://i.ytimg.com/vi/PDSkFeMVNFs/maxresdefault.jpg",
-                        "width": 1280,
-                        "height": 720
-                    }
-                },
-                "channelTitle": "JSON Bourne",
-                "playlistId": "PL4MEYt0kiHZVO8sLGrwBNbz7AzPNWX9OO",
-                "position": 10,
-                "resourceId": {
-                    "kind": "youtube#video",
-                    "videoId": "PDSkFeMVNFs"
-                },
-                "videoOwnerChannelTitle": "RADWIMPS",
-                "videoOwnerChannelId": "UCIVqvhyo8ttjYOmMJuhq_YQ"
-            }
-        },
-        {
-            "kind": "youtube#playlistItem",
-            "etag": "sWEmjP0kX9kuBCDYL1ECL7C503U",
+            "etag": "__JmnZJlAmtBX-T83SaJW-fvU94",
             "id": "UEw0TUVZdDBraUhaVk84c0xHcndCTmJ6N0F6UE5XWDlPTy5GMERFODY1RUUxNDYwM0VD",
             "snippet": {
                 "publishedAt": "2024-10-30T09:41:32Z",
@@ -543,13 +496,60 @@
                 },
                 "channelTitle": "JSON Bourne",
                 "playlistId": "PL4MEYt0kiHZVO8sLGrwBNbz7AzPNWX9OO",
-                "position": 11,
+                "position": 10,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "vOXZkm9p_zY"
                 },
                 "videoOwnerChannelTitle": "ImagineDragonsVEVO",
                 "videoOwnerChannelId": "UCpx_k19S2vUutWUUM9qmXEg"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "cRs16X4LePImDi7aqZ4DaLj0ucs",
+            "id": "UEw0TUVZdDBraUhaVk84c0xHcndCTmJ6N0F6UE5XWDlPTy5BN0Q0NTk3QTY3NEFDOTE1",
+            "snippet": {
+                "publishedAt": "2025-04-29T06:45:56Z",
+                "channelId": "UCNHE3OcC8G345-7rNgu-g9w",
+                "title": "RADWIMPS - \u524d\u524d\u524d\u4e16 (movie ver.) [Official Music Video]",
+                "description": "\u300c\u524d\u524d\u524d\u4e16 (movie ver.)\u300dfrom\u300c\u541b\u306e\u540d\u306f\u3002\u300d\n2016.08.24 release\n\nhttps://radwimps.jp/yourname/\n\nOfficial web\uff1ahttps://radwimps.jp/\u200b\nTwitter\uff1ahttps://twitter.com/RADWIMPS\u200b\nInstagram\uff1ahttps://www.instagram.com/radwimps_jp/\u200b\nFacebook\uff1ahttps://www.facebook.com/radwimps.official/\nTikTok\uff1ahttps://www.tiktok.com/@radwimps_official/",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/PDSkFeMVNFs/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/PDSkFeMVNFs/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/PDSkFeMVNFs/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/PDSkFeMVNFs/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/PDSkFeMVNFs/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "JSON Bourne",
+                "playlistId": "PL4MEYt0kiHZVO8sLGrwBNbz7AzPNWX9OO",
+                "position": 11,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "PDSkFeMVNFs"
+                },
+                "videoOwnerChannelTitle": "RADWIMPS",
+                "videoOwnerChannelId": "UCIVqvhyo8ttjYOmMJuhq_YQ"
             }
         },
         {
@@ -742,7 +742,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "L8WV6AwDvla58cV9zToXi7KTUHA",
+            "etag": "jkqq3QwM6a0yxIlC0p2jh5dMK4M",
             "id": "UEw0TUVZdDBraUhaVk84c0xHcndCTmJ6N0F6UE5XWDlPTy5FRkIzNkJFQkQ3RkUwOUY5",
             "snippet": {
                 "publishedAt": "2024-09-23T06:11:57Z",
@@ -977,7 +977,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "u39q1QrePEyzV2KhmewT5o4-jZw",
+            "etag": "cIB5spPHztWIoaZSrU5hgoXuz0g",
             "id": "UEw0TUVZdDBraUhaVk84c0xHcndCTmJ6N0F6UE5XWDlPTy4wNjIzRDA1OTQ2M0UyODEw",
             "snippet": {
                 "publishedAt": "2024-04-10T06:18:01Z",
@@ -1024,13 +1024,13 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "tz-AhgUvwC4M0QQkSkKHWnBtx2k",
+            "etag": "szisSkaq80UCfRCS0kza0td-upM",
             "id": "UEw0TUVZdDBraUhaVk84c0xHcndCTmJ6N0F6UE5XWDlPTy5BNzdEQzY0REQzQTEyN0U3",
             "snippet": {
                 "publishedAt": "2024-01-07T16:54:21Z",
                 "channelId": "UCNHE3OcC8G345-7rNgu-g9w",
                 "title": "Ainsi bas la vida",
-                "description": "Provided to YouTube by Universal Music Group\n\nAinsi bas la vida \u00b7 Indila\n\nMini World\n\n\u2117 2014 Island Def Jam\n\nReleased on: 2014-11-17\n\nComposer Lyricist, Associated Performer, Interpr\u00e8te Vocal: Indila\nStudio Personnel, Associated Performer, Producer, Programming, Mixer, Recording Engineer, Keyboards, Composer: Skalpovich\nAsst. Recording Engineer, Studio Personnel: Miguel Benavides\nStudio Personnel, Mastering Engineer: JP Chalbos\n\nAuto-generated by YouTube.",
+                "description": "Provided to YouTube by Universal Music Group\n\nAinsi bas la vida \u00b7 Indila\n\nMini World\n\n\u2117 2014 Island Def Jam\n\nReleased on: 2014-11-17\n\nVocalist, Composer Lyricist: Indila\nComposer, Programmer, Producer, Mixing Engineer, Recording Engineer: Skalpovich\nRecording Second Engineer: Miguel Benavides\nMastering Engineer: JP Chalbos\n\nAuto-generated by YouTube.",
                 "thumbnails": {
                     "default": {
                         "url": "https://i.ytimg.com/vi/rBR1nwYIFck/default.jpg",
@@ -1306,54 +1306,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "nXovoTTm3l4F9pN3WT9wJl88gL8",
-            "id": "UEw0TUVZdDBraUhaVk84c0xHcndCTmJ6N0F6UE5XWDlPTy5EQTkxMkVFODRENEJBMERF",
-            "snippet": {
-                "publishedAt": "2024-07-18T17:11:44Z",
-                "channelId": "UCNHE3OcC8G345-7rNgu-g9w",
-                "title": "SiM \u2013 The Rumbling (OFFICIAL VIDEO)",
-                "description": "Watch the official video for \u201cThe Rumbling\u201d\n\nTV Animation \u201cAttack on Titan\u201d The Final Season Part 2 Opening Theme\n\nStreaming & Download Out Now!!\n\nFull Size\nhttps://lnk.to/therumbling_full\n\nTV Size\nhttps://lnk.to/therumbling_tvsize\n\nTV\u30a2\u30cb\u30e1\u300c\u9032\u6483\u306e\u5de8\u4eba\u300dThe Final Season Part 2 \u30ce\u30f3\u30af\u30ec\u30b8\u30c3\u30c8OP\nhttps://youtu.be/2S4qGKmzBJE\n\nSiM Official site\nhttps://sxixm.com/\n\n\u300cThe Rumbling\u300dSpecial site\nhttps://sim2022.ponycanyon.net/\n\n#SiM #attackontitan #aot #shingeki\n\nTwitter\uff1ahttps://twitter.com/SiM_Official\nFacebook\uff1ahttps://www.facebook.com/SiMfromJapan\nInstagram\uff1ahttps://instagram.com/sim_japan?utm_m...\nTikTok\uff1ahttps://vt.tiktok.com/ZSdeshWFv/\n\nOfficial Music Video for \"The Rumbling\" by SiM\nSiM are :MAH (Vo) / SHOW-HATE (Gt) / SIN (Ba) / GODRi (Dr)\nManagement : gil soundworks\nDirector : Taiyo Yamamoto (flapper3 Inc.)\nCreative Producer : Ryoji Sekimoto (CRYPTON FUTURE MEDIA, INC) / Naohiro Yako (flapper3 Inc.)\nProducer : Shinji Yamamoto(PIA)\u00a0/ Shunsuke Osaka(PIA)\nAssistant Producer : Kosuke Suzuki(PIA) / Atsuki Yamada(PIA)\nVFX Desiner : Yoshiyuki Odajima (flapper3 Inc.) / Rei Kurashima (flapper3 Inc.)\nProduction Manager : Nana Kinoshita (flapper3 Inc.) / Lisa Yoshimura (CRYPTON FUTURE MEDIA, INC)\nCG Director : Kohta Morie (MORIE Inc.\uff09\nCG Desiner : Masato Tajima\u00a0(MORIE Inc.) / Shuya Sugawara (MORIE Inc.) / Ryo Nihara (MORIE Inc.) / Daiki Miyama\nEditor : Taichi Okada (sync.dev) / Sotaro Abe (sync.dev)\nHOLOSYS Volumetric Capture technology by 4DviewsHajime Kotani(Crescent Inc.) / Tadayuki Suzuki(Crescent Inc.) / Tatsuhiko Kobayashi(Crescent Inc.) / Yuichi ikeda(Crescent Inc.)\n\nArranged by HANEDA xR STUDIO,CRESCENT 4D Views STUDIO\n\n\u00a9\u8aeb\u5c71\u5275\u30fb\u8b1b\u8ac7\u793e\uff0f\u300c\u9032\u6483\u306e\u5de8\u4eba\u300dThe Final Season\u88fd\u4f5c\u59d4\u54e1\u4f1a\n\u00a92022 PONY CANYON INC.",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/OBqw818mQ1E/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/OBqw818mQ1E/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/OBqw818mQ1E/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    },
-                    "standard": {
-                        "url": "https://i.ytimg.com/vi/OBqw818mQ1E/sddefault.jpg",
-                        "width": 640,
-                        "height": 480
-                    },
-                    "maxres": {
-                        "url": "https://i.ytimg.com/vi/OBqw818mQ1E/maxresdefault.jpg",
-                        "width": 1280,
-                        "height": 720
-                    }
-                },
-                "channelTitle": "JSON Bourne",
-                "playlistId": "PL4MEYt0kiHZVO8sLGrwBNbz7AzPNWX9OO",
-                "position": 28,
-                "resourceId": {
-                    "kind": "youtube#video",
-                    "videoId": "OBqw818mQ1E"
-                },
-                "videoOwnerChannelTitle": "SiM Official YouTube Channel",
-                "videoOwnerChannelId": "UCcrvP_Z93Zts_Xd7UGKH2CQ"
-            }
-        },
-        {
-            "kind": "youtube#playlistItem",
-            "etag": "cWJeDKkO6Wcxw2yzeNjVs24HEpg",
+            "etag": "kGxABJBlyT3JpzLxIp-DTCqKDIU",
             "id": "UEw0TUVZdDBraUhaVk84c0xHcndCTmJ6N0F6UE5XWDlPTy4zOTExNTAwOERBMTNFRUM4",
             "snippet": {
                 "publishedAt": "2025-03-05T04:41:41Z",
@@ -1389,13 +1342,60 @@
                 },
                 "channelTitle": "JSON Bourne",
                 "playlistId": "PL4MEYt0kiHZVO8sLGrwBNbz7AzPNWX9OO",
-                "position": 29,
+                "position": 28,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "NZGHXy1IAHM"
                 },
                 "videoOwnerChannelTitle": "LatinHype",
                 "videoOwnerChannelId": "UC-AlofdKECUdhXrbJQZ6iEg"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "8FeuFpmB5G85YFnNpHe9lYmIOI8",
+            "id": "UEw0TUVZdDBraUhaVk84c0xHcndCTmJ6N0F6UE5XWDlPTy5EQTkxMkVFODRENEJBMERF",
+            "snippet": {
+                "publishedAt": "2024-07-18T17:11:44Z",
+                "channelId": "UCNHE3OcC8G345-7rNgu-g9w",
+                "title": "SiM \u2013 The Rumbling (OFFICIAL VIDEO)",
+                "description": "Watch the official video for \u201cThe Rumbling\u201d\n\nTV Animation \u201cAttack on Titan\u201d The Final Season Part 2 Opening Theme\n\nStreaming & Download Out Now!!\n\nFull Size\nhttps://lnk.to/therumbling_full\n\nTV Size\nhttps://lnk.to/therumbling_tvsize\n\nTV\u30a2\u30cb\u30e1\u300c\u9032\u6483\u306e\u5de8\u4eba\u300dThe Final Season Part 2 \u30ce\u30f3\u30af\u30ec\u30b8\u30c3\u30c8OP\nhttps://youtu.be/2S4qGKmzBJE\n\nSiM Official site\nhttps://sxixm.com/\n\n\u300cThe Rumbling\u300dSpecial site\nhttps://sim2022.ponycanyon.net/\n\n#SiM #attackontitan #aot #shingeki\n\nTwitter\uff1ahttps://twitter.com/SiM_Official\nFacebook\uff1ahttps://www.facebook.com/SiMfromJapan\nInstagram\uff1ahttps://instagram.com/sim_japan?utm_m...\nTikTok\uff1ahttps://vt.tiktok.com/ZSdeshWFv/\n\nOfficial Music Video for \"The Rumbling\" by SiM\nSiM are :MAH (Vo) / SHOW-HATE (Gt) / SIN (Ba) / GODRi (Dr)\nManagement : gil soundworks\nDirector : Taiyo Yamamoto (flapper3 Inc.)\nCreative Producer : Ryoji Sekimoto (CRYPTON FUTURE MEDIA, INC) / Naohiro Yako (flapper3 Inc.)\nProducer : Shinji Yamamoto(PIA)\u00a0/ Shunsuke Osaka(PIA)\nAssistant Producer : Kosuke Suzuki(PIA) / Atsuki Yamada(PIA)\nVFX Desiner : Yoshiyuki Odajima (flapper3 Inc.) / Rei Kurashima (flapper3 Inc.)\nProduction Manager : Nana Kinoshita (flapper3 Inc.) / Lisa Yoshimura (CRYPTON FUTURE MEDIA, INC)\nCG Director : Kohta Morie (MORIE Inc.\uff09\nCG Desiner : Masato Tajima\u00a0(MORIE Inc.) / Shuya Sugawara (MORIE Inc.) / Ryo Nihara (MORIE Inc.) / Daiki Miyama\nEditor : Taichi Okada (sync.dev) / Sotaro Abe (sync.dev)\nHOLOSYS Volumetric Capture technology by 4DviewsHajime Kotani(Crescent Inc.) / Tadayuki Suzuki(Crescent Inc.) / Tatsuhiko Kobayashi(Crescent Inc.) / Yuichi ikeda(Crescent Inc.)\n\nArranged by HANEDA xR STUDIO,CRESCENT 4D Views STUDIO\n\n\u00a9\u8aeb\u5c71\u5275\u30fb\u8b1b\u8ac7\u793e\uff0f\u300c\u9032\u6483\u306e\u5de8\u4eba\u300dThe Final Season\u88fd\u4f5c\u59d4\u54e1\u4f1a\n\u00a92022 PONY CANYON INC.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/OBqw818mQ1E/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/OBqw818mQ1E/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/OBqw818mQ1E/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/OBqw818mQ1E/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/OBqw818mQ1E/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "JSON Bourne",
+                "playlistId": "PL4MEYt0kiHZVO8sLGrwBNbz7AzPNWX9OO",
+                "position": 29,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "OBqw818mQ1E"
+                },
+                "videoOwnerChannelTitle": "SiM Official YouTube Channel",
+                "videoOwnerChannelId": "UCcrvP_Z93Zts_Xd7UGKH2CQ"
             }
         },
         {
@@ -1635,54 +1635,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "PPWM4z3o3ap_lfZ8Nw8xjvkGDi8",
-            "id": "UEw0TUVZdDBraUhaVk84c0xHcndCTmJ6N0F6UE5XWDlPTy42RDgxQ0M2OUIwREZCNjZF",
-            "snippet": {
-                "publishedAt": "2024-03-01T03:21:04Z",
-                "channelId": "UCNHE3OcC8G345-7rNgu-g9w",
-                "title": "No Mercy- #Overwatch Original Song by The Living Tombstone (Feat. BlackGryphon & LittleJayneyCakes)",
-                "description": "Overwatch Original Song, No Mercy, because I'm not gonna be any kind of support.\n\nMashed Music Video: https://youtu.be/S9uTScSgzrM\n\n\u27a2 iTunes: https://itunes.apple.com/us/album/no-mercy-single/id1195689351\n\u27a2 Spotify: https://open.spotify.com/album/0P1dNlCkXD4GO3TruGzj0p\n\u27a2Google Play: https://play.google.com/store/music/album/The_Living_Tombstone_No_Mercy?id=B6iwn4veeuhnxtegyphfwbb5cvm\n\u27a2Amazon: https://www.amazon.com/dp/B01NBVHQRG/\n\n\u27a2 Music Production - Yoav Landau \n\u27a2Songwriting, Lyrics - Yoav Landau, Cien Miller (Crusher-P)\n\u27a2Guitar Recordings - Or \"Orko\" Cohen\n\u27a2Vocals by \n-Gabriel C. Brown (BlackGryph0n)\nhttps://www.youtube.com/user/christkids\n-LittleJayneyCakes \nhttps://www.youtube.com/user/LittleJayneyCakes\n\u27a2Vocal Editing - Fruutella\n\u27a2Mastering by Recursion Mastering (https://iamrecursion.com/)\n\nFollow The Living Tombstone:\n\u27a2 YouTube: http://bit.ly/TLTSubscribe\n\u27a2 SoundCloud: http://bit.ly/TLTSoundcloud\n\u27a2 Facebook: http://bit.ly/TLTFaceBook\n\u27a2 Twitter: http://bit.ly/TLTTwitter\n\u27a2 Newgrounds: http://bit.ly/TLTNewgrounds\n\n\nLyrics:\nThis is the worst team I have ever played with in my life\nwhen we finally get on the point, everyone dies\nI understand that every now and then a team won't click,\nWhen it comes to you, I don't think I can sympathize\nYou should've picked mercy,\nYou should've picked any kind of support\nWe ended up losing, and it's all your fault,\nYou should learn how this game works\nYou should\u2019ve been helping\n\nVA: SHUT UP! IF YOU LOVE MERCY SO MUCH, WHY DON\u2019T YOU JUST MARRY HER?\n\nSo you're the type that gets on mic and tries to lecture me\nWhen you\u2019re the most useless person we have on our team\nI've never seen anybody rage quite as hard as you\nMaybe you should go back to playing Team Fortress 2\n\nI'm not gonna be mercy\nI'm not gonna be any kind of support\nWe ended up losing, and you got all mad\nYour tears are what I live for\n1: You should\u2019ve been Mercy\n2: I'm not gonna be any kind of support\n1: We ended up losing, and it's all your fault,\n2: Your tears are what I live for\n\n\n1: Maybe I\u2019ll be Tracer\n2: I\u2019m already Tracer\n1: What about Widowmaker?\n2: I\u2019m already Widowmaker\n1: I\u2019ll be Bastion\n2: Nobody likes Bastion (or NERF BASTION)\n1: You\u2019re right. So, Winston\n2: I wanna be winston\n1: Well then I\u2019ll pick Genji\n2: I\u2019m Already Genji\n1: Then I\u2019ll pick McCree\n2: I already chose McCree\n1: I have an idea\n2: what\u2019s your idea?\n1: You should be-\n2: I\u2019m not going to be Mercy (Spoken)\n1: You should\u2019ve been Mercy\n2: I'm not gonna be any kind of support\n1: We ended up losing, and it's all your fault,\n2: Your tears are what I live for\n2: I\u2019m not gonna be Mercy\n1: You should've picked any kind of support\n2: We ended up losing, and you got all mad\n1: You should learn how this game works\n\n#overwatch #nomercy",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/d0RmRJsgP28/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/d0RmRJsgP28/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/d0RmRJsgP28/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    },
-                    "standard": {
-                        "url": "https://i.ytimg.com/vi/d0RmRJsgP28/sddefault.jpg",
-                        "width": 640,
-                        "height": 480
-                    },
-                    "maxres": {
-                        "url": "https://i.ytimg.com/vi/d0RmRJsgP28/maxresdefault.jpg",
-                        "width": 1280,
-                        "height": 720
-                    }
-                },
-                "channelTitle": "JSON Bourne",
-                "playlistId": "PL4MEYt0kiHZVO8sLGrwBNbz7AzPNWX9OO",
-                "position": 35,
-                "resourceId": {
-                    "kind": "youtube#video",
-                    "videoId": "d0RmRJsgP28"
-                },
-                "videoOwnerChannelTitle": "The Living Tombstone",
-                "videoOwnerChannelId": "UCFYMDSW-BzeYZKFSxROw3Rg"
-            }
-        },
-        {
-            "kind": "youtube#playlistItem",
-            "etag": "fiUnwHfoxXfW5ZUkc6A_UlRcVK4",
+            "etag": "lE-vYCzVk4kBTk79dMMfQBtlK4s",
             "id": "UEw0TUVZdDBraUhaVk84c0xHcndCTmJ6N0F6UE5XWDlPTy5DQzY2RDZFRUQyRDlDQkMw",
             "snippet": {
                 "publishedAt": "2024-06-18T06:37:11Z",
@@ -1718,13 +1671,60 @@
                 },
                 "channelTitle": "JSON Bourne",
                 "playlistId": "PL4MEYt0kiHZVO8sLGrwBNbz7AzPNWX9OO",
-                "position": 36,
+                "position": 35,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "T_lC2O1oIew"
                 },
                 "videoOwnerChannelTitle": "\u7af9\u5185\u307e\u308a\u3084 - Mariya Takeuchi Official YouTube Channel",
                 "videoOwnerChannelId": "UCFCHKsT1ZY2aLUAbWW1lJGA"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "vCyccc3H5gQ62hasvhoXHSqtRlI",
+            "id": "UEw0TUVZdDBraUhaVk84c0xHcndCTmJ6N0F6UE5XWDlPTy42RDgxQ0M2OUIwREZCNjZF",
+            "snippet": {
+                "publishedAt": "2024-03-01T03:21:04Z",
+                "channelId": "UCNHE3OcC8G345-7rNgu-g9w",
+                "title": "No Mercy- #Overwatch Original Song by The Living Tombstone (Feat. BlackGryphon & LittleJayneyCakes)",
+                "description": "Overwatch Original Song, No Mercy, because I'm not gonna be any kind of support.\n\nMashed Music Video: https://youtu.be/S9uTScSgzrM\n\n\u27a2 iTunes: https://itunes.apple.com/us/album/no-mercy-single/id1195689351\n\u27a2 Spotify: https://open.spotify.com/album/0P1dNlCkXD4GO3TruGzj0p\n\u27a2Google Play: https://play.google.com/store/music/album/The_Living_Tombstone_No_Mercy?id=B6iwn4veeuhnxtegyphfwbb5cvm\n\u27a2Amazon: https://www.amazon.com/dp/B01NBVHQRG/\n\n\u27a2 Music Production - Yoav Landau \n\u27a2Songwriting, Lyrics - Yoav Landau, Cien Miller (Crusher-P)\n\u27a2Guitar Recordings - Or \"Orko\" Cohen\n\u27a2Vocals by \n-Gabriel C. Brown (BlackGryph0n)\nhttps://www.youtube.com/user/christkids\n-LittleJayneyCakes \nhttps://www.youtube.com/user/LittleJayneyCakes\n\u27a2Vocal Editing - Fruutella\n\u27a2Mastering by Recursion Mastering (https://iamrecursion.com/)\n\nFollow The Living Tombstone:\n\u27a2 YouTube: http://bit.ly/TLTSubscribe\n\u27a2 SoundCloud: http://bit.ly/TLTSoundcloud\n\u27a2 Facebook: http://bit.ly/TLTFaceBook\n\u27a2 Twitter: http://bit.ly/TLTTwitter\n\u27a2 Newgrounds: http://bit.ly/TLTNewgrounds\n\n\nLyrics:\nThis is the worst team I have ever played with in my life\nwhen we finally get on the point, everyone dies\nI understand that every now and then a team won't click,\nWhen it comes to you, I don't think I can sympathize\nYou should've picked mercy,\nYou should've picked any kind of support\nWe ended up losing, and it's all your fault,\nYou should learn how this game works\nYou should\u2019ve been helping\n\nVA: SHUT UP! IF YOU LOVE MERCY SO MUCH, WHY DON\u2019T YOU JUST MARRY HER?\n\nSo you're the type that gets on mic and tries to lecture me\nWhen you\u2019re the most useless person we have on our team\nI've never seen anybody rage quite as hard as you\nMaybe you should go back to playing Team Fortress 2\n\nI'm not gonna be mercy\nI'm not gonna be any kind of support\nWe ended up losing, and you got all mad\nYour tears are what I live for\n1: You should\u2019ve been Mercy\n2: I'm not gonna be any kind of support\n1: We ended up losing, and it's all your fault,\n2: Your tears are what I live for\n\n\n1: Maybe I\u2019ll be Tracer\n2: I\u2019m already Tracer\n1: What about Widowmaker?\n2: I\u2019m already Widowmaker\n1: I\u2019ll be Bastion\n2: Nobody likes Bastion (or NERF BASTION)\n1: You\u2019re right. So, Winston\n2: I wanna be winston\n1: Well then I\u2019ll pick Genji\n2: I\u2019m Already Genji\n1: Then I\u2019ll pick McCree\n2: I already chose McCree\n1: I have an idea\n2: what\u2019s your idea?\n1: You should be-\n2: I\u2019m not going to be Mercy (Spoken)\n1: You should\u2019ve been Mercy\n2: I'm not gonna be any kind of support\n1: We ended up losing, and it's all your fault,\n2: Your tears are what I live for\n2: I\u2019m not gonna be Mercy\n1: You should've picked any kind of support\n2: We ended up losing, and you got all mad\n1: You should learn how this game works\n\n#overwatch #nomercy",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/d0RmRJsgP28/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/d0RmRJsgP28/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/d0RmRJsgP28/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/d0RmRJsgP28/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/d0RmRJsgP28/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "JSON Bourne",
+                "playlistId": "PL4MEYt0kiHZVO8sLGrwBNbz7AzPNWX9OO",
+                "position": 36,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "d0RmRJsgP28"
+                },
+                "videoOwnerChannelTitle": "The Living Tombstone",
+                "videoOwnerChannelId": "UCFYMDSW-BzeYZKFSxROw3Rg"
             }
         },
         {
@@ -2105,7 +2105,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "Qw-fTeulFZX4mhhGDOb4saPOsZ8",
+            "etag": "4IOLUp3ZnxKVuqXVbgju8EeDWkI",
             "id": "UEw0TUVZdDBraUhaVk84c0xHcndCTmJ6N0F6UE5XWDlPTy42NEZDNTU0RTRENDUzRjMz",
             "snippet": {
                 "publishedAt": "2024-01-15T06:56:30Z",
@@ -2293,36 +2293,36 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "D1tfxHicoyZwX6jjBmx5oD_ys2I",
-            "id": "UEw0TUVZdDBraUhaVk84c0xHcndCTmJ6N0F6UE5XWDlPTy4yQjdDRUQyQ0M0MEZCQkEx",
+            "etag": "d7u_pKl-3vsL5lYhmAgXG4085Wk",
+            "id": "UEw0TUVZdDBraUhaVk84c0xHcndCTmJ6N0F6UE5XWDlPTy4zMzI1MzRGNURGODI4MkVC",
             "snippet": {
-                "publishedAt": "2024-09-22T12:55:11Z",
+                "publishedAt": "2025-06-24T09:49:11Z",
                 "channelId": "UCNHE3OcC8G345-7rNgu-g9w",
-                "title": "Bad Apple!! - Full Version w/video [Lyrics in Romaji, Translation in English]",
-                "description": "I did a montage of the video \"Bad Apple!!\" to go with the full version. The song is sang by Nomico and made by Alstroemeria Records.\n\nAt some places, it's not lag. It's just the video that is slow down.\n\n==How to see the subtitles (updated on July 3rd, 2020)==\nThose who are not familiar with the YouTube Captions, you just have to press the settings button and go to \"Subtitles/CC\", it will give you those options:\n- \"English - Translation in English\" - Turn on the English Captions\n- \"Japanese - Romaji\" - Turn on the Romaji Captions\n-  Off\nI hope that was helpful. :)\n\n==Various Description Edits==\nEdit 28-12-2012: 1,000,000 views to end the year! I never thought that the video will actually have a million views. Thanks everyone! :)\n\nEdit 13-11-2013: Wow, 2,000,000 views! That's so incredible!!!  :D\n\nEdit 27-03-2018: Anyone mentioning \"Undertale\" in the comments gets filtered.\n\nEdit 03-07-2020: 27 million views. Wow. I still can't believe an edit of the original Bad Apple!! video that I made when I was 15 years old got this many views.",
+                "title": "Little Bit Better",
+                "description": "Provided to YouTube by Nettwerk\n\nLittle Bit Better \u00b7 Caleb Hearn \u00b7 ROSIE\n\nLittle Bit Better\n\n\u2117 Caleb Hearn under exclusive license to Nettwerk Music Group Inc.\n\nReleased on: 2024-02-23\n\nProducer, Engineer: Alex Borel\nProducer, Engineer: Colin Foote\nMixer: Jonathan Jetter\nMastering Engineer: Dan Coutant\nMusic  Publisher: Smasheroonio Pizza Publishing\nMusic  Publisher: Downtown Music Publishing\nMusic  Publisher: Warner Chappell / Rosaileen Entertainment Publishin\nMusic  Publisher: Let's Get This Bread I Guess Publishing\nComposer: Alex Borel\nComposer: Caleb Hearn\nComposer: Rosaileen Scher\n\nAuto-generated by YouTube.",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/9lNZ_Rnr7Jc/default.jpg",
+                        "url": "https://i.ytimg.com/vi/OZaHk0h_axE/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/9lNZ_Rnr7Jc/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/OZaHk0h_axE/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/9lNZ_Rnr7Jc/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/OZaHk0h_axE/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     },
                     "standard": {
-                        "url": "https://i.ytimg.com/vi/9lNZ_Rnr7Jc/sddefault.jpg",
+                        "url": "https://i.ytimg.com/vi/OZaHk0h_axE/sddefault.jpg",
                         "width": 640,
                         "height": 480
                     },
                     "maxres": {
-                        "url": "https://i.ytimg.com/vi/9lNZ_Rnr7Jc/maxresdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/OZaHk0h_axE/maxresdefault.jpg",
                         "width": 1280,
                         "height": 720
                     }
@@ -2332,15 +2332,15 @@
                 "position": 49,
                 "resourceId": {
                     "kind": "youtube#video",
-                    "videoId": "9lNZ_Rnr7Jc"
+                    "videoId": "OZaHk0h_axE"
                 },
-                "videoOwnerChannelTitle": "luigiman09",
-                "videoOwnerChannelId": "UCPZeEvYtEm9LXWQbu049kDw"
+                "videoOwnerChannelTitle": "Caleb Hearn - Topic",
+                "videoOwnerChannelId": "UC_tMcUcRb5nCmm3kB2jywBA"
             }
         }
     ],
     "pageInfo": {
-        "totalResults": 376,
+        "totalResults": 378,
         "resultsPerPage": 50
     }
 }
