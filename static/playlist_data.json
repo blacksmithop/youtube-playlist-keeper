@@ -1,7 +1,7 @@
 {
     "kind": "youtube#playlistItemListResponse",
-    "etag": "GKfzYzqmthRQtLZ9CsTbstVzc-o",
-    "nextPageToken": "EAAaHlBUOkNESWlFRVF6TWtORk5UQkNNRVE1UlVWRE1EQQ",
+    "etag": "XW5xyq2tysr0F-uNUdow383Dqhw",
+    "nextPageToken": "EAAaHlBUOkNESWlFRFEyTWprNE5rSkJRVGsyUkVFd01qUQ",
     "items": [
         {
             "kind": "youtube#playlistItem",
@@ -789,7 +789,54 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "bgpiPPqczTWiibwfC71AnNa5PK4",
+            "etag": "Ll2UiQijYbwauM9viwIR13MQNcw",
+            "id": "UEw0TUVZdDBraUhaVk84c0xHcndCTmJ6N0F6UE5XWDlPTy4xQkZENkNCQ0FDNzlFNzM1",
+            "snippet": {
+                "publishedAt": "2025-11-02T16:21:45Z",
+                "channelId": "UCNHE3OcC8G345-7rNgu-g9w",
+                "title": "Teddy Swims - The Door (Official Music Video)",
+                "description": "Stream / Download \"I've Tried Everything but Therapy Pt. 1 now: https://TeddySwims.lnk.to/ITEBTpt1\n\nOrder I\u2019ve Tried Everything But Therapy: Part 1, Part 2, and the Complete Edition: shop.teddyswims.com\n\nFollow Teddy Swims:\nhttps://www.instagram.com/teddyswims\nhttps://facebook.com/teddyswims404\nhttps://twitter.com/teddyswims\nhttps://soundcloud.com/teddyswims\nhttps://www.tiktok.com/@teddyswims\n\nCREDITS\nDirector: Blythe Thomas\nExecutive Producer: Evan Brown\nProduction Company: dreambear\nProducer: Nicolette Moreno\nLine Producer: Autumn Maschi\nProduction Manager: Kai Lusk\n1st AD: Lane Stroud\nDP: Ava Rikki\n1st AC: Philip Hoang\n2nd AC: Naomi Portillo\nSteadicam: Emaad Elhardouzi\nGaffer: Kay Zhou\nProduction Designer: Andrew Caso\nArt Coordinator: Devin Leary\nSet Dresser: Maelina Hassel\nVFX Supervisor: Ben Kadie\nStylist: Tara Nichols\nStylist Assistant: Jenny Martin\nGroomer: Morgan Grimes\nVideo Commissioner: Devin Sarno\nDirector's Rep: Jen Herrera Richter / Las Bandas Be Brave\n\nFeaturing: Noona Chowe\n \nLyrics:\nI took a page out of your favorite book\nYou sold me lies just by the way you look\nTaught me a language that I\u2019ll never speak\nBaby, that ain't for me\nThat, that ain't for me\n\nI dug my grave watching the way you move\nYou took me higher than I ever flew\nToo many times gave you a second chance\nBaby I\u2019m just a man,\nI\u2019m I\u2019m just a man\n\nNo more thinking about you late night\nNo more running around with your friends now\nDone picking the pieces of my soul up off the floor\n\nI said I would die for you baby\nBut I can\u2019t take this pain no mo\nI thought I was willing\nBut tonight I saved my life when I showed you the door\n\nI don\u2019t want to lose you baby\nBut I can\u2019t play this game no mo\nI thought it would kill me\nBut tonight I saved my life when I showed you the door\n\nYou never thought this day would ever come\nWhen I looked you in the eyes and pulled the rug\nYou tried to take away my sanity\nBaby, that ain't for me\nThat, that ain't for me\n\nOh no more thinking about you late night\nNo more running around with your friends now\nDone picking the pieces of my soul from off the floor\n\nI said I would die for you baby\nBut I can\u2019t take this pain no mo\nI thought I was willing\nbut tonight I saved my life when I showed you the door\n\nI don\u2019t want to lose you baby\nBut I can\u2019t play this game no mo\nI thought it would kill me\nBut tonight I saved my life when I showed you the door\n\nWhen I showed you the door\nWhen I showed you the door\nBut tonight I saved my life\n\nI said I would die for you baby\nBut I can\u2019t take this pain no mo\nI thought I was willing\nBut tonight I saved my life when I showed you the door\n\nI don\u2019t want to lose you baby\nBut I can\u2019t take this game no mo\nI thought it would kill me\nBut tonight I saved my life when I showed you the door\n\n\n#performance #teddyswims #soulmusic #thedoor",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/VSXT4a2kRHA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/VSXT4a2kRHA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/VSXT4a2kRHA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/VSXT4a2kRHA/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/VSXT4a2kRHA/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "JSON Bourne",
+                "playlistId": "PL4MEYt0kiHZVO8sLGrwBNbz7AzPNWX9OO",
+                "position": 17,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "VSXT4a2kRHA"
+                },
+                "videoOwnerChannelTitle": "Teddy Swims",
+                "videoOwnerChannelId": "UCb-ikMqe9iS8GjG7WgGwCrQ"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "upLyoWugsL7t8tsN97IgLfoNXrc",
             "id": "UEw0TUVZdDBraUhaVk84c0xHcndCTmJ6N0F6UE5XWDlPTy5FRkIzNkJFQkQ3RkUwOUY5",
             "snippet": {
                 "publishedAt": "2024-09-23T06:11:57Z",
@@ -825,7 +872,7 @@
                 },
                 "channelTitle": "JSON Bourne",
                 "playlistId": "PL4MEYt0kiHZVO8sLGrwBNbz7AzPNWX9OO",
-                "position": 17,
+                "position": 18,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "NU9JoFKlaZ0"
@@ -836,7 +883,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "Tit4ier63fosFn_UB-xgXginiw8",
+            "etag": "SZtR4NA2xVDQ-3dMsk2X1DunDwk",
             "id": "UEw0TUVZdDBraUhaVk84c0xHcndCTmJ6N0F6UE5XWDlPTy42MTk5OTRCREQ5RkNFODZF",
             "snippet": {
                 "publishedAt": "2024-09-15T14:40:50Z",
@@ -872,7 +919,7 @@
                 },
                 "channelTitle": "JSON Bourne",
                 "playlistId": "PL4MEYt0kiHZVO8sLGrwBNbz7AzPNWX9OO",
-                "position": 18,
+                "position": 19,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "Obi4iELWJ3Y"
@@ -883,7 +930,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "tlnNFibZ7AmwTZxdufOhJK1-Syc",
+            "etag": "K15R_vnQ_yDGAoYBjdqey2uxZlk",
             "id": "UEw0TUVZdDBraUhaVk84c0xHcndCTmJ6N0F6UE5XWDlPTy43RjU3NEIyMjFBMEIxQ0ZF",
             "snippet": {
                 "publishedAt": "2024-07-05T04:15:13Z",
@@ -919,7 +966,7 @@
                 },
                 "channelTitle": "JSON Bourne",
                 "playlistId": "PL4MEYt0kiHZVO8sLGrwBNbz7AzPNWX9OO",
-                "position": 19,
+                "position": 20,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "vXyBcKV0UIo"
@@ -930,7 +977,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "4jCRjUyAIarBNdlqyxGGrxZCriI",
+            "etag": "HA8DwUcRUAEPSkV-UvGgzXeXjyM",
             "id": "UEw0TUVZdDBraUhaVk84c0xHcndCTmJ6N0F6UE5XWDlPTy41ODIyMTgwQzA4NjJCQkZC",
             "snippet": {
                 "publishedAt": "2023-12-14T04:05:10Z",
@@ -966,7 +1013,7 @@
                 },
                 "channelTitle": "JSON Bourne",
                 "playlistId": "PL4MEYt0kiHZVO8sLGrwBNbz7AzPNWX9OO",
-                "position": 20,
+                "position": 21,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "T2fjQrsKbAM"
@@ -977,7 +1024,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "1ABKCipGImDzeeOQq84iDvxzyRg",
+            "etag": "IhpkOQVcZbIoRFWiLqzmwmTNrJs",
             "id": "UEw0TUVZdDBraUhaVk84c0xHcndCTmJ6N0F6UE5XWDlPTy4yODlGNEE0NkRGMEEzMEQy",
             "snippet": {
                 "publishedAt": "2022-10-05T09:39:23Z",
@@ -1013,7 +1060,7 @@
                 },
                 "channelTitle": "JSON Bourne",
                 "playlistId": "PL4MEYt0kiHZVO8sLGrwBNbz7AzPNWX9OO",
-                "position": 21,
+                "position": 22,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "UyaZmFGyuMg"
@@ -1024,7 +1071,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "ISynjwlySYorWUiKjbrT5J4s2_o",
+            "etag": "ThoTTNULFV1iABgm7U3t8ickLMo",
             "id": "UEw0TUVZdDBraUhaVk84c0xHcndCTmJ6N0F6UE5XWDlPTy4wNjIzRDA1OTQ2M0UyODEw",
             "snippet": {
                 "publishedAt": "2024-04-10T06:18:01Z",
@@ -1060,7 +1107,7 @@
                 },
                 "channelTitle": "JSON Bourne",
                 "playlistId": "PL4MEYt0kiHZVO8sLGrwBNbz7AzPNWX9OO",
-                "position": 22,
+                "position": 23,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "aezstCBHOPQ"
@@ -1071,7 +1118,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "gwva2fLZqic59_NvvayFzBuS2LE",
+            "etag": "T7a4WVYjBlwe5UFxdgb8OzJCFYw",
             "id": "UEw0TUVZdDBraUhaVk84c0xHcndCTmJ6N0F6UE5XWDlPTy5BNzdEQzY0REQzQTEyN0U3",
             "snippet": {
                 "publishedAt": "2024-01-07T16:54:21Z",
@@ -1107,7 +1154,7 @@
                 },
                 "channelTitle": "JSON Bourne",
                 "playlistId": "PL4MEYt0kiHZVO8sLGrwBNbz7AzPNWX9OO",
-                "position": 23,
+                "position": 24,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "rBR1nwYIFck"
@@ -1118,7 +1165,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "ezrIyA2MTo4PkPHGgI2BCF-lIz4",
+            "etag": "4wRVKQb2yDlXRfxKzJAApJ8OUN8",
             "id": "UEw0TUVZdDBraUhaVk84c0xHcndCTmJ6N0F6UE5XWDlPTy4zMzg4MjBBNzZCQzY5MDk4",
             "snippet": {
                 "publishedAt": "2024-07-26T03:23:40Z",
@@ -1154,7 +1201,7 @@
                 },
                 "channelTitle": "JSON Bourne",
                 "playlistId": "PL4MEYt0kiHZVO8sLGrwBNbz7AzPNWX9OO",
-                "position": 24,
+                "position": 25,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "9Z-NbQvhzKM"
@@ -1165,7 +1212,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "slgbd_vJS5nW9coWQjhSVvwejvo",
+            "etag": "Q17GiT5LN7loJHWnqC0iEhlpj7g",
             "id": "UEw0TUVZdDBraUhaVk84c0xHcndCTmJ6N0F6UE5XWDlPTy5FRDc0QkQxMzlEMTZBMzg0",
             "snippet": {
                 "publishedAt": "2024-08-13T09:45:27Z",
@@ -1201,7 +1248,7 @@
                 },
                 "channelTitle": "JSON Bourne",
                 "playlistId": "PL4MEYt0kiHZVO8sLGrwBNbz7AzPNWX9OO",
-                "position": 25,
+                "position": 26,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "KqjgLbKZ1h0"
@@ -1212,7 +1259,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "wnKhgcl-uGDikVBOnF6MkuJwjyU",
+            "etag": "JpRQ2cMENet0AiGL83VT66TQMc8",
             "id": "UEw0TUVZdDBraUhaVk84c0xHcndCTmJ6N0F6UE5XWDlPTy4yMkNBN0M4QUJEQzYxMjA3",
             "snippet": {
                 "publishedAt": "2024-06-21T11:21:47Z",
@@ -1248,7 +1295,7 @@
                 },
                 "channelTitle": "JSON Bourne",
                 "playlistId": "PL4MEYt0kiHZVO8sLGrwBNbz7AzPNWX9OO",
-                "position": 26,
+                "position": 27,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "6tz1_znrbmc"
@@ -1259,7 +1306,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "f3VckV3CuReeTEj7gHqtY_yVg_A",
+            "etag": "6NyYfsXpQtc_KthWWQ9Z_wR_bkA",
             "id": "UEw0TUVZdDBraUhaVk84c0xHcndCTmJ6N0F6UE5XWDlPTy5DNzNDRDE1NzhGODQzODI2",
             "snippet": {
                 "publishedAt": "2024-06-04T09:16:06Z",
@@ -1295,7 +1342,7 @@
                 },
                 "channelTitle": "JSON Bourne",
                 "playlistId": "PL4MEYt0kiHZVO8sLGrwBNbz7AzPNWX9OO",
-                "position": 27,
+                "position": 28,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "V6iKSUoUN48"
@@ -1306,7 +1353,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "u-8Pfau_fwBdKrHZn1Nml7QWIr4",
+            "etag": "yYG6lGhpDAPrsb3QJ2M__tT08bU",
             "id": "UEw0TUVZdDBraUhaVk84c0xHcndCTmJ6N0F6UE5XWDlPTy45REM1NzQ1MDM2OUZDNDMx",
             "snippet": {
                 "publishedAt": "2024-08-13T12:58:53Z",
@@ -1342,7 +1389,7 @@
                 },
                 "channelTitle": "JSON Bourne",
                 "playlistId": "PL4MEYt0kiHZVO8sLGrwBNbz7AzPNWX9OO",
-                "position": 28,
+                "position": 29,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "xfeys7Jfnx8"
@@ -1353,7 +1400,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "cWJeDKkO6Wcxw2yzeNjVs24HEpg",
+            "etag": "K7-E_hENxCZI5FaUCgPT0cBQLL0",
             "id": "UEw0TUVZdDBraUhaVk84c0xHcndCTmJ6N0F6UE5XWDlPTy4zOTExNTAwOERBMTNFRUM4",
             "snippet": {
                 "publishedAt": "2025-03-05T04:41:41Z",
@@ -1389,7 +1436,7 @@
                 },
                 "channelTitle": "JSON Bourne",
                 "playlistId": "PL4MEYt0kiHZVO8sLGrwBNbz7AzPNWX9OO",
-                "position": 29,
+                "position": 30,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "NZGHXy1IAHM"
@@ -1400,7 +1447,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "DxxjCaB_okUbLsFFcGU_T0S5akQ",
+            "etag": "dt5zExx9n5LnE3smrzTc0MA7YYA",
             "id": "UEw0TUVZdDBraUhaVk84c0xHcndCTmJ6N0F6UE5XWDlPTy5EQTkxMkVFODRENEJBMERF",
             "snippet": {
                 "publishedAt": "2024-07-18T17:11:44Z",
@@ -1436,7 +1483,7 @@
                 },
                 "channelTitle": "JSON Bourne",
                 "playlistId": "PL4MEYt0kiHZVO8sLGrwBNbz7AzPNWX9OO",
-                "position": 30,
+                "position": 31,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "OBqw818mQ1E"
@@ -1447,7 +1494,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "0ozX5RSAcCIq19zx3QQ_BxwKlgs",
+            "etag": "khGRB-rG44ORAl7WbtkAfZg-jg8",
             "id": "UEw0TUVZdDBraUhaVk84c0xHcndCTmJ6N0F6UE5XWDlPTy4yRjU0MzcwMkYwRkVDNDhC",
             "snippet": {
                 "publishedAt": "2024-09-12T06:00:59Z",
@@ -1483,7 +1530,7 @@
                 },
                 "channelTitle": "JSON Bourne",
                 "playlistId": "PL4MEYt0kiHZVO8sLGrwBNbz7AzPNWX9OO",
-                "position": 31,
+                "position": 32,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "UZkVqLjGM_I"
@@ -1494,7 +1541,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "uCmJLfzQ4uZVs2vHOGhLw4fFkzA",
+            "etag": "aOTCxZtgo1JPwZn7BucpLiAZby0",
             "id": "UEw0TUVZdDBraUhaVk84c0xHcndCTmJ6N0F6UE5XWDlPTy42MzYyQ0E2MUE4ODAzQkU5",
             "snippet": {
                 "publishedAt": "2024-10-16T03:49:03Z",
@@ -1530,7 +1577,7 @@
                 },
                 "channelTitle": "JSON Bourne",
                 "playlistId": "PL4MEYt0kiHZVO8sLGrwBNbz7AzPNWX9OO",
-                "position": 32,
+                "position": 33,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "HibDj27DHMI"
@@ -1541,7 +1588,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "nsRRita95enwH-DSECP4kIY9tn0",
+            "etag": "Q677k3Lbk9pd3nVBr-43StXu244",
             "id": "UEw0TUVZdDBraUhaVk84c0xHcndCTmJ6N0F6UE5XWDlPTy5BRjY4NjdBRjA5RTdCMUMx",
             "snippet": {
                 "publishedAt": "2024-05-28T10:13:02Z",
@@ -1577,7 +1624,7 @@
                 },
                 "channelTitle": "JSON Bourne",
                 "playlistId": "PL4MEYt0kiHZVO8sLGrwBNbz7AzPNWX9OO",
-                "position": 33,
+                "position": 34,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "Sg3hU_sdhKw"
@@ -1588,7 +1635,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "OXxygDPhBXQ0BfUMCN3Gq2wtMiQ",
+            "etag": "sDKw8NDNtHlhHBbUn0c60OjuiYs",
             "id": "UEw0TUVZdDBraUhaVk84c0xHcndCTmJ6N0F6UE5XWDlPTy5ENEEyOTIwNkY4NzFGMkQ2",
             "snippet": {
                 "publishedAt": "2024-01-15T05:22:47Z",
@@ -1624,7 +1671,7 @@
                 },
                 "channelTitle": "JSON Bourne",
                 "playlistId": "PL4MEYt0kiHZVO8sLGrwBNbz7AzPNWX9OO",
-                "position": 34,
+                "position": 35,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "GCWl50HQZIM"
@@ -1635,7 +1682,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "rxKAImYfKr8b4UMbafhw0Hm6y-0",
+            "etag": "Acc0orzSo5mhe9CfekF12Ilwnoo",
             "id": "UEw0TUVZdDBraUhaVk84c0xHcndCTmJ6N0F6UE5XWDlPTy5GOUJEOERGNDg1N0QyNDA3",
             "snippet": {
                 "publishedAt": "2024-07-24T08:45:36Z",
@@ -1671,7 +1718,7 @@
                 },
                 "channelTitle": "JSON Bourne",
                 "playlistId": "PL4MEYt0kiHZVO8sLGrwBNbz7AzPNWX9OO",
-                "position": 35,
+                "position": 36,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "Py9paavgZ-0"
@@ -1682,7 +1729,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "fiUnwHfoxXfW5ZUkc6A_UlRcVK4",
+            "etag": "63RNiFyQBwSjScsly7rE-lA6lFc",
             "id": "UEw0TUVZdDBraUhaVk84c0xHcndCTmJ6N0F6UE5XWDlPTy5DQzY2RDZFRUQyRDlDQkMw",
             "snippet": {
                 "publishedAt": "2024-06-18T06:37:11Z",
@@ -1718,7 +1765,7 @@
                 },
                 "channelTitle": "JSON Bourne",
                 "playlistId": "PL4MEYt0kiHZVO8sLGrwBNbz7AzPNWX9OO",
-                "position": 36,
+                "position": 37,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "T_lC2O1oIew"
@@ -1729,7 +1776,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "pApphlG6W-fBKeTy0Wihm25GejE",
+            "etag": "MvMDzoGA5oLOG4hMfivxtdO68p4",
             "id": "UEw0TUVZdDBraUhaVk84c0xHcndCTmJ6N0F6UE5XWDlPTy42RDgxQ0M2OUIwREZCNjZF",
             "snippet": {
                 "publishedAt": "2024-03-01T03:21:04Z",
@@ -1765,7 +1812,7 @@
                 },
                 "channelTitle": "JSON Bourne",
                 "playlistId": "PL4MEYt0kiHZVO8sLGrwBNbz7AzPNWX9OO",
-                "position": 37,
+                "position": 38,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "d0RmRJsgP28"
@@ -1776,7 +1823,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "YayngeOA72NroL3Ety8np0T0Iz8",
+            "etag": "w_Yl3PANTolyFgyeOHWEB5PqmXw",
             "id": "UEw0TUVZdDBraUhaVk84c0xHcndCTmJ6N0F6UE5XWDlPTy5BNzVDNTJBQkJBOTRGRUMw",
             "snippet": {
                 "publishedAt": "2025-08-12T04:23:46Z",
@@ -1812,7 +1859,7 @@
                 },
                 "channelTitle": "JSON Bourne",
                 "playlistId": "PL4MEYt0kiHZVO8sLGrwBNbz7AzPNWX9OO",
-                "position": 38,
+                "position": 39,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "Fqfja0vj76s"
@@ -1823,7 +1870,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "QBZyKdvyCQWzRKsuQBPoWgI7hjQ",
+            "etag": "HqXRvD1y4l2V1OrjQOCfWWQpWNg",
             "id": "UEw0TUVZdDBraUhaVk84c0xHcndCTmJ6N0F6UE5XWDlPTy4yMkQ1M0U2NzVEOTA2MTY5",
             "snippet": {
                 "publishedAt": "2025-02-13T12:55:15Z",
@@ -1859,7 +1906,7 @@
                 },
                 "channelTitle": "JSON Bourne",
                 "playlistId": "PL4MEYt0kiHZVO8sLGrwBNbz7AzPNWX9OO",
-                "position": 39,
+                "position": 40,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "EDK9KOfknTw"
@@ -1870,7 +1917,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "xbnYdBg64UxoR0Eu_F_h7URiO1k",
+            "etag": "a7A2szrFU5l18MKlxQvsiVfEoDE",
             "id": "UEw0TUVZdDBraUhaVk84c0xHcndCTmJ6N0F6UE5XWDlPTy44OEI3NUQ0QTlFM0FCOUU4",
             "snippet": {
                 "publishedAt": "2024-09-24T09:36:35Z",
@@ -1906,7 +1953,7 @@
                 },
                 "channelTitle": "JSON Bourne",
                 "playlistId": "PL4MEYt0kiHZVO8sLGrwBNbz7AzPNWX9OO",
-                "position": 40,
+                "position": 41,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "oJuGlqO85YI"
@@ -1917,7 +1964,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "7cvIkECwUyzjdkfEkioYgsEG4so",
+            "etag": "0qmAoUstXKYZnwzJjB4FV_ZRjkU",
             "id": "UEw0TUVZdDBraUhaVk84c0xHcndCTmJ6N0F6UE5XWDlPTy43ODA2MDVCQzY5QzZDMjUw",
             "snippet": {
                 "publishedAt": "2023-12-22T09:54:20Z",
@@ -1953,7 +2000,7 @@
                 },
                 "channelTitle": "JSON Bourne",
                 "playlistId": "PL4MEYt0kiHZVO8sLGrwBNbz7AzPNWX9OO",
-                "position": 41,
+                "position": 42,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "cRLSKh5ridA"
@@ -1964,7 +2011,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "IIMnj5TwNTSaMP_KNMUuI1ROGzk",
+            "etag": "ziPyKv4xdcBtRORSk0Ghreqy01U",
             "id": "UEw0TUVZdDBraUhaVk84c0xHcndCTmJ6N0F6UE5XWDlPTy45MEI3NjgzMTVFQkZGODYx",
             "snippet": {
                 "publishedAt": "2024-02-07T04:17:55Z",
@@ -2000,7 +2047,7 @@
                 },
                 "channelTitle": "JSON Bourne",
                 "playlistId": "PL4MEYt0kiHZVO8sLGrwBNbz7AzPNWX9OO",
-                "position": 42,
+                "position": 43,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "s5dhDn3R0A0"
@@ -2011,7 +2058,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "3QKtMNIi8e_5CGHWF26eT_UIQ5c",
+            "etag": "WxCQJm66fmPHnui0hSYowHcfMu4",
             "id": "UEw0TUVZdDBraUhaVk84c0xHcndCTmJ6N0F6UE5XWDlPTy5GM0Q3M0MzMzY5NTJFNTdE",
             "snippet": {
                 "publishedAt": "2023-01-17T04:13:12Z",
@@ -2047,7 +2094,7 @@
                 },
                 "channelTitle": "JSON Bourne",
                 "playlistId": "PL4MEYt0kiHZVO8sLGrwBNbz7AzPNWX9OO",
-                "position": 43,
+                "position": 44,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "p856dtR4mms"
@@ -2058,7 +2105,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "tH0n7KHsRsfEzk76npm6A3g4nfE",
+            "etag": "vECZakTISk4cG5PCMc8hXEGrFYI",
             "id": "UEw0TUVZdDBraUhaVk84c0xHcndCTmJ6N0F6UE5XWDlPTy5GOUFFM0FFNzI5RkU1NjAx",
             "snippet": {
                 "publishedAt": "2024-10-31T10:09:33Z",
@@ -2094,7 +2141,7 @@
                 },
                 "channelTitle": "JSON Bourne",
                 "playlistId": "PL4MEYt0kiHZVO8sLGrwBNbz7AzPNWX9OO",
-                "position": 44,
+                "position": 45,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "PZbkF-15ObM"
@@ -2105,7 +2152,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "HFBpCXP-6dDFgGFyHPjzyG0Xzvg",
+            "etag": "F34fuAJxRfhSHDcJqqaqvG_PQKs",
             "id": "UEw0TUVZdDBraUhaVk84c0xHcndCTmJ6N0F6UE5XWDlPTy5DRUQwODMxQzUyRTlGRkY3",
             "snippet": {
                 "publishedAt": "2023-09-25T08:51:04Z",
@@ -2141,7 +2188,7 @@
                 },
                 "channelTitle": "JSON Bourne",
                 "playlistId": "PL4MEYt0kiHZVO8sLGrwBNbz7AzPNWX9OO",
-                "position": 45,
+                "position": 46,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "aVpJGGQHSqc"
@@ -2152,7 +2199,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "6gop5GUt0tLE7BxuhLBot5Fa8zk",
+            "etag": "DIm101Dv9CqLrvyslZV-sOAlAEQ",
             "id": "UEw0TUVZdDBraUhaVk84c0xHcndCTmJ6N0F6UE5XWDlPTy42NEZDNTU0RTRENDUzRjMz",
             "snippet": {
                 "publishedAt": "2024-01-15T06:56:30Z",
@@ -2188,60 +2235,13 @@
                 },
                 "channelTitle": "JSON Bourne",
                 "playlistId": "PL4MEYt0kiHZVO8sLGrwBNbz7AzPNWX9OO",
-                "position": 46,
+                "position": 47,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "yHV04eSGzAA"
                 },
                 "videoOwnerChannelTitle": "Forum5Recordings",
                 "videoOwnerChannelId": "UCs6C3Cp_7H3r9KTPXcoN1Lg"
-            }
-        },
-        {
-            "kind": "youtube#playlistItem",
-            "etag": "eZfem2HN0Qt97CcZRh99L4Jcsns",
-            "id": "UEw0TUVZdDBraUhaVk84c0xHcndCTmJ6N0F6UE5XWDlPTy4yM0IwNzUxRTc3MTg4Njkw",
-            "snippet": {
-                "publishedAt": "2025-02-05T04:46:53Z",
-                "channelId": "UCNHE3OcC8G345-7rNgu-g9w",
-                "title": "Alicia Keys: NPR Music Tiny Desk Concert",
-                "description": "This performance was recorded on Feb. 12, 2020. We will continue releasing Tiny Desk videos of shows that had already been taped. In light of current events, NPR is postponing new live tapings of Tiny Desk Concerts. In the meantime, check out Tiny Desk (home) concerts! They\u2019re recorded by the artists in their home. It\u2019s the same spirit \u2014 stripped-down sets, an intimate setting \u2014 just a different space.\n\nJune 17, 2020 | Abby O'Neill -- On a brisk February morning, Alicia Keys, full of effervescence, entered NPR through the loading dock wearing a canary yellow faux fur coat. During our ride to the fourth floor, she joked about how she hadn't been invited to play at the Tiny Desk. That, of course, wasn't exactly true. We worked on and off for years to make this moment happen, and I can say wholeheartedly that it was worth the wait.\n\nAlicia Keys has an aura that you can sense the second she enters a room, or in my case, an elevator. She radiates compassion and kindness. This spirit is the key to Keys's songwriting, which is rooted in introspection and mindfulness.\n\nAs she approached her piano, a bit surprised at the amount of people in the room, she smiled and remarked over her shoulder, \"Gee, the Tiny Desk is tiny!\" She kicked off the set with an uncanny ode to combat the darkness of this moment in American history: \"Show Me Love,\" a single she released in 2019. No one could have predicted then how much her lyrics and musical healing would be crucial during this emotionally fraught time of unprecedented political and racial unrest, heightened by three months of quarantine due to a global pandemic.\n\nThe stand-out moment during her Tiny Desk was the premiere of \"Gramercy Park\", a song from her upcoming self-titled album, ALICIA, which is set to be released this fall. It's one of those timeless songs that will transcend radio formats and genres, with lyrics that address how utter selflessness and worrying about making everyone happy but yourself can throw your own center askew. The song's spiritual refrain is sure to be a sing-along moment for the rest of Keys's career.\n\nShe told the crowd after \"Gramercy Park\" that she's struggled with appeasing people her whole life, but she's trying harder now to set boundaries. Luckily for the Tiny Desk audience, that resolution didn't pertain to this concert. After wrapping up what was to be a three-song set with her latest single \"Underdog,\" which you may have seen her perform at this year's Grammys, the crowd begged for an encore. After crowdsourcing suggestions, she and her band delivered a riveting rendition of Keys's breakout 2001 single, \"Fallin'.\"\n\nThe world, now more than ever, needs more love, reflection and accountability \u2013 a mantra that's woven into every fiber of Alicia Keys's being and every lyric of her songs.\n\nSET LIST\n\"Show Me Love\"\n\"Gramercy Park\"\n\"Underdog\"\n\"Fallin'\"\n\nMUSICIANS\nAlicia Keys: vocals, piano; RAII & Whitney: vocals; Ant Parrish: bass; Curt Chambers: guitar; Mike Reid: drums; Omar Edwards: keys.\n\nCREDITS\nProducers: Abby O'Neill, Morgan Noelle Smith, Kara Frame; Creative director: Bob Boilen; Audio engineers: Josh Rogosin, Natasha Branch; Videographers: Kara Frame, Maia Stern, Melany Rochester, Shanti Hands; Editor: Maia Stern; Associate Producer: Bobby Carter; Executive producer: Lauren Onkey; VP, programming: Anya Grundmann; Photo: Kisha Ravi/NPR",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/uwUt1fVLb3E/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/uwUt1fVLb3E/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/uwUt1fVLb3E/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    },
-                    "standard": {
-                        "url": "https://i.ytimg.com/vi/uwUt1fVLb3E/sddefault.jpg",
-                        "width": 640,
-                        "height": 480
-                    },
-                    "maxres": {
-                        "url": "https://i.ytimg.com/vi/uwUt1fVLb3E/maxresdefault.jpg",
-                        "width": 1280,
-                        "height": 720
-                    }
-                },
-                "channelTitle": "JSON Bourne",
-                "playlistId": "PL4MEYt0kiHZVO8sLGrwBNbz7AzPNWX9OO",
-                "position": 47,
-                "resourceId": {
-                    "kind": "youtube#video",
-                    "videoId": "uwUt1fVLb3E"
-                },
-                "videoOwnerChannelTitle": "NPR Music",
-                "videoOwnerChannelId": "UC4eYXhJI4-7wSWc8UNRwD4A"
             }
         },
         {
@@ -2293,36 +2293,36 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "FlMJO_HrDES3bPY-iXxAAypGaL4",
-            "id": "UEw0TUVZdDBraUhaVk84c0xHcndCTmJ6N0F6UE5XWDlPTy40NjI5ODZCQUE5NkRBMDI0",
+            "etag": "nFHqoY2sOcwpDWrsO6GJBpNh4zs",
+            "id": "UEw0TUVZdDBraUhaVk84c0xHcndCTmJ6N0F6UE5XWDlPTy4yM0IwNzUxRTc3MTg4Njkw",
             "snippet": {
-                "publishedAt": "2024-09-05T09:35:27Z",
+                "publishedAt": "2025-02-05T04:46:53Z",
                 "channelId": "UCNHE3OcC8G345-7rNgu-g9w",
-                "title": "TAEYEON \ud0dc\uc5f0 '\ubd88\ud2f0 (Spark)' MV",
-                "description": "TAEYEON\u2019s 2nd Full Album \"Purpose\u201d is out!\nListen and download on your favorite platform: https://smarturl.it/TY_Purpose\n\n[Tracklist]\n1. Here I Am\n2. \ubd88\ud2f0 (Spark)\n3. Find Me\n4. Love You Like Crazy\n5. \ud558\ud558\ud558 (LOL)\n6. Better Babe\n7. Wine\n8. Do You Love Me?\n9. City Love\n10. Gravity\n11. Blue\n12. \uc0ac\uacc4 (Four Seasons)\n\nTAEYEON Official\nhttp://www.youtube.com/GIRLSGENERATION\nhttp://www.facebook.com/girlsgeneration\nhttp://twitter.com/girlsgeneration\nhttps://www.instagram.com/girlsgeneration\n\n#TAEYEON #\ubd88\ud2f0 #Spark #\ud0dc\uc5f0\nTAEYEON \ud0dc\uc5f0 '\ubd88\ud2f0 (Spark)' MV \u2117\u00a9 SM ENTERTAINMENT",
+                "title": "Alicia Keys: NPR Music Tiny Desk Concert",
+                "description": "This performance was recorded on Feb. 12, 2020. We will continue releasing Tiny Desk videos of shows that had already been taped. In light of current events, NPR is postponing new live tapings of Tiny Desk Concerts. In the meantime, check out Tiny Desk (home) concerts! They\u2019re recorded by the artists in their home. It\u2019s the same spirit \u2014 stripped-down sets, an intimate setting \u2014 just a different space.\n\nJune 17, 2020 | Abby O'Neill -- On a brisk February morning, Alicia Keys, full of effervescence, entered NPR through the loading dock wearing a canary yellow faux fur coat. During our ride to the fourth floor, she joked about how she hadn't been invited to play at the Tiny Desk. That, of course, wasn't exactly true. We worked on and off for years to make this moment happen, and I can say wholeheartedly that it was worth the wait.\n\nAlicia Keys has an aura that you can sense the second she enters a room, or in my case, an elevator. She radiates compassion and kindness. This spirit is the key to Keys's songwriting, which is rooted in introspection and mindfulness.\n\nAs she approached her piano, a bit surprised at the amount of people in the room, she smiled and remarked over her shoulder, \"Gee, the Tiny Desk is tiny!\" She kicked off the set with an uncanny ode to combat the darkness of this moment in American history: \"Show Me Love,\" a single she released in 2019. No one could have predicted then how much her lyrics and musical healing would be crucial during this emotionally fraught time of unprecedented political and racial unrest, heightened by three months of quarantine due to a global pandemic.\n\nThe stand-out moment during her Tiny Desk was the premiere of \"Gramercy Park\", a song from her upcoming self-titled album, ALICIA, which is set to be released this fall. It's one of those timeless songs that will transcend radio formats and genres, with lyrics that address how utter selflessness and worrying about making everyone happy but yourself can throw your own center askew. The song's spiritual refrain is sure to be a sing-along moment for the rest of Keys's career.\n\nShe told the crowd after \"Gramercy Park\" that she's struggled with appeasing people her whole life, but she's trying harder now to set boundaries. Luckily for the Tiny Desk audience, that resolution didn't pertain to this concert. After wrapping up what was to be a three-song set with her latest single \"Underdog,\" which you may have seen her perform at this year's Grammys, the crowd begged for an encore. After crowdsourcing suggestions, she and her band delivered a riveting rendition of Keys's breakout 2001 single, \"Fallin'.\"\n\nThe world, now more than ever, needs more love, reflection and accountability \u2013 a mantra that's woven into every fiber of Alicia Keys's being and every lyric of her songs.\n\nSET LIST\n\"Show Me Love\"\n\"Gramercy Park\"\n\"Underdog\"\n\"Fallin'\"\n\nMUSICIANS\nAlicia Keys: vocals, piano; RAII & Whitney: vocals; Ant Parrish: bass; Curt Chambers: guitar; Mike Reid: drums; Omar Edwards: keys.\n\nCREDITS\nProducers: Abby O'Neill, Morgan Noelle Smith, Kara Frame; Creative director: Bob Boilen; Audio engineers: Josh Rogosin, Natasha Branch; Videographers: Kara Frame, Maia Stern, Melany Rochester, Shanti Hands; Editor: Maia Stern; Associate Producer: Bobby Carter; Executive producer: Lauren Onkey; VP, programming: Anya Grundmann; Photo: Kisha Ravi/NPR",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/eP4ga_fNm-E/default.jpg",
+                        "url": "https://i.ytimg.com/vi/uwUt1fVLb3E/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/eP4ga_fNm-E/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/uwUt1fVLb3E/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/eP4ga_fNm-E/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/uwUt1fVLb3E/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     },
                     "standard": {
-                        "url": "https://i.ytimg.com/vi/eP4ga_fNm-E/sddefault.jpg",
+                        "url": "https://i.ytimg.com/vi/uwUt1fVLb3E/sddefault.jpg",
                         "width": 640,
                         "height": 480
                     },
                     "maxres": {
-                        "url": "https://i.ytimg.com/vi/eP4ga_fNm-E/maxresdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/uwUt1fVLb3E/maxresdefault.jpg",
                         "width": 1280,
                         "height": 720
                     }
@@ -2332,15 +2332,15 @@
                 "position": 49,
                 "resourceId": {
                     "kind": "youtube#video",
-                    "videoId": "eP4ga_fNm-E"
+                    "videoId": "uwUt1fVLb3E"
                 },
-                "videoOwnerChannelTitle": "SMTOWN",
-                "videoOwnerChannelId": "UCEf_Bc-KVd7onSeifS3py9g"
+                "videoOwnerChannelTitle": "NPR Music",
+                "videoOwnerChannelId": "UC4eYXhJI4-7wSWc8UNRwD4A"
             }
         }
     ],
     "pageInfo": {
-        "totalResults": 388,
+        "totalResults": 392,
         "resultsPerPage": 50
     }
 }
