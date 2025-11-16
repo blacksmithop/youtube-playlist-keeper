@@ -1,6 +1,6 @@
 {
     "kind": "youtube#playlistItemListResponse",
-    "etag": "XW5xyq2tysr0F-uNUdow383Dqhw",
+    "etag": "391mmy3_gDG1rGb1Hn9_pV_pDOo",
     "nextPageToken": "EAAaHlBUOkNESWlFRFEyTWprNE5rSkJRVGsyUkVFd01qUQ",
     "items": [
         {
@@ -52,7 +52,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "wj6mgWf03TlHYRCA46JMWs8b3-A",
+            "etag": "x1_eBKvi0xf1NyIhlQjTf2CsVdk",
             "id": "UEw0TUVZdDBraUhaVk84c0xHcndCTmJ6N0F6UE5XWDlPTy4xRUU4M0JFMUQ4QTA2MjVB",
             "snippet": {
                 "publishedAt": "2024-09-25T04:17:12Z",
@@ -141,7 +141,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "8EVj4nEbB0jQCJaBFD2uA-z-Iy4",
+            "etag": "zemLVMtMYyffuW_bcA8DF2ubD8k",
             "id": "UEw0TUVZdDBraUhaVk84c0xHcndCTmJ6N0F6UE5XWDlPTy5DMkIzQTQwRkQyNTU3NDAz",
             "snippet": {
                 "publishedAt": "2025-11-01T04:39:32Z",
@@ -742,7 +742,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "nf6R0M2ZI96EPVLTbg9UZAu2H3Q",
+            "etag": "vMX73u4BoFx7PVtUrWbEnJP3Eb0",
             "id": "UEw0TUVZdDBraUhaVk84c0xHcndCTmJ6N0F6UE5XWDlPTy5EMUJFNzRCNDRFQjE5RjM4",
             "snippet": {
                 "publishedAt": "2023-12-19T05:42:20Z",
@@ -789,7 +789,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "Ll2UiQijYbwauM9viwIR13MQNcw",
+            "etag": "xEkvWZkPl4LB8ZS4eLwCFDyfegk",
             "id": "UEw0TUVZdDBraUhaVk84c0xHcndCTmJ6N0F6UE5XWDlPTy4xQkZENkNCQ0FDNzlFNzM1",
             "snippet": {
                 "publishedAt": "2025-11-02T16:21:45Z",
@@ -2199,7 +2199,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "DIm101Dv9CqLrvyslZV-sOAlAEQ",
+            "etag": "LDjr8Xjq3lyB59vt1nu6yVUapbo",
             "id": "UEw0TUVZdDBraUhaVk84c0xHcndCTmJ6N0F6UE5XWDlPTy42NEZDNTU0RTRENDUzRjMz",
             "snippet": {
                 "publishedAt": "2024-01-15T06:56:30Z",
@@ -2340,7 +2340,7 @@
         }
     ],
     "pageInfo": {
-        "totalResults": 392,
+        "totalResults": 393,
         "resultsPerPage": 50
     }
 }
